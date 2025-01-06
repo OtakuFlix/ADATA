@@ -4737,7 +4737,7 @@
         ]
     },
     {
-        "aid": 148,
+        "aid": 171,
         "name": "Dan Da Dan",
         "jname": "\u30c0\u30f3\u30c0\u30c0\u30f3 \u7b2c2\u671f",
         "poster": "https://envs.sh/zHO.jpg\n, https://envs.sh/rto.jpg\n, https://envs.sh/zHg.jpg\n",
@@ -4776,7 +4776,7 @@
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
         "status": "Current",
-        "airing": false,
+        "airing": true,
         "studio": "A-1 Pictures",
         "producers": "Aniplex",
         "total_episodes": 12,
