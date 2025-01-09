@@ -4678,5 +4678,5 @@
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
         ]
-    },
+    }
 ]
