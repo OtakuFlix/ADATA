@@ -4758,5 +4758,32 @@
         "ranime": [
             "One Piece"
         ]
+    },
+    {
+        "aid": 168,
+        "name": "One Punch Man Season 3",
+        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
+        "poster": "https://envs.sh/90l.jpg\n, https://envs.sh/901.jpg\n, https://envs.sh/YCa.jpg\n",
+        "banner": "https://envs.sh/90U.jpg\n, https://envs.sh/904.jpg\n",
+        "cname": "VidHide",
+        "cid": "85373",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Unreleased",
+        "airing": false,
+        "studio": "J.C.Staff",
+        "producers": "Shueisha",
+        "total_episodes": "N/A",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.7,
+        "imdb_votes": 196183,
+        "synopsis": "The third season of One Punch Man.",
+        "ranime": [
+            "One Punch Man 2nd Season",
+            "One Punch-Man"
+        ]
     }
 ]
