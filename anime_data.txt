@@ -4594,33 +4594,6 @@
         ]
     },
     {
-        "aid": 164,
-        "name": "Sakamoto Days",
-        "jname": "SAKAMOTO DAYS",
-        "poster": "https://envs.sh/vpn.jpg\n, https://envs.sh/vpW.jpg\n, https://envs.sh/vpS.jpg\n",
-        "banner": "https://envs.sh/vpI.jpg\n, https://envs.sh/vpB.jpg\n",
-        "cname": "Filemoon",
-        "cid": "258720",
-        "let": "S",
-        "trailer": "https://www.youtube.com/embed/-kscQQq0Xs8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/CdnMoPIgC5s?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Comedy",
-        "type": "TV",
-        "status": "Current",
-        "airing": true,
-        "studio": "TMS Entertainment",
-        "producers": "TV Tokyo, Shueisha",
-        "total_episodes": 11,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Gokushufudou, Gintama, Spy x Family, The Fable, One Punch Man, Great Teacher Onizuka",
-        "imdb_rating": 8.1,
-        "imdb_votes": 675,
-        "synopsis": "When Sakamoto meets Aoi, the convenience store clerk, it\u2019s love at first sight \u2014 and just like that, he retires.\n\nSakamoto gets married, has a daughter, opens a mom-and-pop store in a quiet town, and completely transforms \u2026 into a plus-size man. To ensure a peaceful life with his beloved family, the legendary ex\u2013hit man bands together with comrades to face off against the looming threat of assassins.\n\n(Source: Netflix TUDUM)",
-        "ranime": [
-            "Sakamoto Days Part 2",
-            "Sakamoto Days"
-        ]
-    },
-    {
         "aid": 165,
         "name": "5 Centimeters Per Second",
         "jname": "\u79d2\u901f\uff15\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
@@ -4731,33 +4704,6 @@
         ]
     },
     {
-        "aid": 168,
-        "name": "One Punch Man Season 3",
-        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
-        "poster": "https://envs.sh/90l.jpg\n, https://envs.sh/901.jpg\n, https://envs.sh/YCa.jpg\n",
-        "banner": "https://envs.sh/90U.jpg\n, https://envs.sh/904.jpg\n",
-        "cname": "VidHide",
-        "cid": "85373",
-        "let": "O",
-        "trailer": "https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Comedy",
-        "type": "TV",
-        "status": "Unreleased",
-        "airing": false,
-        "studio": false,
-        "producers": "Shueisha",
-        "total_episodes": "N/A",
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.7,
-        "imdb_votes": 196183,
-        "synopsis": "The third season of One Punch Man.",
-        "ranime": [
-            "One Punch Man 2nd Season",
-            "One Punch-Man"
-        ]
-    },
-    {
         "aid": 169,
         "name": "Demon Slayer",
         "jname": "\u9b3c\u6ec5\u306e\u5203",
@@ -4839,6 +4785,33 @@
             "Doraemon: 2112-nen Doraemon Tanjou",
             "Doraemon (1979)",
             "Doraemon"
+        ]
+    }
+    {
+        "aid": 171,
+        "name": "Sakamoto Days",
+        "jname": "SAKAMOTO DAYS",
+        "poster": "https://envs.sh/vpn.jpg\n, https://envs.sh/vpW.jpg\n, https://envs.sh/vpS.jpg\n",
+        "banner": "https://envs.sh/vpI.jpg\n, https://envs.sh/vpB.jpg\n",
+        "cname": "Filemoon",
+        "cid": "258720",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/-kscQQq0Xs8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/CdnMoPIgC5s?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": "TMS Entertainment",
+        "producers": "TV Tokyo, Shueisha",
+        "total_episodes": 11,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Gokushufudou, Gintama, Spy x Family, The Fable, One Punch Man, Great Teacher Onizuka",
+        "imdb_rating": 8.1,
+        "imdb_votes": 675,
+        "synopsis": "When Sakamoto meets Aoi, the convenience store clerk, it\u2019s love at first sight \u2014 and just like that, he retires.\n\nSakamoto gets married, has a daughter, opens a mom-and-pop store in a quiet town, and completely transforms \u2026 into a plus-size man. To ensure a peaceful life with his beloved family, the legendary ex\u2013hit man bands together with comrades to face off against the looming threat of assassins.\n\n(Source: Netflix TUDUM)",
+        "ranime": [
+            "Sakamoto Days Part 2",
+            "Sakamoto Days"
         ]
     }
 ]
