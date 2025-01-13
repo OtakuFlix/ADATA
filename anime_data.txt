@@ -4705,36 +4705,6 @@
     },
     {
         "aid": 169,
-        "name": "Demon Slayer",
-        "jname": "\u9b3c\u6ec5\u306e\u5203",
-        "poster": "https://envs.sh/30y.jpg\n, https://envs.sh/30m.jpg\n, https://envs.sh/30a.jpg\n",
-        "banner": "https://envs.sh/30X.jpg\n, https://envs.sh/30M.jpg\n",
-        "cname": "DoodStream",
-        "cid": "1517716",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/Sl2k7bfBeCw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/6vMuWuWlW4I?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Award Winning, Supernatural",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "Aniplex, Studio Mausu, Shueisha",
-        "total_episodes": 26,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Jujutsu Kaisen, Dororo, Bleach, Shingeki no Kyojin, Fullmetal Alchemist: Brotherhood, Boku no Hero Academia, Hunter x Hunter (2011), InuYasha, Ao no Exorcist, Owari no Seraph, Tokyo Ghoul, Enen no Shouboutai, Claymore, Yakusoku no Neverland, D.Gray-man, JoJo no Kimyou na Bouken (TV), Chainsaw Man, Jigokuraku, Akame ga Kill!, Fate/stay night: Unlimited Blade Works, Naruto: Shippuuden, Kemono Jihen, Wu Shan Wu Xing (2020), Bleach: Sennen Kessen-hen, Natsume Yuujinchou, Nanatsu no Taizai, Donten ni Warau, Naruto, Black Clover, Vinland Saga, One Punch Man, Jibaku Shounen Hanako-kun, Fullmetal Alchemist, Sirius, Seirei no Moribito, Goblin Slayer, Jouran: The Princess of Snow and Blood, Bungou Stray Dogs, Mo Dao Zu Shi, Noragami, World Trigger, Shingeki no Kyojin: The Final Season, Chrno Crusade, Koutetsujou no Kabaneri, Blood+, Blood Lad, Tengoku Daimakyou, Mononoke Hime, Sword Art Online: Alicization, Hataraku Maou-sama!, Sengoku Youko: Yonaoshi Kyoudai-hen, Somali to Mori no Kamisama, Yuri!!! on Ice, Kill la Kill, Dragon Ball Z, Hikari no Ou, Guren, Katsugeki/Touken Ranbu, Sousou no Frieren, Enen no Shouboutai: Ni no Shou, The Samurai, Yi Nian Yong Heng, Shy, Yakusoku no Neverland 2nd Season, Berserk, Date A Live, Xin Shen Bang: Nezha Chongsheng, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Taimanin Asagi, Yasuke, Tales of Symphonia The Animation: Tethe'alla-hen, Code Geass: Hangyaku no Lelouch, Mahouka Koukou no Rettousei, Sousei no Onmyouji, Lupin the IIIrd: Chikemuri no Ishikawa Goemon, Ragna Crimson, Hellsing Ultimate, Ajin, Dandadan, Peace Maker Kurogane, Death Note, Fruits Basket 1st Season, Garo: Honoo no Kokuin, Reikenzan: Hoshikuzu-tachi no Utage, Soul Eater, Tensei shitara Slime Datta Ken, Echo, Assassins Pride, Mushishi, Katanagatari, Akatsuki no Yona, The God of High School, Nurarihyon no Mago: Sennen Makyou, Tengen Toppa Gurren Lagann, Shijou Saikyou no Deshi Kenichi, Yuu\u2606Yuu\u2606Hakusho, Angel Beats!, Sword Art Online, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Mob Psycho 100",
-        "imdb_rating": 8.6,
-        "imdb_votes": 174716,
-        "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a \u201cdemon slayer\u201d so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-            "Kimetsu no Yaiba: Mugen Ressha-hen",
-            "Kimetsu no Yaiba",
-            "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
-            "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-        ]
-    },
-    {
-        "aid": 169,
         "name": "One Piece East Blue Arc",
         "jname": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u30a8\u30d4\u30bd\u30fc\u30c9\u30aa\u30d6\u6771\u306e\u6d77[\u30a4\u30fc\u30b9\u30c8\u30d6\u30eb\u30fc] ~\u30eb\u30d5\u30a3\u30684\u4eba\u306e\u4ef2\u9593\u306e\u5927\u5192\u967a~",
         "poster": "https://envs.sh/9c0.jpg\n, https://envs.sh/9cq.jpg\n, https://envs.sh/9cw.jpg\n",
@@ -4757,33 +4727,6 @@
         "synopsis": "Bundled with the PSP pirate romance role-playing game One Piece Romance Dawn: Bouken no Yoake (\u30ef\u30f3\u30d4\u30fc\u30b9 \u30ed\u30de\u30f3\u30b9\u30c9\u30fc\u30f3 \u5192\u967a\u306e\u591c\u660e\u3051).\nNote: This game is not based on \"Romance Dawn,\" Oda Eiichirou's prototype manga for what would eventually become One Piece. Instead, the title reflects the fact that the game covers the \"Romance Dawn\" arc of the manga, at the \"dawn\" of pirate Luffy's adventures in the East Blue.\n(Source: ANN)",
         "ranime": [
             "One Piece"
-        ]
-    },
-    {
-        "aid": 169,
-        "name": "One Punch Man Season 3",
-        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
-        "poster": "https://envs.sh/90l.jpg\n, https://envs.sh/901.jpg\n, https://envs.sh/YCa.jpg\n",
-        "banner": "https://envs.sh/90U.jpg\n, https://envs.sh/904.jpg\n",
-        "cname": "VidHide",
-        "cid": "85373",
-        "let": "O",
-        "trailer": "https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Comedy",
-        "type": "TV",
-        "status": "Unreleased",
-        "airing": false,
-        "studio": "J.C.Staff",
-        "producers": "Shueisha",
-        "total_episodes": "N/A",
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.7,
-        "imdb_votes": 196368,
-        "synopsis": "The third season of One Punch Man.",
-        "ranime": [
-            "One Punch Man 2nd Season",
-            "One Punch-Man"
         ]
     },
     {
