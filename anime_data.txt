@@ -4750,30 +4750,6 @@
         "ranime": "N/A"
     },
     {
-        "aid": 168,
-        "name": "Zenshu",
-        "jname": "\u5168\u4fee\u3002",
-        "poster": "https://envs.sh/gq3.jpg\n, https://envs.sh/gq5.jpg\n, https://envs.sh/gqL.jpg\n",
-        "banner": "https://envs.sh/gqz.jpg\n, https://envs.sh/gqK.jpg\n",
-        "cname": "Filemoon",
-        "cid": "260515",
-        "let": "Z",
-        "trailer": "https://www.youtube.com/embed/tt_ci57IszQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/tt_ci57IszQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Fantasy",
-        "type": "TV",
-        "status": "Current",
-        "airing": true,
-        "studio": true,
-        "producers": "TV Tokyo, Movic, Bushiroad, Twin Engine, Rakuten, dugout",
-        "total_episodes": 12,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Musaigen no Phantom World, Isekai Shikkaku, M\u00c4R, Bishoujo Senshi Sailor Moon",
-        "imdb_rating": 7.2,
-        "imdb_votes": 200,
-        "synopsis": "After graduating from high school, Natsuko Hirose starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love! However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she\u2019s unable to create the storyboard, causing the movie production to come to a standstill.\n\n(Source: YouTube description)",
-        "ranime": "N/A"
-    },
-    {
         "aid": 169,
         "name": "The Strongest Magician In The Demon Lord\u2019S Army Was A Human",
         "jname": "\u9b54\u738b\u8ecd\u6700\u5f37\u306e\u9b54\u8853\u5e2b\u306f\u4eba\u9593\u3060\u3063\u305f",
@@ -4866,7 +4842,31 @@
         ]
     },
     {
-        "aid": 170,
+        "aid": 171,
+        "name": "Zenshu",
+        "jname": "\u5168\u4fee\u3002",
+        "poster": "https://envs.sh/gq3.jpg\n, https://envs.sh/gq5.jpg\n, https://envs.sh/gqL.jpg\n",
+        "banner": "https://envs.sh/gqz.jpg\n, https://envs.sh/gqK.jpg\n",
+        "cname": "Filemoon",
+        "cid": "260515",
+        "let": "Z",
+        "trailer": "https://www.youtube.com/embed/tt_ci57IszQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/tt_ci57IszQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": true,
+        "producers": "TV Tokyo, Movic, Bushiroad, Twin Engine, Rakuten, dugout",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Musaigen no Phantom World, Isekai Shikkaku, M\u00c4R, Bishoujo Senshi Sailor Moon",
+        "imdb_rating": 7.2,
+        "imdb_votes": 200,
+        "synopsis": "After graduating from high school, Natsuko Hirose starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love! However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she\u2019s unable to create the storyboard, causing the movie production to come to a standstill.\n\n(Source: YouTube description)",
+        "ranime": "N/A"
+    },
+    {
+        "aid": 172,
         "name": "Bleach: Thousand-Year Blood War",
         "jname": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7",
         "poster": "https://envs.sh/g0b.jpg\n, https://envs.sh/g0u.jpg\n, https://envs.sh/g02.jpg\n",
@@ -4895,7 +4895,7 @@
         ]
     },
     {
-        "aid": 171,
+        "aid": 173,
         "name": "Bleach: Thousand-Year Blood War Season 2",
         "jname": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7",
         "poster": "https://envs.sh/g0e.jpg\n, https://envs.sh/g0u.jpg\n, https://envs.sh/g02.jpg\n",
@@ -4921,40 +4921,6 @@
             "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
             "Bleach",
             "Rapport"
-        ]
-    },
-    {
-        "aid": 172,
-        "name": "Fairy Tail",
-        "jname": "FAIRY TAIL\uff08\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb\uff09",
-        "poster": "https://envs.sh/909.jpg\n, https://envs.sh/90r.jpg\n, https://envs.sh/90o.jpg\n",
-        "banner": "https://envs.sh/90s.jpg\n, 404 Client Error: Not Found for url: https://img.youtube.com/vi/hRPHiQKJVk0/maxresdefault.jpg\n",
-        "cname": "Filemoon",
-        "cid": "260527",
-        "let": "F",
-        "trailer": "https://www.youtube.com/embed/RAcl2s-T6ik?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/hRPHiQKJVk0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Fantasy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "TV Tokyo, Dentsu, Pony Canyon, Kodansha, DAX Production",
-        "total_episodes": 51,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "One Piece, Black Clover, Naruto, Nanatsu no Taizai, Groove Adventure Rave, Soul Eater, Edens Zero, Naruto: Shippuuden, Magi: The Labyrinth of Magic, Ueki no Housoku, Bleach, Katekyou Hitman Reborn!, Hunter x Hunter (2011), InuYasha, Ao no Exorcist, D.Gray-man, Kono Subarashii Sekai ni Shukufuku wo!, Magi: The Kingdom of Magic, Dragon Ball Z, Boku no Hero Academia, Tengen Toppa Gurren Lagann, Dragon Ball, Densetsu no Yuusha no Densetsu, Log Horizon, Slayers, Fullmetal Alchemist: Brotherhood, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Fullmetal Alchemist, Boku no Hero Academia 2nd Season, Kaze no Stigma, Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?, Saint Seiya: The Lost Canvas - Meiou Shinwa 2, Akame ga Kill!, Shaman King, Radiant, Sword Art Online, Bishoujo Senshi Sailor Moon, SKET Dance, Fushigi Yuugi, Saint Seiya: The Lost Canvas - Meiou Shinwa, Gintama, Kyou kara Maou!, Beelzebub, Mashle, Hamatora The Animation, Farmagia, Air Gear, Rainbow: Nisha Rokubou no Shichinin, Bungou Stray Dogs 2nd Season, Sousei no Onmyouji, Noragami, Choujigen Game Neptune The Animation, Fate/Zero, Shokugeki no Souma, Log Horizon 2nd Season, Sonic X, Mairimashita! Iruma-kun, Zero no Tsukaima, Saint Seiya, Yume no Crayon Oukoku, Nanatsu no Taizai: Imashime no Fukkatsu, Re:Zero kara Hajimeru Isekai Seikatsu, Ragna Crimson, Boku no Hero Academia 3rd Season, Hunter x Hunter, Divine Gate, Ansatsu Kyoushitsu, Yowamushi Pedal, Kekkaishi, Tales of the Abyss, Dragon Quest: Dai no Daibouken (TV), Magic Knight Rayearth, Cardcaptor Sakura, Hyakko, M\u00c4R, Kyou kara Maou! 3rd Series, Tanken Driland, Angel Beats!, Ou Dorobou Jing, Dragon Crisis!, AKB0048, Arcana Famiglia, Ozma, Yuu\u2606Yuu\u2606Hakusho, Shukufuku no Campanella, Kaitou Joker, Pokemon, Tears to Tiara, Higashi no Eden, .hack//Roots, Shakugan no Shana III (Final), Kyoukaisenjou no Horizon, Konjiki no Gash Bell!!, Erementar Gerad, Starry\u2606Sky, Koukyoushihen Eureka Seven, Dragon Ball GT, Dragon Ball Kai, Shounen Onmyouji, Ouran Koukou Host Club",
-        "imdb_rating": 7.9,
-        "imdb_votes": 29730,
-        "synopsis": "The final season of Fairy Tail.\n\nFairy Tail has been disbanded. A year later, Lucy comes into contact with Natsu and Happy. The three of them try to find the other former members' whereabouts to reconstruct the guild as they seek the real reason behind the guild's disbandment.\n\n(Source: Anime News Network)",
-        "ranime": [
-            "Fairy Tail (2014)",
-            "Fairy Tail",
-            "Fairy Tail OVA",
-            "Fairy Tail Movie 1: Houou no Miko",
-            "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
-            "Fairy Tail x Rave",
-            "Groove Adventure Rave",
-            "Towa no Kizuna",
-            "Fairy Tail x Mameshiba"
         ]
     }
 ]
