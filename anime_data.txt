@@ -4851,7 +4851,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": false,
-        "studio": "Satelight, A-1 Pictures",
+        "studio": false,
         "producers": "TV Tokyo, Dentsu, Pony Canyon, Kodansha, DAX Production",
         "total_episodes": 51,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -4898,6 +4898,35 @@
             "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
             "Bleach",
             "Rapport"
+        ]
+    },
+    {
+        "aid": 172,
+        "name": "My Happy Marriage",
+        "jname": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a",
+        "poster": "https://envs.sh/gWn.png\n, https://envs.sh/gWS.jpg\n, https://envs.sh/g0D.jpg\n",
+        "banner": "https://envs.sh/gWI.bin\n, https://envs.sh/gWW.jpg\n",
+        "cname": "Filemoon",
+        "cid": "260611",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/_8JKDloLAhw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/dURh9kVzcw8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Drama, Fantasy, Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Kinema Citrus",
+        "producers": "Square Enix, Glovision, Toy's Factory, Miracle Bus, Kadokawa, Bandai Namco Music Live",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Taishou Otome Otogibanashi, Violet Evergarden, Kakuriyo no Yadomeshi, Fruits Basket 1st Season, Tong Ling Fei, Sugar Apple Fairy Tale, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, Yagate Kimi ni Naru, Kobato., Kokoro ga Sakebitagatterunda., Seijo no Maryoku wa Bannou desu, Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?, Kimi ni Todoke, Mushikaburi-hime, Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai, Hourou Musuko, Mahoutsukai no Yome, Koukyuu no Karasu, Niehime to Kemono no Ou, Saiunkoku Monogatari, Kotonoha no Niwa, Eikoku Koi Monogatari Emma",
+        "imdb_rating": 7.7,
+        "imdb_votes": 6001,
+        "synopsis": "Despite being born into a noble family, Miyo lost her birth mother at a young age and grew up being abused by her stepmother, stepsister, and father.\n\nWhen she finally receives news that she's to be married off, she finds out that her husband-to-be is Kiyoka, a soldier with a reputation for being cruel and heartless. In fact, he's had numerous previous fianc\u00e9es who have all fled his household; none lasting even a mere three days.\n\nResigned to the fact that her family had abandoned her, Miyo knocks on the gate of the Kudou household to find herself greeted by a beautiful man with pale skin. Despite the poor treatment she receives from her husband-to-be during their first meeting, Miyo is unable to return to her old home and spends her time cooking and doing chores. However, as the days pass, Miyo and Kiyoka being to slowly open their hearts to each other...\n\n(Source: KADOKAWA, edited)",
+        "ranime": [
+            "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+            "Watashi no Shiawase na Kekkon",
+            "Watashi no Shiawase na Kekkon",
+            "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi"
         ]
     },
     {
