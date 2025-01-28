@@ -3543,33 +3543,6 @@
         ]
     },
     {
-        "aid": 126,
-        "name": "Banished From The Hero\u00e2\u20ac\u2122S Party, I Decided To Live A Quiet Life In The Countryside",
-        "jname": "\u771f\u306e\u4ef2\u9593\u3058\u3083\u306a\u3044\u3068\u52c7\u8005\u306e\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u8ffd\u3044\u51fa\u3055\u308c\u305f\u306e\u3067\u3001\u8fba\u5883\u3067\u30b9\u30ed\u30fc\u30e9\u30a4\u30d5\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f",
-        "poster": "https://envs.sh/YG1.png\n, https://envs.sh/YGY.jpg\n, https://envs.sh/YG3.jpg\n",
-        "banner": "https://envs.sh/YGR.png\n, https://envs.sh/YGC.jpg\n",
-        "cname": "Filemoon",
-        "cid": "209980",
-        "let": "B",
-        "trailer": "https://www.youtube.com/embed/ZWXm83PhXYI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/Q-WDh396OEg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Adventure, Fantasy, Romance",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "AT-X, Nippon Columbia, Kadokawa Media House, BS NTV, Kadokawa, Kyoto Broadcasting System",
-        "total_episodes": 13,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life, Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore, Ookami to Koushinryou, Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau, Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita., Isekai Yakkyoku, Shinmai Renkinjutsushi no Tenpo Keiei, Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life, Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru, Yuusha, Yamemasu, Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta., Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita, Yao Jing Zhong Zhi Shou Ce, Sewayaki Kitsune no Senko-san, Leadale no Daichi nite, Aharen-san wa Hakarenai, Maoyuu Maou Yuusha, Xian Wang de Richang Shenghuo, Rakudai Kishi no Cavalry, Seijo no Maryoku wa Bannou desu",
-        "imdb_rating": 6.7,
-        "imdb_votes": 1920,
-        "synopsis": "A heroic and mighty adventurer dreams of...opening a pharmacy?\n\nRed was once a member of the Hero's party, a powerful group destined to save the world from the evil forces of Taraxon, the Raging Demon Lord. That is, until one of his comrades kicked him out. Hoping to live the easy life on the frontier, Red's new goal is to open an apothecary. However, keeping the secret of his former life may not be as simple as he thinks. Especially when the beautiful Rit, an adventurer from his past, shows up and asks to move in with him!\n\n(Source: Yen Press)",
-        "ranime": [
-            "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
-            "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita"
-        ]
-    },
-    {
         "aid": 127,
         "name": "Tower Of God Season 2",
         "jname": "\u795e\u4e4b\u5854 -Tower of God- \u738b\u5b50\u306e\u5e30\u9084",
@@ -3595,6 +3568,33 @@
             "Kami no Tou",
             "Kami no Tou: Koubou-sen",
             "Tower of God"
+        ]
+    },
+    {
+        "aid": 127,
+        "name": "Banished From The Hero'S Party, I Decided To Live A Quiet Life In The Countryside",
+        "jname": "\u771f\u306e\u4ef2\u9593\u3058\u3083\u306a\u3044\u3068\u52c7\u8005\u306e\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u8ffd\u3044\u51fa\u3055\u308c\u305f\u306e\u3067\u3001\u8fba\u5883\u3067\u30b9\u30ed\u30fc\u30e9\u30a4\u30d5\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f",
+        "poster": "https://envs.sh/YG1.png\n, https://envs.sh/YGY.jpg\n, https://envs.sh/YG3.jpg\n",
+        "banner": "https://envs.sh/YGR.png\n, https://envs.sh/YGC.jpg\n",
+        "cname": "Filemoon",
+        "cid": "209980",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/ZWXm83PhXYI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/Q-WDh396OEg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Fantasy, Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Studio Flad, Wolfsbane",
+        "producers": "AT-X, Nippon Columbia, Kadokawa Media House, BS NTV, Kadokawa, Kyoto Broadcasting System",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life, Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore, Ookami to Koushinryou, Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau, Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita., Isekai Yakkyoku, Shinmai Renkinjutsushi no Tenpo Keiei, Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life, Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru, Yuusha, Yamemasu, Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta., Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita, Yao Jing Zhong Zhi Shou Ce, Sewayaki Kitsune no Senko-san, Leadale no Daichi nite, Aharen-san wa Hakarenai, Maoyuu Maou Yuusha, Xian Wang de Richang Shenghuo, Rakudai Kishi no Cavalry, Seijo no Maryoku wa Bannou desu",
+        "imdb_rating": 6.7,
+        "imdb_votes": 1938,
+        "synopsis": "A heroic and mighty adventurer dreams of...opening a pharmacy?\n\nRed was once a member of the Hero's party, a powerful group destined to save the world from the evil forces of Taraxon, the Raging Demon Lord. That is, until one of his comrades kicked him out. Hoping to live the easy life on the frontier, Red's new goal is to open an apothecary. However, keeping the secret of his former life may not be as simple as he thinks. Especially when the beautiful Rit, an adventurer from his past, shows up and asks to move in with him!\n\n(Source: Yen Press)",
+        "ranime": [
+            "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+            "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita"
         ]
     },
     {
@@ -4903,6 +4903,33 @@
         ]
     },
     {
+        "aid": 177,
+        "name": "Possibly The Greatest Alchemist Of All Time",
+        "jname": "\u3044\u305a\u308c\u6700\u5f37\u306e\u932c\u91d1\u8853\u5e2b?",
+        "poster": "https://envs.sh/a_o.jpg\n, https://envs.sh/a_7.jpg\n, https://envs.sh/a_8.jpg\n",
+        "banner": "N/A, https://envs.sh/a_J.jpg\n",
+        "cname": "Filemoon",
+        "cid": "262221",
+        "let": "P",
+        "trailer": "https://www.youtube.com/embed/ce_9M9hi4cU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1_KLp1C_lAQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": "Studio Comet",
+        "producers": "Pony Canyon, KlockWorx, Docomo Anime Store, BS11, Yomiuri TV Enterprise, Jinnan Studio, AlphaPolis",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu, Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+        "imdb_rating": 7.1,
+        "imdb_votes": 141,
+        "synopsis": "Not even a hero, Takumi Iruma gets accidentally mixed in with a group of heroes chosen to be summoned to another world. As compensation for the mix-up, a goddess offers him the right to choose any skill he wishes for! Hoping for a peaceful and quiet life that has nothing to do with fighting or going into battle, he chooses a seemingly boring creation skill. However, it turns out \"alchemy\" is the most powerful skill that allows him to create everything from a holy sword to flying ships! This cheat skill he unexpectedly acquired turns him into a wealthy merchant and makes him undefeatable in battles! A heartwarming adventure story about (possibly) the most powerful alchemist in another world!\n\n(Source: AlphaPolis)",
+        "ranime": [
+            "Izure Saikyou no Renkinjutsushi?",
+            "Izure Saikyou no Renkinjutsushi?"
+        ]
+    },
+    {
         "aid": 178,
         "name": "Fairy Tail",
         "jname": "FAIRY TAIL\uff08\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb\uff09",
@@ -4937,6 +4964,33 @@
         ]
     },
     {
+        "aid": 178,
+        "name": "I'M Getting Married To A Girl I Hate In My Class",
+        "jname": "\u30af\u30e9\u30b9\u306e\u5927\u5acc\u3044\u306a\u5973\u5b50\u3068\u7d50\u5a5a\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
+        "poster": "https://envs.sh/a_a.jpg\n, https://envs.sh/a_g.jpg\n, https://envs.sh/a_H.jpg\n",
+        "banner": "N/A, https://envs.sh/a_f.jpg\n",
+        "cname": "Filemoon",
+        "cid": "262222",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/ss7htgZZw8Y?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/RgyqkGLsZ2M?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": "Studio Gokumi, AXsiZ",
+        "producers": "Aniplex, Movic, Magic Capsule, Tokyo MX, BS11, Egg Firm, Kadokawa",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kakkou no Iinazuke",
+        "imdb_rating": 7.3,
+        "imdb_votes": 276,
+        "synopsis": "High school student Saito Houjou is set to inherit his grandfather\u2019s major corporation. First, he must marry Akane Sakuramori, the girl he despises the most, and who hates him just as much. The two are determined to keep their unexpected marriage a secret from their classmates. But as they begin their newlywed life, the distance between them starts to close.\n\n(Source: Crunchyroll, edited)",
+        "ranime": [
+            "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+            "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta."
+        ]
+    },
+    {
         "aid": 179,
         "name": "Vinland Saga",
         "jname": "\u30f4\u30a3\u30f3\u30e9\u30f3\u30c9\u30fb\u30b5\u30ac",
@@ -4962,6 +5016,33 @@
             "Vinland Saga Season 2",
             "Vinland Saga",
             "Ponkotsuland Saga"
+        ]
+    },
+    {
+        "aid": 179,
+        "name": "Banished From The Hero'S Party, I Decided To Live A Quiet Life In The Countryside Season 2",
+        "jname": "\u771f\u306e\u4ef2\u9593\u3058\u3083\u306a\u3044\u3068\u52c7\u8005\u306e\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u8ffd\u3044\u51fa\u3055\u308c\u305f\u306e\u3067\u3001\u8fba\u5883\u3067\u30b9\u30ed\u30fc\u30e9\u30a4\u30d5\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f 2nd",
+        "poster": "https://envs.sh/a_N.jpg\n, https://envs.sh/a_s.jpg\n, https://envs.sh/YG3.jpg\n",
+        "banner": "https://envs.sh/a_v.png\n, https://envs.sh/a_9.jpg\n",
+        "cname": "Filemoon",
+        "cid": "262224",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/AVJaJMZubjk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/JaRvWJr_E_I?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Fantasy, Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Studio Flad",
+        "producers": "AT-X, Magic Capsule, Nippon Columbia, BS NTV, Kadokawa, Kyoto Broadcasting System",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 6.7,
+        "imdb_votes": 1938,
+        "synopsis": "The second season of Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita.",
+        "ranime": [
+            "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+            "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita"
         ]
     },
     {
@@ -4991,6 +5072,33 @@
             "Vinland Saga",
             "Vinland Saga Season 2: Drowning in the Shadow",
             "Vinland Saga Season 2: Same Old Story"
+        ]
+    },
+    {
+        "aid": 180,
+        "name": "Magic Maker: How To Make Magic In Another World",
+        "jname": "\u30de\u30b8\u30c3\u30af\u30fb\u30e1\u30a4\u30ab\u30fc \uff0d\u7570\u4e16\u754c\u9b54\u6cd5\u306e\u4f5c\u308a\u65b9\uff0d",
+        "poster": "https://envs.sh/a_l.jpg\n, https://envs.sh/a_4.jpg\n, https://envs.sh/a_1.jpg\n",
+        "banner": "404 Client Error:  for url: https://media.kitsu.app/anime/cover_images/6944/original.jpg\n, https://envs.sh/a_U.jpg\n",
+        "cname": "Filemoon",
+        "cid": "262225",
+        "let": "M",
+        "trailer": "N/A, https://www.youtube.com/embed/i_p5slC_n54?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": true,
+        "studio": "Studio Deen",
+        "producers": "TV Tokyo, Frontier Works, Half H.P Studio, AT-X, Toy's Factory, BS NTV, Kadokawa",
+        "total_episodes": 6,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "imdb_rating": 6.3,
+        "imdb_votes": 52,
+        "synopsis": "A series of 3-5 minute specials that were bundled with the HighSchool DxD DVD and Blu-rays. They are a stand alone set of episodes that are not a part of any story line in particular.\nSpecial 1: Going Sunbathing! - The Occult Research Club goes on a beach outing.\nSpecial 2: Issei's Private Training! - Issei is being given lessons in magic by Akeno.\nSpecial 3: A Little Bold, Koneko-Chan... Nyan! - Koneko accidentally has her personality reversed magically, making her incredibly sexually active and reversing her sexual preference.\nSpecial 4: The Untold Story of The Dress Break's Birth! - A few flashbacks of how Issei first found out and eventually perfected his special move, Dress Break.\nSpecial 5: Making Udon! - As part of a penalty for losing a bet, Sona and Tsubaki make udon for the Occult Research Club but the udon comes to life in a peculiar way...\nSpecial 6: Asia Transforms! - Asia wants to prove she is just as bad as any demon by using ideas found in Issei's magazines, going as far as dressing up like a harlot and seducing him.\n(Source: Wikipedia)",
+        "ranime": [
+            "Magic Maker: Isekai Mahou no Tsukurikata",
+            "Magic Maker: Isekai Mahou no Tsukurikata"
         ]
     }
 ]
