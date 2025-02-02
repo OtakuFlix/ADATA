@@ -5285,7 +5285,7 @@
         "type": "Movie",
         "status": "Finished",
         "airing": false,
-        "studio": "Nippon Ramayana Film Co.",
+        "studio": false,
         "producers": "TEM Co., Ltd.",
         "total_episodes": 1,
         "pg_rating": "G - All Ages",
@@ -5323,38 +5323,6 @@
             "Boku no Hero Academia",
             "Boku no Hero Academia: Memories",
             "Bokurano"
-        ]
-    },
-    {
-        "aid": 190,
-        "name": "Demon Slayer Season 4: Hashira Training Arc",
-        "jname": "\u9b3c\u6ec5\u306e\u5203",
-        "poster": "https://envs.sh/YKs.png\n, https://envs.sh/30m.jpg\n, N/A",
-        "banner": "https://envs.sh/YKr.jpg\n, https://envs.sh/30M.jpg\n",
-        "cname": "RpmShare",
-        "cid": "130",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/PraFso1sVIc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/6vMuWuWlW4I?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Award Winning, Supernatural",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": "ufotable",
-        "producers": "Aniplex, Studio Mausu, Shueisha",
-        "total_episodes": 8,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Jujutsu Kaisen, Dororo, Shingeki no Kyojin, Bleach, Fullmetal Alchemist: Brotherhood, Boku no Hero Academia, Hunter x Hunter (2011), Owari no Seraph, InuYasha, Ao no Exorcist, Tokyo Ghoul, Enen no Shouboutai, Claymore, Yakusoku no Neverland, D.Gray-man, JoJo no Kimyou na Bouken (TV), Chainsaw Man, Jigokuraku, Kemono Jihen, Fate/stay night: Unlimited Blade Works, Akame ga Kill!, Naruto: Shippuuden, Wu Shan Wu Xing (2020), Bleach: Sennen Kessen-hen, Donten ni Warau, Black Clover, Nanatsu no Taizai, Vinland Saga, Natsume Yuujinchou, Naruto, Koutetsujou no Kabaneri, Bungou Stray Dogs, Goblin Slayer, Sirius, Jibaku Shounen Hanako-kun, Fullmetal Alchemist, Jouran: The Princess of Snow and Blood, Noragami, Seirei no Moribito, Mo Dao Zu Shi, One Punch Man, World Trigger, Blood+, Chrno Crusade, Shingeki no Kyojin: The Final Season, Mononoke Hime, Blood Lad, Tengoku Daimakyou, Ragna Crimson, Hataraku Maou-sama!, Sword Art Online: Alicization, Dragon Ball Z, Somali to Mori no Kamisama, Yuri!!! on Ice, Kill la Kill, Sengoku Youko: Yonaoshi Kyoudai-hen, Hikari no Ou, Xin Shen Bang: Nezha Chongsheng, Katsugeki/Touken Ranbu, Shy, The Samurai, Enen no Shouboutai: Ni no Shou, Yi Nian Yong Heng, Sousou no Frieren, Yakusoku no Neverland 2nd Season, Guren, Berserk, Date A Live, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Taimanin Asagi, Yasuke, Code Geass: Hangyaku no Lelouch, Hellsing Ultimate, Tales of Symphonia The Animation: Tethe'alla-hen, Mahouka Koukou no Rettousei, Lupin the IIIrd: Chikemuri no Ishikawa Goemon, Sousei no Onmyouji, Ajin, Garo: Honoo no Kokuin, Dandadan, Peace Maker Kurogane, Death Note, Fruits Basket 1st Season, Reikenzan: Hoshikuzu-tachi no Utage, Soul Eater, Tensei shitara Slime Datta Ken, Echo, Assassins Pride, Mushishi, Katanagatari, Akatsuki no Yona, The God of High School, Nurarihyon no Mago: Sennen Makyou, Tengen Toppa Gurren Lagann, Shijou Saikyou no Deshi Kenichi, Yuu\u2606Yuu\u2606Hakusho, Angel Beats!, Sword Art Online, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Mob Psycho 100",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "The members of the Demon Slayer Corps and their highest-ranking swordsmen, the Hashira.\nIn preparation for the forthcoming final battle against Muzan Kibutsuji, the Hashira Training commences. While each carries faith and determination within their hearts, Tanjiro and the Hashira enter a new story.\n\n(Source: Crunchyroll)\n\nNotes:\n\u2022 The first episode has a runtime of ~1 hour and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen.",
-        "ranime": [
-            "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-            "Kimetsu no Yaiba: Mugen Ressha-hen",
-            "Kimetsu no Yaiba Novelize",
-            "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen Novelize",
-            "Kimetsu no Yaiba",
-            "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
-            "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
         ]
     },
     {
