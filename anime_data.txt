@@ -5133,36 +5133,6 @@
         ]
     },
     {
-        "aid": 181,
-        "name": "My Hero Academia Season 6",
-        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
-        "poster": "https://envs.sh/mKu.jpg\n, https://envs.sh/mKh.jpg\n, https://envs.sh/3SS.jpg\n",
-        "banner": "https://envs.sh/mK2.jpg\n, https://envs.sh/mKd.jpg\n",
-        "cname": "Filemoon",
-        "cid": "263008",
-        "let": "M",
-        "trailer": "https://www.youtube.com/embed/WxCJMYbGtzA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/nTWeiY3yZRs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": "Bones",
-        "producers": "Dentsu, Yomiuri Telecasting, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
-        "total_episodes": 25,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Mob Psycho 100 III",
-        "imdb_rating": 8.2,
-        "imdb_votes": 88466,
-        "synopsis": "After Tomura Shigaraki merges the villain organizations to become the Paranormal Liberation Front where Hawks undercover within them, the U.A. students join forces with the Pro Heroes to strike and capture enemies while targeting Shigaraki who desires to steal One For All and destroy the society by inheriting his new power. The unsuspected villains must regroup and fight back, but the Heroes are determined to eradicate every last one of them. The public's trust in the Heroes faces a significant decline during the aftermath of the war. Meanwhile, Midoriya's public revelation leads him to drop out of the school as the country's fate is in his hands.\n\n(Source: Anime News Network, edited)",
-        "ranime": [
-            "Boku no Hero Academia 5th Season",
-            "Boku no Hero Academia 7th Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Memories",
-            "Bokurano"
-        ]
-    },
-    {
         "aid": 182,
         "name": "Zatch Bell!",
         "jname": "\u91d1\u8272\u306e\u30ac\u30c3\u30b7\u30e5\u30d9\u30eb!!",
