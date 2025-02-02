@@ -5218,32 +5218,6 @@
         ]
     },
     {
-        "aid": 185,
-        "name": "One Piece Season 1: East Blue Saga",
-        "jname": "ONE PIECE",
-        "poster": "https://envs.sh/asn.jpg\n, https://envs.sh/YCN.jpg\n, https://envs.sh/9cw.jpg\n",
-        "banner": "N/A, https://envs.sh/YCH.jpg\n",
-        "cname": "RpmShare",
-        "cid": "108",
-        "let": "O",
-        "trailer": "N/A, https://www.youtube.com/embed/eEApDotghec?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Fantasy",
-        "type": "Movie",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "N/A",
-        "total_episodes": 4,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 7.1,
-        "imdb_votes": 543,
-        "synopsis": "Orihara Kouhei returns to his town after a long disappearance to fullfil the promises he made to several girls in his childhood. He suffered from memory loss, and carries a tragic past. An strange ambience surrounds the OVA...It's almost like a dream, like memories from the past trying to come together in one piece but without being able to...\n(Source: ANN)",
-        "ranime": [
-            "One Piece"
-        ]
-    },
-    {
         "aid": 186,
         "name": "Re: Zero \u2013 Starting Life In Another World Season 3",
         "jname": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u4f11\u61a9\u6642\u9593\uff08\u30d6\u30ec\u30a4\u30af\u30bf\u30a4\u30e0\uff093rd season",
