@@ -1735,7 +1735,7 @@
         "let": "O",
         "trailer": "https://www.youtube.com/embed/CmTeYj2FmRc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/eEApDotghec?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Fantasy",
-        "type": "Movie",
+        "type": "TV",
         "status": "Current",
         "airing": false,
         "studio": false,
