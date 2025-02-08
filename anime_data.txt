@@ -4821,8 +4821,8 @@
         "jname": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7",
         "poster": "https://envs.sh/g0b.jpg\n, https://envs.sh/g0u.jpg\n, https://envs.sh/g02.jpg\n",
         "banner": "https://envs.sh/g0i.jpg\n, https://envs.sh/g0F.jpg\n",
-        "cname": "Filemoon, RpmShare",
-        "cid": "260525, 107",
+        "cname": "Filemoon",
+        "cid": "260525",
         "let": "B",
         "trailer": "https://www.youtube.com/embed/fzR82oXbjnY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/e8YBesRKq_U?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Supernatural",
@@ -5191,42 +5191,13 @@
         ]
     },
     {
-        "aid": 183,
-        "name": "Re: Zero \u2013 Starting Life In Another World Season 2",
-        "jname": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u4f11\u61a9\u6642\u9593\uff08\u30d6\u30ec\u30a4\u30af\u30bf\u30a4\u30e0\uff092nd season",
-        "poster": "https://envs.sh/6kr.jpg\n, https://envs.sh/6kJ.jpg\n, https://envs.sh/asc.jpg\n",
-        "banner": "https://envs.sh/6ko.png\n, N/A",
-        "cname": "Filemoon",
-        "cid": "264178",
-        "let": "R",
-        "trailer": "https://www.youtube.com/embed/P_YtFPg9tNE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Comedy",
-        "type": "Special",
-        "status": "Finished",
-        "airing": false,
-        "studio": "Studio PuYUKAI",
-        "producers": "N/A",
-        "total_episodes": 13,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.1,
-        "imdb_votes": 29842,
-        "synopsis": "Even after dying countless times, Subaru finally ended the threat of the White Whale and defeated the Witch Cult's Sin Archbishop representing sloth, Petelgeuse Romaneeconti. But only shortly after overcoming a tragic ending and reuniting with his beloved Emilia, Subaru learns that Rem has been erased from this world, having fallen victim to the White Whale's Fog of Elimination in the midst of Subaru's death loop. With the White Whale now gone, Subaru and Emilia are forced to confront a reality they never dreamed would happen.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Re:Petit kara Hajimeru Isekai Seikatsu",
-            "Re:Zero kara Hajimeru Break Time 3rd Season",
-            "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
-            "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
-        ]
-    },
-    {
         "aid": 184,
         "name": "Bleach: Thousand-Year Blood War Season 3",
         "jname": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7",
         "poster": "https://envs.sh/6k7.jpg\n, https://envs.sh/g0u.jpg\n, https://envs.sh/g02.jpg\n",
         "banner": "https://envs.sh/6k8.jpg\n, https://envs.sh/g0F.jpg\n",
-        "cname": "Filemoon",
-        "cid": "264180",
+        "cname": "Filemoon, RpmShare",
+        "cid": "264180, 107",
         "let": "B",
         "trailer": "https://www.youtube.com/embed/Nq9PkH3UgEo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/e8YBesRKq_U?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Supernatural",
@@ -5408,6 +5379,35 @@
         "ranime": [
             "Haikyuu!! Movie 2: Shousha to Haisha",
             "Haikyuu!!"
+        ]
+    },
+    {
+        "aid": 192,
+        "name": "Re: Zero \u2013 Starting Life In Another World Season 2",
+        "jname": "Re:\u30bc\u30ed\u304b\u3089\u59cb\u3081\u308b\u4f11\u61a9\u6642\u9593\uff08\u30d6\u30ec\u30a4\u30af\u30bf\u30a4\u30e0\uff092nd season",
+        "poster": "https://envs.sh/6kr.jpg\n, https://envs.sh/6kJ.jpg\n, https://envs.sh/asc.jpg\n",
+        "banner": "https://envs.sh/6ko.png\n, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "264178, 155",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/P_YtFPg9tNE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Comedy",
+        "type": "Special",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Studio PuYUKAI",
+        "producers": "N/A",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.1,
+        "imdb_votes": 29842,
+        "synopsis": "Even after dying countless times, Subaru finally ended the threat of the White Whale and defeated the Witch Cult's Sin Archbishop representing sloth, Petelgeuse Romaneeconti. But only shortly after overcoming a tragic ending and reuniting with his beloved Emilia, Subaru learns that Rem has been erased from this world, having fallen victim to the White Whale's Fog of Elimination in the midst of Subaru's death loop. With the White Whale now gone, Subaru and Emilia are forced to confront a reality they never dreamed would happen.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Re:Petit kara Hajimeru Isekai Seikatsu",
+            "Re:Zero kara Hajimeru Break Time 3rd Season",
+            "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
         ]
     }
 ]
