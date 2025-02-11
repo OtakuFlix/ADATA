@@ -376,7 +376,7 @@
         "name": "Dragon Ball Super",
         "jname": "ドラゴンボール超（スーパー）",
         "poster": "https://iili.io/2bkoz8v.jpg, https://iili.io/2bOa2TJ.jpg, https://iili.io/2bkoxcJ.jpg",
-        "banner": "404 Client Error:  for url: https://media.kitsu.app/anime/cover_images/10879/original.png, https://iili.io/2bkoAwN.jpg",
+        "banner": "https://iili.io/2bLbeoB.png, https://iili.io/2bkoAwN.jpg",
         "cname": "Filemoon",
         "cid": "136379",
         "let": "D",
@@ -439,8 +439,8 @@
         "aid": 16,
         "name": "The Legend Of Hanuman",
         "jname": "हनुमान ऋतु 1 की कथा",
-        "poster": "https://iili.io/2bkojV9.jpg, https://iili.io/2bkoOKu.jpg, https://iili.io/2bOa1yu.jpg",
-        "banner": "https://iili.io/2bkoUNV.jpg, https://iili.io/2beltix.jpg",
+        "poster": "https://iili.io/2bLvN1I.jpg, https://iili.io/2bkoOKu.jpg, https://iili.io/2bOa1yu.jpg",
+        "banner": "https://iili.io/2bLvQ29.jpg, https://iili.io/2beltix.jpg",
         "cname": "Filemoon",
         "cid": "137699",
         "let": "T",
@@ -466,8 +466,8 @@
         "aid": 17,
         "name": "The Legend Of Hanuman Season 2",
         "jname": "हनुमान ऋतु 2 की कथा",
-        "poster": "https://iili.io/2bkojV9.jpg, https://iili.io/2bkoOKu.jpg, https://iili.io/2bOa1yu.jpg",
-        "banner": "https://iili.io/2bkoUNV.jpg, https://iili.io/2bOahGV.jpg",
+        "poster": "https://iili.io/2bLv8es.jpg, https://iili.io/2bkoOKu.jpg, https://iili.io/2bOa1yu.jpg",
+        "banner": "https://iili.io/2bL8JEB.jpg, https://iili.io/2bOahGV.jpg",
         "cname": "Filemoon",
         "cid": "137700",
         "let": "T",
@@ -493,8 +493,8 @@
         "aid": 18,
         "name": "The Legend Of Hanuman Season 3",
         "jname": "हनुमान ऋतु 3 की कथा",
-        "poster": "https://iili.io/2bkojV9.jpg, https://iili.io/2bOaMjj.jpg, https://iili.io/2bkxHiX.jpg",
-        "banner": "https://iili.io/2bOa8ua.jpg, https://iili.io/2beltix.jpg",
+        "poster": "https://iili.io/2bLvgIf.jpg, https://iili.io/2bOaMjj.jpg, https://iili.io/2bkxHiX.jpg",
+        "banner": "https://iili.io/2bL8JEB.jpg, https://iili.io/2beltix.jpg",
         "cname": "Filemoon",
         "cid": "137701",
         "let": "T",
@@ -520,8 +520,8 @@
         "aid": 19,
         "name": "Naruto",
         "jname": "ナルト",
-        "poster": "https://iili.io/2bkxoW7.jpg, https://iili.io/2bOc5Na.jpg, https://iili.io/2bOcaov.jpg",
-        "banner": "https://iili.io/2bOcVHX.jpg",
+        "poster": "https://iili.io/2bOcaov.jpg, https://iili.io/2bkxoW7.jpg, https://iili.io/2bOc5Na.jpg",
+        "banner": "https://iili.io/2bLrAP4.jpg",
         "cname": "Filemoon",
         "cid": "138590",
         "let": "N",
@@ -575,11 +575,16 @@
         "imdb_votes": 88342,
         "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
         "ranime": [
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Hero Note",
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Training of the Dead"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -605,11 +610,16 @@
         "imdb_votes": 88342,
         "synopsis": "Taking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all around will decide who is the top Hero in training.\n\n(Source: Anime News Network)",
         "ranime": [
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Hero Note",
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Training of the Dead"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -635,11 +645,16 @@
         "imdb_votes": 88342,
         "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
         "ranime": [
-            "Boku no Hero Academia 2nd Season",
-            "Boku no Hero Academia 4th Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia the Movie 1: Futari no Hero",
-            "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -665,9 +680,16 @@
         "imdb_votes": 88342,
         "synopsis": "The climactic finals are over, and U.A. is getting ready for the summer training camp. Deku and All Might receive an invitation from a certain person to go overseas to a giant artificial moving city called I-Island. This island, a kind of “science Hollywood” that gathers the knowledge of scientists from around the world, is holding an exhibition called I-Expo showcasing the results of Quirk and hero item research. In the midst of all this, Deku meets a Quirkless girl named Melissa and remembers his own Quirkless past. Out of the blue, the impregnable security system the island boasts is hacked by villains, and all the people on the island are taken as hostages! Now, a plan that could shake hero society has been put into motion! The man who holds the key to it all is the number one hero and Symbol of Peace, All Might.\n\n(Source: Funimation)",
         "ranime": [
-            "Boku no Hero Academia the Movie: Futari no Hero",
-            "Boku no Hero Academia the Movie 1: Futari no Hero Specials",
-            "Boku no Hero Academia 3rd Season"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -693,9 +715,16 @@
         "imdb_votes": 88342,
         "synopsis": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
         "ranime": [
-            "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni",
-            "Boku no Hero Academia the Movie: Heroes:Rising",
-            "Boku no Hero Academia 4th Season"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -721,8 +750,16 @@
         "imdb_votes": 88342,
         "synopsis": "Animation included with the PLUS ULTRA version of the Boku no Hero Academia THE MOVIE: World Heroes' Mission Blu-ray/DVD release. The OVA is an adaptation of the \"Hawks: SOOTHE\" one-shot from the Vol. World Heroes booklet that was given out during the movie's theatrical run.\n\nNote: This animation received an advance limited screening run alongside the World Heroes' Mission movie in theaters from January 22 to 27th in Japan.",
         "ranime": [
-            "Boku no Hero Academia 5th Season",
-            "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -1297,7 +1334,7 @@
         "name": "The Great Cleric",
         "jname": "聖者無双",
         "poster": "https://iili.io/2bkRT0P.jpg, https://iili.io/2bkRIqB.jpg, https://iili.io/2bOj8Al.jpg",
-        "banner": "https://iili.io/2bkRG1I.png, 404 Client Error: Not Found for url: https://img.youtube.com/vi/q6wu1CAJhHI/maxresdefault.jpg",
+        "banner": "https://iili.io/2bkRG1I.png,
         "cname": "Filemoon",
         "cid": "180180",
         "let": "T",
@@ -1499,10 +1536,16 @@
         "imdb_votes": 88342,
         "synopsis": "The villain world teeters on the brink of war now that All For One is out of the picture. Shigaraki of the League of Villains squares off with Overhaul of the yakuza, vying for total control of the shadows. Meanwhile, Deku gets tangled in another dangerous internship as he struggles to keep pace with his upperclassman—Mirio.\n\n(Source: Crunchyroll)",
         "ranime": [
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia 5th Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia the Movie 2: Heroes:Rising"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -1560,7 +1603,7 @@
         "name": "The Reincarnation Of The Strongest Exorcist In Another World",
         "jname": "最強陰陽師の異世界転生記",
         "poster": "https://iili.io/2bk7UOu.jpg, https://iili.io/2bk7gDb.jpg",
-        "banner": "https://iili.io/2bk7sfV.png, 404 Client Error: Not Found for url: https://img.youtube.com/vi/6bYBB5ZF5a8/maxresdefault.jpg",
+        "banner": "https://iili.io/2bk7sfV.png,
         "cname": "Filemoon",
         "cid": "179343",
         "let": "T",
@@ -1728,7 +1771,7 @@
         "aid": 62,
         "name": "One Piece",
         "jname": "ONE PIECE",
-        "poster": "https://iili.io/2bkaFCx.png, https://iili.io/2bkaKEQ.jpg, https://iili.io/2bkaf4V.jpg",
+        "poster": "https://iili.io/2bL8FYF.md.jpg, https://iili.io/2bkaFCx.png, https://iili.io/2bkaKEQ.jpg, https://iili.io/2bkaf4V.jpg",
         "banner": "https://iili.io/2bkanv1.jpg, https://iili.io/2beTzCP.jpg",
         "cname": "Filemoon, RpmShare",
         "cid": "175718, 70",
@@ -1755,7 +1798,7 @@
         "name": "Black Clover",
         "jname": "ブラッククローバー",
         "poster": "https://iili.io/2bkaACv.png, https://iili.io/2beIo1n.jpg, https://iili.io/2bkaRGR.jpg",
-        "banner": "https://iili.io/2bkaVnf.jpg, 404 Client Error: Not Found for url: https://img.youtube.com/vi/vUjAxk1qYzQ/maxresdefault.jpg",
+        "banner": "https://iili.io/2bkaVnf.jpg,
         "cname": "Filemoon",
         "cid": "176066",
         "let": "B",
@@ -1840,7 +1883,7 @@
         "name": "Villainess Level 99",
         "jname": "悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～",
         "poster": "https://iili.io/2bkcKts.jpg, https://iili.io/2bkcFNn.jpg, https://iili.io/2bOUFtf.jpg",
-        "banner": "https://iili.io/2bkczSS.png, 404 Client Error: Not Found for url: https://img.youtube.com/vi/ODtKada4LM0/maxresdefault.jpg",
+        "banner": "https://iili.io/2bkczSS.png,
         "cname": "Filemoon",
         "cid": "176413",
         "let": "V",
@@ -2091,7 +2134,7 @@
         "name": "My Oni Girl",
         "jname": "好きでも嫌いなあまのじゃく",
         "poster": "https://iili.io/2bklG14.png, https://iili.io/2bklW22.jpg, https://iili.io/2bOrIQj.jpg",
-        "banner": "404 Client Error: Not Found for url: https://img.youtube.com/vi/4MgxkPy4GDk/maxresdefault.jpg",
+        "banner": "https://iili.io/2bQ2KIs.jpg",
         "cname": "Filemoon, Filemoon, RpmShare",
         "cid": "181232, 226328, 71",
         "let": "M",
@@ -2466,7 +2509,16 @@
         "imdb_votes": 344,
         "synopsis": "In this brand-new adventure, some Class 1-A students are sent to hone their survival skills at a training course. Having yet to receive their provisional licenses, they're eager to cut loose and have a little fun.\n\nThey quickly discover that the danger they face is no simulation! It's going to take their combined training, teamwork, and quick thinking if they're going to pass this assignment!\n\n(Source: Funimation)",
         "ranime": [
-            "Boku no Hero Academia 3rd Season"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -2846,12 +2898,16 @@
         "imdb_votes": 88342,
         "synopsis": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides.\n\nBut as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.\n\n(Source: Funimation)",
         "ranime": [
-            "Boku no Hero Academia 4th Season",
-            "Boku no Hero Academia 6th Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia the Movie 3: World Heroes' Mission",
-            "Boku no Hero Academia (ONA)",
-            "Boku no Hero Academia: UA Heroes Battle"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
@@ -3461,7 +3517,7 @@
         "name": "Assassination Classroom Season 2",
         "jname": "暗殺教室　第２期",
         "poster": "https://iili.io/2bkjPln.jpg, https://iili.io/2beHUmJ.jpg, https://iili.io/2beH6sp.jpg",
-        "banner": "https://iili.io/2beHiqN.jpg, 404 Client Error: Not Found for url: https://img.youtube.com/vi/tZiHgr0kd7E/maxresdefault.jpg",
+        "banner": "https://iili.io/2beHiqN.jpg,
         "cname": "Filemoon, RpmShare",
         "cid": "206324, 116",
         "let": "A",
@@ -3659,7 +3715,7 @@
         "name": "Dragon Ball",
         "jname": "ドラゴンボール",
         "poster": "https://iili.io/2be1fIe.png, https://iili.io/2be2nfV.jpg, https://iili.io/2be2xUP.jpg",
-        "banner": "404 Client Error:  for url: https://media.kitsu.app/anime/cover_images/720/original.png, 404 Client Error: Not Found for url: https://img.youtube.com/vi/fg_fP7cRJXg/maxresdefault.jpg",
+        "banner": "https://iili.io/2bLpmuf.md.jpg,
         "cname": "Filemoon",
         "cid": "207395",
         "let": "D",
@@ -4210,8 +4266,8 @@
         "aid": 149,
         "name": "I'Ll Become A Villainess Who Goes Down In History",
         "jname": "歴史に残る悪女になるぞ",
-        "poster": "https://iili.io/2beo25l.jpg, https://iili.io/2beo90G.jpg, https://iili.io/2beoFbS.jpg",
-        "banner": "404 Client Error: Not Found for url: https://img.youtube.com/vi/1BhTUhaugxo/maxresdefault.jpg",
+        "poster": "https://iili.io/2beoFbS.jpg, https://iili.io/2beo25l.jpg, https://iili.io/2beo90G.jpg",
+        "banner": "https://iili.io/2bQxAla.md.jpg",
         "cname": "Filemoon",
         "cid": "225107",
         "let": "I",
@@ -4878,7 +4934,7 @@
         "name": "Fairy Tail",
         "jname": "FAIRY TAIL（フェアリーテイル）",
         "poster": "https://iili.io/2bevar7.jpg, https://iili.io/2bevAX4.jpg, https://iili.io/2bevRLl.jpg",
-        "banner": "https://iili.io/2belQob.jpg, 404 Client Error: Not Found for url: https://img.youtube.com/vi/hRPHiQKJVk0/maxresdefault.jpg",
+        "banner": "https://iili.io/2belQob.jpg,
         "cname": "Filemoon",
         "cid": "260608",
         "let": "F",
@@ -5078,8 +5134,8 @@
         "aid": 180,
         "name": "Magic Maker: How To Make Magic In Another World",
         "jname": "マジック・メイカー －異世界魔法の作り方－",
-        "poster": "https://iili.io/2beUH79.jpg, https://iili.io/2beSZXf.jpg, https://iili.io/2be0HR1.jpg",
-        "banner": "404 Client Error:  for url: https://media.kitsu.app/anime/cover_images/6944/original.jpg, https://iili.io/2beUqqQ.jpg",
+        "poster": "https://iili.io/2be0HR1.jpg,https://iili.io/2beUH79.jpg, https://iili.io/2beSZXf.jpg",
+        "banner": "https://iili.io/2beUqqQ.jpg",
         "cname": "Filemoon, RpmShare",
         "cid": "262225, 102",
         "let": "M",
@@ -5332,25 +5388,25 @@
     },
     {
         "aid": 189,
-        "name": "Ramayana: The Legend Of Prince Rama (1993)",
-        "jname": "ラーマーヤナ ラーマ王子伝説",
-        "poster": "https://iili.io/2beoDkQ.jpg, https://iili.io/2beoO1s.jpg, https://iili.io/2becNCx.jpg",
-        "banner": "https://iili.io/2bechhb.webp, https://iili.io/2beIIdG.jpg",
+        "name": "Ramayana: The Legend Of Prince Rama",
+        "jname": "रामायण: राजकुमार राम की कथा",
+        "poster": "hhttps://iili.io/2bZusJn.jpg, https://iili.io/2beTX8G.jpg, https://iili.io/2be6Gcl.jpg",
+        "banner": "https://iili.io/2be6Nou.jpg",
         "cname": "RpmShare",
         "cid": "129",
         "let": "R",
-        "trailer": "N/A, https://www.youtube.com/embed/42tDHKICVOM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "trailer": "https://www.youtube.com/embed/42tDHKICVOM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Adventure",
         "type": "Movie",
         "status": "Finished",
         "airing": false,
-        "studio": false,
+        "studio": "Nippon Ramayana Film Co.",
         "producers": "TEM Co., Ltd.",
         "total_episodes": 1,
         "pg_rating": "G - All Ages",
         "sanime": "Ousama Ranking, InuYasha",
-        "imdb_rating": 9.2,
-        "imdb_votes": 16132,
+        "imdb_rating": 9.1,
+        "imdb_votes": 16192,
         "synopsis": "A theatrical anime movie of the original story of the epic Indian classical \"Ramayana\" and a joint production between Japan and India. Prince Rama, one of the four Princes of Ayodhya, will be expelled from the palace through a conspiracy. Rama is banished to the forest for 14 years. A girl named Sita and Lakshman, Rama's brother, go with him into the forest. Ravana, the King of Demons, falls in love with Sita and kidnaps her. In order to save his love, Rama goes to Lanka with the help of an army of monkeys and friends of the forest. \nA feature film based on a story of true love, friendship, and trust, this anime is about 2 hours and 15 minutes long, with musical elements from Indian cinemas in between. ",
         "ranime": "N/A"
     },
@@ -5377,11 +5433,16 @@
         "imdb_votes": 88466,
         "synopsis": "After Tomura Shigaraki merges the villain organizations to become the Paranormal Liberation Front where Hawks undercover within them, the U.A. students join forces with the Pro Heroes to strike and capture enemies while targeting Shigaraki who desires to steal One For All and destroy the society by inheriting his new power. The unsuspected villains must regroup and fight back, but the Heroes are determined to eradicate every last one of them. The public's trust in the Heroes faces a significant decline during the aftermath of the war. Meanwhile, Midoriya's public revelation leads him to drop out of the school as the country's fate is in his hands.\n\n(Source: Anime News Network, edited)",
         "ranime": [
-            "Boku no Hero Academia 5th Season",
-            "Boku no Hero Academia 7th Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Memories",
-            "Bokurano"
+            "My Hero Academia Season 1",
+            "My Hero Academia Season 2",
+            "My Hero Academia Season 3",
+            "My Hero Academia Season 4",
+            "My Hero Academia Season 5",
+            "My Hero Academia Season 6",
+            "My Hero Academia: Make It! Do-Or-Die Survival Training",
+            "My Hero Academia World Hero Mission",
+            "My Hero Academia Heroes Rising",
+            "My Hero Academia Two Heroes"
         ]
     },
     {
