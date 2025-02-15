@@ -3318,7 +3318,7 @@
         "aid": 116,
         "name": "Dragon Ball Z Kai Season 4",
         "jname": "ドラゴンボール改",
-        "poster": "hhttps://iili.io/2btLh8J.jpg, https://iili.io/2beco1p.jpg, https://iili.io/2bOan2t.jpg",
+        "poster": "https://iili.io/2btLh8J.jpg, https://iili.io/2beco1p.jpg, https://iili.io/2bOan2t.jpg",
         "banner": "https://iili.io/2bOyyyG.jpg",
         "cname": "Filemoon",
         "cid": "202103",
