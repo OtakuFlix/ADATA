@@ -4704,7 +4704,7 @@
         "aid": 165,
         "name": "Solo Leveling Season 2",
         "jname": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
-        "poster": "https://iili.io/2beXjZ7.jpg, https://iili.io/2beXhjS.jpg, https://iili.io/2bO74Dv.jpg",
+        "poster": "https://iili.io/2pgwIlj.png, https://iili.io/2beXhjS.jpg, https://iili.io/2bO74Dv.jpg",
         "banner": "https://iili.io/2bk4H9S.jpg, https://iili.io/2beNzoN.jpg",
         "cname": "Filemoon, RpmShare",
         "cid": "256881, 96",
