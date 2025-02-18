@@ -832,7 +832,7 @@
         "cname": "Filemoon",
         "cid": "144879",
         "let": "H",
-        "trailer": "https://www.youtube.com/embed/fda6QzBA2mI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "trailer": "https://www.youtube.com/embed/fda6QzBA2mI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
         "status": "Finished",
