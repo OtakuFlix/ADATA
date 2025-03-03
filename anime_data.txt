@@ -5511,7 +5511,7 @@
         "aid": 197,
         "name": "The Red Ranger Becomes An Adventurer In Another World",
         "jname": "\u6226\u968a\u30ec\u30c3\u30c9 \u7570\u4e16\u754c\u3067\u5192\u967a\u8005\u306b\u306a\u308b",
-        "poster": "https://envs.sh/b9X.jpg\n, https://envs.sh/b9O.jpg\n, https://envs.sh/b9a.jpg\n",
+        "poster": "https://envs.sh/b9a.jpg, https://envs.sh/b9X.jpg, https://envs.sh/b9O.jpg",
         "banner": "https://envs.sh/b9M.jpg\n, https://envs.sh/b9m.jpg\n",
         "cname": "Filemoon, RpmShare",
         "cid": "268635, 488",
