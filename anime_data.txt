@@ -5534,7 +5534,7 @@
         ]
     },
     {
-        "aid": 190,
+        "aid": 198,
         "name": "Toilet-Bound Hanako-Kun",
         "jname": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u3093",
         "poster": "https://envs.sh/b9x.jpg\n, https://envs.sh/b9y.jpg\n, https://envs.sh/b9N.jpg\n",
@@ -5563,7 +5563,7 @@
         ]
     },
     {
-        "aid": 187,
+        "aid": 199,
         "name": "Ameku M.D.: Doctor Detective",
         "jname": "\u5929\u4e45\u9df9\u592e\u306e\u63a8\u7406\u30ab\u30eb\u30c6",
         "poster": "https://envs.sh/bvQ.jpg\n, https://envs.sh/bvD.jpg\n, https://envs.sh/b9-.jpg\n",
