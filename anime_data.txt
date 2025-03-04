@@ -5365,34 +5365,6 @@
         ]
     },
     {
-        "aid": 188,
-        "name": "Toilet-Bound Hanako-Kun Season 2",
-        "jname": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u30932",
-        "poster": "https://envs.sh/b9f.jpg\n, https://envs.sh/b9H.jpg\n, https://envs.sh/b9N.jpg\n",
-        "banner": "N/A, https://envs.sh/b9g.jpg\n",
-        "cname": "Filemoon, RpmShare",
-        "cid": "268634, 390",
-        "let": "T",
-        "trailer": "https://www.youtube.com/embed/GBfnAfkU-bk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/GBfnAfkU-bk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Supernatural",
-        "type": "TV",
-        "status": "Current",
-        "airing": true,
-        "studio": "Lerche",
-        "producers": "Square Enix, Studio Hibari, Pony Canyon, TBS, Movic, Half H.P Studio, Crunchyroll, Contents Seed, Gloria",
-        "total_episodes": 12,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 7.4,
-        "imdb_votes": 2870,
-        "synopsis": "The second season of Jibaku Shounen Hanako-kun.",
-        "ranime": [
-            "Jibaku Shounen Hanako-kun",
-            "Jibaku Shounen Hanako-kun",
-            "L'oN"
-        ]
-    },
-    {
         "aid": 189,
         "name": "Ramayana: The Legend Of Prince Rama",
         "jname": "\u0930\u093e\u092e\u093e\u092f\u0923: \u0930\u093e\u091c\u0915\u0941\u092e\u093e\u0930 \u0930\u093e\u092e \u0915\u0940 \u0915\u0925\u093e",
@@ -5566,7 +5538,7 @@
         "aid": 199,
         "name": "Ameku M.D.: Doctor Detective",
         "jname": "\u5929\u4e45\u9df9\u592e\u306e\u63a8\u7406\u30ab\u30eb\u30c6",
-        "poster": "https://envs.sh/bvQ.jpg\n, https://envs.sh/bvD.jpg\n, https://envs.sh/b9-.jpg\n",
+        "poster": "https://envs.sh/b9-.jpg\n, https://envs.sh/bvQ.jpg\n, https://envs.sh/bvD.jpg\n",
         "banner": "N/A, https://envs.sh/bvE.jpg\n",
         "cname": "Filemoon, RpmShare",
         "cid": "268633, 391",
@@ -5587,6 +5559,34 @@
         "ranime": [
             "Ameku Takao no Suiri Karte",
             "Ameku Takao Series"
+        ]
+    },
+    {
+        "aid": 200,
+        "name": "Toilet-Bound Hanako-Kun Season 2",
+        "jname": "\u5730\u7e1b\u5c11\u5e74\u82b1\u5b50\u304f\u30932",
+        "poster": "https://envs.sh/b9N.jpg, https://envs.sh/b9f.jpg, https://envs.sh/b9H.jpg",
+        "banner": "https://envs.sh/b9g.jpg\n",
+        "cname": "Filemoon, RpmShare",
+        "cid": "268634, 390",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/GBfnAfkU-bk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/GBfnAfkU-bk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Supernatural",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": "Lerche",
+        "producers": "Square Enix, Studio Hibari, Pony Canyon, TBS, Movic, Half H.P Studio, Crunchyroll, Contents Seed, Gloria",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Toilet-Bound Hanako-Kun",
+        "imdb_rating": 7.4,
+        "imdb_votes": 2870,
+        "synopsis": "The second season of Jibaku Shounen Hanako-kun.",
+        "ranime": [
+            "Toilet-Bound Hanako-Kun",
+            "Jibaku Shounen Hanako-kun",
+            "L'oN"
         ]
     }
 ]
