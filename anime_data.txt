@@ -5542,6 +5542,32 @@
         ]
     },
     {
+        "aid": 194,
+        "name": "The Witcher Sirens Of The Deep",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3KQxTiB.md.jpg, https://iili.io/3KQxIVV.jpg, https://iili.io/3KQxzoQ.jpg",
+        "banner": "https://iili.io/3KQx5UF.md.jpg, N/A",
+        "cname": "Filemoon",
+        "cid": "269684",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/-O_GwhiGLKY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Adventure, Comedy, Fantasy",
+        "type": "OVA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Tohokushinsha Film Corporation",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Little Witch Academia",
+        "imdb_rating": 6.1,
+        "imdb_votes": 6662,
+        "synopsis": "Geralt of Rivia, a mutated monster hunter, is hired to investigate a series of attacks in a seaside village and finds himself drawn into a centuries-old conflict between humans and merpeople. He must count on friends \u2014 old and new \u2014 to solve the mystery before the hostilities between the two kingdoms escalate into all-out war.",
+        "ranime": [
+            "Mahou Shoujo-tai Arusu"
+        ]
+    },
+    {
         "aid": 195,
         "name": "As A Reincarnated Aristocrat, I'Ll Use My Appraisal Skill To Rise In The World",
         "jname": "Dattebayo!!!",
@@ -5567,6 +5593,59 @@
             "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
             "Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta",
             "Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta"
+        ]
+    },
+    {
+        "aid": 195,
+        "name": "The Witcher Nightmare Of The Wolf",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3KQzodX.md.jpg, https://iili.io/3KQxIVV.jpg, https://iili.io/3KQz3zv.md.jpg",
+        "banner": "https://iili.io/3KQzY1S.md.jpg, N/A",
+        "cname": "Filemoon",
+        "cid": "269685",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/J365hQpaWRw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Adventure, Comedy, Fantasy",
+        "type": "OVA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Tohokushinsha Film Corporation",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Little Witch Academia",
+        "imdb_rating": 7.2,
+        "imdb_votes": 53016,
+        "synopsis": "Escaping from poverty to become a Witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.\n\n(Source Netflix)",
+        "ranime": [
+            "Mahou Shoujo-tai Arusu"
+        ]
+    },
+    {
+        "aid": 196,
+        "name": "The Glassworker",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3KQxP5u.png, https://iili.io/3KQx6Je.jpg, https://iili.io/3KQxXUX.md.jpg",
+        "banner": "https://iili.io/3KQxiOb.md.png, https://img.youtube.com/vi/Kl6cNSBg3Wg/maxresdefault.jpg",
+        "cname": "Filemoon",
+        "cid": "269686",
+        "let": "T",
+        "trailer": "N/A, https://www.youtube.com/embed/Kl6cNSBg3Wg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Horror, Suspense, Ecchi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Geneon Universal Entertainment, AT-X, Showgate",
+        "total_episodes": 1,
+        "pg_rating": "R+ - Mild Nudity",
+        "sanime": "High School DxD, Gakkougurashi!, Shingeki no Kyojin, Prison School, Tenkuu Shinpan, Gantz, Btooom!, Triage X, Hellsing Ultimate, Deadman Wonderland, Koutetsujou no Kabaneri, Sankarea, Tokyo Magnitude 8.0, Angel Beats!, Kore wa Zombie desu ka?, Higurashi no Naku Koro ni, Zom 100: Zombie ni Naru made ni Shitai 100 no Koto, Elfen Lied, Black Lagoon, Shiki, Gyo, Akame ga Kill!, Black Bullet, Kill la Kill, Mirai Nikki (TV), Shikabane Hime: Aka, Another, Gibiate, Tokyo Ghoul, Tenjou Tenge, Biohazard: Degeneration, Seikon no Qwaser, Ga-Rei: Zero, Seikimatsu Occult Gakuin, 11eyes, Shi Xiong, Chainsaw Maid, Muv-Luv Alternative: Total Eclipse, Absolute Duo, High School DxD BorN, Grenadier: Hohoemi no Senshi, Gokukoku no Brynhildr, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Hundred, Maid of the Dead, No Game No Life, Rescue Me!, Keijo!!!!!!!!, Mo Ri Shu Guang, Yakusoku no Neverland, Alice in Deadly School, Sabage-bu!, Zetsuen no Tempest, Akiba's Trip The Animation, Shinmai Maou no Testament, Gakuen Shinshoku: XX of the Dead, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, 7 Seeds, Masou Gakuen HxH, Kaze no Na wa Amnesia, Maji de Watashi ni Koi Shinasai!, Chrno Crusade, Ch\u00e4oS;HEAd, Ichiban Ushiro no Daimaou, Togainu no Chi, Seoul-yeok, Ben-To, Tokkou, Kakugo no Susume, Ghost Hunt, Bleach, Kenpuu Denki Berserk, Tokyo Majin Gakuen Kenpuuchou: Tou, AIKa R-16: Virgin Mission, Byston Well Monogatari: Garzey no Tsubasa, Amaenaide yo!!, Blood+, Zombie-Loan, Rail Wars!, Valkyrie Drive: Mermaid, Golgo 13 (TV), Rosario to Vampire, K\u00e4mpfer, Gunslinger Girl, Juu Ou Sei, Freezing, Busou Renkin, Death Note, Queen's Blade: Gyokuza wo Tsugu Mono, Hellsing, Tengen Toppa Gurren Lagann",
+        "imdb_rating": 7.6,
+        "imdb_votes": 1488,
+        "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
+        "ranime": [
+            "Highschool of the Dead",
+            "Highschool of the Dead: Drifters of the Dead"
         ]
     },
     {
@@ -5677,6 +5756,32 @@
             "Toilet-Bound Hanako-Kun",
             "Jibaku Shounen Hanako-kun",
             "L'oN"
+        ]
+    },
+    {
+        "aid": 202,
+        "name": "Joy ( Anime Play )",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3KQx9t4.jpg, https://iili.io/3KQopAG.md.jpg, N/A",
+        "banner": "N/A, N/A",
+        "cname": "RpmShare",
+        "cid": "142",
+        "let": "J",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Comedy, Fantasy",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": 3,
+        "pg_rating": "PG - Children",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The T-Joy theater chain will also screen three \"Kine-Pass Gekijou\" (Kine-Pass Theater) commercials to promote its Kine-Pass ticket sales app using the chibified Chen-Kuro Gakuen characters.\n(Source: ANN)http://www.animenewsnetwork.com/news/2016-11-25/chain-chronicle-anime-1st-7-minutes-streamed-petit-anime-tie-in-shorts-revealed/.109188\n",
+        "ranime": [
+            "Bakugan: Battle Planet"
         ]
     }
 ]
