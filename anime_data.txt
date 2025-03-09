@@ -5730,5 +5730,63 @@
         "ranime": [
             "Mahou Shoujo-tai Arusu"
         ]
+    },
+    {
+        "aid": 202,
+        "name": "Gintama",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3flXFt9.jpg, https://iili.io/3flWm6G.jpg, https://iili.io/3flWDnn.md.jpg",
+        "banner": "https://iili.io/3flXB6b.md.jpg, N/A",
+        "cname": "RpmShare",
+        "cid": "582",
+        "let": "G",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Comedy, Sci-Fi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "TV Tokyo, Aniplex, Dentsu, Trinity Sound, Miracle Robo, Shueisha",
+        "total_episodes": 201,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "SKET Dance, Danshi Koukousei no Nichijou, Arakawa Under the Bridge, Holo no Graffiti, Bleach, Poputepipikku, Sousou no Frieren, Saint\u2606Oniisan, Grand Blue, Hataraku Maou-sama!, No Game No Life, Beelzebub, Hayate no Gotoku!!, Hayate no Gotoku!, Sakigake!! Cromartie Koukou, School Rumble, Binbougami ga!, Bakumatsu Gijinden Roman, InuYasha",
+        "imdb_rating": 8.7,
+        "imdb_votes": 17719,
+        "synopsis": "The Amanto, aliens from outer space, have invaded Earth and taken over feudal Japan. As a result, a prohibition on swords has been established, and the samurai of Japan are treated with disregard as a consequence.\nHowever one man, Gintoki Sakata, still possesses the heart of the samurai, although from his love of sweets and work as a yorozuya, one might not expect it. Accompanying him in his jack-of-all-trades line of work are Shinpachi Shimura, a boy with glasses and a strong heart, Kagura with her umbrella and seemingly bottomless stomach, as well as Sadaharu, their oversized pet dog. Of course, these odd jobs are not always simple, as they frequently have run-ins with the police, ragtag rebels, and assassins, oftentimes leading to humorous but unfortunate consequences.\nWho said life as an errand boy was easy?\n[Written by MAL Rewrite]",
+        "ranime": [
+            "Gintama",
+            "Gintama': Enchousen",
+            "Gintama",
+            "Gintama: Yorinuki Gintama-san on Theater 2D",
+            "Gintama on Theater 2D: Baragaki-hen",
+            "SKET Dance"
+        ]
+    },
+    {
+        "aid": 202,
+        "name": "The Glassworker",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3fl6Yiv.png, https://iili.io/3fl6xUB.jpg, https://iili.io/3fl4mP4.md.jpg",
+        "banner": "https://iili.io/3fl6llp.md.png, https://img.youtube.com/vi/Kl6cNSBg3Wg/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "269686, 581",
+        "let": "T",
+        "trailer": "N/A, https://www.youtube.com/embed/Kl6cNSBg3Wg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Horror, Suspense, Ecchi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Geneon Universal Entertainment, AT-X, Showgate",
+        "total_episodes": 1,
+        "pg_rating": "R+ - Mild Nudity",
+        "sanime": "High School DxD, Gakkougurashi!, Shingeki no Kyojin, Prison School, Tenkuu Shinpan, Gantz, Btooom!, Triage X, Hellsing Ultimate, Deadman Wonderland, Koutetsujou no Kabaneri, Sankarea, Tokyo Magnitude 8.0, Angel Beats!, Kore wa Zombie desu ka?, Higurashi no Naku Koro ni, Zom 100: Zombie ni Naru made ni Shitai 100 no Koto, Elfen Lied, Black Lagoon, Shiki, Gyo, Akame ga Kill!, Black Bullet, Kill la Kill, Mirai Nikki (TV), Shikabane Hime: Aka, Another, Gibiate, Tokyo Ghoul, Tenjou Tenge, Biohazard: Degeneration, Seikon no Qwaser, Ga-Rei: Zero, Seikimatsu Occult Gakuin, 11eyes, Shi Xiong, Chainsaw Maid, Muv-Luv Alternative: Total Eclipse, Absolute Duo, High School DxD BorN, Grenadier: Hohoemi no Senshi, Gokukoku no Brynhildr, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Hundred, Maid of the Dead, No Game No Life, Rescue Me!, Keijo!!!!!!!!, Mo Ri Shu Guang, Yakusoku no Neverland, Alice in Deadly School, Sabage-bu!, Zetsuen no Tempest, Akiba's Trip The Animation, Shinmai Maou no Testament, Gakuen Shinshoku: XX of the Dead, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, 7 Seeds, Masou Gakuen HxH, Kaze no Na wa Amnesia, Maji de Watashi ni Koi Shinasai!, Chrno Crusade, Ch\u00e4oS;HEAd, Ichiban Ushiro no Daimaou, Togainu no Chi, Seoul-yeok, Ben-To, Tokkou, Kakugo no Susume, Ghost Hunt, Bleach, Kenpuu Denki Berserk, Tokyo Majin Gakuen Kenpuuchou: Tou, AIKa R-16: Virgin Mission, Byston Well Monogatari: Garzey no Tsubasa, Amaenaide yo!!, Blood+, Zombie-Loan, Rail Wars!, Valkyrie Drive: Mermaid, Golgo 13 (TV), Rosario to Vampire, K\u00e4mpfer, Gunslinger Girl, Juu Ou Sei, Freezing, Busou Renkin, Death Note, Queen's Blade: Gyokuza wo Tsugu Mono, Hellsing, Tengen Toppa Gurren Lagann",
+        "imdb_rating": 7.6,
+        "imdb_votes": 1492,
+        "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
+        "ranime": [
+            "Highschool of the Dead",
+            "Highschool of the Dead: Drifters of the Dead"
+        ]
     }
 ]
