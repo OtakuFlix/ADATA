@@ -1785,9 +1785,9 @@
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
         "status": "Current",
-        "airing": false,
+        "airing": true,
         "studio": false,
-        "producers": "N/A",
+        "producers": "Aniflix",
         "total_episodes": "1122",
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Naruto",
@@ -5596,33 +5596,6 @@
         ]
     },
     {
-        "aid": 196,
-        "name": "The Glassworker",
-        "jname": "Dattebayo!!!",
-        "poster": "https://iili.io/3fczA6G.png, https://iili.io/3fczqaR.jpg, https://iili.io/3fcxwhX.md.jpg",
-        "banner": "https://iili.io/3fczc92.md.png, https://img.youtube.com/vi/Kl6cNSBg3Wg/maxresdefault.jpg",
-        "cname": "Filemoon, RpmShare",
-        "cid": "269686, 581",
-        "let": "T",
-        "trailer": "N/A, https://www.youtube.com/embed/Kl6cNSBg3Wg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Horror, Suspense, Ecchi",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "N/A",
-        "producers": "Geneon Universal Entertainment, AT-X, Showgate",
-        "total_episodes": 1,
-        "pg_rating": "R+ - Mild Nudity",
-        "sanime": "High School DxD, Gakkougurashi!, Shingeki no Kyojin, Prison School, Tenkuu Shinpan, Gantz, Btooom!, Triage X, Hellsing Ultimate, Deadman Wonderland, Koutetsujou no Kabaneri, Sankarea, Tokyo Magnitude 8.0, Angel Beats!, Kore wa Zombie desu ka?, Higurashi no Naku Koro ni, Zom 100: Zombie ni Naru made ni Shitai 100 no Koto, Elfen Lied, Black Lagoon, Shiki, Gyo, Akame ga Kill!, Black Bullet, Kill la Kill, Mirai Nikki (TV), Shikabane Hime: Aka, Another, Gibiate, Tokyo Ghoul, Tenjou Tenge, Biohazard: Degeneration, Seikon no Qwaser, Ga-Rei: Zero, Seikimatsu Occult Gakuin, 11eyes, Shi Xiong, Chainsaw Maid, Muv-Luv Alternative: Total Eclipse, Absolute Duo, High School DxD BorN, Grenadier: Hohoemi no Senshi, Gokukoku no Brynhildr, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Hundred, Maid of the Dead, No Game No Life, Rescue Me!, Keijo!!!!!!!!, Mo Ri Shu Guang, Yakusoku no Neverland, Alice in Deadly School, Sabage-bu!, Zetsuen no Tempest, Akiba's Trip The Animation, Shinmai Maou no Testament, Gakuen Shinshoku: XX of the Dead, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, 7 Seeds, Masou Gakuen HxH, Kaze no Na wa Amnesia, Maji de Watashi ni Koi Shinasai!, Chrno Crusade, Ch\u00e4oS;HEAd, Ichiban Ushiro no Daimaou, Togainu no Chi, Seoul-yeok, Ben-To, Tokkou, Kakugo no Susume, Ghost Hunt, Bleach, Kenpuu Denki Berserk, Tokyo Majin Gakuen Kenpuuchou: Tou, AIKa R-16: Virgin Mission, Byston Well Monogatari: Garzey no Tsubasa, Amaenaide yo!!, Blood+, Zombie-Loan, Rail Wars!, Valkyrie Drive: Mermaid, Golgo 13 (TV), Rosario to Vampire, K\u00e4mpfer, Gunslinger Girl, Juu Ou Sei, Freezing, Busou Renkin, Death Note, Queen's Blade: Gyokuza wo Tsugu Mono, Hellsing, Tengen Toppa Gurren Lagann",
-        "imdb_rating": 7.6,
-        "imdb_votes": 1491,
-        "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
-        "ranime": [
-            "Highschool of the Dead",
-            "Highschool of the Dead: Drifters of the Dead"
-        ]
-    },
-    {
         "aid": 197,
         "name": "The Red Ranger Becomes An Adventurer In Another World",
         "jname": "\u6226\u968a\u30ec\u30c3\u30c9 \u7570\u4e16\u754c\u3067\u5192\u967a\u8005\u306b\u306a\u308b",
@@ -5757,5 +5730,29 @@
         "ranime": [
             "Mahou Shoujo-tai Arusu"
         ]
+    },
+    {
+        "aid": 202,
+        "name": "The Glassworker",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/33vpNTJ.md.jpg, https://iili.io/33vyCa1.png",
+        "banner": "https://iili.io/33vyYFI.md.png, https://img.youtube.com/vi/Kl6cNSBg3Wg/maxresdefault.jpg",
+        "cname": "Filemoon",
+        "cid": "269686",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/Kl6cNSBg3Wg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Suspense, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "false",
+        "producers": "Geneon Universal Entertainment, AT-X, Showgate",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Vincent and his father, Tomas, run the best glassworks in the country, but the onset of war turns their lives upside down. Vincent falls in love with Alliz, the daughter of a colonel, and they both must find the courage to confront their fathers.",
+        "imdb_rating": 7.6,
+        "imdb_votes": 1488,
+        "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
+        "ranime": []
     }
 ]
