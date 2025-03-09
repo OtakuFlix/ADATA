@@ -5769,7 +5769,7 @@
         "type": "Movie",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
+        "studio": "false",
         "producers": "N/A",
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -5779,6 +5779,33 @@
         "synopsis": "The Edo period is nearing its end. Gabimaru, a shinobi formerly known as the strongest in Iwagakure who is now a death row convict, is told that he will be acquitted and set free if he can bring back the Elixir of Life from an island that is rumored to be the Buddhist pure land Sukhavati. In hopes of reuniting with his beloved wife, Gabimaru heads to the island along with the executioner Yamada Asaemon Sagiri. Upon arriving there, they encounter other death row convicts in search of the Elixir of Life... as well as a host of unknown creatures, eerie manmade statues, and the hermits who rule the island. Can Gabimaru find the Elixir of Life on this mysterious island and make it back home alive?\n\n(Source: Crunchyroll)",
         "ranime": [
             "Hells Angels"
+        ]
+    },
+    {
+        "aid": 203,
+        "name": "Hells Paradice",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3famapV.md.jpg, https://iili.io/3fcHXVI.jpg, https://iili.io/3fcHfM7.md.jpg",
+        "banner": "https://iili.io/3famwpp.md.png, https://iili.io/3fcH7P1.md.jpg",
+        "cname": "RpmShare",
+        "cid": "579",
+        "let": "H",
+        "trailer": "https://www.youtube.com/embed/8BIaDDN-r3o?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/fsW0fU1hobQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Supernatural",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Twin Engine",
+        "total_episodes": 13,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Chainsaw Man, Kimetsu no Yaiba, Made in Abyss, Jujutsu Kaisen, Dororo, Jujutsu Kaisen 2nd Season, Shingeki no Kyojin, Kami no Tou, Gantz, Katanagatari, Btooom!, Naruto, Tengoku Daimakyou, Hunter x Hunter (2011), Bloodivores, Naruto: Shippuuden, Wu Shan Wu Xing (2020), Guilty Crown, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Houseki no Kuni, Rokka no Yuusha, Gunjou no Magmell, Basilisk: Kouga Ninpou Chou, Tokyo Revengers, Samurai Champloo, Fumetsu no Anata e, Juubee Ninpuuchou, Tokyo Ghoul",
+        "imdb_rating": 8.1,
+        "imdb_votes": 18831,
+        "synopsis": "The Edo period is nearing its end. Gabimaru, a shinobi formerly known as the strongest in Iwagakure who is now a death row convict, is told that he will be acquitted and set free if he can bring back the Elixir of Life from an island that is rumored to be the Buddhist pure land Sukhavati. In hopes of reuniting with his beloved wife, Gabimaru heads to the island along with the executioner Yamada Asaemon Sagiri. Upon arriving there, they encounter other death row convicts in search of the Elixir of Life... as well as a host of unknown creatures, eerie manmade statues, and the hermits who rule the island. Can Gabimaru find the Elixir of Life on this mysterious island and make it back home alive?\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Jigokuraku 2nd Season",
+            "Jigokuraku"
         ]
     }
 ]
