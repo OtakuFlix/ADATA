@@ -5754,5 +5754,36 @@
         "imdb_votes": 1488,
         "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
         "ranime": []
+    },
+    {
+        "aid": 202,
+        "name": "Gintama",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3flXFt9.jpg, https://iili.io/3flWm6G.jpg, https://iili.io/3flWDnn.md.jpg",
+        "banner": "https://iili.io/3flXB6b.md.jpg, N/A",
+        "cname": "RpmShare",
+        "cid": "582",
+        "let": "G",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Comedy, Sci-Fi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "TV Tokyo, Aniplex, Dentsu, Trinity Sound, Miracle Robo, Shueisha",
+        "total_episodes": 201,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "SKET Dance, Danshi Koukousei no Nichijou, Arakawa Under the Bridge, Holo no Graffiti, Bleach, Poputepipikku, Sousou no Frieren, Saint\u2606Oniisan, Grand Blue, Hataraku Maou-sama!, No Game No Life, Beelzebub, Hayate no Gotoku!!, Hayate no Gotoku!, Sakigake!! Cromartie Koukou, School Rumble, Binbougami ga!, Bakumatsu Gijinden Roman, InuYasha",
+        "imdb_rating": 8.7,
+        "imdb_votes": 17719,
+        "synopsis": "The Amanto, aliens from outer space, have invaded Earth and taken over feudal Japan. As a result, a prohibition on swords has been established, and the samurai of Japan are treated with disregard as a consequence.\nHowever one man, Gintoki Sakata, still possesses the heart of the samurai, although from his love of sweets and work as a yorozuya, one might not expect it. Accompanying him in his jack-of-all-trades line of work are Shinpachi Shimura, a boy with glasses and a strong heart, Kagura with her umbrella and seemingly bottomless stomach, as well as Sadaharu, their oversized pet dog. Of course, these odd jobs are not always simple, as they frequently have run-ins with the police, ragtag rebels, and assassins, oftentimes leading to humorous but unfortunate consequences.\nWho said life as an errand boy was easy?\n[Written by MAL Rewrite]",
+        "ranime": [
+            "Gintama",
+            "Gintama': Enchousen",
+            "Gintama",
+            "Gintama: Yorinuki Gintama-san on Theater 2D",
+            "Gintama on Theater 2D: Baragaki-hen",
+            "SKET Dance"
+        ]
     }
 ]
