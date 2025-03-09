@@ -5730,7 +5730,8 @@
         "ranime": [
             "Mahou Shoujo-tai Arusu"
         ]
-    }    {
+    },   
+    {
         "aid": 202,
         "name": "The Glassworker",
         "jname": "Dattebayo!!!",
