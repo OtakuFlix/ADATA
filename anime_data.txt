@@ -5754,5 +5754,32 @@
         "imdb_votes": 1488,
         "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
         "ranime": []
+    },
+    {
+        "aid": 203,
+        "name": "The God Of High School",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3qbBFSV.md.jpg, https://iili.io/3qbBHMb.jpg, https://iili.io/3qbqQcl.md.jpg",
+        "banner": "https://iili.io/3qbBoog.md.png, https://iili.io/3qbqpte.md.jpg",
+        "cname": "Filemoon",
+        "cid": "273652",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/8i3Xvs4R0WY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/oqjwUfprNAk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Crunchyroll, Sola Entertainment, Naver Webtoons",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kami no Tou, Jujutsu Kaisen, Dragon Ball Z, Tenjou Tenge, Dragon Ball Super, Megalo Box, Bleach, Noblesse, Wu Shan Wu Xing (2020), SKET Dance, Baki: Dai Raitaisai-hen, Shuumatsu no Walk\u00fcre, Naruto, Air Gear, Kengan Ashura, Grappler Baki: Saidai Tournament-hen, Hunter x Hunter (2011), Dragon Ball, Mirai Nikki (TV), Ao no Exorcist, Hypnosis Mic: Division Rap Battle - Rhyme Anima, Akame ga Kill!, Tokyo Revengers, Fate/Zero, Plunderer, Boku no Hero Academia 2nd Season, One Punch Man, Ore dake Level Up na Ken, Tekken: Bloodline, Wind Breaker, Naruto: Shippuuden, Rekka no Honoo, One Punch Man 2nd Season, Da Wang Rao Ming, SK\u221e, Paradox Live the Animation, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Oemojisangjuui, Baki, Hunter x Hunter, Durarara!!, Grappler Baki (TV), Saint Seiya, Ueki no Housoku, Yasuke, Boku no Hero Academia, One Piece, Yakusoku no Neverland 2nd Season, Darling in the FranXX, Shaman King, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Kimetsu no Yaiba",
+        "imdb_rating": 7.2,
+        "imdb_votes": 8623,
+        "synopsis": "Jin Mori has proclaimed himself the strongest high schooler. His life changes when he's invited to participate in \"God of High School,\" a tournament to determine the strongest high schooler of all. He's told that if he wins, any wish he makes will be granted... All the participants are powerful contenders who fight their hardest for their own wishes. What awaits them at the end of the tournament? A chaotic battle between unbelievably strong high school students is about to begin! \n\n(Source: Crunchyroll)",
+        "ranime": [
+            "The God of High School",
+            "The God of High School PV"
+        ]
     }
 ]
