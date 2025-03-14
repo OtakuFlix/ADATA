@@ -5769,7 +5769,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
+        "studio": "false",
         "producers": "Crunchyroll, Sola Entertainment, Naver Webtoons",
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -5780,6 +5780,37 @@
         "ranime": [
             "The God of High School",
             "The God of High School PV"
+        ]
+    },
+    {
+        "aid": 204,
+        "name": "Black Clover Season 2",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3CnmFKg.th.png, https://iili.io/3CnbyNV.jpg, N/A",
+        "banner": "https://iili.io/3CnmfUJ.md.jpg, https://img.youtube.com/vi/vUjAxk1qYzQ/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "276244, 660",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/5kh7ClVck4Y?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/vUjAxk1qYzQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "TV Tokyo, Avex Pictures, Shueisha",
+        "total_episodes": 170,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Naruto, Fairy Tail, Boku no Hero Academia, Naruto: Shippuuden, One Piece, Bleach, Hunter x Hunter (2011), Ao no Exorcist, Mashle, Tsue to Tsurugi no Wistoria, Nanatsu no Taizai, Haikyuu!!, World Trigger, Jujutsu Kaisen, Enen no Shouboutai, Radiant, Orient, Fullmetal Alchemist: Brotherhood, Bleach: Sennen Kessen-hen, Kimetsu no Yaiba, Diamond no Ace, Boku no Hero Academia 2nd Season, Berserk, Kingdom, Tate no Yuusha no Nariagari, Boku no Hero Academia 4th Season, Fate/Apocrypha, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Shokugeki no Souma, Fairy Tail (2014), Kemono Jihen, Konjiki no Gash Bell!!, Douluo Dalu, Enen no Shouboutai: Ni no Shou, Bungou Stray Dogs, Mushoku Tensei: Isekai Ittara Honki Dasu, Dr. Stone, Dragon Ball, Mob Psycho 100, World Trigger 3rd Season, InuYasha, Magi: The Kingdom of Magic, Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru, Isekai Cheat Magician, One Piece Film: Strong World, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Radiant 2nd Season, Soul Eater, Toaru Majutsu no Index, Little Witch Academia (TV), Owari no Seraph, Toaru Majutsu no Index III, Kaijuu 8-gou, Magi: The Labyrinth of Magic, Boruto: Naruto Next Generations, UQ Holder! Mahou Sensei Negima! 2, Fairy Tail: Final Series, Rakudai Kishi no Cavalry, Chain Chronicle: Haecceitas no Hikari, One Punch Man, Saint Seiya, Quanzhi Fashi, Chainsaw Man, Ginga Eiyuu Densetsu, Yuu\u2606Yuu\u2606Hakusho, Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder's magic. Asta's is a rare Grimoire of Anti-Magic that negates and repels his opponent's spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Black Clover",
+            "Petit Clover Advance",
+            "Black Clover: Jump Festa 2018 Special",
+            "Black Clover: Mahou Tei no Ken",
+            "Black Clover: Jump Festa 2016 Special",
+            "Mugyutto! Black Clover"
         ]
     }
 ]
