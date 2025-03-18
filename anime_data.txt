@@ -5796,7 +5796,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
+        "studio": "false",
         "producers": "TV Tokyo, Avex Pictures, Shueisha",
         "total_episodes": 170,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -5811,6 +5811,33 @@
             "Black Clover: Mahou Tei no Ken",
             "Black Clover: Jump Festa 2016 Special",
             "Mugyutto! Black Clover"
+        ]
+    },
+    {
+        "aid": 205,
+        "name": "She Professed Herself Pupil Of The Wise Man",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3oNRZa1.th.png, https://iili.io/3oNRiGV.jpg, https://iili.io/3oNRva9.md.jpg",
+        "banner": "https://iili.io/3oNRyZv.md.png, https://iili.io/3oNRPCQ.md.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "277277, 732",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/ZO5tYbvqGrc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/k5nkrxm-1gY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "DAX Production, MAGES., Kadokawa, Micro Magazine Publishing, MAGNET, Micro House",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Fantasy Bishoujo Juniku Ojisan to, Leadale no Daichi nite, Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi\u2640, Level 1 dakedo Unique Skill de Saikyou desu",
+        "imdb_rating": 5.9,
+        "imdb_votes": 459,
+        "synopsis": "In one of the worlds that exist within virtual reality, Kagami held the title of one of the Nine Sages, a position that placed him at the pinnacle of magicians.\n\nOne day, he fell asleep in-game after pulling an all-nighter. When he opened his eyes, what he found was a world that was different to the one before\u2026 More important than anything else, was that the grizzled and dignified veteran\u2019s body that he was used to, had now turned into an innocent little girl\u2019s.\n\nIf his true identity was leaked, honestly speaking it was a situation where it was very possible that the solemn image he had built up until now would be destroyed.\n\nAnd to deal with this problem, the excuse that he came up with was\u2026\n\n(Source: Oniichanyamete)",
+        "ranime": [
+            "Kenja no Deshi wo Nanoru Kenja the Comic",
+            "Kenja no Deshi wo Nanoru Kenja"
         ]
     }
 ]
