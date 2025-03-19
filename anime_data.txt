@@ -4812,7 +4812,7 @@
         "ranime": [
             "Attack On Titans Season 2",
             "Attack On Titans Season 3",
-            "Shingeki no Kyojin OVA",
+            "Attack On Titans Season 4",
             "Shingeki no Kyojin: Kuinaki Sentaku",
             "Shingeki! Kyojin Chuugakkou",
             "Shingeki no Kyojin: Lost Girls",
@@ -5504,7 +5504,7 @@
         "ranime": [
             "Attack On Titans",
             "Attack On Titans Season 3",
-            "Shingeki no Kyojin",
+            "Attack On Titans Season 4",
             "Shingeki no Kyojin: Chronicle",
             "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
             "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora"
@@ -5535,7 +5535,7 @@
         "ranime": [
             "Attack On Titans Season 2",
             "Attack On Titans",
-            "Shingeki no Kyojin",
+            "Attack On Titans Season 4",
             "Shingeki no Kyojin Season 3 Specials",
             "Shingeki no Kyojin: Chronicle",
             "Akatsuki no Chinkonka"
@@ -5843,9 +5843,9 @@
     {
         "aid": 206,
         "name": "Attack On Titans Season 4",
-        "jname": "Dattebayo!!!",
-        "poster": "https://iili.io/3xCyV0g.md.png, https://iili.io/3xCyEs1.jpg, https://iili.io/3xCyaOQ.md.jpg",
-        "banner": "https://iili.io/3xCyhdJ.md.jpg, https://iili.io/3xCy1WP.md.jpg",
+        "jname": "\u9032\u6483\u306e\u5de8\u4eba - Season 4 - The Final Season",
+        "poster": "https://iili.io/3xnfRgS.jpg, https://iili.io/3xCyV0g.png, https://iili.io/3xCyEs1.jpg",
+        "banner": "https://iili.io/3xCyhdJ.jpg, https://iili.io/3xCy1WP.jpg",
         "cname": "Filemoon, RpmShare",
         "cid": "277637, 762",
         "let": "A",
@@ -5863,9 +5863,9 @@
         "imdb_votes": 826,
         "synopsis": "4 years after the Survey Corps reached the shore beyond the walls, Falco Grice and Gabi Braun are among Marley's \"Warrior Candidates\" who wish to inherit the power of the Titans. After emerging victorious in a hard-fought war, they continue their military training when Marley shifts its focus on invading Paradis once again. Nevertheless, in the midst of this announcement, Reiner has an unexpected encounter with a key person from his past... one who brings along terror and chaos.\n\n(Source: Anime News Network)",
         "ranime": [
-            "Shingeki no Kyojin Season 3 Part 2",
-            "Shingeki no Kyojin: The Final Season Part 2",
-            "Shingeki no Kyojin",
+            "Attack On Titans Season 2",
+            "Attack On Titans",
+            "Attack On Titans Season 3",
             "Shingeki no Kyojin: The Final Season Specials",
             "Boku no Sensou"
         ]
