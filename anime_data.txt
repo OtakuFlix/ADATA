@@ -5827,7 +5827,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
+        "studio": "false",
         "producers": "DAX Production, MAGES., Kadokawa, Micro Magazine Publishing, MAGNET, Micro House",
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -5838,6 +5838,36 @@
         "ranime": [
             "Kenja no Deshi wo Nanoru Kenja the Comic",
             "Kenja no Deshi wo Nanoru Kenja"
+        ]
+    },
+    {
+        "aid": 206,
+        "name": "Attack On Titans Season 4",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3xCyV0g.md.png, https://iili.io/3xCyEs1.jpg, https://iili.io/3xCyaOQ.md.jpg",
+        "banner": "https://iili.io/3xCyhdJ.md.jpg, https://iili.io/3xCy1WP.md.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "277637, 762",
+        "let": "A",
+        "trailer": "https://www.youtube.com/embed/nUE0OyXWMuo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/SlNpRThS9t8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Drama, Suspense",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Production I.G, Dentsu, Mainichi Broadcasting System, Pony Canyon, Kodansha, Techno Sound, Pony Canyon Enterprises",
+        "total_episodes": 16,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "86, Youjo Senki, Vinland Saga, Ginga Eiyuu Densetsu, Code Geass: Hangyaku no Lelouch, Code Geass: Hangyaku no Lelouch R2, Kimetsu no Yaiba, Fullmetal Alchemist: Brotherhood, Koutetsujou no Kabaneri, 86 Part 2, Shinseiki Evangelion, Guilty Crown, Kaze no Tani no Nausica\u00e4, Heion Sedai no Idaten-tachi, Kingdom 3rd Season, Tokyo Ghoul:re 2nd Season, Magi: The Labyrinth of Magic, Kiseijuu: Sei no Kakuritsu, Shakugan no Shana III (Final), Naruto: Shippuuden, RahXephon, Beastars 2nd Season, Owari no Seraph, Casshern Sins, Tokyo Ghoul \u221aA, Kiseichuu no Ichiya, Mononoke Hime, Zankyou no Terror",
+        "imdb_rating": 8.9,
+        "imdb_votes": 826,
+        "synopsis": "4 years after the Survey Corps reached the shore beyond the walls, Falco Grice and Gabi Braun are among Marley's \"Warrior Candidates\" who wish to inherit the power of the Titans. After emerging victorious in a hard-fought war, they continue their military training when Marley shifts its focus on invading Paradis once again. Nevertheless, in the midst of this announcement, Reiner has an unexpected encounter with a key person from his past... one who brings along terror and chaos.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Shingeki no Kyojin Season 3 Part 2",
+            "Shingeki no Kyojin: The Final Season Part 2",
+            "Shingeki no Kyojin",
+            "Shingeki no Kyojin: The Final Season Specials",
+            "Boku no Sensou"
         ]
     }
 ]
