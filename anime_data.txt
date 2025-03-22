@@ -4808,11 +4808,11 @@
         "sanime": "Koutetsujou no Kabaneri, Yakusoku no Neverland, Owari no Seraph, Black Bullet, Fullmetal Alchemist: Brotherhood, Tokyo Ghoul, Vinland Saga, 86, Sidonia no Kishi, Claymore, Aldnoah.Zero, Shinseiki Evangelion, God Eater, Kimetsu no Yaiba, Akame ga Kill!, Deadman Wonderland, Kenpuu Denki Berserk, Highschool of the Dead, Hunter x Hunter (2011), Tengen Toppa Gurren Lagann, Code Geass: Hangyaku no Lelouch, Terra Formars, Ao no Exorcist, Death Note, Made in Abyss, Gantz, Kaijuu 8-gou, Kiseijuu: Sei no Kakuritsu, Sword Art Online, Shinsekai yori, Enen no Shouboutai, Guilty Crown, Houseki no Kuni, Deca-Dence, JoJo no Kimyou na Bouken (TV), Muv-Luv Alternative: Total Eclipse, Youjo Senki, Bleach, Blue Gender, Dorohedoro, Fate/Zero, Terra Formars: Bugs 2-hen, Code Geass: Hangyaku no Lelouch R2, D.Gray-man, Fullmetal Alchemist, Shiki, Blood-C, Elfen Lied, Koukaku no Regios, Kujira no Kora wa Sajou ni Utau, Kidou Senshi Zeta Gundam, Devilman: Crybaby, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Ansatsu Kyoushitsu, Freezing, Chainsaw Man, Darker than Black: Kuro no Keiyakusha, Darling in the FranXX, Ima, Soko ni Iru Boku, Btooom!, World Trigger, No.6, Zetman, Naruto: Shippuuden, Fate/stay night: Unlimited Blade Works, Jigokuraku, Bounen no Xamdou, Boku no Hero Academia, Tengoku Daimakyou, Ragna Crimson, Ergo Proxy, Kill la Kill, Aoki Hagane no Arpeggio: Ars Nova, Naruto, NieR:Automata Ver1.1a, Rainbow: Nisha Rokubou no Shichinin, Pupa, Berserk: Ougon Jidai-hen I - Haou no Tamago, Jujutsu Kaisen, Tokyo Magnitude 8.0, Nanatsu no Taizai, Juu Ou Sei, One Piece, Re:Zero kara Hajimeru Isekai Seikatsu, Kami no Tou, Goblin Slayer, Muv-Luv Alternative, Nejimaki Seirei Senki: Tenkyou no Alderamin, Godzilla 1: Kaijuu Wakusei, Evangelion Movie 2: Ha, Cyberpunk: Edgerunners, Gamba no Bouken, Steins;Gate, Change!! Getter Robo: Sekai Saigo no Hi, Dragon Ball Z, Mirai Nikki (TV), Enen no Shouboutai: Ni no Shou, Dororo, Blame! Movie, Kumo desu ga, Nani ka?, Jibaku Shounen Hanako-kun, Evangelion Movie 1: Jo, World Trigger 2nd Season, Fate/stay night, Fate/Zero 2nd Season, Pokemon XY&Z, Kidou Senshi Gundam, Boku no Hero Academia 4th Season, Summertime Render, 86 Part 2, Vivy: Fluorite Eye's Song, Idaten Jump, Ginga Eiyuu Densetsu, Plunderer, Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni, Tokyo Ghoul:re, Princess Principal, Fate/Grand Order: Zettai Majuu Sensen Babylonia, Banana Fish, Back Arrow, Munou na Nana, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Dragon Ball Super, Kidou Senshi Gundam: The Origin, Null Peta, Infinite Dendrogram, Bakuman., Heroic Age, Shingeki! Kyojin Chuugakkou, Yakusoku no Neverland 2nd Season, Mononogatari, Jouran: The Princess of Snow and Blood, Violet Evergarden, Versailles no Bara, Baki, Gankutsuou, Ishura, Sabikui Bisco, Strike Witches, Garo: Honoo no Kokuin, Devilman: Tanjou-hen, Kingsglaive: Final Fantasy XV, Zetsuen no Tempest, Toriko, Suisei no Gargantia, Giant Killing, 07-Ghost, Macross, Uchuu no Kishi Tekkaman Blade, Hellsing Ultimate, Hajime no Ippo, s.CRY.ed, Magi: The Kingdom of Magic, Noragami, Gyakkyou Burai Kaiji: Ultimate Survivor, Haibane Renmei, Kingdom 2nd Season, Golden Kamuy 2nd Season, Kuroko no Basket 2nd Season, Air Gear, Gasaraki, Ginga Nagareboshi Gin, Kemonozume, Tegamibachi, Arslan Senki (TV), Toaru Hikuushi e no Koiuta, Jinrui wa Suitai Shimashita, Haikyuu!!, Saint Seiya: The Lost Canvas - Meiou Shinwa, Kingdom, Ga-Rei: Zero, Kidou Senshi Gundam: Dai 08 MS Shoutai, Black Lagoon, Zankyou no Terror, Anima, Schwarzesmarken, Revisions, Hai to Gensou no Grimgar, Bubuki Buranki, Seisen Cerberus: Ryuukoku no Fatalit\u00e9s, Fate/stay night: Unlimited Blade Works 2nd Season, Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079, Casshern Sins, Trigun, Giniro no Kami no Agito, Cowboy Bebop, Tenshi no Drop, No Game No Life, Akira, Berserk, Mahou Shoujo Madoka\u2605Magica, Densetsu no Yuusha no Densetsu, Kidou Senshi Gundam 0083: Stardust Memory, Tales of Vesperia: The First Strike, Juushin Liger, Yuri Kuma Arashi, Hakuouki: Hekketsuroku, Vampire Hunter D (2000), Ousama Ranking, RahXephon, Freedom, Another, Kantai Collection: KanColle",
         "imdb_rating": 9.1,
         "imdb_votes": 580692,
-        "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
+        "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titan, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the Titan and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
         "ranime": [
-            "Attack On Titans Season 2",
-            "Attack On Titans Season 3",
-            "Attack On Titans Season 4",
+            "Attack On Titan Season 2",
+            "Attack On Titan Season 3",
+            "Attack On Titan Season 4",
             "Shingeki no Kyojin: Kuinaki Sentaku",
             "Shingeki! Kyojin Chuugakkou",
             "Shingeki no Kyojin: Lost Girls",
@@ -5481,7 +5481,7 @@
     },
     {
         "aid": 193,
-        "name": "Attack On Titans Season 2",
+        "name": "Attack On Titan Season 2",
         "jname": "Dattebayo!!!",
         "poster": "https://iili.io/33WPZIR.jpg, https://iili.io/33WPskJ.jpg, https://iili.io/33WP4rF.jpg",
         "banner": "https://iili.io/33WPDLN.png, https://iili.io/33WPi7a.jpg",
@@ -5500,11 +5500,11 @@
         "sanime": "Owari no Seraph: Nagoya Kessen-hen, God Eater, Yakusoku no Neverland, Vinland Saga Season 2, Big Order (TV), Owari no Seraph, Black Bullet, Sidonia no Kishi: Daikyuu Wakusei Seneki, Koutetsujou no Kabaneri",
         "imdb_rating": 4.7,
         "imdb_votes": 6253,
-        "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest\u2014a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n(Source: Funimation)",
+        "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest\u2014a horde of Titan is approaching Wall Rose and the battle for humanity continues!\n\n(Source: Funimation)",
         "ranime": [
-            "Attack On Titans",
-            "Attack On Titans Season 3",
-            "Attack On Titans Season 4",
+            "Attack On Titan",
+            "Attack On Titan Season 3",
+            "Attack On Titan Season 4",
             "Shingeki no Kyojin: Chronicle",
             "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
             "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora"
@@ -5512,7 +5512,7 @@
     },
     {
         "aid": 194,
-        "name": "Attack On Titans Season 3",
+        "name": "Attack On Titan Season 3",
         "jname": "Dattebayo!!!",
         "poster": "https://iili.io/33WiWjR.jpg, https://iili.io/33WiEva.jpg, https://iili.io/33Wic41.jpg",
         "banner": "https://iili.io/33WijCN.jpg, https://iili.io/33Wi1Yg.jpg",
@@ -5531,11 +5531,11 @@
         "sanime": "Shinsekai yori, Vinland Saga, Fullmetal Alchemist: Brotherhood, Tenkuu no Shiro Laputa, Higurashi no Naku Koro ni Kai",
         "imdb_rating": 9.4,
         "imdb_votes": 732,
-        "synopsis": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley. Now a motley crew of his former comrades and enemies scramble to halt his deadly mission, the only question is, can they stop him?\n\n(Source: Crunchyroll)",
+        "synopsis": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titan. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titan towards Marley. Now a motley crew of his former comrades and enemies scramble to halt his deadly mission, the only question is, can they stop him?\n\n(Source: Crunchyroll)",
         "ranime": [
-            "Attack On Titans Season 2",
-            "Attack On Titans",
-            "Attack On Titans Season 4",
+            "Attack On Titan Season 2",
+            "Attack On Titan",
+            "Attack On Titan Season 4",
             "Shingeki no Kyojin Season 3 Specials",
             "Shingeki no Kyojin: Chronicle",
             "Akatsuki no Chinkonka"
@@ -5842,7 +5842,7 @@
     },
     {
         "aid": 206,
-        "name": "Attack On Titans Season 4",
+        "name": "Attack On Titan Season 4",
         "jname": "\u9032\u6483\u306e\u5de8\u4eba - Season 4 - The Final Season",
         "poster": "https://iili.io/3xnfRgS.jpg, https://iili.io/3xCyV0g.png, https://iili.io/3xCyEs1.jpg",
         "banner": "https://iili.io/3xCyhdJ.jpg, https://iili.io/3xCy1WP.jpg",
@@ -5861,11 +5861,11 @@
         "sanime": "86, Youjo Senki, Vinland Saga, Ginga Eiyuu Densetsu, Code Geass: Hangyaku no Lelouch, Code Geass: Hangyaku no Lelouch R2, Kimetsu no Yaiba, Fullmetal Alchemist: Brotherhood, Koutetsujou no Kabaneri, 86 Part 2, Shinseiki Evangelion, Guilty Crown, Kaze no Tani no Nausica\u00e4, Heion Sedai no Idaten-tachi, Kingdom 3rd Season, Tokyo Ghoul:re 2nd Season, Magi: The Labyrinth of Magic, Kiseijuu: Sei no Kakuritsu, Shakugan no Shana III (Final), Naruto: Shippuuden, RahXephon, Beastars 2nd Season, Owari no Seraph, Casshern Sins, Tokyo Ghoul \u221aA, Kiseichuu no Ichiya, Mononoke Hime, Zankyou no Terror",
         "imdb_rating": 8.9,
         "imdb_votes": 826,
-        "synopsis": "4 years after the Survey Corps reached the shore beyond the walls, Falco Grice and Gabi Braun are among Marley's \"Warrior Candidates\" who wish to inherit the power of the Titans. After emerging victorious in a hard-fought war, they continue their military training when Marley shifts its focus on invading Paradis once again. Nevertheless, in the midst of this announcement, Reiner has an unexpected encounter with a key person from his past... one who brings along terror and chaos.\n\n(Source: Anime News Network)",
+        "synopsis": "4 years after the Survey Corps reached the shore beyond the walls, Falco Grice and Gabi Braun are among Marley's \"Warrior Candidates\" who wish to inherit the power of the Titan. After emerging victorious in a hard-fought war, they continue their military training when Marley shifts its focus on invading Paradis once again. Nevertheless, in the midst of this announcement, Reiner has an unexpected encounter with a key person from his past... one who brings along terror and chaos.\n\n(Source: Anime News Network)",
         "ranime": [
-            "Attack On Titans Season 2",
-            "Attack On Titans",
-            "Attack On Titans Season 3",
+            "Attack On Titan Season 2",
+            "Attack On Titan",
+            "Attack On Titan Season 3",
             "Shingeki no Kyojin: The Final Season Specials",
             "Boku no Sensou"
         ]
