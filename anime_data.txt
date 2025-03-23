@@ -5212,7 +5212,7 @@
         "cname": "Filemoon, RpmShare",
         "cid": "268008, 105",
         "let": "S",
-        "trailer": "https://www.youtube.com/embed/OIi6fBHx72U?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/7HSDKDCAHX8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "trailer": "https://www.youtube.com/embed/7HSDKDCAHX8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
         "status": "Current",
