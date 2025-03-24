@@ -248,7 +248,7 @@
         "synopsis": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
-            "Solo Leveling",
+            "Solo Leveling Season 2",
             "Ore dake Level Up na Ken: How to Get Stronger",
             "Ore dake Level Up na Ken: ReAwakening",
             "Echo"
@@ -4728,12 +4728,11 @@
         "producers": "Aniplex, Crunchyroll, Sonilude, Netmarble, Kakao piccoma, D&C Media",
         "total_episodes": 13,
         "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Boushoku no Berserk",
+        "sanime": "Solo Leveling",
         "imdb_rating": 8.3,
         "imdb_votes": 40309,
-        "synopsis": "The second season of Solo Leveling.",
+        "synopsis": "Chul abandons the lower ranked Hunters to fight the dungeon boss Baruka, only to have his party wiped out by him. Dongsoo arrives in Japan, seeking revenge on Jin-woo and Jin-ho for his brother's death.",
         "ranime": [
-            "Ore dake Level Up na Ken",
             "Solo Leveling"
         ]
     },
