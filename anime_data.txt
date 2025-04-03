@@ -5913,7 +5913,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
+        "studio": "false",
         "producers": "Square Enix, Shochiku, AT-X, Tohokushinsha Film Corporation, Avex Pictures, Marui Group",
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -5924,5 +5924,29 @@
         "ranime": [
             "Katsute Mahou Shoujo to Aku wa Tekitai shiteita."
         ]
+    },
+    {
+        "aid": 210,
+        "name": "Devil May Cry",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/351bxQn.md.jpg, https://iili.io/351bohX.jpg, https://iili.io/351b3rv.md.jpg",
+        "banner": "https://iili.io/351bR24.md.jpg, https://img.youtube.com/vi/zYcqLNrohA4/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "284908, 1143",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/8B3ae9ovo0w?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/zYcqLNrohA4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "WOWOW, Media Factory, Capcom, Toshiba Entertainment, Showgate",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Hellsing, Hellsing Ultimate, Bayonetta: Bloody Fate, Gungrave, Garo: Vanishing Line, Black Lagoon, Mnemosyne: Mnemosyne no Musume-tachi, Togainu no Chi, Blade, Final Fantasy VII: Last Order, Ultraviolet: Code 044, Onikirimaru, Claymore, D.Gray-man, Trigun, Gintama, Jigoku Shoujo, Shihaisha no Tasogare, Vampire Knight, Final Fantasy VII: Advent Children, Trinity Blood, Sword Gai The Animation, Yu\u2606Gi\u2606Oh! 5D's, Fate/Zero, Mahouka Koukou no Rettousei, Hunter x Hunter (2011), One Punch Man, Berserk, Darker than Black: Kuro no Keiyakusha, Kakumeiki Valvrave, Ao no Exorcist, Black Cat, Vampire Hunter D, Black Lagoon: The Second Barrage, Naruto: Shippuuden, Chainsaw Man, Devilman: Crybaby, Berserk: Ougon Jidai-hen II - Doldrey Kouryaku, Noblesse: Awakening, Xenosaga The Animation, Kekkai Sensen, Devilman: Yochou Sirene-hen, Devilman: Tanjou-hen, Casshern Sins, Berserk: Ougon Jidai-hen I - Haou no Tamago, Hells, Berserk: Ougon Jidai-hen III - Kourin, Mamono Hunter Youko, Supernatural The Animation, Kuroshitsuji, Yuugen Kaisha, Chrno Crusade, Vampire Hunter D (2000), InuYasha, Spectral Force, Kikoushi Enma, Zombie-Loan, Tokkou, Gun x Sword, Night Walker: Mayonaka no Tantei, Wild Arms: Twilight Venom, Choujin Densetsu Urotsukidouji, Needless, Venus Versus Virus, Shinrei Tantei Yakumo, Shikabane Hime: Kuro, Fate/stay night, Kidou Senshi Gundam SEED C.E. 73: Stargazer, Soul Eater, Kaze no Stigma, GetBackers, Seihou Bukyou Outlaw Star, Black Blood Brothers, Cowboy Bebop, Devilman Lady, Death Note",
+        "imdb_rating": 8.3,
+        "imdb_votes": 179,
+        "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to hell\u2014especially when there's money to be made. The wildly popular video game is now a series, and this time, there's no sympathy for the devil.\n\n(Source: Funimation)",
+        "ranime": "N/A"
     }
 ]
