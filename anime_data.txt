@@ -5956,7 +5956,7 @@
         "type": "TV",
         "status": "Current",
         "airing": "true",
-        "studio": "N/A",
+        "studio": "true",
         "producers": "Yomiko Advertising, Warner Bros. Japan, KlockWorx, Studio Mausu, Medicos Entertainment, Shueisha, Imagine",
         "total_episodes": 26,
         "pg_rating": "R - 17+ (violence & profanity)",
@@ -5969,6 +5969,36 @@
             "JoJo no Kimyou na Bouken Part 1: Phantom Blood",
             "JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu",
             "JoJo no Kimyou na Bouken: Phantom Blood"
+        ]
+    },
+    {
+        "aid": 213,
+        "name": "My Hero Academia Season 6",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/30krv49.md.jpg, https://iili.io/30krWkG.jpg, https://iili.io/30kr5mv.jpg",
+        "banner": "https://iili.io/30krLCB.md.jpg, https://iili.io/30krcLN.md.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "263008, 127",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/WxCJMYbGtzA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/nTWeiY3yZRs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Dentsu, Yomiuri Telecasting, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
+        "total_episodes": 25,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Mob Psycho 100 III",
+        "imdb_rating": 8.2,
+        "imdb_votes": 91097,
+        "synopsis": "After Tomura Shigaraki merges the villain organizations to become the Paranormal Liberation Front where Hawks undercover within them, the U.A. students join forces with the Pro Heroes to strike and capture enemies while targeting Shigaraki who desires to steal One For All and destroy the society by inheriting his new power. The unsuspected villains must regroup and fight back, but the Heroes are determined to eradicate every last one of them. The public's trust in the Heroes faces a significant decline during the aftermath of the war. Meanwhile, Midoriya's public revelation leads him to drop out of the school as the country's fate is in his hands.\n\n(Source: Anime News Network, edited)",
+        "ranime": [
+            "Boku no Hero Academia 5th Season",
+            "Boku no Hero Academia 7th Season",
+            "Boku no Hero Academia",
+            "Boku no Hero Academia: Memories",
+            "Bokurano"
         ]
     }
 ]
