@@ -6011,7 +6011,7 @@
         "name": "Let This Grieving Soul Retire!",
         "jname": "Dattebayo!!!",
         "poster": "https://iili.io/3EqnPn4.jpg, https://iili.io/3EqoHox.jpg",
-        "banner": "https://iili.io/3EVPUUG.jpg, https://img.youtube.com/vi/g_DvFLdgBFI/maxresdefault.jpg",
+        "banner": "https://iili.io/3Eri2WB.png, https://img.youtube.com/vi/g_DvFLdgBFI/maxresdefault.jpg",
         "cname": "Filemoon",
         "cid": "288330",
         "let": "L",
