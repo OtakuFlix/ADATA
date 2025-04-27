@@ -6074,5 +6074,32 @@
             "Overlord Movie: Manner Movie",
             "Overlord Movie: Ple Ple Pleiades"
         ]
+    },
+    {
+        "aid": 215,
+        "name": "Once Upon A Witch'S Death",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/3WHuExe.jpg, https://iili.io/3WHu7Ul.jpg, https://iili.io/3WHuxDX.md.jpg",
+        "banner": "https://iili.io/3WHuX0x.md.png, https://iili.io/3WHuRff.md.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "291581, 3366",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/0lkvDeo6wI8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/raGGkWkCAPY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Drama, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "AT-X, flying DOG, Glovision, Kadokawa",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Majo no Tabitabi, Kino no Tabi: The Beautiful World, Kobato., Shugo Chara!, Nanatsu-iro\u2605Drops, Fumetsu no Anata e",
+        "imdb_rating": 7.2,
+        "imdb_votes": 89,
+        "synopsis": "On her seventeenth birthday, the apprentice witch Meg learns that she only has one year left to live. Her teacher, the long-lived witch Faust, explains that the only way to undo the death curse is to collect tears of joy and grow the seed of life. To find them, Meg will have to leave the sheltered life she's always known and head out into the world. There will be meetings, partings, and friendships aplenty, and of course many tears. Meg will learn that the most important lessons for a witch are bright, sweet, and somewhat heart-wrenching.\n\n(Source: Yen Press)",
+        "ranime": [
+            "Aru Majo ga Shinu Made: Owari no Kotoba to Hajimari no Namida",
+            "Aru Majo ga Shinu Made"
+        ]
     }
 ]
