@@ -6107,7 +6107,7 @@
         "name": "Catch Me At The Ballpark!",
         "jname": "Dattebayo!!!",
         "poster": "https://iili.io/3WHVhRn.webp, https://iili.io/3WHVGKN.webp, https://iili.io/3WHVAS1.webp",
-        "banner": "N/A, N/A",
+        "banner": "https://iili.io/3WJFzLN.png",
         "cname": "Filemoon, RpmShare",
         "cid": "291589, 3380",
         "let": "C",
