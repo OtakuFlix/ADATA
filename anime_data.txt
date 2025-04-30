@@ -6310,7 +6310,7 @@
         "cname": "Filemoon, RpmShare",
         "cid": "292030, 3471",
         "let": "A",
-        "trailer": "https://www.youtube.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "trailer": "https://www.youtube.com/embed/zecVEtvm7zI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
         "genre": "Action, Drama, Suspense",
         "type": "OVA",
         "status": "Finished",
