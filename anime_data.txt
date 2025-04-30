@@ -4810,9 +4810,10 @@
         "imdb_votes": 580692,
         "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
         "ranime": [
+            "Attack On Titans Season 4",
             "Attack On Titans Season 2",
             "Attack On Titans Season 3",
-            "Shingeki no Kyojin OVA",
+            "Attack On Titans Oad",
             "Shingeki no Kyojin: Kuinaki Sentaku",
             "Shingeki! Kyojin Chuugakkou",
             "Shingeki no Kyojin: Lost Girls",
@@ -5717,9 +5718,10 @@
         "imdb_votes": 598875,
         "synopsis": "After recovering Eren and Historia, the recruits are put under the care of Levi. Stuck out in the middle of nowhere, Hange subjects Eren to a series of experiments in an attempt to find out more about his ability. But when their link to the secrets behind the wall is murdered, the squad must move out and find a new refuge. Except, a figure from Levi\u2019s past has his own plans to stop them.\n\n(Source: Funimation)",
         "ranime": [
-            "Shingeki no Kyojin Season 2",
-            "Shingeki no Kyojin Season 3 Part 2",
-            "Shingeki no Kyojin",
+            "Attack On Titans Season 1",
+            "Attack On Titans Season 2",
+            "Attack On Titans Season 4",
+            "Attack On Titans Oad",
             "Shingeki no Kyojin Season 3 Specials",
             "Shingeki no Kyojin: Chronicle",
             "Akatsuki no Chinkonka"
@@ -5748,9 +5750,10 @@
         "imdb_votes": 598875,
         "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest\u2014a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n(Source: Funimation)",
         "ranime": [
-            "Shingeki no Kyojin",
-            "Shingeki no Kyojin Season 3",
-            "Shingeki no Kyojin",
+            "Attack On Titans Season 3",
+            "Attack On Titans Season 1",
+            "Attack On Titans Season 4",
+            "Attack On Titans Oad",
             "Shingeki no Kyojin: Chronicle",
             "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
             "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora"
@@ -5805,9 +5808,10 @@
         "imdb_votes": 598875,
         "synopsis": "4 years after the Survey Corps reached the shore beyond the walls, Falco Grice and Gabi Braun are among Marley's \"Warrior Candidates\" who wish to inherit the power of the Titans. After emerging victorious in a hard-fought war, they continue their military training when Marley shifts its focus on invading Paradis once again. Nevertheless, in the midst of this announcement, Reiner has an unexpected encounter with a key person from his past... one who brings along terror and chaos.\n\n(Source: Anime News Network)",
         "ranime": [
-            "Shingeki no Kyojin Season 3 Part 2",
-            "Shingeki no Kyojin: The Final Season Part 2",
-            "Shingeki no Kyojin",
+            "Attack On Titans Season 1",
+            "Attack On Titans Season 2",
+            "Attack On Titans Season 3",
+            "Attack On Titans Oad",
             "Shingeki no Kyojin: The Final Season Specials",
             "Boku no Sensou"
         ]
@@ -6301,8 +6305,8 @@
         "aid": 227,
         "name": "Attack On Titan Oad",
         "jname": "Dattebayo!!!",
-        "poster": "https://iili.io/3X7hs9V.md.jpg, https://iili.io/3X7h4Fj.jpg, https://iili.io/3X7hSne.md.jpg",
-        "banner": "https://iili.io/3X7hZt1.md.png, N/A",
+        "poster": "https://iili.io/3X7il0Q.webp, https://iili.io/3X7h4Fj.webp, https://iili.io/3X7hSne.webp",
+        "banner": "https://iili.io/3X7i0gV.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "292030, 3471",
         "let": "A",
@@ -6318,9 +6322,12 @@
         "sanime": "Tokyo Ghoul",
         "imdb_rating": 9.1,
         "imdb_votes": 606259,
-        "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
+        "synopsis": "A world that is at the mercy of Titans...Finding themselves now food for the Titans, humanity built a giant 50-meter wall to protect themselves, giving up the freedom. But one day, with the appearance of a Colossal Titan that was even taller than the wall, the people's peace suddenly fall to pieces.",
         "ranime": [
-            "Shingeki no Kyojin"
+            "Attack On Titans Season 1",
+            "Attack On Titans Season 2",
+            "Attack On Titans Season 3",
+            "Attack On Titans Season 4"
         ]
     }
 ]
