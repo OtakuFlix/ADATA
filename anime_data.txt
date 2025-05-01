@@ -4327,8 +4327,8 @@
         "jname": "\u308b\u308d\u3046\u306b\u5263\u5fc3-\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a- \u65b0\u4eac\u90fd\u7de8",
         "poster": "https://iili.io/2beoDkQ.webp, https://iili.io/2beoO1s.webp, https://iili.io/2becNCx.webp",
         "banner": "https://iili.io/2bechhb.webp, https://iili.io/2beIIdG.webp",
-        "cname": "Filemoon",
-        "cid": "225313",
+        "cname": "Filemoon, RpmShare",
+        "cid": "225313, 3500",
         "let": "R",
         "trailer": "https://www.youtube.com/embed/_VMOnLtMcSE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/_AVKZIWKa70?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Drama",
@@ -4344,7 +4344,7 @@
         "imdb_votes": 19012,
         "synopsis": "The second season of Rurouni Kenshin: Meiji Kenkaku Romantan (2023).\n\nA phantom of the Bakumatsu who must be taken down. All the answers you desire are in Kyoto!\n\n(Source: Aniplex USA)",
         "ranime": [
-            "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Rurouni Kenshin: Kyoto Disturbance Season 2",
             "Rurouni Kenshin: Meiji Kenkaku Romantan",
             "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
         ]
@@ -4353,8 +4353,8 @@
         "aid": 152,
         "name": "Rurouni Kenshin: Kyoto Disturbance Season 2",
         "jname": "\u308b\u308d\u3046\u306b\u5263\u5fc3-\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a- \u65b0\u4eac\u90fd\u7de8",
-        "poster": "https://iili.io/2beoDkQ.webp, https://iili.io/2beoO1s.webp, https://iili.io/2becNCx.webp",
-        "banner": "https://iili.io/2bechhb.webp, https://iili.io/2beIIdG.webp",
+        "poster": "https://iili.io/3hB8lcJ.webp, https://iili.io/2beoO1s.webp",
+        "banner": "https://iili.io/3hB8cFa.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "225314, 113",
         "let": "R",
@@ -4370,9 +4370,9 @@
         "sanime": "Brave 10",
         "imdb_rating": 7.5,
         "imdb_votes": 19012,
-        "synopsis": "The second season of Rurouni Kenshin: Meiji Kenkaku Romantan (2023).\n\nA phantom of the Bakumatsu who must be taken down. All the answers you desire are in Kyoto!\n\n(Source: Aniplex USA)",
+        "synopsis": "Kenshin Himura and his friends as they confront the rising threat of Shishio and his Ten Swords, who aim to dismantle the Meiji government",
         "ranime": [
-            "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Rurouni Kenshin: Kyoto Disturbance",
             "Rurouni Kenshin: Meiji Kenkaku Romantan",
             "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
         ]
