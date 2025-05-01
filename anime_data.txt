@@ -5335,35 +5335,6 @@
         ]
     },
     {
-        "aid": 187,
-        "name": "Rurouni Kenshin Kyoto Disturbance Season 2",
-        "jname": "\u308b\u308d\u3046\u306b\u5263\u5fc3 -\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a- \u4eac\u90fd\u52d5\u4e71",
-        "poster": "https://iili.io/2beoDkQ.webp, https://iili.io/2beoO1s.webp, https://iili.io/2becNCx.webp",
-        "banner": "https://iili.io/2bechhb.webp, https://iili.io/2beIIdG.webp",
-        "cname": "RpmShare",
-        "cid": "113",
-        "let": "R",
-        "trailer": "https://www.youtube.com/embed/_VMOnLtMcSE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/7LYFlRvOxYw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "Aniplex, Dentsu, Fuji TV, Shueisha",
-        "total_episodes": 23,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 7.5,
-        "imdb_votes": 19037,
-        "synopsis": "The second season of Rurouni Kenshin: Meiji Kenkaku Romantan (2023).\n\nA phantom of the Bakumatsu who must be taken down. All the answers you desire are in Kyoto!\n\n(Source: Aniplex USA)",
-        "ranime": [
-            "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-            "Rurouni Kenshin: Meiji Kenkaku Romantan",
-            "Rurouni Kenshin: Meiji Kenkaku Romantan",
-            "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen"
-        ]
-    },
-    {
         "aid": 188,
         "name": "One Piece: The Movie (2000)",
         "jname": "ONE PIECE",
