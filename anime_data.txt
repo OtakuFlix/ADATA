@@ -438,7 +438,7 @@
     {
         "aid": 16,
         "name": "The Legend Of Hanuman",
-        "jname": "\u0939\u0928\u0941\u092e\u093e\u0928 \u090b\u0924\u0941 1 \u0915\u0940 \u0915\u0925\u093e",
+        "jname": "द लीजेंड ऑफ हनुमान सीज़न 1",
         "poster": "https://iili.io/2bLvN1I.webp, https://iili.io/2bkoOKu.webp, https://iili.io/2bOa1yu.webp",
         "banner": "https://iili.io/2bLvQ29.webp, https://iili.io/2beltix.webp",
         "cname": "Filemoon",
@@ -465,7 +465,7 @@
     {
         "aid": 17,
         "name": "The Legend Of Hanuman Season 2",
-        "jname": "\u0939\u0928\u0941\u092e\u093e\u0928 \u090b\u0924\u0941 2 \u0915\u0940 \u0915\u0925\u093e",
+        "jname": "द लीजेंड ऑफ हनुमान सीज़न 2",
         "poster": "https://iili.io/2bLv8es.webp, https://iili.io/2bkoOKu.webp, https://iili.io/2bOa1yu.webp",
         "banner": "https://iili.io/2bL8JEB.webp, https://iili.io/2bOahGV.webp",
         "cname": "Filemoon",
@@ -492,7 +492,7 @@
     {
         "aid": 18,
         "name": "The Legend Of Hanuman Season 3",
-        "jname": "\u0939\u0928\u0941\u092e\u093e\u0928 \u090b\u0924\u0941 3 \u0915\u0940 \u0915\u0925\u093e",
+        "jname": "द लीजेंड ऑफ हनुमान सीज़न 3",
         "poster": "https://iili.io/2bLvgIf.webp, https://iili.io/2bOaMjj.webp, https://iili.io/2bkxHiX.webp",
         "banner": "https://iili.io/2bL8JEB.webp, https://iili.io/2beltix.webp",
         "cname": "Filemoon",
