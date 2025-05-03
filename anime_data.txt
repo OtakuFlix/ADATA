@@ -4660,7 +4660,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
+        "studio": "TMS Entertainment",
         "producers": "TOHO animation, Shueisha, Toho Music, 8PAN",
         "total_episodes": "N/A",
         "pg_rating": "PG-13 - Teens 13 or older",
