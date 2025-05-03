@@ -6334,8 +6334,8 @@
         "aid": 229,
         "name": "Teogonia",
         "jname": "Dattebayo!!!",
-        "poster": "https://iili.io/3jUi7CG.jpg, https://iili.io/3jUiqCJ.jpg, https://iili.io/3jUPik7.md.jpg",
-        "banner": "N/A, https://iili.io/3jUiHYB.md.jpg",
+        "poster": "https://iili.io/3jUPik7.webp, https://iili.io/3jUi7CG.jpg, https://iili.io/3jUiqCJ.jpg",
+        "banner": "N/A, https://iili.io/3jUiHYB.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "293952, 3532",
         "let": "T",
@@ -6355,35 +6355,6 @@
         "ranime": [
             "Teogonia",
             "Teogonia"
-        ]
-    },
-    {
-        "aid": 230,
-        "name": "Re: Zero \u2013 Starting Life In Another",
-        "jname": "Dattebayo!!!",
-        "poster": "https://iili.io/3joWNG2.md.jpg, https://iili.io/3joWMps.md.jpg, https://iili.io/3joW7QR.md.jpg",
-        "banner": "https://iili.io/3joWiGV.md.jpg, N/A",
-        "cname": "RpmShare",
-        "cid": "3520",
-        "let": "R",
-        "trailer": "https://www.youtube.com/embed/IvhgOe9BY5A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Comedy",
-        "type": "Special",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "N/A",
-        "producers": "N/A",
-        "total_episodes": 25,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.3,
-        "imdb_votes": 8,
-        "synopsis": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks. But unbeknownst to them, a much darker force stalks the pair from the shadows, and just minutes after locating the insignia, Subaru and Satella are brutally murdered.\n\nHowever, Subaru immediately reawakens to a familiar scene\u2014confronted by the same group of thugs, meeting Satella all over again\u2014the enigma deepens as history inexplicably repeats itself.\n\n(Source: MAL Rewrite)",
-        "ranime": [
-            "Re:Petit kara Hajimeru Isekai Seikatsu",
-            "Re:Zero kara Hajimeru Break Time 3rd Season",
-            "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
-            "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
         ]
     }
 ]
