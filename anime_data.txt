@@ -1180,27 +1180,27 @@
     {
         "aid": 40,
         "name": "Ankit",
-        "jname": "鬼神童子ＺＥＮＫＩ外伝　黯鬼奇譚",
-        "poster": "https://iili.io/2bkutZQ.webp, https://iili.io/2bkuQuj.webp, https://iili.io/2bOXbdx.webp",
+        "jname": "アンキット",
+        "poster": "https://iili.io/3j68tRt.webp",
         "banner": "",
         "cname": "Filemoon",
-        "cid": "224380",
+        "cid": "2",
         "let": "A",
-        "trailer": "https://www.youtube.com/embed/jVdUz8RUeHY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "trailer": "N/A",
         "genre": "Action, Supernatural",
         "type": "OVA",
         "status": "Finished",
         "airing": "false",
-        "studio": "Studio Deen",
-        "producers": "N/A",
+        "studio": "Aniflix",
+        "producers": "Aniflix",
         "total_episodes": 1,
         "pg_rating": "R+ - Mild Nudity",
         "sanime": "No similar anime found.",
-        "imdb_rating": 7.2,
-        "imdb_votes": 11,
-        "synopsis": "An attitude survey on bullying was conducted at a junior high school. There was a question in that questionnaire if there was any cause on the part of the bullied. One student answered, “YES.” This became the top news of the school.\n\nGraduate Work 2016, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+        "imdb_rating": 1,
+        "imdb_votes": 1,
+        "synopsis": "It is no use you cant find anything on this page it isnt anime it is my dump file dummy poster",
         "ranime": [
-            "Kishin Douji Zenki"
+            ""
         ]
     },
     {
