@@ -6470,5 +6470,31 @@
             "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
             "He Wei Dao x Hui Yeda Xiaojie Xiangyao Wo Gaobai"
         ]
+    },
+    {
+        "aid": 234,
+        "name": "The Shiunji Family Children",
+        "jname": "\u7d2b\u96f2\u5bfa\u5bb6\u306e\u5b50\u4f9b\u305f\u3061",
+        "poster": "https://iili.io/3vGVxSI.webp, https://iili.io/3vGVFta.webp, https://iili.io/3vGMUG4.webp",
+        "banner": "https://iili.io/3vGVAts.webp, https://iili.io/3vGVd91.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "296722, 3829",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/4XVwQr0t_zU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/4XVwQr0t_zU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Doga Kobo",
+        "producers": "Lantis, Hakusensha, AT-X, Magic Capsule, Tokyo MX, Kansai Telecasting, BS11, Kadokawa, Bandai Namco Music Live",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Megami no Caf\u00e9 Terrace, Kakkou no Iinazuke, 5-toubun no Hanayome, Joukamachi no Dandelion",
+        "imdb_rating": 7.0,
+        "imdb_votes": 169,
+        "synopsis": "The Shiunji family, with their seven children reside in a mansion within Tokyo\u2019s Setagaya ward. The eldest son, Arata, is tired of being pushed around by his five sisters and daydreams of a life without them. That is, until Arata\u2019s father reveals a shocking truth\u2014Arata isn\u2019t biologically related to his sisters! The siblings\u2019 relationships will be tested as they navigate life in this new light.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Shiunji-ke no Kodomotachi"
+        ]
     }
 ]
