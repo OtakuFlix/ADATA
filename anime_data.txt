@@ -3230,7 +3230,7 @@
         "imdb_votes": 277,
         "synopsis": "In a world of anthropomorphic animals, Belle Lablac was born as the only human being.\n\nHaving no fangs, fur, or scales, she was called \"Faceless,\" and she lived a lonely life with no one else she could identify with.\n\n\"I want to be part of the world...\"\n\nWith such longing in her heart, she decides to set out on a journey to find her roots, carrying the Runding, a great sword as tall as she is. She doesn\u2019t know how many adversities await her along the way...\n\n(Source: Crunchyroll)",
         "ranime": [
-            "Bye Bye, Earth",
+            "Bye Bye, Earth Season 2",
             "Bye-Bye, Earth"
         ]
     },
@@ -6190,8 +6190,8 @@
         "aid": 222,
         "name": "Bye Bye, Earth Season 2",
         "jname": "\u3070\u3044\u3070\u3044\u3001\u30a2\u30fc\u30b9 \u7b2c2\u30b7\u30fc\u30ba\u30f3",
-        "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49198/poster_image/47f30f1d0d6701debb066f6429ac295f.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20250427%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20250427T080035Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=25a280f4d38147e7ac92e2e872f9b270428aea2e0a73c8052967f05d88af4aec, https://iili.io/3WHW4rN.webp, https://iili.io/3WHW8hJ.webp",
-        "banner": "N/A, https://iili.io/3WHWr1p.webp",
+        "poster": "https://iili.io/3WHW4rN.webp, https://iili.io/3WHW8hJ.webp",
+        "banner": "https://iili.io/3WHWr1p.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "291586, 3375",
         "let": "B",
