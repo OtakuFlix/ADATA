@@ -6612,5 +6612,31 @@
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
         ]
+    },
+    {
+        "aid": 237,
+        "name": "The Gorilla God'S Go-To Girl",
+        "jname": "GODZILLA \u661f\u3092\u55b0\u3046\u8005",
+        "poster": "https://iili.io/3SlSs7s.webp, https://iili.io/3SlSkmv.webp, https://iili.io/3SlSAsS.webp",
+        "banner": "N/A, https://iili.io/3SlSjrF.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "297366, 4042",
+        "let": "T",
+        "trailer": "N/A, https://www.youtube.com/embed/lxnR5hq6sSQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Sci-Fi",
+        "type": "Movie",
+        "status": "Current",
+        "airing": "false",
+        "studio": "Polygon Pictures",
+        "producers": "TOHO, TOHO animation",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 6.9,
+        "imdb_votes": 80,
+        "synopsis": "Sophia, a timid daughter of a count, just wanted a peaceful life, but the Gorilla God had other plans. Blessed with unmatched strength, she\u2019s thrust into the Royal Knight Order, turning her quiet days into chaos. Now, she must juggle school, the knight life, and her overwhelming power. Who knew gorilla strength could be so complicated?\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Godzilla 2: Kessen Kidou Zoushoku Toshi"
+        ]
     }
 ]
