@@ -6638,5 +6638,32 @@
         "ranime": [
             "Godzilla 2: Kessen Kidou Zoushoku Toshi"
         ]
+    },
+    {
+        "aid": 238,
+        "name": "Mobile Suit Gundam: Gquuuuuux",
+        "jname": "\u6a5f\u52d5\u6226\u58eb Gundam GQuuuuuuX",
+        "poster": "https://iili.io/3S0eyyx.webp, https://iili.io/3S0esQS.webp, https://iili.io/3S0eXkv.webp",
+        "banner": "https://iili.io/3S0kK6F.webp, https://iili.io/3S0eU2s.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "297367, 4043",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/92DCTT4W0AI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/LnMIaFV4q6M?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Sci-Fi",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Sunrise, Khara",
+        "producers": "Nippon Television Network, Sound Team Don Juan, Bandai Namco Filmworks, Bandai Namco Music Live",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Top wo Nerae 2! Diebuster, FLCL, Kidou Senshi Zeta Gundam",
+        "imdb_rating": 7.0,
+        "imdb_votes": 167,
+        "synopsis": "Amate Yuzuriha is a high-school student living peacefully in a space colony floating in outer space.\n\nWhen she meets a war refugee named Nyaan, Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle.\n\nUnder the entry name \"Machu,\" she throws herself into fierce battle day after day, piloting the GQuuuuuuX. Then an unidentified Gundam mobile suit pursued by both the space force and the police appears before her, along with its pilot, a boy named Shuji.\n\nNow their world is about to enter a new era.\n\n(Source: Official Site)\n\nNote: Prior to broadcasting, \"Mobile Suit Gundam GQuuuuuuX -Beginning-\" \u2014 a theatrical version using re-edited episodes \u2014 is scheduled to debut in Japan on January 17, 2025.",
+        "ranime": [
+            "Kidou Senshi Gundam: GQuuuuuuX - Beginning",
+            "Kidou Senshi Gundam"
+        ]
     }
 ]
