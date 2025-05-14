@@ -6544,7 +6544,7 @@
         "aid": 236,
         "name": "Crayon Shin-Chan: Ora'S Dinosaur Diary",
         "jname": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093",
-        "poster": "https://iili.io/3SlMbl2.webp, https://iili.io/3SlMits.webp, https://iili.io/3SlMvPR.webp",
+        "poster": "https://iili.io/3SlMvPR.webp, https://iili.io/3SlMbl2.webp, https://iili.io/3SlMits.webp",
         "banner": "N/A, N/A",
         "cname": "Filemoon, RpmShare",
         "cid": "297365, 4041",
