@@ -6665,5 +6665,58 @@
             "Kidou Senshi Gundam: GQuuuuuuX - Beginning",
             "Kidou Senshi Gundam"
         ]
+    },
+    {
+        "aid": 239,
+        "name": "Overlord Season 3",
+        "jname": "\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season 3",
+        "poster": "https://iili.io/3LWr08l.webp, https://iili.io/3LWrAZX.webp, N/A",
+        "banner": "https://iili.io/3LWrOcx.webp, https://iili.io/3LWrfCg.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "299006, 4178",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/c3Jt_EXwGBc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/VW_LxM4tt-o?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Drama, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Kinema Citrus",
+        "producers": "Frontier Works, AT-X, Nippon Columbia, NTT Docomo, Glovision, Good Smile Company, Sammy, Crunchyroll, Kadokawa",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Second season of Overlord.",
+        "ranime": [
+            "Tate no Yuusha no Nariagari Season 2",
+            "Tate no Yuusha no Nariagari Season 4",
+            "Tate no Yuusha no Nariagari",
+            "Tate no Yuusha no Nariagari"
+        ]
+    },
+    {
+        "aid": 240,
+        "name": "Hi",
+        "jname": "\u30cf\u30fc\u30a4\u3042\u3063\u3053\u3067\u3059",
+        "poster": "https://iili.io/3LW4hbI.webp, https://iili.io/3LW4E0J.webp",
+        "banner": "https://iili.io/3LW48gf.webp, N/A",
+        "cname": "RpmShare",
+        "cid": "4163",
+        "let": "H",
+        "trailer": "https://www.youtube.com/embed/3Kw7xjzs17E?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Eiken",
+        "producers": "Asahi Broadcasting",
+        "total_episodes": 11,
+        "pg_rating": "G - All Ages",
+        "sanime": "Mama wa Poyopoyo Saurus ga Osuki",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Jinta Yadomi is peacefully living as a recluse, spending his days away from school and playing video games at home instead. One hot summer day, his childhood friend, Meiko \"Menma\" Honma, appears and pesters him to grant a forgotten wish. He pays her no mind, which annoys her, but he doesn't really care. After all, Menma already died years ago.\nAt first, Jinta thinks that he is merely hallucinating due to the summer heat, but he is later on convinced that what he sees truly is the ghost of Menma. Jinta and his group of childhood friends grew apart after her untimely death, but they are drawn together once more as they try to lay Menma's spirit to rest. Re-living their pain and guilt, will they be able to find the strength to help not only Menma move on\u2014but themselves as well?\n[Written by MAL Rewrite]",
+        "ranime": "N/A"
     }
 ]
