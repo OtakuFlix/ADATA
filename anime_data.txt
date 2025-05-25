@@ -6775,5 +6775,34 @@
         "imdb_votes": 102,
         "synopsis": "Avex and GCREST's hip-hop-themed multimedia project takes place in the near future, where rappers wear accessories that contain a metallic substance called Phantom Metal. Through the Phantom Metal's chemical reaction with the rappers' own DNA, the rapper can create illusions linked to their emotions during their performance. The result is a new type of spectacular concert.\n\n(Source: Anime News Network)",
         "ranime": "N/A"
+    },
+    {
+        "aid": 243,
+        "name": "Mononoke The Movie: Phantom In The Rain",
+        "jname": "\u5287\u5834\u7248\u30e2\u30ce\u30ce\u602a \u5510\u5098",
+        "poster": "https://iili.io/3D8KvZQ.webp, https://iili.io/3D8Kjae.webp, https://iili.io/3D8KuCN.webp",
+        "banner": "https://iili.io/3D8K4F1.webp, https://iili.io/3D8K0uf.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "299771, 4369",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/KD4YQnsQM10?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/KD4YQnsQM10?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Horror, Mystery, Supernatural, Suspense",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "EOTA",
+        "producers": "Twin Engine",
+        "total_episodes": 1,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 6.7,
+        "imdb_votes": 1299,
+        "synopsis": "In the chambers of the Edo harem, two newcomers uncover political intrigue, rivalry, and a vengeful spirit only one traveling medicine seller can vanquish.\n\n(Source: Netflix)",
+        "ranime": [
+            "Mononoke Movie: Dai Ni Shou - Hinezumi",
+            "Gekijouban Mononoke: Karakasa",
+            "Shousetsu Gekijouban Mononoke: Karakasa",
+            "Mononoke"
+        ]
     }
 ]
