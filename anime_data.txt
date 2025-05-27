@@ -6624,7 +6624,7 @@
         "let": "T",
         "trailer": "https://www.youtube.com/embed/lxnR5hq6sSQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Sci-Fi",
-        "type": "Movie",
+        "type": "TV",
         "status": "Current",
         "airing": "false",
         "studio": "Polygon Pictures",
