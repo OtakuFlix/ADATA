@@ -6859,5 +6859,29 @@
         "imdb_votes": 759,
         "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu\u2019s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked.\n\nWang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.\n\n(Source: iQIYI International)",
         "ranime": "N/A"
+    },
+    {
+        "aid": 246,
+        "name": "Lost In Starlight",
+        "jname": "\uc774 \ubcc4\uc5d0 \ud544\uc694\ud55c",
+        "poster": "https://iili.io/3y6tadQ.webp, https://iili.io/3y6t7rx.webp, https://iili.io/3y6tqg4.webp",
+        "banner": "N/A, https://iili.io/3y6tTXe.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "300640, 4452",
+        "let": "L",
+        "trailer": "N/A, https://www.youtube.com/embed/VvMbyw_vIcA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Romance, Sci-Fi",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": 2,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 7.2,
+        "imdb_votes": 7,
+        "synopsis": "In the near future, during the colony war, a girl was save by a little boy when a space station was attacked by terrorists in which the girl lost her parents.\nA few years later, the girl joined her grandfather's military school. There she met a young man that looked similar to the boy who saved her... but just when she was prepared to enter the school compound, she sees a 'terrorist' lurking around which is actually a terrorist demo under the school command and so the story begins...\n(Source: AniDB)",
+        "ranime": "N/A"
     }
 ]
