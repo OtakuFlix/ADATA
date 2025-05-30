@@ -6871,17 +6871,17 @@
         "let": "L",
         "trailer": "https://www.youtube.com/embed/VvMbyw_vIcA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Romance, Sci-Fi",
-        "type": "ONA",
+        "type": "Movie",
         "status": "Finished",
         "airing": "false",
-        "studio": "N/A",
-        "producers": "N/A",
-        "total_episodes": 2,
+        "studio": "Climax Studio",
+        "producers": "Aniflix",
+        "total_episodes": 1,
         "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
+        "sanime": "Your Name",
         "imdb_rating": 7.2,
         "imdb_votes": 7,
-        "synopsis": "In the near future, during the colony war, a girl was save by a little boy when a space station was attacked by terrorists in which the girl lost her parents.\nA few years later, the girl joined her grandfather's military school. There she met a young man that looked similar to the boy who saved her... but just when she was prepared to enter the school compound, she sees a 'terrorist' lurking around which is actually a terrorist demo under the school command and so the story begins...\n(Source: AniDB)",
+        "synopsis": "Nan-young, whose astronaut mom failed to return to Earth when things went awry during her Mars probe. Nan-young has always dreamed of exploring space too and longs to go to Mars in hopes of finding a trace of her mom. Her dream comes true when she is selected as one of the astronauts for a Mars probe project. Before she blasts off though, she meets Jay, a musician who also fixes retro sound instruments,
         "ranime": "N/A"
     }
 ]
