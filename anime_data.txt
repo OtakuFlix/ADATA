@@ -71,7 +71,7 @@
         "total_episodes": 24,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Tondemo Skill de Isekai Hourou Meshi, Sousou no Frieren, Made in Abyss, Toriko, Golden Kamuy, Emiya-san Chi no Kyou no Gohan, Isekai Shokudou, Benriya Saitou-san, Isekai ni Iku, Slayers, Ousama Ranking, Heion Sedai no Idaten-tachi, Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou, Mushoku Tensei: Isekai Ittara Honki Dasu, Fullmetal Alchemist: Brotherhood, Princess Connect! Re:Dive, Nanatsu no Taizai, Kono Sekai wa Fukanzen Sugiru, Kanata no Astra, Kenpuu Denki Berserk",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 9020,
         "synopsis": "Dungeons, dragons...and delicious monster stew!? Adventurers foray into a cursed buried kingdom to save their friend, cooking up a storm along the way.\n\n(Source: Netflix)\n\nNote: A world premiere screening of Episode 1 was shown in the Studio TRIGGER panel at Anime Expo on July 1, 2023.",
         "ranime": [
@@ -363,7 +363,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Runway de Waratte, Horimiya, Ijiranaide, Nagatoro-san, 2.5-jigen no Ririsa, Wotaku ni Koi wa Muzukashii, Komi-san wa, Comyushou desu., Kawaii dake ja Nai Shikimori-san, 3D Kanojo: Real Girl, Paradise Kiss, Dosanko Gal wa Namara Menkoi, Fuufu Ijou, Koibito Miman., Hajimete no Gal, Kuragehime, Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi., Genshiken, Tonikaku Kawaii, Saenai Heroine no Sodatekata, Boku no Kokoro no Yabai Yatsu, Koi wa Sekai Seifuku no Ato de, Blue Period, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Nogizaka Haruka no Himitsu, Shinigami Bocchan to Kuro Maid, Eizouken ni wa Te wo Dasu na!, Cosplay Complex, 5-toubun no Hanayome \u222c, Omoi, Omoware, Furi, Furare, Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai, Toradora!, Skip to Loafer, Kono Oto Tomare!, Ao no Hako, Kimi ni Todoke, Gal to Kyouryuu, Eromanga-sensei, Masamune-kun no Revenge, Subarashiki Kono Sekai The Animation, Uzaki-chan wa Asobitai!, Barakamon, Bocchi the Rock!, Working!!, Hyouka, Kotonoha no Niwa, Darling in the FranXX, Chuunibyou demo Koi ga Shitai!",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 17252,
         "synopsis": "Wakana Gojo is a high school boy who wants to become a kashirashi--a master craftsman who makes traditional Japanese Hina dolls. Though he's gung-ho about the craft, he knows nothing about the latest trends and has a hard time fitting in with his class. The popular kids--especially one girl, Marin Kitagawa--seem like they live in a completely different world. That all changes one day, when she shares an unexpected secret with him, and their completely different worlds collide\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -842,7 +842,7 @@
         "total_episodes": 148,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Naruto, Yuu\u2606Yuu\u2606Hakusho, One Piece, Ueki no Housoku, Rekka no Honoo, Katekyou Hitman Reborn!, Dragon Ball, Hunter x Hunter (2011), Death Note, Shaman King, Toriko, Dragon Ball Z, GetBackers, Bleach, Claymore, Bouken Ou Beet, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Ousama Ranking, Boku no Hero Academia, JoJo no Kimyou na Bouken (TV), M\u00c4R, Uchuu Kyoudai, Fullmetal Alchemist: Brotherhood, Dragon Drive, Qin Shi Mingyue: Bai Bu Fei Jian, Mushishi, Shijou Saikyou no Deshi Kenichi, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Shinseiki Evangelion, Fushigi no Umi no Nadia, Kami no Tou, One Punch Man, Kenpuu Denki Berserk, Fairy Tail, SK\u221e, Gunjou no Magmell, Magi: The Labyrinth of Magic, Tanken Driland, Naruto: Shippuuden, Majin Tantei Nougami Neuro, Druaga no Tou: The Aegis of Uruk, Busou Renkin, Star Ocean EX, Kidou Tenshi Angelic Layer, Nabari no Ou, Yakitate!! Japan, Druaga no Tou: The Sword of Uruk, Brave Story, The God of High School, Groove Adventure Rave, Level E, Samurai Deeper Kyou, Fullmetal Alchemist, Heion Sedai no Idaten-tachi, Tegamibachi, Samurai Champloo, Hikaru no Go, Tantei Gakuen Q",
-        "imdb_rating": 9.0,
+        "imdb_rating": 9,
         "imdb_votes": 156595,
         "synopsis": "Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined.\n\nAlong the way to becoming an official Hunter, Gon befriends the lively doctor-in-training Leorio, vengeful Kurapika, and rebellious ex-assassin Killua. To attain their own goals and desires, together the four of them take the Hunter Exam, notorious for its low success rate and high probability of death. Throughout their journey, Gon and his friends embark on an adventure that puts them through many hardships and struggles. They will meet a plethora of monsters, creatures, and characters\u2014all while learning what being a Hunter truly means.\n\n(Source: MAL Rewrite)",
         "ranime": [
@@ -1275,7 +1275,7 @@
         "total_episodes": 12,
         "pg_rating": "PG - Children",
         "sanime": "Cowboy Bebop",
-        "imdb_rating": 7.0,
+        "imdb_rating": 7,
         "imdb_votes": 310,
         "synopsis": "Love is in the air when the story of Sakura Trick begins. Haruka Takayama and Yuu Sonoda were best friends in middle school, and are now attending Misato West High School together. They are assigned to the same class in their first year, but are given seats on opposite sides of the room! If that wasn't enough, it is announced at the entrance ceremony that the school will be closed in three years. This doesn't bother either of them, as they still plan on having lots of fun together during their high school years.\nHaruka gets jealous of Yuu making new friends though, so the two decide to deepen their bond. \"Let's do something we'd never do with other girls,\" Yuu says, and they share a kiss in a vacant classroom after school one day. After that one kiss leads to many kisses, the two begin to realize that the relationship they share has changed completely. But what will happen to their relationship once a disapproving older sister begins to suspect that something is going on between the two?",
         "ranime": "N/A"
@@ -1572,7 +1572,7 @@
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Lycoris Recoil, Trigun Stampede, Armitage III, Vivy: Fluorite Eye's Song, Code Geass: Hangyaku no Lelouch, NieR:Automata Ver1.1a, Gatchaman Crowds, Tiger & Bunny, Witchblade, s.CRY.ed, SSSS.Gridman, Ergo Proxy",
-        "imdb_rating": 6.0,
+        "imdb_rating": 6,
         "imdb_votes": 515,
         "synopsis": "Metallic Rouge takes place in a a world where humans and androids coexist. The story follows Rouge, an android girl, who is on a mission on Mars with her partner Naomi. The mission is to murder nine artificial humans who are hostile to the government.\n\n(Source: Anime News Network, edited)",
         "ranime": "N/A"
@@ -1678,7 +1678,7 @@
         "total_episodes": 11,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Shinigami Bocchan to Kuro Maid, Taishou Otome Otogibanashi, Sunohara-sou no Kanrinin-san, Soredemo Ayumu wa Yosetekuru, Kuroshitsuji, Jijou wo Shiranai Tenkousei ga Guigui Kuru., Kimi wa Meido-sama., Kobayashi-san Chi no Maid Dragon, Uchi no Maid ga Uzasugiru!, Tonikaku Kawaii",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 88,
         "synopsis": "There\u2019s something really strange about the maid I just hired! No normal person could be so beautiful, or cook such amazingly delicious food, or know exactly what I want before I even ask. She must be using magic\u2014right, a spell is the only thing that can explain why my chest feels so tight whenever I look at her. I swear, I\u2019m going to get to the bottom of what makes this maid so...mysterious!\n\n(Source: Yen Press)",
         "ranime": [
@@ -1875,7 +1875,7 @@
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "No Game No Life, Liar Liar, Phi Brain: Kami no Puzzle",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 41,
         "synopsis": "In a world of idle gods, humans are forced into brain challenges with them. With three defeats, gods lose their right to challenge, while 10 victories spell human triumph. Fay, determined to achieve the impossible, enters the ultimate test of wits against the gods. Will he defy divinity or is he just another loss in the making?\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -1929,7 +1929,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Takt Op. Destiny, Kyokou Suiri, Gosick, [Oshi no Ko], Idoly Pride, Lycoris Recoil, Hyouka, Kamisama no Memochou, Spy Kyoushitsu, Great Pretender, Undead Girl Murder Farce, Angel Heart, Tokyo Ghoul, Bungou Stray Dogs, Zetsuen no Tempest",
-        "imdb_rating": 6.0,
+        "imdb_rating": 6,
         "imdb_votes": 1514,
         "synopsis": "The story follows Kimihiko Kimizuka, a young man who four years ago became the assistant of a mysterious detective known as \"Siesta\" on a hijacked airplane. Together, Kimihiko and Siesta went on mind-boggling, globe-trotting adventures while combatting a secret organization, but all of that came to an end when they were separated by Siesta's death. In the present day, Kimihiko tries to return to an ordinary, boring life as a high school student, but things are never that simple, even though the detective is already dead.\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -2154,7 +2154,7 @@
         "total_episodes": 1,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Sen to Chihiro no Kamikakushi, Suzume no Tojimari",
-        "imdb_rating": 6.0,
+        "imdb_rating": 6,
         "imdb_votes": 1603,
         "synopsis": "Yearning to get along with others and not be disliked, first-year high school student Hiiragi finds himself unable to say no whenever someone requests something of him. One summer day, while unsuccessfully carrying out yet another request, he encounters an oni girl named Tsumugi, who has come to the human world to search for her mother. She does whatever she pleases and is the complete opposite of Hiiragi. Snow mysteriously begins to fall... and their adventure begins.\n\n(Source: Netflix, edited)",
         "ranime": [
@@ -3506,7 +3506,7 @@
         "total_episodes": 22,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Great Teacher Onizuka, Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e, Boku no Hero Academia, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Angel Beats!, Denpa Kyoushi, Baka to Test to Shoukanjuu, Akuma no Riddle, Akame ga Kill!, Gintama, Another, Aoharu x Kikanjuu, Sakura-sou no Pet na Kanojo, Spy Kyoushitsu, Oushitsu Kyoushi Heine, Hunter x Hunter (2011), One Punch Man, Kuroshitsuji, Mob Psycho 100, Saiki Kusuo no \u03a8-nan, Shingeki no Kyojin, Katekyou Hitman Reborn!, Yakusoku no Neverland, Beelzebub, Rokudenashi Majutsu Koushi to Akashic Records, Nanbaka, Boku no Hero Academia 3rd Season, Soul Eater, Munou na Nana, Bungou Stray Dogs, Dr. Stone, Boku no Hero Academia 2nd Season, Sayonara Zetsubou Sensei, Hataraku Maou-sama!, Sakamoto desu ga?, Ranpo Kitan: Game of Laplace, Trigun, Vinland Saga, Haiyore! Nyaruko-san, ReLIFE, Kekkai Sensen, Shigatsu wa Kimi no Uso, Noragami, Tsurezure Children, Hinamatsuri, Ao no Exorcist, Phantom: Requiem for the Phantom, Yuusha, Yamemasu, Shokugeki no Souma, Hoshiai no Sora, Diamond no Ace, Kono Subarashii Sekai ni Shukufuku wo!, Chuunibyou demo Koi ga Shitai!, Baccano!, 5-toubun no Hanayome, Joshiraku, Kaitou Joker, Charlotte, Enen no Shouboutai, Ajin, Fairy Tail, Darker than Black: Kuro no Keiyakusha, Gokusen, Majin Tantei Nougami Neuro, Kyoufu no Bio Ningen Saishuu Kyoushi, Pandora Hearts, Fullmetal Alchemist: Brotherhood, Akatsuki no Yona, Cross Road, Hidan no Aria, Overlord, Baka to Test to Shoukanjuu Ni!, Jigoku Sensei Nube, Kill la Kill, Mahoutsukai ni Narenakatta Onnanoko no Hanashi, D.Gray-man, Serial Experiments Lain, Kiseijuu: Sei no Kakuritsu, Gintama. Porori-hen, Cheating Craft, K-On!, School Rumble, Kuroko no Basket, Barakamon, Danshi Koukousei no Nichijou, Mayoiga, Non Non Biyori, Shinryaku! Ika Musume, Gin no Saji, Full Metal Panic!, Ben-To",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 23190,
         "synopsis": "When a mysterious creature chops the moon down to a permanent crescent, the students of class 3-E of Kunugigaoka Middle School find themselves confronted with an enormous task: assassinate the creature responsible for the disaster before Earth suffers a similar fate. However, the monster, dubbed Koro-sensei (the indestructible teacher), is able to fly at speeds of up to Mach 20, which he demonstrates freely, leaving any attempt to subdue him in his extraterrestrial dust. Furthermore, the misfits of 3-E soon find that the strange, tentacled beast is more than just indomitable\u2014he is the best teacher they have ever had!\n\nAdapted from the humorous hit manga by Yuusei Matsui, Ansatsu Kyoushitsu tells the story of these junior high pupils as they polish their assassination skills and grow in order to stand strong against the oppressive school system, their own life problems, and one day, Koro-sensei.\n\n(Source: MAL Rewrite)",
         "ranime": [
@@ -3566,7 +3566,7 @@
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Watashi ga Motete Dousunda",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 18551,
         "synopsis": "Jugyeong, who transformed herself with makeup, transfers to Saebom High School to leave her past of being bullied behind. The school is known for producing idols, actors, and influencers, thanks to its unique tradition of anonymous voting for the school\u2019s True Beauty goddess. The chosen student gets scouted by entertainment agencies.\n\nJugyeong quickly becomes the center of attention, gaining the title of the next goddess candidate and mingling with Sujin, the former two-time goddess. However, Sujin's friendly facade hides a malicious intent. She aims to bring Jugyeong down using cunning tactics and traps.\n\nDetermined not to be a victim again, Jugyeong confronts Sujin, vowing to become the next goddess. She engages in a fierce voting war while concealing her makeup-free face. However, things take unexpected turns when Suho Lee, the school's heartthrob, accidentally sees her bare face, and Jugyeong crosses paths with the enigmatic SeoJun Han, who is determined to unveil her true identity.\n\nAs Jugyeong's life becomes more entangled with these two, a thrilling tale of beauty, intrigue, and self-discovery unfolds. Will Jugyeong conquer it all or succumb to the pressures of the beauty-obsessed world around her? Dive into the world of \"True Beauty\" and let the drama unfold\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -3735,7 +3735,7 @@
         "total_episodes": 291,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "One Piece, Hunter x Hunter (2011), Yuu\u2606Yuu\u2606Hakusho, Naruto, Fairy Tail, Nanatsu no Taizai, Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu, Shijou Saikyou no Deshi Kenichi, Kenyuu Densetsu Yaiba, Hunter x Hunter, Katanagatari, Tengen Toppa Gurren Lagann, Gensoumaden Saiyuuki, Jikuu Tantei Genshi-kun, One Punch Man, Dragon Quest: Dai no Daibouken (2020), Boku no Hero Academia, Ranma \u00bd, Shaman King, Dragon Quest: Dai no Daibouken (TV), Kinnikuman, Saiyuuki, The God of High School, Pokemon, Air Gear, Midnight Eye: Gokuu, InuYasha, Mushrambo, Xiyou Ji: Dasheng Guilai, Sand Land: The Series, Boku no Hero Academia 2nd Season, Slayers, JoJo no Kimyou na Bouken, Luo Xiao Hei Zhan Ji (Movie), Boy General, Black Clover, Photon, Saiyuuki Reload Blast, Saint Seiya, Senran Kagura, Saiyuuki Reload, Hajime no Ippo, Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu, Abashiri Ikka, Given, Gun Frontier, Fullmetal Alchemist, InuYasha: Kanketsu-hen, Edens Zero, Magi: The Labyrinth of Magic, Grappler Baki (TV), DNA\u00b2, Naruto: Shippuuden, Bouken Ou Beet, Bleach, Jungle no Ouja Tar-chan, Tatakae!! Ramenman, Toriko, Super Child, Kidou Tenshi Angelic Layer, Mashin Eiyuuden Wataru, Dr. Stone, Monkey Magic, Go! Go! Ackman, Pink Mizu Dorobou Ame Dorobou, Croket!",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 5380,
         "synopsis": "Five years after winning the World Martial Arts tournament, Gokuu is now living a peaceful life with his wife and son. This changes, however, with the arrival of a mysterious enemy named Raditz who presents himself as Gokuu's long-lost brother. He reveals that Gokuu is a warrior from the once powerful but now virtually extinct Saiyan race, whose homeworld was completely annihilated. When he was sent to Earth as a baby, Gokuu's sole purpose was to conquer and destroy the planet; but after suffering amnesia from a head injury, his violent and savage nature changed, and instead was raised as a kind and well-mannered boy, now fighting to protect others.\nWith his failed attempt at forcibly recruiting Gokuu as an ally, Raditz warns Gokuu's friends of a new threat that's rapidly approaching Earth\u2014one that could plunge Earth into an intergalactic conflict and cause the heavens themselves to shake. A war will be fought over the seven mystical dragon balls, and only the strongest will survive in Dragon Ball Z.\n[Written by MAL Rewrite]",
         "ranime": [
@@ -3885,7 +3885,7 @@
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Toradora!, Wotaku ni Koi wa Muzukashii, Kareshi Kanojo no Jijou, Tonikaku Kawaii, Kaichou wa Maid-sama!, Sono Bisque Doll wa Koi wo Suru, Tsurezure Children, Tonari no Kaibutsu-kun, Sasaki to Miyano, Kawaii dake ja Nai Shikimori-san, Jaku-Chara Tomozaki-kun, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Komi-san wa, Comyushou desu., Yahari Ore no Seishun Love Comedy wa Machigatteiru., 3D Kanojo: Real Girl, Gekkan Shoujo Nozaki-kun, Yamada-kun to Lv999 no Koi wo Suru, Ao Haru Ride, Kimi ni Todoke, Tsuki ga Kirei, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, ReLIFE, Lovely\u2605Complex, Golden Time, Nijiiro Days, Clannad, Shigatsu wa Kimi no Uso, 3-gatsu no Lion, Chuunibyou demo Koi ga Shitai!, Skip to Loafer, Romantic Killer, Fruits Basket 1st Season, Given, Koi to Yobu ni wa Kimochi Warui, Akagami no Shirayuki-hime, Boku no Kokoro no Yabai Yatsu, Hataraku Maou-sama!, KimiKiss Pure Rouge, Koori Zokusei Danshi to Cool na Douryou Joshi, Momokuri, Ore wo Suki nano wa Omae dake ka yo, Howl no Ugoku Shiro, Ookami Shoujo to Kuro Ouji, Yubisaki to Renren, Watashi ga Motete Dousunda, Imouto sae Ireba Ii., Just Because!, Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi., Kokoro Connect, Violet Evergarden, Kaguya-sama wa Kokurasetai: Ultra Romantic, Make Heroine ga Oosugiru!, Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai, Inu to Hasami wa Tsukaiyou, Blue Period, Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai, Grand Blue, Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai: Kinyoubi no Ohayou, Orange, Hige wo Soru. Soshite Joshikousei wo Hirou., Cross Game, Ore Monogatari!!, Bokura wa Minna Kawai-sou, Koitabi: True Tours Nanto, Kimi to Boku., Gakuen Babysitters, Yeon-ae Halujeon Zero, Mamahaha no Tsurego ga Motokano datta, Bokura ga Ita, Koe no Katachi, Subarashiki Kono Sekai The Animation, Kuzu no Honkai, Kanojo mo Kanojo, Itsudatte Bokura no Koi wa 10 cm Datta., Karakai Jouzu no Takagi-san, Yofukashi no Uta, Itazura na Kiss, Kamisama Hajimemashita, Jitsu wa Watashi wa, Ao no Hako, Special A, Marmalade Boy, Honey Lemon Soda, Ore no Kanojo to Osananajimi ga Shuraba Sugiru, Handa-kun, Kanojo, Okarishimasu, Suki tte Ii na yo.",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 17811,
         "synopsis": "Do opposites attract? At school, Hori is a social butterfly but her life at home is anything but perfect. Left to raise her brother, she\u2019s facing responsibilities that she\u2019s not ready for.\n\nMeanwhile, under a brooding fa\u00e7ade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they\u2019ve never shown. Could this blossom into something new?\n\n(Source: Funimation)",
         "ranime": [
@@ -4150,7 +4150,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Musekinin Kanchou Tylor Complete Music Clip Collection",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 538,
         "synopsis": "A new anime adaptation of Rumiko Takahashi's Ranma 1/2.\n\nRanma Saotome and Akane Tendou of Tendou Dojo are betrothed to each other by their parents. But Ranma faces a unique problem\u2026\n\nEver since he fell into the cursed springs of Jusenkyo while training in China, his body has acquired the peculiar trait of transforming into a girl when doused with cold water and reverting to a boy with hot water.\n\nGet ready for the slapstick, action-packed rom-com featuring Ranma, Akane, and a vibrant cast of unique characters!\n\n(Source: Ranma 1/2 PR Official Site, edited)",
         "ranime": [
@@ -4176,7 +4176,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Akatsuki no Yona, Akagami no Shirayuki-hime, Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru, Niehime to Kemono no Ou, Soredemo Sekai wa Utsukushii",
-        "imdb_rating": 7.0,
+        "imdb_rating": 7,
         "imdb_votes": 389,
         "synopsis": "Nina had a rough start to life, stealing to survive\u2014and eventually being sold into slavery by her own brother. But to her surprise, her captor, Prince Azure, ordained that she would live the life of a princess...specifically, that of the recently deceased princess-priestess, Alisha. But despite her changing fortune, Nina won't give up her old life without a fight...and Azure might just be the one to finally match her wits. But how much can she trust Azure? And can she stop the feelings budding in her heart, knowing she must eventually marry another...?\n\n(Source: Kodansha USA)",
         "ranime": [
@@ -4396,7 +4396,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "No similar anime found.",
-        "imdb_rating": 6.0,
+        "imdb_rating": 6,
         "imdb_votes": 351,
         "synopsis": "Long ago, the most ancient of divine dragons was slain by a human. The mighty dragon accepted its death when suddenly, it was reborn as Dolan, a man who lives in a quiet village. While spending another peaceful day toiling in the fields, he meets Celina, a half-human, half-snake creature looking for a partner. The unlikely duo become friends, but challenges lie ahead that threaten their new bond.\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -4639,7 +4639,7 @@
         "total_episodes": "N/A",
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "No similar anime found.",
-        "imdb_rating": 8.0,
+        "imdb_rating": 8,
         "imdb_votes": 5380,
         "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -4845,7 +4845,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Musaigen no Phantom World, Princess Tutu, Isekai Shikkaku, M\u00c4R, Bishoujo Senshi Sailor Moon",
-        "imdb_rating": 7.0,
+        "imdb_rating": 7,
         "imdb_votes": 252,
         "synopsis": "After graduating from high school, Natsuko Hirose starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love! However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she\u2019s unable to create the storyboard, causing the movie production to come to a standstill.\n\n(Source: YouTube description)",
         "ranime": "N/A"
@@ -4897,7 +4897,7 @@
         "total_episodes": 13,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Kimetsu no Yaiba, Black Clover, Jujutsu Kaisen, Busou Renkin, Naruto: Shippuuden, Naruto, One Piece Film: Red, One Piece, Subarashiki Kono Sekai The Animation, Chainsaw Man, InuYasha: Kanketsu-hen, Boku no Hero Academia",
-        "imdb_rating": 9.0,
+        "imdb_rating": 9,
         "imdb_votes": 56560,
         "synopsis": "Was it all just a coincidence, or was it inevitable?\n\nIchigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute Soul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where deceased souls gather. But with help from his friends, Ichigo overcame every challenge to become even stronger.\nWhen new Soul Reapers and a new enemy appear in his hometown of Karakura, Ichigo jumps back into the battlefield with his Zanpakuto to help those in need.\n\nMeanwhile, the Soul Society is observing a sudden surge in the number of Hollows being destroyed in the World of the Living. They also receive separate reports of residents in the Rukon District having gone missing. Finally, the Seireitei, home of the Soul Reapers, come under attack by a group calling themselves the Wandenreich.\n\nLed by Yhwach, the father of all Quincies, the Wandenreich declare war against the Soul Reapers with the following message:\n\u201cFive days from now, the Soul Society will be annihilated by the Wandenreich.\u201d \nThe history and truth kept hidden by the Soul Reapers for a thousand long years are finally brought to light.\n\nAll things must come to an end\u2014as Ichigo Kurosaki\u2019s final battle begins!\n\n(Source: Official site)",
         "ranime": [
@@ -4926,7 +4926,7 @@
         "total_episodes": 13,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Kimetsu no Yaiba, Black Clover, Jujutsu Kaisen, Busou Renkin, Naruto: Shippuuden, Naruto, One Piece Film: Red, One Piece, Subarashiki Kono Sekai The Animation, Chainsaw Man, InuYasha: Kanketsu-hen, Boku no Hero Academia",
-        "imdb_rating": 9.0,
+        "imdb_rating": 9,
         "imdb_votes": 56560,
         "synopsis": "With the secrets of his past and power finally revealed to him, Ichigo has reforged his Zanpakuto, and can now continue his training under the Squad Zero. However, time is not on his side; Yhwach and his assembled Sternritter are on the warpath once more, ready to finish their destruction of Soul Society and complete their millennium-long vengeance. What's more, their ranks have grown, with Uryu Ishida joining his fellow Quincy in their blood war. When the fates of every soul in the universe are at stake, Ichigo must find the strength to take on his own friend.\n\n(Source: Anime News Network, edited)",
         "ranime": [
@@ -5265,7 +5265,7 @@
         "total_episodes": 14,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Kimetsu no Yaiba, Black Clover, Jujutsu Kaisen, Busou Renkin, Naruto: Shippuuden, Naruto, One Piece Film: Red, One Piece, Subarashiki Kono Sekai The Animation, Chainsaw Man, InuYasha: Kanketsu-hen, Boku no Hero Academia",
-        "imdb_rating": 9.0,
+        "imdb_rating": 9,
         "imdb_votes": 56866,
         "synopsis": "With Uryu and the Royal Guards at his side, Yhwach successfully breaks past the Soul Shield Membrane barrier and finally sets foot into the sacred realm of the Royal Palace. But the Quincies\u2019 advance seemingly ends after facing Squad Zero, who use their awesome powers to defeat Yhwach and the rest of the uninvited guests. However, the real battle and despair have yet to start\u2026\n\nSoul Reapers and Quincies. Ichigo and Uryu. Beliefs and Resolve. The never-ending conflict between light and dark clashes above the dark-blue heavens.\n\n(Source: Official Site)",
         "ranime": [
@@ -5945,7 +5945,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
-        "imdb_rating": 9.0,
+        "imdb_rating": 9,
         "imdb_votes": 57,
         "synopsis": "One day, Kurt, a kind-hearted boy, is suddenly kicked out of the Hero's Party for being \"useless\". He finds that his aptitude for weapons, magic, and all other combat-related skills is the lowest rank, so he takes odd-jobs repairing the castle walls and digging for minerals to make a living, where his exceptional abilities are immediately revealed. He proves to be skillful in cooking, building, mining, crafting magical tools--in fact, his aptitude for every skill unrelated to combat had an SSS-ranking! Kurt, however, seems completely unaware to his talent and ends up saving people, the town, and even the country through his unaware actions!?\n\n(Source: Alpha Manga)\n\nNote: Each episode streams 7 days early on some streaming services. The original TV broadcast starts on April 6th, 2025.",
         "ranime": [
@@ -6435,7 +6435,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Katainaka no Ossan, Kensei ni Naru, Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari, Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru., One Punch Man, Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story, Chiyu Mahou no Machigatta Tsukaikata, Nanatsu no Taizai, Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
-        "imdb_rating": 7.0,
+        "imdb_rating": 7,
         "imdb_votes": 1355,
         "synopsis": "The Kingdom of Clays faces a dire crisis: an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom\u2019s downfall. The ensuing conflict will shape the face of the continent for centuries to come...but Noor doesn\u2019t have a clue about any of that! Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he\u2019s dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can [Parry] thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer! Our hero\u2019s road to making his dream come true will be long(?) and arduous(?)\u2014but if there\u2019s one thing Noor\u2019s not afraid of, it\u2019s some good ol\u2019 fashioned hard work!\n\n(Source: J-Novel Club)",
         "ranime": [
@@ -6490,7 +6490,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Megami no Caf\u00e9 Terrace, Kakkou no Iinazuke, 5-toubun no Hanayome, Joukamachi no Dandelion",
-        "imdb_rating": 7.0,
+        "imdb_rating": 7,
         "imdb_votes": 169,
         "synopsis": "The Shiunji family, with their seven children reside in a mansion within Tokyo\u2019s Setagaya ward. The eldest son, Arata, is tired of being pushed around by his five sisters and daydreams of a life without them. That is, until Arata\u2019s father reveals a shocking truth\u2014Arata isn\u2019t biologically related to his sisters! The siblings\u2019 relationships will be tested as they navigate life in this new light.\n\n(Source: Crunchyroll)",
         "ranime": [
@@ -6658,7 +6658,7 @@
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Top wo Nerae 2! Diebuster, FLCL, Kidou Senshi Zeta Gundam",
-        "imdb_rating": 7.0,
+        "imdb_rating": 7,
         "imdb_votes": 167,
         "synopsis": "Amate Yuzuriha is a high-school student living peacefully in a space colony floating in outer space.\n\nWhen she meets a war refugee named Nyaan, Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle.\n\nUnder the entry name \"Machu,\" she throws herself into fierce battle day after day, piloting the GQuuuuuuX. Then an unidentified Gundam mobile suit pursued by both the space force and the police appears before her, along with its pilot, a boy named Shuji.\n\nNow their world is about to enter a new era.\n\n(Source: Official Site)\n\nNote: Prior to broadcasting, \"Mobile Suit Gundam GQuuuuuuX -Beginning-\" \u2014 a theatrical version using re-edited episodes \u2014 is scheduled to debut in Japan on January 17, 2025.",
         "ranime": [
@@ -6881,7 +6881,7 @@
         "sanime": "Your Name",
         "imdb_rating": 7.2,
         "imdb_votes": 7,
-        "synopsis": "Nan-young, whose astronaut mom failed to return to Earth when things went awry during her Mars probe. Nan-young has always dreamed of exploring space too and longs to go to Mars in hopes of finding a trace of her mom. Her dream comes true when she is selected as one of the astronauts for a Mars probe project. Before she blasts off though, she meets Jay, a musician who also fixes retro sound instruments,
+        "synopsis": "Nan-young, whose astronaut mom failed to return to Earth when things went awry during her Mars probe. Nan-young has always dreamed of exploring space too and longs to go to Mars in hopes of finding a trace of her mom. Her dream comes true when she is selected as one of the astronauts for a Mars probe project. Before she blasts off though, she meets Jay, a musician who also fixes retro sound instruments.",
         "ranime": "N/A"
     }
 ]
