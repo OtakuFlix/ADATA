@@ -6865,7 +6865,7 @@
         "name": "Lost In Starlight",
         "jname": "\uc774 \ubcc4\uc5d0 \ud544\uc694\ud55c",
         "poster": "https://iili.io/3y6tqg4.webp",
-        "banner": "https://iili.io/3y6tTXe.webp",
+        "banner": "https://iili.io/3yP0ilI.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "300640, 4452",
         "let": "L",
