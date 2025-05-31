@@ -6883,5 +6883,33 @@
         "imdb_votes": 7,
         "synopsis": "Nan-young, whose astronaut mom failed to return to Earth when things went awry during her Mars probe. Nan-young has always dreamed of exploring space too and longs to go to Mars in hopes of finding a trace of her mom. Her dream comes true when she is selected as one of the astronauts for a Mars probe project. Before she blasts off though, she meets Jay, a musician who also fixes retro sound instruments.",
         "ranime": "N/A"
+    },
+    {
+        "aid": 247,
+        "name": "Yaiba Samurai Legend",
+        "jname": "\u93a7\u4f1d\u30b5\u30e0\u30e9\u30a4\u30c8\u30eb\u30fc\u30d1\u30fc",
+        "poster": "https://iili.io/F9nZxbn.webp, https://iili.io/F9nZKfR.webp, https://iili.io/F9nZ2WJ.webp",
+        "banner": "https://iili.io/F9nZRf4.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "300738, 4468",
+        "let": "Y",
+        "trailer": "https://www.youtube.com/embed/vanJ-gn2dQc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Adventure, Sci-Fi",
+        "type": "TV",
+        "status": "Current",
+        "airing": "false",
+        "studio": "Sunrise",
+        "producers": "Tokyu Agency",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Saint Seiya, Hyakujuu-Ou GoLion, Claymore, Magic Knight Rayearth, Saint Seiya Omega, Tenkuu Senki Shurato, Bishoujo Senshi Sailor Moon",
+        "imdb_rating": 6.8,
+        "imdb_votes": 244,
+        "synopsis": "Yaiba Kurogane has spent his days training in the jungle in order to attain his goal of becoming a real samurai. By a twist of fate, he returns to Japan and starts living with the Mine family, who are connected to his father, Kenjuro. Yaiba constantly baffles the Mines' daughter Sayaka as she witnesses his wild and reckless ways. One day, Yaiba tags along with Sayaka to school and has a fateful encounter with Takeshi Onimaru, a kendo expert. Yaiba and Onimaru repeatedly clash, and as if in response to their search for strength, two ancient powers are unleashed: the Fujinken, the Wind God's Sword, and the Raijinken, the Thunder God's Sword. Both supernatural blades that have jolted the world since ancient days have reawakened...and the truth behind them is revealed!\n\n(Source: Hulu)",
+        "ranime": [
+            "Yoroiden Samurai Troopers Gaiden",
+            "Shin Yoroiden Samurai Troopers",
+            "Yoroiden Samurai Troopers"
+        ]
     }
 ]
