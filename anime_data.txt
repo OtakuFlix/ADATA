@@ -6911,5 +6911,32 @@
             "Shin Yoroiden Samurai Troopers",
             "Yoroiden Samurai Troopers"
         ]
+    },
+    {
+        "aid": 248,
+        "name": "One Piece: Clockwork Island Adventure",
+        "jname": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u306d\u3058\u307e\u304d\u5cf6\u306e\u5192\u967a",
+        "poster": "https://iili.io/F9QeSWP.webp, https://iili.io/F9QekbV.webp, N/A",
+        "banner": "https://iili.io/F9Qe6ga.webp, https://iili.io/F9QejUb.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "301126, 4495",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/wwumv_IcxJo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/wwumv_IcxJo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Toei Animation",
+        "producers": "Fujipacific Music, Shueisha",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Informed by the Thief Brothers his ship has been stolen by the Trump Kyoudai (Trump Siblings) who have set up base on Clockwork Island. Monkey D. Luffy, Captain of the Going Merry and aspiring Pirate King works with his crew - Ussop, Zoro, Sanji and Nami to battle their way up Clockwork Island to reclaim their ship.\n(Source: ANN)",
+        "ranime": [
+            "One Piece: Jango no Dance Carnival",
+            "One Piece"
+        ]
     }
 ]
