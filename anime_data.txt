@@ -6938,5 +6938,56 @@
             "One Piece: Jango no Dance Carnival",
             "One Piece"
         ]
+    },
+    {
+        "aid": 249,
+        "name": "One",
+        "jname": "ONE",
+        "poster": "https://iili.io/FHQfZt2.webp, https://iili.io/FHQfw8J.webp, https://iili.io/FHQf1jV.webp",
+        "banner": "https://iili.io/FHQq3wQ.webp, N/A",
+        "cname": "Filemoon",
+        "cid": "301131",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/tMblzsXwAKo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "N/A",
+        "type": "Music",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": 12,
+        "pg_rating": "G - All Ages",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 9.0,
+        "imdb_votes": 299190,
+        "synopsis": "The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years\u2014and lost all of his hair in the process. Now, Saitama is incredibly powerful, so much so that no enemy is able to defeat him in battle. In fact, all it takes to defeat evildoers with just one punch has led to an unexpected problem\u2014he is no longer able to enjoy the thrill of battling and has become quite bored.\n\nThis all changes with the arrival of Genos, a 19-year-old cyborg, who wishes to be Saitama's disciple after seeing what he is capable of. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society, and Saitama, shocked that no one knows who he is, quickly agrees. And thus begins the story of One Punch Man, an action-comedy that follows an eccentric individual who longs to fight strong enemies that can hopefully give him the excitement he once felt and just maybe, he'll become popular in the process.\n\n(Source: MAL Rewrite)",
+        "ranime": "N/A"
+    },
+    {
+        "aid": 250,
+        "name": "Jojo'S Bizarre Adventure Season 2",
+        "jname": "\u98ce\u7075\u7389\u79c0 \u7b2c\u4e8c\u7ae0",
+        "poster": "https://iili.io/FHQqOle.webp, https://iili.io/FHQqXx2.webp, https://iili.io/FHQqcKX.webp",
+        "banner": "https://iili.io/FHQqSOx.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "301775, 4526",
+        "let": "J",
+        "trailer": "https://www.youtube.com/embed/JA48VBSl4nc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Adventure",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Sunflowers",
+        "producers": "bilibili",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.5,
+        "imdb_votes": 43575,
+        "synopsis": "Joutarou Kuujou and his allies have finally made it to Egypt, where the immortal Dio awaits. Upon their arrival, the group gains a new comrade: Iggy, a mutt who wields the Stand \"The Fool.\" It's not all good news however, as standing in their path is a new group of Stand users who serve Dio, each with a Stand representative of an ancient Egyptian god. As their final battle approaches, it is a race against time to break Joutarou's mother free from her curse and end Dio's reign of terror over the Joestar family once and for all.\n\n(Source: MAL Rewrite)",
+        "ranime": [
+            "Feng Ling Yu Xiu",
+            "Feng Ling Yu Xiu 2nd Season: Tebie Pian"
+        ]
     }
 ]
