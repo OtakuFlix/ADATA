@@ -6728,7 +6728,7 @@
         "cname": "Filemoon, RpmShare",
         "cid": "299768, 4367",
         "let": "G",
-        "trailer": "https://www.youtube.com/embed/SY6PNTzQb1A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/SY6PNTzQb1A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "trailer": "https://www.youtube.com/embed/GMaWN2B9b44?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Award Winning, Mystery, Sci-Fi",
         "type": "TV",
         "status": "Finished",
