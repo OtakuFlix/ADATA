@@ -521,7 +521,7 @@
         "name": "Naruto",
         "jname": "\u30ca\u30eb\u30c8",
         "poster": "https://iili.io/2bOcaov.webp, https://iili.io/2bkxoW7.webp, https://iili.io/2bOc5Na.webp",
-        "banner": "https://iili.io/2bLrAP4.webp",
+        "banner": "https://iili.io/F292fTP.webp",
         "cname": "Filemoon",
         "cid": "138590",
         "let": "N",
