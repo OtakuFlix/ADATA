@@ -375,7 +375,7 @@
         "aid": 14,
         "name": "Dragon Ball Super",
         "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85\uff08\u30b9\u30fc\u30d1\u30fc\uff09",
-        "poster": "https://iili.io/2bkoz8v.webp, https://iili.io/2bOa2TJ.webp, https://iili.io/2bkoxcJ.webp",
+        "poster": "https://iili.io/F299agp.webp, https://iili.io/2bOa2TJ.webp, https://iili.io/2bkoxcJ.webp",
         "banner": "https://iili.io/2bLbeoB.webp, https://iili.io/2bkoAwN.webp",
         "cname": "Filemoon",
         "cid": "136379",
