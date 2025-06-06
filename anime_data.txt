@@ -4726,7 +4726,7 @@
         "sanime": "Boushoku no Berserk",
         "imdb_rating": 8.3,
         "imdb_votes": 40309,
-        "synopsis": "Sung Jin-Woo, dubbed the weakest hunter of all mankind, grows stronger by the day with the supernatural powers he has gained. However, keeping his skills hidden becomes more difficult as dungeon-related incidents pile up around him. When Jin-Woo and a few other low-ranked hunters are the only survivors of a dungeon that turns out to be a bigger challenge than initially expected, he draws attention once again, and hunter guilds take an increased interest in him. Meanwhile, a strange hunter who has been lost for ten years returns with a dire warning about an upcoming catastrophic event. As the calamity looms closer, Jin-Woo must continue leveling up to make sure nothing stops him from reaching his ultimate goal—saving the life of his mother.",
+        "synopsis": "Sung Jin-Woo, dubbed the weakest hunter of all mankind, grows stronger by the day with the supernatural powers he has gained. However, keeping his skills hidden becomes more difficult as dungeon-related incidents pile up around him. When Jin-Woo and a few other low-ranked hunters are the only survivors of a dungeon that turns out to be a bigger challenge than initially expected, he draws attention once again, and hunter guilds take an increased interest in him. Meanwhile, a strange hunter who has been lost for ten years returns with a dire warning about an upcoming catastrophic event. As the calamity looms closer, Jin-Woo must continue leveling up to make sure nothing stops him from reaching his ultimate goal\u2014saving the life of his mother.",
         "ranime": [
             "Ore dake Level Up na Ken",
             "Solo Leveling"
@@ -6940,30 +6940,6 @@
         ]
     },
     {
-        "aid": 249,
-        "name": "One",
-        "jname": "ONE",
-        "poster": "https://iili.io/FHQfZt2.webp, https://iili.io/FHQfw8J.webp, https://iili.io/FHQf1jV.webp",
-        "banner": "https://iili.io/FHQq3wQ.webp, N/A",
-        "cname": "Filemoon",
-        "cid": "301131",
-        "let": "O",
-        "trailer": "https://www.youtube.com/embed/tMblzsXwAKo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "N/A",
-        "type": "Music",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "N/A",
-        "producers": "N/A",
-        "total_episodes": 12,
-        "pg_rating": "G - All Ages",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 9.0,
-        "imdb_votes": 299190,
-        "synopsis": "The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years\u2014and lost all of his hair in the process. Now, Saitama is incredibly powerful, so much so that no enemy is able to defeat him in battle. In fact, all it takes to defeat evildoers with just one punch has led to an unexpected problem\u2014he is no longer able to enjoy the thrill of battling and has become quite bored.\n\nThis all changes with the arrival of Genos, a 19-year-old cyborg, who wishes to be Saitama's disciple after seeing what he is capable of. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society, and Saitama, shocked that no one knows who he is, quickly agrees. And thus begins the story of One Punch Man, an action-comedy that follows an eccentric individual who longs to fight strong enemies that can hopefully give him the excitement he once felt and just maybe, he'll become popular in the process.\n\n(Source: MAL Rewrite)",
-        "ranime": "N/A"
-    },
-    {
         "aid": 250,
         "name": "Jojo'S Bizarre Adventure Season 2",
         "jname": "\u98ce\u7075\u7389\u79c0 \u7b2c\u4e8c\u7ae0",
@@ -6988,6 +6964,34 @@
         "ranime": [
             "Feng Ling Yu Xiu",
             "Feng Ling Yu Xiu 2nd Season: Tebie Pian"
+        ]
+    },
+    {
+        "aid": 251,
+        "name": "Ghost In The Shell Season 2",
+        "jname": "\u653b\u6bbb\u6a5f\u52d5\u968a SAC_2045 \u30b7\u30fc\u30ba\u30f3\uff12",
+        "poster": "https://iili.io/F2v6311.webp, https://iili.io/F2v4mej.webp, https://iili.io/F2v4SJs.webp",
+        "banner": "N/A, https://iili.io/F2v4isS.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "302722, 4597",
+        "let": "G",
+        "trailer": "https://www.youtube.com/embed/AbzXxtesmNg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/s7YWJ7vWVtk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Mystery, Sci-Fi",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Production I.G, Sola Digital Arts",
+        "producers": "Dentsu, Kodansha, flying DOG, Bandai Namco Arts, Kassen",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "009 Re:Cyborg",
+        "imdb_rating": 7.9,
+        "imdb_votes": 165777,
+        "synopsis": "The second season of Koukaku Kidoutai: SAC_2045.",
+        "ranime": [
+            "Koukaku Kidoutai: SAC_2045",
+            "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+            "Koukaku Kidoutai: SAC_2045 - Saigo no Ningen"
         ]
     }
 ]
