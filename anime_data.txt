@@ -7501,5 +7501,31 @@
             "Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki",
             "Crayon Shin-chan"
         ]
+    },
+    {
+        "aid": 270,
+        "name": "Miss Kuroitsu From The Monster Development Department",
+        "jname": "\u602a\u4eba\u958b\u767a\u90e8\u306e\u9ed2\u4e95\u6d25\u3055\u3093",
+        "poster": "https://iili.io/F3bzHTG.webp, https://iili.io/F3bxpvn.webp, https://iili.io/F3bxb2t.webp",
+        "banner": "https://iili.io/F3bzJjf.webp, https://iili.io/F3bxmYX.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "303195, 4683",
+        "let": "M",
+        "trailer": "N/A, https://www.youtube.com/embed/rbZ2R8qYXbU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Quad",
+        "producers": "TV Asahi, ABC Animation, Crest, ABC Frontier",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Tentai Senshi Sunred, Heppoko Jikken Animation Excel\u2665Saga, Koi wa Sekai Seifuku no Ato de, Fuuto Tantei, Kabushikigaisha Magi-Lumi\u00e8re, One Punch Man, Tenchi Souzou Design-bu, Tokumu Sentai Shinesman, Sekai Seifuku: Bouryaku no Zvezda",
+        "imdb_rating": 6.2,
+        "imdb_votes": 196,
+        "synopsis": "This year is the 10th anniversary of Naruto's serialization start. This work will feature an episode with Team Kakashi from Naruto's youth era. It will be surprisingly different from the TV series, don't miss it\u203c",
+        "ranime": [
+            "Kaijin Kaihatsu-bu no Kuroitsu-san"
+        ]
     }
 ]
