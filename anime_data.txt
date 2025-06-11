@@ -7582,5 +7582,34 @@
             "Coffee Kousou",
             "Douwa Revenger"
         ]
+    },
+    {
+        "aid": 274,
+        "name": "Valkyria Chronicles",
+        "jname": "\u6226\u5834\u306e\u30f4\u30a1\u30eb\u30ad\u30e5\u30ea\u30a2",
+        "poster": "https://iili.io/FKpP4qv.webp, https://iili.io/FKpPke1.webp, https://iili.io/FKpP7f4.webp",
+        "banner": "https://iili.io/FKpPZmX.webp, https://img.youtube.com/vi/uiRAzl5Q3Ko/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "303503, 4750",
+        "let": "V",
+        "trailer": "https://www.youtube.com/embed/uiRAzl5Q3Ko?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/uiRAzl5Q3Ko?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "A-1 Pictures",
+        "producers": "Aniplex, Sega, Sakura Create",
+        "total_episodes": 26,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Nejimaki Seirei Senki: Tenkyou no Alderamin, Allison to Lillia, Pumpkin Scissors, Tales of the Abyss, Toshokan Sensou, Shuumatsu no Izetta, Toaru Hikuushi e no Koiuta, Fullmetal Alchemist, So Ra No Wo To, Full Metal Panic! The Second Raid, Koukyoushihen Eureka Seven, Galilei Donna, Subarashiki Kono Sekai The Animation, Macross F, 07-Ghost, Seikai no Monshou, Youjo Senki, Girls & Panzer, Bishoujo Senshi Sailor Moon, Shirogane no Ishi: Argevollen, Zipang, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Last Exile, Clannad: After Story, 86, Nagi no Asu kara, 11eyes, Tears to Tiara, Strike Witches OVA, Strike Witches, Arslan Senki (TV), Kingdom, Code Geass: Hangyaku no Lelouch, Ginga Eiyuu Densetsu, Vampire Knight, Seiken no Blacksmith, The Legend of Heroes: Sen no Kiseki - Northern War, Rurouni Kenshin: Meiji Kenkaku Romantan, Kiddy Grade, Otome Youkai Zakuro, Kenpuu Denki Berserk, Tenkuu no Escaflowne, Shin Kidou Senki Gundam Wing",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Valkyria Chronicles is set in a fictitious continent reminiscent of 1930s Europe. The continent, called Europa, is divided into two main powers: The Imperial Empire, a monarchy in the east, and the alliance of democracies called the Federation in the west. In this world, there is a very important resource called ragnite; its uses range from fueling weapons of war to use in medical treatments. Since ragnite is such an important resource, the Federation and the Empire are constantly at war with each other for it.\nThe story takes place in the neutral country of Gallia, known for its bountiful reserves of ragnite, when the Empire decides to invade and seize the ragnite for themselves. The story follows Welkin, the son of a former war hero; Isara, Welkin's Darcsen adoptive sister; and Alicia, a member of the Bruhl town watch, as they fight the Imperials in the ragtag Gallian militia group, Squad 7.\nSquad 7 fights to regain their homes and livelihoods with Welkin as the squad leader and commander of the Edelweiss tank; Alicia as a scout; Isara as the pilot of the Edelweiss, and a variety of colorful individuals.",
+        "ranime": [
+            "Senjou no Valkyria: Gallian Chronicles",
+            "Senjou no Valkyria: SenVal Theater",
+            "Senjou no Valkyria 3: Tagatame no Juusou",
+            "Senjou no Valkyria Special"
+        ]
     }
 ]
