@@ -5842,7 +5842,7 @@
         "aid": 209,
         "name": "Black Clover Season 2",
         "jname": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc",
-        "poster": "https://iili.io/37fS76P.webp, https://iili.io/37fSRnV.webp",
+        "poster": "https://iili.io/FKD6Msp.webp, https://iili.io/37fSRnV.webp",
         "banner": "https://iili.io/37fSccF.webp, https://img.youtube.com/vi/vUjAxk1qYzQ/maxresdefault.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "276244, 660",
