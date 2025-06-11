@@ -4676,36 +4676,6 @@
         ]
     },
     {
-        "aid": 164,
-        "name": "Tokyo Revengers Season 1",
-        "jname": "\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba",
-        "poster": "https://iili.io/2beX7jI.webp, https://iili.io/2beXYQt.webp, https://iili.io/2beX04s.webp",
-        "banner": "https://iili.io/2beXVyl.webp, https://iili.io/2beXXu2.webp",
-        "cname": "Filemoon",
-        "cid": "242208",
-        "let": "T",
-        "trailer": "https://www.youtube.com/embed/hfj7HaTbMSQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/r9M34VgTfzY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Drama",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "LIDENFILMS",
-        "producers": "Mainichi Broadcasting System, Pony Canyon, Kodansha, AT-X, Ultra Super Pictures, Studio Mausu, Sammy",
-        "total_episodes": 13,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Boku dake ga Inai Machi, Re:Zero kara Hajimeru Isekai Seikatsu, Steins;Gate, Shiguang Dailiren, Wind Breaker, Banana Fish, Durarara!!, Bokutachi no Remake, Summertime Render, Rainbow: Nisha Rokubou no Shichinin, Orange, Kyou kara Ore wa!!, Shounan Bakusouzoku, ReLIFE, Ikebukuro West Gate Park, Koukou Butouden Crows, 91 Days, The God of High School, Toki wo Kakeru Shoujo, 16bit Sensation: Another Layer, Baki, Tokyo Tribe 2, Sakurada Reset, Kaguya-sama wa Kokurasetai: Ultra Romantic, Boku no Hero Academia, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Boku no Hero Academia 5th Season, Kono Yo no Hate de Koi wo Utau Shoujo YU-NO, Vinland Saga, Fumetsu no Anata e, [Oshi no Ko], Slam Dunk, Gangsta., Texhnolyze, Beelzebub, Great Teacher Onizuka, Jigokuraku, Bucchigiri?!, Bleach, Durarara!!x2 Shou, Kidou Senshi Gundam: Tekketsu no Orphans, Shonan Junai Gumi!, Angel Densetsu, Kokkoku, Cyberpunk: Edgerunners, Akira, Bungou Stray Dogs 2nd Season, Bungou Stray Dogs, Be-Bop Highschool, Katekyou Hitman Reborn!, Tokyo 24-ku",
-        "imdb_rating": 7.1,
-        "imdb_votes": 167,
-        "synopsis": "The second season of Tokyo Revengers.\n\nDespite his best time-leaping efforts, Takemichi Hanagaki continuously fails to prevent the present-day death of Hinata Tachibana, his adolescent love. The adult Takemichi grapples with grief and the ramifications of the Tokyo Manji gang's criminal empire\u2014an unintended product of his timeline meddling. Though the gang once operated under the idealistic Manjirou \"Mikey\" Sano, it has now been taken over by the malicious Tetta Kisaki and, as a result, has abandoned its original optimistic intent.\n\nDespite feeling hopeless, Takemichi travels to the past once again to investigate Black Dragon, a rival motorcycle gang whose actions ultimately lead to Hinata's demise. There, he meets the young Hakkai Shiba, a fellow gang member whose older brother, Taiju, tyrannically rules Black Dragon.\n\nTakemichi, with Chifuyu on his side, works to unravel the fates of Black Dragon's members, fighting to create a happy future for his loved ones.\n\n(Source: MAL Rewrite, edited)",
-        "ranime": [
-            "Tokyo Revengers: Seiya Kessen-hen",
-            "Tokyo\u534dRevengers",
-            "Chibi Revenger",
-            "Coffee Kousou",
-            "Douwa Revenger"
-        ]
-    },
-    {
         "aid": 165,
         "name": "Solo Leveling Season 2",
         "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2 -Arise from the Shadow-",
@@ -7553,6 +7523,64 @@
         "ranime": [
             "Fullmetal Alchemist: Brotherhood",
             "Fullmetal Alchemist: The Sacred Star of Milos Specials"
+        ]
+    },
+    {
+        "aid": 272,
+        "name": "Dr. Stone Ryusui - Special Episode",
+        "jname": "Dr.STONE \u9f8d\u6c34",
+        "poster": "https://iili.io/FKDhtpt.webp, https://iili.io/FKDh6CJ.webp, https://iili.io/FKDhwEx.webp",
+        "banner": "https://iili.io/FKDhpQs.webp, https://iili.io/FKDh8p1.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "303490, 4725",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/AWqh2q5AXJA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/xR0mAOlclHg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "type": "TV Special",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "TMS Entertainment",
+        "producers": "TOHO animation, Shueisha",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Yu\u2606Gi\u2606Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A television special that is set after the second season and will center around Ryuusui Nanami.",
+        "ranime": [
+            "Dr. Stone: Stone Wars",
+            "Dr. Stone: New World",
+            "Dr. Stone"
+        ]
+    },
+    {
+        "aid": 273,
+        "name": "Tokyo Revengers",
+        "jname": "\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba",
+        "poster": "https://iili.io/FKDj4A7.webp, https://iili.io/FKDjeMG.webp, https://iili.io/FKDjGFR.webp",
+        "banner": "https://iili.io/FKDjtKx.webp, https://iili.io/FKDjhut.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "303500, 4748",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/idlLFNNpZiI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/r9M34VgTfzY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Drama",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "LIDENFILMS",
+        "producers": "Mainichi Broadcasting System, Pony Canyon, Kodansha, AT-X, Ultra Super Pictures, Studio Mausu, Sammy",
+        "total_episodes": 24,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Boku dake ga Inai Machi, Re:Zero kara Hajimeru Isekai Seikatsu, Steins;Gate, Shiguang Dailiren, Wind Breaker, Banana Fish, Durarara!!, Bokutachi no Remake, Rainbow: Nisha Rokubou no Shichinin, Summertime Render, Orange, Kyou kara Ore wa!!, Shounan Bakusouzoku, ReLIFE, Ikebukuro West Gate Park, Koukou Butouden Crows, 91 Days, The God of High School, Toki wo Kakeru Shoujo, 16bit Sensation: Another Layer, Baki, Tokyo Tribe 2, Sakurada Reset, Kaguya-sama wa Kokurasetai: Ultra Romantic, Boku no Hero Academia, Wind Breaker Season 2, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Boku no Hero Academia 5th Season, Kono Yo no Hate de Koi wo Utau Shoujo YU-NO, Vinland Saga, Fumetsu no Anata e, [Oshi no Ko], Slam Dunk, Gangsta., Jigokuraku, Texhnolyze, Beelzebub, Bucchigiri?!, Kidou Senshi Gundam: Tekketsu no Orphans, Bleach, Emblem Take 2, Durarara!!x2 Shou, Great Teacher Onizuka, Shonan Junai Gumi!, Kokkoku, Cyberpunk: Edgerunners, Akira, Bungou Stray Dogs 2nd Season, Bungou Stray Dogs, Angel Densetsu, Be-Bop Highschool, Katekyou Hitman Reborn!, Tokyo 24-ku",
+        "imdb_rating": 7.8,
+        "imdb_votes": 29857,
+        "synopsis": "Takemichi Hanagaki is a freelancer that's reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he's standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he's about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he's back living the best days of his life, Takemichi decides to get revenge on his life\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Tokyo Revengers: Seiya Kessen-hen",
+            "Tokyo\u534dRevengers",
+            "Chibi Revenger",
+            "Coffee Kousou",
+            "Douwa Revenger"
         ]
     }
 ]
