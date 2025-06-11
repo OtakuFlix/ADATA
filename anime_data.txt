@@ -7527,5 +7527,32 @@
         "ranime": [
             "Kaijin Kaihatsu-bu no Kuroitsu-san"
         ]
+    },
+    {
+        "aid": 271,
+        "name": "Fullmetal Alchemist The Sacred Star Of Milos",
+        "jname": "\u5287\u5834\u7248 \u92fc\u306e\u932c\u91d1\u8853\u5e2b \u5606\u304d\u306e\u4e18(\u30df\u30ed\u30b9)\u306e\u8056\u306a\u308b\u661f",
+        "poster": "https://iili.io/FKO8scl.webp, https://iili.io/FKO8rns.webp, https://iili.io/FKO8hMJ.webp",
+        "banner": "https://iili.io/FKO8LS2.webp, https://iili.io/FKO8v9I.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "303481, 4722",
+        "let": "F",
+        "trailer": "https://www.youtube.com/embed/M1MECOw1H60?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/M1MECOw1H60?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Drama, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Bones",
+        "producers": "Aniplex, Dentsu, Square Enix, Shochiku, Mainichi Broadcasting System, TBS",
+        "total_episodes": 1,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Cowboy Bebop: Tengoku no Tobira, Tales of Phantasia The Animation, Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A fugitive alchemist with mysterious abilities leads the Elric brothers to a distant valley of slums inhabited by the Milos, a proud people struggling against bureaucratic exploitation. Ed and Al quickly find themselves in the middle of a rising rebellion, as the exiled Milos lash out against their oppressors. At the heart of the conflict is Julia, a young alchemist befriended by Alphonse. She'll stop at nothing to restore the Milos to their former glory\u2014even if that means harnessing the awful power of the mythical Philosopher's Stone.\n(Source: FUNimation)",
+        "ranime": [
+            "Fullmetal Alchemist: Brotherhood",
+            "Fullmetal Alchemist: The Sacred Star of Milos Specials"
+        ]
     }
 ]
