@@ -7611,5 +7611,33 @@
             "Senjou no Valkyria 3: Tagatame no Juusou",
             "Senjou no Valkyria Special"
         ]
+    },
+    {
+        "aid": 275,
+        "name": "Sk8 The Infinity",
+        "jname": "SK\u221e \u30a8\u30b9\u30b1\u30fc\u30a8\u30a4\u30c8",
+        "poster": "https://iili.io/FqCe2Ul.webp, https://iili.io/FqCOtRI.webp, https://iili.io/FqCOvHB.webp",
+        "banner": "https://iili.io/FqCeKRS.webp, https://iili.io/FqCOslR.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "303642, 4798",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/guStf5P4Js0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/PcS3QIc6ma8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Bones",
+        "producers": "Aniplex, Movic, ABC Animation",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Yuri!!! on Ice, Haikyuu!!, Free!, Banana Fish, Initial D First Stage, Given, Air Gear, IDOLiSH7, Wave!! Surfing Yappe!! (TV), Birdie Wing: Golf Girls' Story, Prince of Stride: Alternative, Chuunibyou demo Koi ga Shitai!, Sasaki to Miyano, Bucchigiri?!, Bakuten!!, Promare, Hypnosis Mic: Division Rap Battle - Rhyme Anima, Re-Main, Sabikui Bisco, Grand Blue, Iwa Kakeru! Sport Climbing Girls, Paradox Live the Animation, Skate-Leading\u2606Stars, number24, Yakusoku no Neverland, Vanitas no Karte, Doukyuusei, Kimi to, Nami ni Noretara, Shakunetsu Kabaddi, Fukumenkei Noise, Appare-Ranman!, Natsume Yuujinchou, Tsuritama, RobiHachi, The God of High School, Ping Pong the Animation, Megalo Box, Cider no You ni Kotoba ga Wakiagaru, Tsurune: Kazemai Koukou Kyuudou-bu, Sarazanmai, Inu x Boku SS, Blue Lock, Hunter x Hunter, Kuroko no Basket, Housekishou Richard-shi no Nazo Kantei, Kekkai Sensen, Wind Breaker, Toaru Kagaku no Railgun, Yu\u2606Gi\u2606Oh!, Ryman's Club",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races. Reki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"...\n\n(Source: Aniplex US)",
+        "ranime": [
+            "SK\u221e 2nd Season",
+            "SK\u221e OVA: Extra Part",
+            "SK\u221e: Crazy Rock Jam"
+        ]
     }
 ]
