@@ -3265,7 +3265,7 @@
         "aid": 114,
         "name": "Dragon Ball Z Kai Season 2",
         "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u6539",
-        "poster": "https://iili.io/2btiAo7.webp, https://iili.io/2bOazps.webp, https://iili.io/2be9K67.webp",
+        "poster": "https://iili.io/2bOazps.webp, https://iili.io/2be9K67.webp",
         "banner": "https://iili.io/2bOyyyG.webp",
         "cname": "Filemoon",
         "cid": "202101",
