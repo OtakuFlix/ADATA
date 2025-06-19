@@ -7724,5 +7724,35 @@
             "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
             "Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D"
         ]
+    },
+    {
+        "aid": 279,
+        "name": "Haikyu!! Season 3",
+        "jname": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u70cf\u91ce\u9ad8\u6821 VS \u767d\u9ce5\u6ca2\u5b66\u5712\u9ad8\u6821",
+        "poster": "https://iili.io/FoEfPX2.webp, https://iili.io/FoEfk0X.webp, https://iili.io/FoEfMJa.webp",
+        "banner": "https://iili.io/FoEfQ19.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "304298, 4977",
+        "let": "H",
+        "trailer": "https://www.youtube.com/embed/EHYdxpvcBEs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Sports",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Production I.G",
+        "producers": "Dentsu, Mainichi Broadcasting System, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
+        "total_episodes": 10,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Diamond no Ace, IDOLiSH7 Third Beat!, Shingeki no Kyojin Season 3 Part 2, Diamond no Ace: Second Season, Kuroko no Basket 2nd Season, Kuroko no Basket 3rd Season, Yuri!!! on Ice",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The third season of Haikyuu!!",
+        "ranime": [
+            "Haikyuu!! Second Season",
+            "Haikyuu!! Riku vs. Kuu",
+            "Haikyuu!!",
+            "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+            "Haikyuu!! Movie 4: Concept no Tatakai"
+        ]
     }
 ]
