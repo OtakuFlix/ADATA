@@ -2403,10 +2403,10 @@
         "imdb_votes": 42088,
         "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team\u2014only to find that his sworn rival, Kageyama, is now his teammate.\n\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n\n(Source: MAL)",
         "ranime": [
-            "Haikyuu!! Second Season",
-            "Haikyuu!!",
-            "Haikyuu!! Lev Genzan!",
-            "Haikyuu!! (OVA)",
+            "Haikyu!! Season 2",
+            "Haikyu!! Season 3",
+            "Haikyu!! Season 1",
+            "Haikyu!! The Dumpster Battle",
             "Haikyuu!! Movie 1: Owari to Hajimari",
             "Haikyuu!! Movie 2: Shousha to Haisha",
             "Haikyuu!! Quest Picture Drama"
@@ -3294,7 +3294,7 @@
         "aid": 115,
         "name": "Dragon Ball Z Kai Season 3",
         "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u6539",
-        "poster": "https://iili.io/2btsGdG.webp, https://iili.io/2bOazps.webp, https://iili.io/2bOan2t.webp",
+        "poster": "https://iili.io/2bOazps.webp, https://iili.io/2bOan2t.webp",
         "banner": "https://iili.io/2bOa7G2.webp",
         "cname": "Filemoon",
         "cid": "202102",
@@ -3686,34 +3686,6 @@
             "Kami no Tou",
             "Kami no Tou: Koubou-sen",
             "Tower of God"
-        ]
-    },
-    {
-        "aid": 129,
-        "name": "Haikyuu The Dumpster Battle",
-        "jname": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u52dd\u8005\u3068\u6557\u8005",
-        "poster": "https://iili.io/2beccB4.webp, https://iili.io/2bedkNa.webp, https://iili.io/2bedSov.webp",
-        "banner": "https://iili.io/2be2qWx.webp, https://iili.io/2becZ3N.webp",
-        "cname": "Filemoon",
-        "cid": "207394",
-        "let": "H",
-        "trailer": "https://www.youtube.com/embed/MqVA0dl36bc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/lIVgCyNF9nc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Sports",
-        "type": "Movie",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "Production I.G",
-        "producers": "N/A",
-        "total_episodes": 1,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 7.8,
-        "imdb_votes": 5393,
-        "synopsis": "Shoyo Hinata joins Karasuno High\u2019s volleyball club to be like his idol, a former Karasuno player known as the \u201cLittle Giant.\u201d But, Hinata soon finds that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles turn into a surprising weapon, but can they beat their rival Nekoma High in the highly anticipated \u201cDumpster Battle,\u201d the long-awaited ultimate showdown between two opposing underdog teams?\n\n(Source: Crunchyroll News, edited)",
-        "ranime": [
-            "Haikyuu!! Movie 1: Owari to Hajimari",
-            "Haikyuu!! Movie 3: Sainou to Sense",
-            "Haikyuu!!"
         ]
     },
     {
@@ -4206,9 +4178,10 @@
         "imdb_votes": 92,
         "synopsis": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. \n\nWhen they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks. \n\nFacing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new\u2014including their archrival Aoba Jousai and its world-class setter Tooru Oikawa.\n\n(Source: MAL)",
         "ranime": [
-            "Haikyuu!!",
-            "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
-            "Haikyuu!!",
+            "Haikyu!! Season 2",
+            "Haikyu!! Season 3",
+            "Haikyu!! Season 1",
+            "Haikyu!! The Dumpster Battle",
             "Haikyuu!! vs. \"Akaten\"",
             "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
             "Haikyuu!! Movie 3: Sainou to Sense"
@@ -5395,8 +5368,8 @@
         "jname": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u7d42\u308f\u308a\u3068\u59cb\u307e\u308a",
         "poster": "https://iili.io/2beccB4.webp, https://iili.io/2bedkNa.webp, https://iili.io/2bedSov.webp",
         "banner": "https://iili.io/2be2qWx.webp, https://iili.io/2becZ3N.webp",
-        "cname": "RpmShare",
-        "cid": "118",
+        "cname": "Filemoon, RpmShare",
+        "cid": "207394, 118",
         "let": "H",
         "trailer": "https://www.youtube.com/embed/MqVA0dl36bc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/-O1um6NXC5M?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Sports",
@@ -5412,7 +5385,10 @@
         "imdb_votes": 5393,
         "synopsis": "Shoyo Hinata joins Karasuno High\u2019s volleyball club to be like his idol, a former Karasuno player known as the \u201cLittle Giant.\u201d But, Hinata soon finds that he must team up with his middle school nemesis, Tobio Kageyama. Their clashing styles turn into a surprising weapon, but can they beat their rival Nekoma High in the highly anticipated \u201cDumpster Battle,\u201d the long-awaited ultimate showdown between two opposing underdog teams?\n\n(Source: Crunchyroll News, edited)",
         "ranime": [
-            "Haikyuu!! Movie 2: Shousha to Haisha",
+            "Haikyu!! Season 2",
+            "Haikyu!! Season 3",
+            "Haikyu!! Season 1",
+            "Haikyu!! The Dumpster Battle",
             "Haikyuu!!"
         ]
     },
@@ -7729,8 +7705,8 @@
         "aid": 279,
         "name": "Haikyu!! Season 3",
         "jname": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u70cf\u91ce\u9ad8\u6821 VS \u767d\u9ce5\u6ca2\u5b66\u5712\u9ad8\u6821",
-        "poster": "https://iili.io/FoEfPX2.webp, https://iili.io/FoEfk0X.webp, https://iili.io/FoEfMJa.webp",
-        "banner": "https://iili.io/FoEfQ19.webp, N/A",
+        "poster": "https://iili.io/FoEIfMx.webp, https://iili.io/FoEfk0X.webp",
+        "banner": "https://iili.io/FoERaXn.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "304298, 4977",
         "let": "H",
@@ -7743,16 +7719,17 @@
         "producers": "Dentsu, Mainichi Broadcasting System, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
         "total_episodes": 10,
         "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Diamond no Ace, IDOLiSH7 Third Beat!, Shingeki no Kyojin Season 3 Part 2, Diamond no Ace: Second Season, Kuroko no Basket 2nd Season, Kuroko no Basket 3rd Season, Yuri!!! on Ice",
+        "sanime": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces. Only the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.",
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
         "synopsis": "The third season of Haikyuu!!",
         "ranime": [
-            "Haikyuu!! Second Season",
-            "Haikyuu!! Riku vs. Kuu",
-            "Haikyuu!!",
-            "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
-            "Haikyuu!! Movie 4: Concept no Tatakai"
+            "Haikyu!! Season 2",
+            "Haikyu!! Season 3",
+            "Haikyu!! Season 1",
+            "Haikyu!! The Dumpster Battle",
+            "u!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+            "u!! Movie 4: Concept no Tatakai"
         ]
     }
 ]
