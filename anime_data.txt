@@ -7719,7 +7719,7 @@
         "producers": "Dentsu, Mainichi Broadcasting System, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
         "total_episodes": 10,
         "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces. Only the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.",
+        "sanime": "After the victory against Aoba Jousai High, Karasuno High School, once called \u201ca fallen powerhouse, a crow that can\u2019t fly,\u201d has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno\u2019s greatest hurdle is their adversary\u2019s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country\u2019s top three aces. Only the strongest team will make it to the national tournament. Since this match is the third-year players\u2019 last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.",
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
         "synopsis": "The third season of Haikyuu!!",
@@ -7730,6 +7730,61 @@
             "Haikyu!! The Dumpster Battle",
             "u!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
             "u!! Movie 4: Concept no Tatakai"
+        ]
+    },
+    {
+        "aid": 280,
+        "name": "Overflow",
+        "jname": "\u304a\u30fc\u3070\u30fc\u3075\u308d\u3049",
+        "poster": "https://iili.io/Fxw0uQR.webp, https://iili.io/Fxw0C21.webp, N/A",
+        "banner": "https://iili.io/Fxw0cYX.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "304614, 5039",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/eXTCdzKi3_U?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Hentai",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Studio Hokiboshi",
+        "producers": "Studio Mausu, Suiseisha",
+        "total_episodes": 1,
+        "pg_rating": "Rx - Hentai",
+        "sanime": "Joshiochi! 2-kai kara Onnanoko ga... Futtekita!?, Harem Camp!, Succubus Stayed Life The Animation, Yosuga no Sora, Kanojo x Kanojo x Kanojo: Sanshimai to no Dokidoki Kyoudou Seikatsu, Ane\u2606Haramix, Sora no Iro, Mizu no Iro, Araiya-san!: Ore to Aitsu ga Onnayu de!?",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.\n(Source: ANN)",
+        "ranime": [
+            "Overflow"
+        ]
+    },
+    {
+        "aid": 281,
+        "name": "Tsukimichi Moonlit Fantasy Season 2",
+        "jname": "\u6708\u304c\u5c0e\u304f\u7570\u4e16\u754c\u9053\u4e2d \u7b2c\u4e8c\u5e55",
+        "poster": "https://iili.io/Fxw0mnR.webp, https://iili.io/Fxw0s8F.webp, https://iili.io/Fxw08jj.webp",
+        "banner": "https://iili.io/Fxw1KwG.webp, https://iili.io/Fxw046B.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "304613, 5038",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/bJaTrqUGXXU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/0DHG0By_iaY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "J.C.Staff",
+        "producers": "Mainichi Broadcasting System, Nippon Television Network, Tokyo MX, Medicos Entertainment, DMM.com, A-Sketch, BS NTV, AQUA ARIS, NetEase, CTW, AlphaPolis",
+        "total_episodes": 25,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kyou kara Maou!",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Tsuki ga Michibiku Isekai Douchuu.",
+        "ranime": [
+            "Tsuki ga Michibiku Isekai Douchuu",
+            "Tsuki ga Michibiku Isekai Douchuu 3rd Season",
+            "Tsuki ga Michibiku Isekai Douchuu",
+            "Tsuki ga Michibiku Isekai Douchuu"
         ]
     }
 ]
