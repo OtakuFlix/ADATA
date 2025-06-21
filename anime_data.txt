@@ -7786,5 +7786,32 @@
             "Tsuki ga Michibiku Isekai Douchuu",
             "Tsuki ga Michibiku Isekai Douchuu"
         ]
+    },
+    {
+        "aid": 282,
+        "name": "Blue Eye Samurai",
+        "jname": "\u30b6\u30fb\u30b5\u30fc\u30c9 \u84bc\u3044\u77b3\u306e\u5c11\u5973",
+        "poster": "https://iili.io/Fzf6mZP.webp, https://iili.io/Fzf6ZyQ.webp, https://iili.io/Fzf6vyl.webp",
+        "banner": "https://iili.io/FzfPfup.webp, https://img.youtube.com/vi/8ba8dE3QhtU/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "304682, 5055",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/3ciOn_4XFfE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/8ba8dE3QhtU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Sci-Fi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Xebec",
+        "producers": "Kadokawa Shoten",
+        "total_episodes": 8,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kino no Tabi: The Beautiful World, Scrapped Princess, Kono Minikuku mo Utsukushii Sekai, Ergo Proxy, Fullmetal Alchemist, Seirei no Moribito, World Destruction: Sekai Bokumetsu no Rokunin, Eden's Bowy, Kaze no Na wa Amnesia, Owari no Seraph, Trigun, Ozma, Madlax, Sumomomo Momomo: Chijou Saikyou no Yome, Avenger, Kurogane Communication, Ookami to Koushinryou, Sunabouzu, Gilgamesh, El Cazador de la Bruja",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Driven by a dream of revenge against those who made her an outcast in Edo-period Japan, a young warrior cuts a bloody path toward her destiny.\n\n(Source: Netflix)",
+        "ranime": [
+            "The Third: Sabaku no Hoshi no Apprentice Girl",
+            "The Third"
+        ]
     }
 ]
