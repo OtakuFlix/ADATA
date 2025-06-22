@@ -7813,5 +7813,34 @@
             "The Third: Sabaku no Hoshi no Apprentice Girl",
             "The Third"
         ]
+    },
+    {
+        "aid": 283,
+        "name": "Shinchan - The Spy",
+        "jname": "\u3057\u3093\u6b21\u5143! \u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093THE MOVIE \u8d85\u80fd\u529b\u5927\u6c7a\u6226 ~\u3068\u3079\u3068\u3079\u624b\u5dfb\u304d\u5bff\u53f8~",
+        "poster": "https://iili.io/FzrOHkg.webp, https://iili.io/FzrNy21.webp, https://iili.io/FzrNU1S.webp",
+        "banner": "N/A, https://iili.io/FzrNZLQ.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "304769, 5098",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/yMjB8oDXpiA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/AwAcq_p2gRw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Comedy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Shirogumi, Shin-Ei Animation",
+        "producers": "N/A",
+        "total_episodes": 1,
+        "pg_rating": "G - All Ages",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Comical action spy film including an indecent material (flatus) and a story of a girl who had obeyed her parents, but becomes self-aware. A mystery spy girl Lemon Sunomono suddenly appears in front of Shinnosuke, and she calls herself an emissary of Action Kamen. She had trained as a spy by her parents in the Sukashipestan Republic, and works for the Queens. Under her guidance, Shinnosuke decides to be a spy to fight for justice, and receives spy training. Under the instruction of Action Kamen, Lemon and Shinnosuke perform a mission to creep into the laboratory in the Hedelna Kingdom and recapture a capsule from an evil professor, but Lemon finds the real purpose of the Queens, and they fight to foil the plot of the Queens. \n(Source: Manabu Tsuribe)",
+        "ranime": [
+            "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
+            "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
+            "Crayon Shin-chan",
+            "Crayon Shin-chan"
+        ]
     }
 ]
