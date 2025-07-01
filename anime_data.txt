@@ -7873,5 +7873,59 @@
             "Fairy Tail OVA (2016)",
             "Fairy Tail Movie 2: Dragon Cry"
         ]
+    },
+    {
+        "aid": 285,
+        "name": "Naruto The Movie: Ninja Clash In The Land Of Snow",
+        "jname": "\u5287\u5834\u7248\u3000NARUTO\u3000\u5927\u6d3b\u5287\uff01\u96ea\u59eb\u5fcd\u6cd5\u5e16\u3060\u3063\u3066\u3070\u3088!!",
+        "poster": "https://iili.io/F7EHvBs.webp, https://iili.io/F7EHNIt.webp, https://iili.io/F7EHjpI.webp",
+        "banner": "https://iili.io/F7EHrYl.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "306149, 5248",
+        "let": "N",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Pierrot",
+        "producers": "Aniplex, Bandai, TV Tokyo Music, Shueisha",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Sennen Joyuu, Yuu\u2606Yuu\u2606Hakusho (Movie), Ohoshi-sama no Rail",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A land forever covered in ice... A princess missing for ten years... And one high-spirited ninja named Naruto! \nNaruto and the rest of Squad 7 take on a new mission: bring popular movie star Yukie Fujikaze to the Land of Snow, where they're filming the final scenes of her latest movie. Trouble is, she's even more headstrong than Naruto, and she doesn't want to go! Her reluctance may be connected to what else lies in wait for them--three rogue Snow ninja and a tyrannical ruler seeking the key to a mysterious treasure...\n(Source: VIZ Media)",
+        "ranime": [
+            "Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datteba yo!!",
+            "Naruto: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! - Konoha no Sato no Dai Undoukai",
+            "Naruto"
+        ]
+    },
+    {
+        "aid": 286,
+        "name": "Even Given The Worthless \u201cAppraiser\u201d Class, I\u2019M Actually The Strongest",
+        "jname": "\u4e0d\u9047\u8077\u3010\u9451\u5b9a\u58eb\u3011\u304c\u5b9f\u306f\u6700\u5f37\u3060\u3063\u305f",
+        "poster": "https://iili.io/F7EJdj1.webp, https://iili.io/F7EJ9yB.webp, https://iili.io/F7EHm3x.webp",
+        "banner": "N/A, https://iili.io/F7EHpYQ.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "306540, 5329",
+        "let": "E",
+        "trailer": "N/A, https://www.youtube.com/embed/3ZDbVRlCI4o?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Okuruto Noboru",
+        "producers": "Sotsu, Kodansha, Movic, Tokyo MX, BS11, Crunchyroll, Exa International, AQUA ARIS, Bit grooove promotion, Kotowari, West Japan Marketing Communications",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kekkon Yubiwa Monogatari, Chiyu Mahou no Machigatta Tsukaikata, Arifureta Shokugyou de Sekai Saikyou, Chao Neng Lifang: Chaofan Pian, Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In a fantasy world where \"jobs\" are god-given from birth, heroes are born, not made... and Ein's job of \"Appraiser\" has put him about as far from the \"hero\" pedestal as possible. Used, abused, and eventually abandoned by his fellow adventurers, Ein decides it just isn't worth going on... Lucky for Ein, though, the end may just be the beginning... and a new lease on life. Turns out, his \"worthless\" job may just be the key to becoming a hero after all...\n\n(Source: Kodansha USA)",
+        "ranime": [
+            "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no \"Shingan\" de Musou suru"
+        ]
     }
 ]
