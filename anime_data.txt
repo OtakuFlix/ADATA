@@ -7981,5 +7981,35 @@
             "Tate no Yuusha no Nariagari",
             "Tate no Yuusha no Nariagari"
         ]
+    },
+    {
+        "aid": 289,
+        "name": "Blue Lock The Movie: Episode Nagi",
+        "jname": "\u30d6\u30eb\u30fc\u30ed\u30c3\u30af",
+        "poster": "https://iili.io/FaWHCyg.webp, https://iili.io/FaWHqa1.webp, https://iili.io/FaWH9Tb.webp",
+        "banner": "N/A, https://iili.io/FaWHf3P.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "307262, 5396",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/PcPQzks4m3A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/w4V_e3iRxds?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "8bit",
+        "producers": "TV Asahi, Lantis, Kodansha, Toy's Factory, Crunchyroll, Bandai Spirits, Bit grooove promotion, Bandai Namco Filmworks, Bandai Namco Music Live",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Ao Ashi, Haikyuu!!, Kuroko no Basket, One Outs, Captain Tsubasa (2018), Inazuma Eleven, Gyakkyou Burai Kaiji: Ultimate Survivor, Days, Diamond no Ace, Tomodachi Game, Keijo!!!!!!!!, Kuroko no Basket 3rd Season, Kami no Tou, Death Note, Medalist, SK\u221e, Kakegurui, Boku no Hero Academia, All Out!!, Baby Steps, Shokugeki no Souma, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A movie centered on Nagi Seishirou before he enters BLUE LOCK.\n\nMy life was full of boredom. Until I met him.\n\n\u201cThat\u2019s a hassle.\u201d That was second-year high schooler Nagi Seishirou\u2019s favorite phrase as he lived his dull life. Until Reo Mikage, a classmate who dreamed of winning the World Cup, discovered Nagi\u2019s hidden skill, inspiring him to play soccer and share his outstanding talent. Nagi is pulled into Reo's world of soccer and out of his leisurely lifestyle. What fate awaits this prodigy in BLUE LOCK? A world he\u2019s never known.\n\n(Source: Crunchyroll, edited)",
+        "ranime": [
+            "Blue Lock vs. U-20 Japan",
+            "Shousetsu Blue Lock",
+            "Blue Lock",
+            "Blue Lock: Episode Nagi",
+            "Blue Lock Additional Time"
+        ]
     }
 ]
