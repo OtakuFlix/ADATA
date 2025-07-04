@@ -8042,7 +8042,7 @@
         "aid": 291,
         "name": "Dan Da Dan Season 2",
         "jname": "\u30c0\u30f3\u30c0\u30c0\u30f3 \u7b2c2\u671f",
-        "poster": "https://iili.io/Fc9tXbj.webp, https://iili.io/Fc9tWOb.webp, https://iili.io/Fc9tMJe.webp",
+        "poster": "https://iili.io/FcHn6Tx.webp, https://iili.io/Fc9tWOb.webp, https://iili.io/Fc9tMJe.webp",
         "banner": "https://iili.io/Fc9tjzx.webp, https://iili.io/Fc9tV5u.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "307375, 5417",
