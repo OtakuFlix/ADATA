@@ -8011,5 +8011,58 @@
             "Blue Lock: Episode Nagi",
             "Blue Lock Additional Time"
         ]
+    },
+    {
+        "aid": 290,
+        "name": "Welcome To The Outcast'S Restaurant!",
+        "jname": "\u30e6\u30fc\u30ea!!! on ICE Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\"",
+        "poster": "https://iili.io/Fc9t5bf.webp, https://iili.io/Fc9tARs.webp, https://iili.io/Fc9tBxR.webp",
+        "banner": "N/A, https://iili.io/Fc9tIUX.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "307377, 5418",
+        "let": "W",
+        "trailer": "https://www.youtube.com/embed/N77qM1zahVs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/KGijVRJMO3I?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "Special",
+        "status": "Current",
+        "airing": "false",
+        "studio": "MAPPA",
+        "producers": "Avex Pictures",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Dennis is one of the most popular members of the Silverwing Battalion, the world's strongest party. So popular, in fact, that the party leader expels him from the group out of spite.\n\nStripped of his home, Dennis decides to start life anew following his true calling\u2014as a chef! His life as an adventurer might be over, but his new life as a cook is just beginning. He teams up with Atelier, a young girl who has been similarly exiled from her home, and opens up a restaurant for adventurers.\n\nHe's finally able to live out his dream, but he'll need use of more than just his cooking skills to take care of his eclectic customers' problems!\n\n(Source: Kaiten Books)",
+        "ranime": [
+            "Yuri!!! on Ice"
+        ]
+    },
+    {
+        "aid": 291,
+        "name": "Dan Da Dan Season 2",
+        "jname": "\u30c0\u30f3\u30c0\u30c0\u30f3 \u7b2c2\u671f",
+        "poster": "https://iili.io/Fc9tXbj.webp, https://iili.io/Fc9tWOb.webp, https://iili.io/Fc9tMJe.webp",
+        "banner": "https://iili.io/Fc9tjzx.webp, https://iili.io/Fc9tV5u.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "307375, 5417",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/uXr9Ha9qRHE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/dwilf3OGe-A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy, Supernatural",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Science SARU",
+        "producers": "N/A",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Dandadan\n\nMomo, Okarun, and Jiji head to Jiji's house in rural Byakuja Village to investigate the supposed curse hanging over the house. The trio is soon confronted by the eerie Kito Family, the landlords for most of the village. Momo is attacked at the local hot spring while the Kitos question Okarun and Jiji. An all-out fight reveals a hidden, cursed room within Jiji's home and the underground domain of the area's ancient god. And if all that isn't enough, Jiji soon loses control of himself to the Evil Eye, a vengeful entity ready to take Okarun, Momo, and all of Byakuja Village down with it.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Dandadan",
+            "Dandadan"
+        ]
     }
 ]
