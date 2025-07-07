@@ -8064,5 +8064,31 @@
             "Dandadan",
             "Dandadan"
         ]
+    },
+    {
+        "aid": 292,
+        "name": "Gachiakuta",
+        "jname": "\u30ac\u30c1\u30a2\u30af\u30bf",
+        "poster": "https://iili.io/F0Bhs2t.webp, https://iili.io/F0Bh6EN.webp, https://iili.io/F0BhSTJ.webp",
+        "banner": "https://iili.io/F0BhDTG.webp, https://iili.io/F0BhgQR.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "308117, 5563",
+        "let": "G",
+        "trailer": "https://www.youtube.com/embed/yeRvDchyo44?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/yeRvDchyo44?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Bones Film",
+        "producers": "Avex Pictures, Team-MAX",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Crawl back from the abyss of Hell to change this lousy world!\n\nRudo lives in the slums of a floating town, where the poor scrape by under the shadow of the rich who live a sumptuous life, simply casting their garbage off the side, into the abyss.\n\nThen one day, he\u2019s falsely accused of murder, and his wrongful conviction leads to an unimaginable punishment\u2014exile off the edge, with the rest of the trash.\n\nDown on the surface, the cast-off waste of humanity has bred vicious monsters. If Rudo wants to have any hope of discovering the truth and seeking vengeance against those who cast him into Hell, he will have to master a new power and join a group known as the Cleaners who battle the hulking trash beasts of the Pit!\n\n(Source: Crunchyroll, edited)",
+        "ranime": [
+            "Gachiakuta"
+        ]
     }
 ]
