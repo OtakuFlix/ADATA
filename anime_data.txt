@@ -8069,7 +8069,7 @@
         "aid": 292,
         "name": "Gachiakuta",
         "jname": "\u30ac\u30c1\u30a2\u30af\u30bf",
-        "poster": "https://iili.io/F0Bhs2t.webp, https://iili.io/F0Bh6EN.webp, https://iili.io/F0BhSTJ.webp",
+        "poster": "https://iili.io/F0Bh6EN.webp, https://iili.io/F0BhSTJ.webp",
         "banner": "https://iili.io/F0BhDTG.webp, https://iili.io/F0BhgQR.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "308117, 5563",
