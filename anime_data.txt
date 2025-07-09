@@ -8090,5 +8090,31 @@
         "ranime": [
             "Gachiakuta"
         ]
+    },
+    {
+        "aid": 293,
+        "name": "Dekin No Mogura",
+        "jname": "\u51fa\u7981\u306e\u30e2\u30b0\u30e9",
+        "poster": "https://iili.io/F1OHZ3N.webp, https://iili.io/F1OHsGR.webp, https://iili.io/F1OHrTg.webp",
+        "banner": "N/A, https://iili.io/F1OH6ZJ.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "308409, 5719",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/Vomd4o9lNXU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/Vomd4o9lNXU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Mystery, Supernatural",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Brain's Base",
+        "producers": "Kodansha, Tokyo MX, Avex Pictures, BS11, Crunchyroll, A-Sketch, arma bianca",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "\"I won't die 'cause I was banned from the afterlife.\"\n\nA shady self-proclaimed hermit named Momoyuki Mogura, AKA: Mogura, is banned from the afterlife due to an incident. Now he collects spirit possessed will-o'-wisps in his lantern, hoping to make a comeback.\n\nIt seems that those who encounter him begin to see peculiar things.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Dekin no Mogura"
+        ]
     }
 ]
