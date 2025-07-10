@@ -8116,5 +8116,29 @@
         "ranime": [
             "Dekin no Mogura"
         ]
+    },
+    {
+        "aid": 294,
+        "name": "Leviathan",
+        "jname": "\u30ea\u30f4\u30a1\u30a4\u30a2\u30b5\u30f3",
+        "poster": "https://iili.io/FESPiPe.webp, https://iili.io/FESPgN2.webp, https://iili.io/FESPWwN.webp",
+        "banner": "N/A, https://iili.io/FESPeFs.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "308624, 5777",
+        "let": "L",
+        "trailer": "N/A, https://www.youtube.com/embed/ZOE7PLkuvJM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Sci-Fi",
+        "type": "ONA",
+        "status": "Current",
+        "airing": "false",
+        "studio": "Orange",
+        "producers": "Sonilude, Qubic Pictures",
+        "total_episodes": 12,
+        "pg_rating": "N/A",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "On the brink of war in 1914, a fugitive prince and a girl in disguise change the course of history.\n\n(Source: Netflix Anime)",
+        "ranime": "N/A"
     }
 ]
