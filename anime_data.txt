@@ -8140,5 +8140,31 @@
         "imdb_votes": "N/A",
         "synopsis": "On the brink of war in 1914, a fugitive prince and a girl in disguise change the course of history.\n\n(Source: Netflix Anime)",
         "ranime": "N/A"
+    },
+    {
+        "aid": 295,
+        "name": "Lord Of Mysteries",
+        "jname": "\u8be1\u79d8\u4e4b\u4e3b \u5c0f\u4e11\u7bc7",
+        "poster": "https://iili.io/FjGWFcl.webp, https://iili.io/FjGWJMG.webp, https://iili.io/FjGVt8N.webp",
+        "banner": "https://iili.io/FjGWnte.webp, https://iili.io/FjGVb9I.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "309480, 6079",
+        "let": "L",
+        "trailer": "N/A, https://www.youtube.com/embed/BVP0ld7BB4A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy, Mystery, Suspense",
+        "type": "ONA",
+        "status": "Current",
+        "airing": "true",
+        "studio": "B.CMAY PICTURES",
+        "producers": "Tencent Video, China Literature Limited",
+        "total_episodes": 13,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Bakemonogatari, Fullmetal Alchemist: Brotherhood, Death Note, Pandora Hearts, Bungou Stray Dogs",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor\u2019s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential\u2026and unspeakable danger.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Guimi Zhi Zhu"
+        ]
     }
 ]
