@@ -8166,5 +8166,33 @@
         "ranime": [
             "Guimi Zhi Zhu"
         ]
+    },
+    {
+        "aid": 296,
+        "name": "Fairy Tail Season 3",
+        "jname": "FAIRY TAIL \u30d5\u30a1\u30a4\u30ca\u30eb\u30b7\u30ea\u30fc\u30ba",
+        "poster": "https://media.kitsu.app/anime/poster_images/13658/original.jpg, https://iili.io/FjMXIt9.webp, https://iili.io/FjMXo92.webp",
+        "banner": "https://iili.io/FjMX7Fj.webp, https://img.youtube.com/vi/PVrKCN3D_RY/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "311206, 7922",
+        "let": "F",
+        "trailer": "https://www.youtube.com/embed/RAcl2s-T6ik?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/PVrKCN3D_RY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "A-1 Pictures, Bridge, CloverWorks",
+        "producers": "TV Tokyo, Dentsu, Kodansha, Avex Pictures",
+        "total_episodes": 51,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Black Clover, Fullmetal Alchemist: Brotherhood",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The final season of Fairy Tail.\n\nFairy Tail has been disbanded. A year later, Lucy comes into contact with Natsu and Happy. The three of them try to find the other former members' whereabouts to reconstruct the guild as they seek the real reason behind the guild's disbandment.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Fairy Tail (2014)",
+            "Fairy Tail: 100-nen Quest",
+            "Fairy Tail"
+        ]
     }
 ]
