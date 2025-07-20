@@ -8194,5 +8194,32 @@
             "Fairy Tail: 100-nen Quest",
             "Fairy Tail"
         ]
+    },
+    {
+        "aid": 297,
+        "name": "Kaiju No.8 Season 2",
+        "jname": "\u602a\u73638\u53f7 \u7b2c2\u671f",
+        "poster": "https://iili.io/FworGv2.webp, https://iili.io/FworEYl.webp, https://iili.io/Fwor5hX.webp",
+        "banner": "https://iili.io/FworWT7.webp, https://iili.io/Fwor124.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "311303, 8074",
+        "let": "K",
+        "trailer": "https://www.youtube.com/embed/1ry0cE8Gr0k?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1ry0cE8Gr0k?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy, Sci-Fi",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Production I.G",
+        "producers": "Nippon Columbia, TOHO animation, Sonilude, Toho Music",
+        "total_episodes": 11,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Kaijuu 8-gou.\n\nKafka must face new challenges, new Kaiju, and\u2026 a new Captain?!\n\n(Source: KAIJU NO. 8 EN Twitter)",
+        "ranime": [
+            "Kaijuu 8-gou",
+            "Kaijuu 8-gou"
+        ]
     }
 ]
