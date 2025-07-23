@@ -8221,5 +8221,32 @@
             "Kaijuu 8-gou",
             "Kaijuu 8-gou"
         ]
+    },
+    {
+        "aid": 298,
+        "name": "Rent-A-Girlfriend Season 4",
+        "jname": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059 \u7b2c4\u671f",
+        "poster": "https://iili.io/FOrP06G.webp, https://iili.io/FOrP7jt.webp, N/A",
+        "banner": "N/A, https://iili.io/FOrPuvp.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "311802, 8808",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/VC226h0ivYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/VC226h0ivYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "TMS Entertainment",
+        "producers": "Mainichi Broadcasting System, Kodansha, DMM.com",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The fourth season of Kanojo, Okarishimasu.\n\nKazuya\u2019s ready to confess with the lush paradise of Hawaii as a backdrop. But renting Chizuru for the dream trip turns into a war zone of love due to Ruka\u2019s aggressive advances and Mami\u2019s scheming. Despite the chaos, this is Kazuya\u2019s moment to bare his heart. Will his words reach Chizuru? And if they do, what will she even say?\n\n(Source: Crunchyroll)\n\nNote: Kanojo, Okarishimasu 4th Season was streamed 4 days in advance of the TV broadcast on DMM TV, dAnimestore, and Crunchyroll beginning July 1, 2025. Regular broadcasting began on July 5, 2025.",
+        "ranime": [
+            "Kanojo, Okarishimasu 3rd Season",
+            "Kanojo, Okarishimasu"
+        ]
     }
 ]
