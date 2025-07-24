@@ -8253,14 +8253,14 @@
         "aid": 299,
         "name": "New Saga",
         "jname": "\u4e95\u6238\u7aef\u4f1a\u8b70\u3067\u30cb\u30e5\u30fc\u30b5\u30fc\u30ac",
-        "poster": "https://media.kitsu.app/anime/poster_images/67/original.jpg, https://iili.io/FeaXtSf.webp, https://iili.io/FeaXU9R.webp",
-        "banner": "https://iili.io/FeahdPe.webp, N/A",
+        "poster": "https://iili.io/FeaXU9R.webp",
+        "banner": "https://iili.io/Fea4fBj.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "312115, 8957",
         "let": "N",
-        "trailer": "https://www.youtube.com/embed/XOjgt9N0nn8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "trailer": "https://www.youtube.com/embed/BaomnapVQ-0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
         "genre": "Comedy, Fantasy",
-        "type": "ONA",
+        "type": "TV",
         "status": "Finished",
         "airing": "true",
         "studio": "AQUA ARIS",
@@ -8270,7 +8270,7 @@
         "sanime": "No similar anime found.",
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
-        "synopsis": "U.C. 0123.  Mobile Suit Gundam F91 is Gundam creator Yoshiyuki Tomino's attempt to launch a new Gundam saga, set thirty years after Char's Counterattack.\nThe story of Gundam F91 revolves around teenage space colonist Seabook Arno, his friend Cecily Fairchild, and the efforts of the Crossbone Vanguard militia, led by Cecily's grandfather Meitzer Ronah, to establish an aristocracy known as \"Cosmo Babylonia\".\nIn keeping with Gundam tradition, the civilian Seabook is forced by circumstance to pilot the F91 Gundam, coincidentally designed in part by his estranged mother, Dr. Monica Arno.\n(Source: Wikipedia)",
+        "synopsis": "The story of Kyle, a hero who travels back in time after a grueling battle, hoping to prevent the tragic events of his past life. He returns to a point four years prior, armed with the knowledge of his past life and the impending demon invasion, aiming to change the future and save his world.",
         "ranime": [
             "Tsuyokute New Saga"
         ]
@@ -8280,7 +8280,7 @@
         "name": "Demon Slayer: Infinity Castle",
         "jname": "\u5287\u5834\u7248 \u9b3c\u6ec5\u306e\u5203 \u7121\u9650\u57ce\u7de8",
         "poster": "https://iili.io/FeahjR4.webp, https://iili.io/FeahVls.webp, https://iili.io/FeahaNp.webp",
-        "banner": "https://iili.io/FeahSfe.webp, https://iili.io/FeahEiX.webp",
+        "banner": "https://iili.io/FecuHTx.webp, https://iili.io/FeahSfe.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "312116, 8958",
         "let": "D",
@@ -8298,7 +8298,7 @@
         "imdb_votes": "N/A",
         "synopsis": "Tanjiro Kamado \u2013 a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko, was turned into a demon.\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades, Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps\u2019 highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appeared at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\nThe destination where Tanjiro and the Demon Slayer Corps have fallen is the demons\u2019 stronghold \u2013 the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\n(Source: Sony Pictures Entertainment)",
         "ranime": [
-            "Kimetsu no Yaiba: Hashira Geiko-hen",
+            "Demon Slayer",
             "Kimetsu no Yaiba Novelize",
             "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen Novelize",
             "Kimetsu no Yaiba"
