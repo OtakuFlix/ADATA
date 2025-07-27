@@ -7741,7 +7741,7 @@
         "cname": "Filemoon, RpmShare",
         "cid": "304614, 5039",
         "let": "O",
-        "trailer": "https://www.youtube.com/embed/eXTCdzKi3_U?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "trailer": "https://www.youtube.com/embed/gVJHRePgsrA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Hentai, Ecchi",
         "type": "ONA",
         "status": "Finished",
