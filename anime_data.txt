@@ -8303,5 +8303,32 @@
             "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen Novelize",
             "Kimetsu no Yaiba"
         ]
+    },
+    {
+        "aid": 301,
+        "name": "My Dress Up Darling Season 2",
+        "jname": "\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b Season 2",
+        "poster": "https://iili.io/FvorIjV.webp, https://iili.io/FvorzTQ.webp, https://iili.io/FvorCYb.webp",
+        "banner": "https://iili.io/FvorTZB.webp, https://iili.io/Fvornvj.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "313206, 10723",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/Gx1QvE0wtgw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/Gx1QvE0wtgw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "CloverWorks",
+        "producers": "Aniplex, Square Enix, Movic, Studio Mausu, Tokyo MX, BS11",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Sono Bisque Doll wa Koi wo Suru.\n\nWhen Marin Kitagawa and Wakana Gojo met, they grew close over their love for cosplay. Through interacting with classmates and making new cosplay friends, Marin and Wakana\u2019s world keeps growing. New developments arise as Marin\u2019s love for Wakana continues to be filled with endless excitement. In their ever-expanding world, Marin and Wakana\u2019s story of cosplay and thrills continues!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Sono Bisque Doll wa Koi wo Suru",
+            "Sono Bisque Doll wa Koi wo Suru"
+        ]
     }
 ]
