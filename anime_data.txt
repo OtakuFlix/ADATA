@@ -7748,7 +7748,7 @@
         "airing": "false",
         "studio": "Vocal Forge",
         "producers": "Aniflix",
-        "total_episodes": 1,
+        "total_episodes": 8,
         "pg_rating": "Rx - Hentai",
         "sanime": "Joshiochi! 2-kai kara Onnanoko ga... Futtekita!?, Harem Camp!, Succubus Stayed Life The Animation, Yosuga no Sora, Kanojo x Kanojo x Kanojo: Sanshimai to no Dokidoki Kyoudou Seikatsu, Ane\u2606Haramix, Sora no Iro, Mizu no Iro, Araiya-san!: Ore to Aitsu ga Onnayu de!?",
         "imdb_rating": "7.5",
