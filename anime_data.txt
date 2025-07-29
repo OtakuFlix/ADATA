@@ -8330,5 +8330,33 @@
             "Sono Bisque Doll wa Koi wo Suru",
             "Sono Bisque Doll wa Koi wo Suru"
         ]
+    },
+    {
+        "aid": 302,
+        "name": "I'Ve Been Killing Slimes For 300 Years And Maxed Out My Level Season 2",
+        "jname": "\u30b9\u30e9\u30a4\u30e0\u5012\u3057\u3066300\u5e74\u3001\u77e5\u3089\u306a\u3044\u3046\u3061\u306b\u30ec\u30d9\u30ebMAX\u306b\u306a\u3063\u3066\u307e\u3057\u305f \uff5e\u305d\u306e\u306b\uff5e",
+        "poster": "https://iili.io/F8PUtgS.webp, https://iili.io/F8PUss4.webp, https://iili.io/F8PUXOg.webp",
+        "banner": "https://media.kitsu.app/anime/45717/cover_image/dd4977adc2e5610b592a20528c6429d3.jpg, https://iili.io/F8PUv0N.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "313618, 11347",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/UmjXZxKwpP0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/IzJFJt3bos8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Teddy",
+        "producers": "Square Enix, Movic, AT-X, Nippon Columbia, KlockWorx, Studio Mausu, Bushiroad, Hakuhodo DY Music & Pictures, Medicos Entertainment, BS11, SB Creative",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita.\n\nGet ready for more relaxing tales! Azusa Aizawa is a powerful witch who finally reached level 99 and now busies herself with laid-back quests instead. Her family continues to grow as some familiar faces are joined by bright-eyed newcomers. From trips to the beach to a martial arts tournament, you\u2019re invited on Azusa\u2019s carefree and heartwarming adventures of leisure.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+            "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+            "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita"
+        ]
     }
 ]
