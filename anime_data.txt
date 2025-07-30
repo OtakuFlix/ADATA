@@ -8358,32 +8358,5 @@
             "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
             "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita"
         ]
-    },
-    {
-        "aid": 303,
-        "name": "A Couple Of Cuckoos Season 2",
-        "jname": "\u30ab\u30c3\u30b3\u30a6\u306e\u8a31\u5ac1 Season2",
-        "poster": "https://media.kitsu.app/anime/49067/poster_image/7521d03a95472268127f3da025cb35f8.jpg, https://iili.io/FSchG0x.webp, https://iili.io/FSch5RS.webp",
-        "banner": "https://media.kitsu.app/anime/49067/cover_image/089a95c7a4cc0ecf750544825ce664d1.jpg, https://iili.io/FSchcxe.webp",
-        "cname": "Filemoon, RpmShare",
-        "cid": "314035, 11383",
-        "let": "A",
-        "trailer": "https://www.youtube.com/embed/HuZ-xK-P-aw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/HuZ-xK-P-aw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Comedy, Romance",
-        "type": "TV",
-        "status": "Current",
-        "airing": "true",
-        "studio": "Okuruto Noboru",
-        "producers": "Kodansha, Crunchyroll, BS NTV, Kadokawa, Bit grooove promotion, Imagine",
-        "total_episodes": 12,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "The second season of Kakkou no Iinazuke.\n\nUmino Nagi and Amano Erika were born on the same day and swapped at birth. Nagi was raised as the son of a diner owner, and Erika the daughter of a hotel tycoon. Their parents encourage them to become engaged, and they begin life together. Soon though, infatuations arise as Nagi becomes stuck in a love quadrangle. Life and love are embroiled in epic turmoil as fate is set in motion once again!\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Kakkou no Iinazuke",
-            "Kakkou no Iinazuke"
-        ]
     }
 ]
