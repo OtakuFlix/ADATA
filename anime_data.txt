@@ -8459,5 +8459,31 @@
         "imdb_votes": "N/A",
         "synopsis": "In the aftermath of a World War II bombing, two orphaned children struggle to survive in the Japanese countryside. To Seita and his four-year-old sister, the helplessness and indifference of their countrymen is even more painful than the enemy raids. Through desperation, hunger and grief, these children's lives are as heartbreakingly fragile as their spirit and love is inspiring.\n\n(Source: Sentai Filmworks)",
         "ranime": "N/A"
+    },
+    {
+        "aid": 307,
+        "name": "My Love Story With Yamada-Kun At Lv999",
+        "jname": "\u5c71\u7530\u304f\u3093\u3068Lv999\u306e\u604b\u3092\u3059\u308b",
+        "poster": "https://iili.io/F6uNM6x.webp, https://iili.io/F6uNTGf.webp, https://iili.io/F6uwmp1.webp",
+        "banner": "https://media.kitsu.app/anime/46529/cover_image/f664fcd75a5553517f855ebd6a6d21fa.png, https://iili.io/F6uNqvI.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "315013, 11742",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/Rn1Z14zka5o?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/LpZI3j6Axlo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Madhouse",
+        "producers": "Aniplex, Movic, Tokyo MX, BS11, Egg Firm, Kadokawa, COMICSMART",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Wotaku ni Koi wa Muzukashii, Net-juu no Susume, Horimiya, Netoge no Yome wa Onnanoko ja Nai to Omotta?, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, 3D Kanojo: Real Girl, Kimi ni Todoke, Skip Beat!, Ookami Shoujo to Kuro Ouji, Skip to Loafer, Yubisaki to Renren, Koori Zokusei Danshi to Cool na Douryou Joshi, Yamada-kun to 7-nin no Majo",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Recently dumped, Akane is just about to quit the game she used to play with her boyfriend, when she meets Yamada in the same RPG. Yamada in real life turns out to be somewhat of a legend. The only problem is - he is ONLY interested in the game. As Akane's feelings grow, will Yamada's focus stay on the game?\n\n(Source: Mangamo)",
+        "ranime": [
+            "Yamada-kun to Lv999 no Koi wo Suru"
+        ]
     }
 ]
