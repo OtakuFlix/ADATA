@@ -8485,5 +8485,35 @@
         "ranime": [
             "Yamada-kun to Lv999 no Koi wo Suru"
         ]
+    },
+    {
+        "aid": 308,
+        "name": "My Hero Academia: You\u2019Re Next",
+        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
+        "poster": "https://iili.io/FLJI7xS.webp, https://iili.io/FLJIRb2.webp, https://iili.io/FLJIxls.webp",
+        "banner": "https://iili.io/FLJIas9.webp, https://iili.io/FLJITJf.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "315698, 11982",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/Oe05mebRJ6k?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/D5fYOnwYkj4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Bones",
+        "producers": "Dentsu, Mainichi Broadcasting System, Movic, TOHO animation, Shueisha",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "One Punch Man, Black Clover, Naruto, Ansatsu Kyoushitsu, Hunter x Hunter (2011), Haikyuu!!, Tiger & Bunny, Little Witch Academia (TV), Kimetsu no Yaiba, Charlotte, Enen no Shouboutai, Jujutsu Kaisen, One Piece, Mairimashita! Iruma-kun, Katekyou Hitman Reborn!, Bungou Stray Dogs, Mob Psycho 100, Ao no Exorcist, Tengen Toppa Gurren Lagann, Soul Eater, Munou na Nana, Fairy Tail, Naruto: Shippuuden, Boruto: Naruto Next Generations, Kill la Kill, Hajime no Ippo, Inazuma Eleven, Shokugeki no Souma, Yowamushi Pedal, Kaze ga Tsuyoku Fuiteiru, World Trigger, Little Witch Academia, Gakuen Alice, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Samurai Flamenco, Toaru Kagaku no Railgun, Shy, Kekkai Sensen, Shijou Saikyou no Deshi Kenichi, Kami no Tou, Hamatora The Animation, Tu Bian Yingxiong X, Super Crooks, Concrete Revolutio: Choujin Gensou, Fullmetal Alchemist: Brotherhood, Ansatsu Kyoushitsu 2nd Season, Assault Lily: Bouquet, Gakusen Toshi Asterisk, Nanatsu no Taizai, Shingeki no Kyojin, Dragon Ball, JoJo no Kimyou na Bouken (TV), Days, One Punch Man 2nd Season, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Baby Steps, Rakudai Kishi no Cavalry, Chainsaw Man, Zom 100: Zombie ni Naru made ni Shitai 100 no Koto, Undead Unluck, Fairy Tail (2014), Tokyo Ghoul, The God of High School, Youkai Watch, Eizouken ni wa Te wo Dasu na!, Dr. Stone, Tokyo Revengers, Hirogaru Sky! Precure, Diamond no Ace, Jewelpet Twinkle\u2606, Bleach, X-Men, Inferno Cop, Hunter x Hunter, Tsue to Tsurugi no Wistoria, Kaijuu 8-gou, Shokugeki no Souma: Ni no Sara, Mairimashita! Iruma-kun 2nd Season, RWBY: Hyousetsu Teikoku, Tokyo Ravens, Bleach: Sennen Kessen-hen, Kaitou Joker, Vinland Saga, Xian Wang de Richang Shenghuo, Owari no Seraph, Mahouka Koukou no Rettousei, Break Blade, Ao Ashi, Ookiku Furikabutte, Runway de Waratte, High School DxD, Heroman, Yuri!!! on Ice, Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari, Reikenzan: Hoshikuzu-tachi no Utage, Tu Bian Yingxiong Leaf, Tu Bian Yingxiong Baba, Shoujo Kakumei Utena, Ballroom e Youkoso, Zetman, Beastars, Chi. Chikyuu no Undou ni Tsuite, Re:Zero kara Hajimeru Isekai Seikatsu, Air Gear, Toaru Kagaku no Railgun S, Pokemon Sun & Moon, Cowboy Bebop, Break Blade Movie 1: Kakusei no Toki, Senki Zesshou Symphogear, Toaru Majutsu no Index, Mahou Shoujo Lyrical Nanoha, Blue Lock, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria, Gundam Build Fighters, Yuu\u2606Yuu\u2606Hakusho, Kinnikuman, Yu\u2606Gi\u2606Oh! Duel Monsters GX",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "\u201cNext, it's your turn!\u201d\n\nIn a society where heroes and villains continuously battle in the name of peace and chaos, Deku, a U.A. High School student who aspires to be the best hero he can be, confronts the villain who imitates the hero he's long admired. Can Deku and the rest of U.A. High Class 1-A protect the world by putting an end to Dark Might, the man claiming to be the new Symbol of Peace?\n\n(Source: Toho)",
+        "ranime": [
+            "Boku no Hero Academia 2nd Season",
+            "Boku no Hero Academia",
+            "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+            "Vigilante: Boku no Hero Academia Illegals",
+            "Boku no Hero Academia: Hero Note"
+        ]
     }
 ]
