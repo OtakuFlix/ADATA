@@ -8515,5 +8515,33 @@
             "Vigilante: Boku no Hero Academia Illegals",
             "Boku no Hero Academia: Hero Note"
         ]
+    },
+    {
+        "aid": 309,
+        "name": "Kiteretsu",
+        "jname": "\u30ad\u30c6\u30ec\u30c4\u5927\u767e\u79d1",
+        "poster": "https://iili.io/FQ7QQG1.webp, https://iili.io/FQ7QPjV.webp, https://iili.io/FQ7Qgvj.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "315898, 12078",
+        "let": "K",
+        "trailer": "N/A, N/A",
+        "genre": "Comedy, Drama",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Gallop",
+        "producers": "Fuji TV",
+        "total_episodes": 331,
+        "pg_rating": "PG - Children",
+        "sanime": "Doraemon (1979), Doraemon, Doraemon (2005), Dr. Slump: Arale-chan, Haai Step Jun",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The main character is a scientific genius boy named Kiteretsu, who has built a companion robot named Korosuke. He frequently travels in time with his friends and Korosuke in the time machine he built. Miyoko is a girl in his neighborhood who is basically his girlfriend. Tongari is his rival, who happen to share some similar traits of Honekawa Suneo. Buta Gorilla (Kumada Kaoru) is a typical neighborhood bully, who also share similar traits of Gian (Takeshi Goda) except that he often antagonizes Korosuke (though they are in grade school).\n(Source: Wikipedia)",
+        "ranime": [
+            "Kiteretsu Daihyakka",
+            "Fujiko Fujio no Kiteretsu Daihyakka",
+            "Kiteretsu Daihyakka & Doraemon: Korosuke no Hajimete no Otsukai"
+        ]
     }
 ]
