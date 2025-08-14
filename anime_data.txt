@@ -8543,5 +8543,63 @@
             "Fujiko Fujio no Kiteretsu Daihyakka",
             "Kiteretsu Daihyakka & Doraemon: Korosuke no Hajimete no Otsukai"
         ]
+    },
+    {
+        "aid": 310,
+        "name": "Baki Season 2",
+        "jname": "\u7bc4\u99ac\u5203\u7259 SON OF OGRE",
+        "poster": "https://iili.io/FDdaMVS.webp, https://iili.io/FDda1Dl.webp, https://iili.io/FDdaBSa.webp",
+        "banner": "https://media.kitsu.app/anime/45984/cover_image/0a93e37e8ecea7f620ae55eb28b3fd95.jpg, https://iili.io/FDda7ln.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "316717, 12295",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/SDOdIjgevrk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/Ns8r8J44f6s?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "TMS Entertainment",
+        "producers": "N/A",
+        "total_episodes": 27,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kengan Ashura",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Baki Hanma: Son of Ogre.\n\nIn Hanma Baki\u2019s first season, the fighter Baki \u2014 the strongest high schooler in the land \u2014 trained in a prison against fellow inmates, defeating a giant praying mantis and formidable opponents like Biscuit \u201cMr. Unchained\u201d Oliva and Jun \u201cMr. Second\u201d Guevaru. Now, Baki is back and gearing up to battle Pickle, a perfectly preserved prehistoric man so powerful, he once preyed on dinosaurs. If Baki can take down Pickle, his final matchup will be with his all-powerful father, Yujiro Hanma.\n\n(Source: Netflix)",
+        "ranime": [
+            "Hanma Baki: Son of Ogre",
+            "Baki-dou",
+            "Hanma Baki"
+        ]
+    },
+    {
+        "aid": 311,
+        "name": "Baki",
+        "jname": "\u30d0\u30ad",
+        "poster": "https://iili.io/FDdapft.webp, https://iili.io/FDdaDWN.webp, https://iili.io/FDda6Ug.webp",
+        "banner": "https://iili.io/FDdcKzl.webp, https://iili.io/FDdaLOv.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "316716, 12294",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/1fSp8NJEw34?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/00nwsWLCDv4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "TMS Entertainment",
+        "producers": "N/A",
+        "total_episodes": 26,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kengan Ashura, JoJo no Kimyou na Bouken (TV), Hajime no Ippo, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Megalo Box, Terra Formars, Dragon Ball Kai, Tokyo Revengers, Kage no Jitsuryokusha ni Naritakute!, Boku no Hero Academia 3rd Season, Dragon Ball Super, Saki, Wind Breaker, Kinnikuman: Kanpeki Choujin Shiso-hen, Tekken: Bloodline, Shingeki no Kyojin, Nomad: Megalo Box 2, Afro Samurai, Killing Bites, The God of High School, Souten no Ken: Regenesis, Devilman: Crybaby, Tenjou Tenge, Hinomaruzumou, Kinnikuman II Sei, JoJo no Kimyou na Bouken, Be-Bop Highschool, Saint Seiya, Shuumatsu no Walk\u00fcre, Diamond no Ace, Kengan Ashura Part 2, Garouden: The Way of the Lone Wolf, Under Ninja",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world. Five of the world's most violent and brutal death row inmates are gathering to face Baki. Their objective is to taste defeat\u2014their unmatched strength and skill have led them to grow bored of life itself, and they now seek out Baki in the hopes that he can overwhelm and utterly crush them. In this crisis, other underground martial art warriors gather to fight by Baki's side: Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh, and Doppo Orochi. An epic showdown between violent death row inmates and Baki and his friends begins!\n\n(Source: Netflix)",
+        "ranime": [
+            "Grappler Baki: Saidai Tournament-hen",
+            "Baki: Dai Raitaisai-hen",
+            "Baki: New Grappler Baki",
+            "Baki Tokubetsu-hen Saga",
+            "Baki: Most Evil Death Row Convicts Special Anime"
+        ]
     }
 ]
