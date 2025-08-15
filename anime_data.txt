@@ -8606,7 +8606,7 @@
         "aid": 312,
         "name": "Patema Inverted",
         "jname": "\u30b5\u30ab\u30b5\u30de\u306e\u30d1\u30c6\u30de",
-        "poster": "https://media.kitsu.app/anime/poster_images/6742/original.png, https://iili.io/FD0q5LN.webp, https://iili.io/FD0qIkJ.webp",
+        "poster": "https://iili.io/FD01PbR.webp, https://media.kitsu.app/anime/poster_images/6742/original.png, https://iili.io/FD0qIkJ.webp",
         "banner": "https://iili.io/FD0q17s.webp, https://iili.io/FD0qAIR.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "316993, 12327",
