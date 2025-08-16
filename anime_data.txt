@@ -8633,7 +8633,7 @@
         "aid": 313,
         "name": "Fairy Tail Season 4",
         "jname": "FAIRY TAIL\uff08\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb\uff09",
-        "poster": "https://iili.io/FbxfrR2.webp, https://iili.io/FbxfSS4.webp, N/A",
+        "poster": "https://iili.io/Fbxsmml.webp, https://iili.io/FbxfSS4.webp, N/A",
         "banner": "https://iili.io/Fbxf6D7.webp, https://iili.io/FbxfvKG.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "317193, 12375",
