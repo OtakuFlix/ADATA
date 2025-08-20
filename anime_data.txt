@@ -8659,5 +8659,32 @@
             "Fairy Tail OVA (2016)",
             "Fairy Tail Movie 2: Dragon Cry"
         ]
+    },
+    {
+        "aid": 314,
+        "name": "I Was Reincarnated As The 7Th Prince So I Can Take My Time Perfecting My Magical Ability Season 2",
+        "jname": "\u8ee2\u751f\u3057\u305f\u3089\u7b2c\u4e03\u738b\u5b50\u3060\u3063\u305f\u306e\u3067\u3001\u6c17\u307e\u307e\u306b\u9b54\u8853\u3092\u6975\u3081\u307e\u3059 \u7b2c2\u671f",
+        "poster": "https://iili.io/FyxumLQ.webp, https://iili.io/Fyxubhx.webp, https://iili.io/FyxuQku.webp",
+        "banner": "N/A, https://iili.io/FyxuDIj.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "317700, 12559",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/R_HDmdfQbTg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/_wN2sC9Pq1c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Tsumugi Akita Animation Lab",
+        "producers": "TV Tokyo, Lantis, Kodansha, Ai Addiction, Glovision, Crunchyroll, ADK Marketing Solutions, Bandai Namco Music Live",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu.\n\nThe magic maniac returns, his next target? Holy Magic.\n\n(Source: Crunchyroll Official Trailer)",
+        "ranime": [
+            "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+            "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu"
+        ]
     }
 ]
