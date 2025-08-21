@@ -3069,7 +3069,7 @@
         "aid": 107,
         "name": "Demon Slayer Season 1",
         "jname": "\u9b3c\u6ec5\u306e\u5203",
-        "poster": "https://iili.io/2bkVpaf.webp, https://iili.io/2bODuNp.webp",
+        "poster": "https://iili.io/2bODuNp.webp",
         "banner": "https://iili.io/2bkW09R.webp, https://iili.io/2bODGR4.webp",
         "cname": "Filemoon",
         "cid": "197763",
