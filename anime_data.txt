@@ -7933,7 +7933,7 @@
         "name": "Clevatess",
         "jname": "\u30af\u30ec\u30d0\u30c6\u30b9-\u9b54\u7363\u306e\u738b\u3068\u8d64\u5b50\u3068\u5c4d\u306e\u52c7\u8005-",
         "poster": "https://iili.io/FYvREhv.webp, https://iili.io/FYvRREB.webp, https://iili.io/FYvRnku.webp",
-        "banner": "N/A, https://iili.io/FYvRTLQ.webp",
+        "banner": "https://iili.io/FYvRTLQ.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "307102, 5349",
         "let": "C",
