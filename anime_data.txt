@@ -8788,5 +8788,63 @@
             "Meitantei Conan: Hoshikage no Majutsushi",
             "Meitantei Conan: Shakunetsu no Ginga Tetsudou"
         ]
+    },
+    {
+        "aid": 316,
+        "name": "Ne Zha 2",
+        "jname": "\u54ea\u5412\u4e4b\u9b54\u7ae5\u964d\u4e16",
+        "poster": "https://iili.io/K31xN0F.webp, https://iili.io/K31xMDQ.webp, https://iili.io/K31xuDl.webp",
+        "banner": "N/A, https://iili.io/K31xlUu.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "319052, 12961",
+        "let": "N",
+        "trailer": "https://www.youtube.com/embed/xdOgym7MLAU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/TD3KDnVJPGo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy, Drama, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "October Media",
+        "producers": "Horgos Coloroom Pictures",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Bai She: Yuan Qi, Xiyou Ji: Dasheng Guilai, Jiang Ziya",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A young boy, Nezha, is birthed from a heavenly pearl by the Primeval Lord of Heaven. Born with unique powers, Nezha finds himself as an outcast who is hated and feared. Destined by prophecy to bring destruction to the world, the young boy must choose between good and evil in order to break the shackles of fate and become the hero.\n\n(Source: Well Go USA Entertainment)",
+        "ranime": [
+            "Nezha Zhi Mo Tong Nao Hai",
+            "Nezha Nao Hai",
+            "Jiang Ziya",
+            "Shenhai"
+        ]
+    },
+    {
+        "aid": 317,
+        "name": "Ne Zha",
+        "jname": "\u54ea\u5412\u4e4b\u9b54\u7ae5\u964d\u4e16",
+        "poster": "https://iili.io/K31xN0F.webp, https://iili.io/K31xMDQ.webp, https://iili.io/K31x4sI.webp",
+        "banner": "N/A, https://iili.io/K31xlUu.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "319051, 12960",
+        "let": "N",
+        "trailer": "https://www.youtube.com/embed/xdOgym7MLAU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/TD3KDnVJPGo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy, Drama, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "October Media",
+        "producers": "Horgos Coloroom Pictures",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Bai She: Yuan Qi, Xiyou Ji: Dasheng Guilai, Jiang Ziya",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A young boy, Nezha, is birthed from a heavenly pearl by the Primeval Lord of Heaven. Born with unique powers, Nezha finds himself as an outcast who is hated and feared. Destined by prophecy to bring destruction to the world, the young boy must choose between good and evil in order to break the shackles of fate and become the hero.\n\n(Source: Well Go USA Entertainment)",
+        "ranime": [
+            "Nezha Zhi Mo Tong Nao Hai",
+            "Nezha Nao Hai",
+            "Jiang Ziya",
+            "Shenhai"
+        ]
     }
 ]
