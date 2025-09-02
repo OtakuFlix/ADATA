@@ -8414,7 +8414,7 @@
         "aid": 305,
         "name": "My Neighbor Totoro",
         "jname": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
-        "poster": "https://media.kitsu.app/anime/poster_images/482/original.jpg, https://iili.io/F41xqMv.webp, https://iili.io/F41xd91.webp",
+        "poster": "https://iili.io/F41xd91.webp, https://iili.io/F41xqMv.webp",
         "banner": "https://iili.io/F41xTAX.webp, https://iili.io/F41xfoJ.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "314674, 11662",
