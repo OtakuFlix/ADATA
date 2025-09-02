@@ -6040,7 +6040,7 @@
         "studio": "Gainax",
         "producers": "AIC, Magic Bus",
         "total_episodes": 12,
-        "pg_rating": "Rx - Hentai",
+        "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "No similar anime found.",
         "imdb_rating": 7.1,
         "imdb_votes": 72,
