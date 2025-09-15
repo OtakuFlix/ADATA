@@ -7740,6 +7740,7 @@
         "banner": "https://iili.io/Fl6NLhX.webp, https://iili.io/FAp7dSs.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "304614, 5039",
+        "download": "off",
         "let": "O",
         "trailer": "https://www.youtube.com/embed/gVJHRePgsrA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Hentai, Ecchi",
