@@ -8287,7 +8287,7 @@
         "trailer": "https://www.youtube.com/embed/ZfIXXgqxVn8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/wPFeBxt7VXI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Supernatural",
         "type": "Movie",
-        "status": "Finished",
+        "status": "Current",
         "airing": "true",
         "studio": "ufotable",
         "producers": "Aniplex",
