@@ -8971,27 +8971,28 @@
     {
         "aid": 322,
         "name": "Wolf King Season 2",
-        "jname": "BIRDIE WING -Golf Girls\u2019 Story- Season 2",
-        "poster": "https://iili.io/KuG3fOg.webp, https://iili.io/KuG3JfV.webp, N/A",
-        "banner": "N/A, https://iili.io/KuG2bDb.webp",
+        "jname": "狼王子 第二季",
+        "poster": "https://iili.io/KuyUp6J.webp, https://iili.io/KuG3JfV.webp",
+        "banner": "https://iili.io/Kuyb7ov.webp, https://iili.io/KuyblKN.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "321238, 13655",
         "let": "W",
-        "trailer": "N/A, https://www.youtube.com/embed/wYl7mUTIyTQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Sports",
+        "trailer": "https://www.youtube.com/embed/bSRegO5XPDw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy, Romance",
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "Bandai Namco Pictures",
-        "producers": "TV Tokyo",
+        "studio": "Kuaikan Manhua",
+        "producers": "Tencent Penguin Pictures",
         "total_episodes": 16,
         "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Hanebado!, Mou Ippon!",
+        "sanime": "The Demonic King Who Chases His Wife, Fox Spirit Matchmaker",
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
         "synopsis": "There exists a website where you just pay a few dollars and set a keyword, then you can easily enter the world of novels to personally run around and venture. After every time you enter, the experiences that occurred will automatically become parts of the novels. A new novelist, Lan Pi, saw such an introduction, mouse-clicked it, closed her eyes, and entered the VR world. The funny love between the gentle, black-hearted Sheep King and the funny, straightforward Wolf tomboy girl has just begun.\n\n(Source: Kuaikan Manhua, translated)",
         "ranime": [
-            "Birdie Wing: Golf Girls' Story"
+            "The Demonic King Who Chases His Wife",
+            "Fox Spirit Matchmaker"
         ]
     }
 ]
