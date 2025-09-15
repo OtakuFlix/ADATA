@@ -8973,7 +8973,7 @@
         "name": "Wolf King Season 2",
         "jname": "狼王子 第二季",
         "poster": "https://iili.io/KuyUp6J.webp, https://iili.io/KuG3JfV.webp",
-        "banner": "https://iili.io/Kuyb7ov.webp, https://iili.io/KuyblKN.webp",
+        "banner": "https://iili.io/KA9yGpt.webp, https://iili.io/KuyblKN.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "321238, 13655",
         "let": "W",
