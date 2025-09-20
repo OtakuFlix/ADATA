@@ -9161,5 +9161,29 @@
         "ranime": [
             "Kaoru Hana wa Rin to Saku"
         ]
+    },
+    {
+        "aid": 329,
+        "name": "Mahavatar Narsimha",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/K7taFoP.webp",
+        "banner": "N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "322001, 13884",
+        "let": "M",
+        "trailer": "N/A",
+        "genre": "N/A",
+        "type": "N/A",
+        "status": "N/A",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "N/A",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "No synopsis available.",
+        "ranime": "N/A"
     }
 ]
