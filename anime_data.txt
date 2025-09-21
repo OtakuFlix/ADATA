@@ -9161,5 +9161,60 @@
         "ranime": [
             "Kaoru Hana wa Rin to Saku"
         ]
+    },
+    {
+        "aid": 329,
+        "name": "Robotics Notes",
+        "jname": "\u30ed\u30dc\u30c6\u30a3\u30af\u30b9\u30fb\u30ce\u30fc\u30c4",
+        "poster": "https://iili.io/KYiml5v.webp, https://iili.io/KYimxOQ.webp, https://iili.io/KYibkV1.webp",
+        "banner": "https://iili.io/KYimXqX.webp, https://iili.io/KYimJb2.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "322136, 13908",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/XlRZAKcqIJo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/MOHvUD3qFOI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Production I.G",
+        "producers": "Aniplex, Dentsu, Fuji TV, Nitroplus, Fujipacific Music, MAGES.",
+        "total_episodes": 22,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Steins;Gate, RideBack, Suzumiya Haruhi no Yuuutsu, Psycho-Pass, Hyouka, Kaze Tachinu, Classroom\u2606Crisis, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Kamisama no Memochou, Higashi no Eden, Kenzen Robo Daimidaler, SSSS.Gridman, Knight's & Magic, Sora yori mo Tooi Basho, Angel Beats!, Summer Wars, Toaru Kagaku no Railgun, Rinne no Lagrange, Ch\u00e4oS;HEAd, Gad Guard, Air Gear, Kidou Tenshi Angelic Layer, Zetsuen no Tempest, Mushishi Zoku Shou, Gundam Build Fighters, Kumo no Mukou, Yakusoku no Basho, Dennou Coil, Tsuritama, Chuunibyou demo Koi ga Shitai!, RoboMasters the Animated Series, Chikyuu Bouei Kigyou Dai-Guard, RD Sennou Chousashitsu",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "2019, Divergence Ratio 1.048596. The near future, where a device popularly called the PokeCom, packaged with PhoneDroid OS, spreads, bringing the Augmented Reality world close to existence. \nCentral Tanegashima High School's Robot Research Club is in danger of losing its club status. Kaito Yashio, one of only two members, is only obsessed with robot fighting games, showing no interest in the Robo Club even in this situation. The reckless, useless club head, Akiho Senomiya, aims to complete a giant robot, struggling hard to avoid losing the club's status. \nThen, one day, Kaito discovers the A.R. annotation that becomes the Kimijima Report. Written in that report is the indictment of someone named Kou Kimijima's conspiracy involving the world.\n\n(Source: VNdb)",
+        "ranime": [
+            "Robotics;Notes",
+            "Ch\u00e4oS;HEAd",
+            "Steins;Gate",
+            "Occultic;Nine",
+            "Ch\u00e4oS;Child",
+            "Steins;Gate 0"
+        ]
+    },
+    {
+        "aid": 330,
+        "name": "Mahavatar Narsimha",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/KYim41e.webp",
+        "banner": "N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "322001, 13884",
+        "let": "M",
+        "trailer": "N/A",
+        "genre": "N/A",
+        "type": "N/A",
+        "status": "N/A",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "N/A",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "No synopsis available.",
+        "ranime": "N/A"
     }
 ]
