@@ -9270,7 +9270,7 @@
         "synopsis": "The second part of SAKAMOTO DAYS.\n\nTaro Sakamoto, once the world's greatest assassin, is now a retired family man. However, the underworld keeps pulling him back in. This time, four serial killers are on the loose and coming for not only him but his friends and family as well. He is determined to have what it takes to stop them and\u2014more importantly\u2014to resolve the issue without killing them. \n\n(Source: Anime News Network, edited)",
         "ranime": [
             "Sakamoto Days",
-            "Sakamoto Days"
+            "Sakamoto Days Part 2"
         ]
     }
 ]
