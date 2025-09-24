@@ -9299,5 +9299,34 @@
         "imdb_votes": "N/A",
         "synopsis": "No synopsis available.",
         "ranime": "N/A"
+    },
+    {
+        "aid": 335,
+        "name": "Ghost In The Shell: The New Movie",
+        "jname": "\u653b\u6bbb\u6a5f\u52d5\u968a \u65b0\u5287\u5834\u7248",
+        "poster": "https://iili.io/KldwzOb.webp, https://iili.io/KldwqfS.webp, https://iili.io/KldwHRs.webp",
+        "banner": "https://iili.io/Kldw7qB.webp, https://img.youtube.com/vi/gCSQJoijLI4/maxresdefault.jpg",
+        "cname": "Filemoon, RpmShare",
+        "cid": "322688, 14046",
+        "let": "G",
+        "trailer": "https://www.youtube.com/embed/9vgfuoxpYK8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/gCSQJoijLI4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Award Winning, Mystery, Sci-Fi",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Production I.G",
+        "producers": "Bandai Visual, Dentsu, Kodansha, flying DOG, TOHO animation",
+        "total_episodes": 1,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Error fetching similar anime.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In the year 2027, a year following the end of the non-nuclear World War IV, a bomb has gone off in Newport City, killing a major arms dealer who may have ties with the mysterious 501 Organization. Public Security official Daisuke Aramaki hires full-body cyber prosthesis user and hacker extraordinaire, Motoko Kusanagi, to investigate.\n(Source: Wikipedia)",
+        "ranime": [
+            "Koukaku Kidoutai Arise: Alternative Architecture",
+            "Koukaku Kidoutai",
+            "Koukaku Kidoutai: SAC_2045",
+            "Animegatari x Koukaku Kidoutai Collab Eizou"
+        ]
     }
 ]
