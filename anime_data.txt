@@ -9248,5 +9248,56 @@
             "Sakamoto Days",
             "Sakamoto Days Part 2"
         ]
+    },
+    {
+        "aid": 333,
+        "name": "Shoot! Goal To The Future Season 1",
+        "jname": "\u30b7\u30e5\u30fc\u30c8! Goal to the Future",
+        "poster": "https://iili.io/KldCuOQ.webp, https://iili.io/KldC2R4.webp, https://iili.io/KldBLRR.webp",
+        "banner": "https://iili.io/KldCcqF.webp, https://iili.io/KldBmiX.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "322683, 14045",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/1T7BFGACOU0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/vTCYrqTuoVU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Magic Bus, EMT Squared",
+        "producers": "AT-X, BS Fuji, Being, Amusement Media Academy, Crunchyroll, Yomiuri TV Enterprise, NTT Plala, Production Ace, BS NTV, MAGNET, HoriPro International",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Error fetching similar anime.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Atsushi Kamiya, a former captain at Kakegawa High School and the world-renowned \"courageous captain\" for a famous Italian soccer team\u2026 And Hideto Tsuji, a student at Kakegawa High School, who seems uninterested in the now-weakened soccer team\u2026\n\nTheir meeting is the start of a new legend...\n\n(Source: Official Site)",
+        "ranime": [
+            "Aoki Densetsu Shoot! (Movie)",
+            "Shoot!"
+        ]
+    },
+    {
+        "aid": 334,
+        "name": "Mahavatar Narsimha",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/KldCjst.webp",
+        "banner": "N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "322001, 13884",
+        "let": "M",
+        "trailer": "N/A",
+        "genre": "N/A",
+        "type": "N/A",
+        "status": "N/A",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "N/A",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "No synopsis available.",
+        "ranime": "N/A"
     }
 ]
