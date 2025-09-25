@@ -9141,7 +9141,7 @@
         "name": "The Fragrant Flower Blooms With Dignity",
         "jname": "\u85ab\u308b\u82b1\u306f\u51db\u3068\u54b2\u304f",
         "poster": "https://iili.io/KRNAgZN.webp, https://iili.io/KRNAvyv.webp, https://iili.io/KRNAa4e.webp",
-        "banner": "https://iili.io/KRNAP6X.webp, https://iili.io/KRNAw6F.webp",
+        "banner": "https://iili.io/KlUORKQ.webp, https://iili.io/KRNAw6F.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "321615, 13803",
         "let": "T",
