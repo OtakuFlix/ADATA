@@ -9354,5 +9354,32 @@
         "ranime": [
             "Houkago Saikoro Club"
         ]
+    },
+    {
+        "aid": 337,
+        "name": "Chainsaw Man \u2013 The Movie: Reze Arc",
+        "jname": "\u5287\u5834\u7248 \u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \u30ec\u30bc\u7bc7",
+        "poster": "https://iili.io/K0AKrHN.webp, https://iili.io/K0AKjN1.webp, https://iili.io/K0AKxMG.webp",
+        "banner": "https://iili.io/K0AKpJ2.webp, https://iili.io/K0AKMcQ.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "323016, 14103",
+        "let": "C",
+        "trailer": "https://www.youtube.com/embed/GJ1jrCnm-t8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/pv8A7eubPQQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "MAPPA",
+        "producers": "N/A",
+        "total_episodes": 1,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Denji became \u201cChainsaw Man\u201d, a boy with a devil\u2019s heart, and is now part of Special Division 4\u2019s devil hunters. After a date with Makima, the woman of his dreams, Denji takes shelter from the rain. There he meets Reze, a girl who works in a caf\u00e9.\n\n(Source: MAPPA CHANNEL).",
+        "ranime": [
+            "Chainsaw Man",
+            "Chainsaw Man"
+        ]
     }
 ]
