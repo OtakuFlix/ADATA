@@ -9381,5 +9381,33 @@
             "Chainsaw Man",
             "Chainsaw Man"
         ]
+    },
+    {
+        "aid": 338,
+        "name": "Dragon Ball Super Broly",
+        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85\uff08\u30b9\u30fc\u30d1\u30fc\uff09 \u30d6\u30ed\u30ea\u30fc",
+        "poster": "https://iili.io/KEJON29.webp, https://iili.io/KEJO0es.webp, https://iili.io/KEJOuXR.webp",
+        "banner": "https://iili.io/KEJOkmb.webp, https://iili.io/KEJOl7n.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "323513, 14155",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/qVn8E0AXDsY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/YtxrwoAzDuM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Toei Animation",
+        "producers": "Fuji TV, Bandai, Bandai Namco Entertainment, Shueisha",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "One Piece Movie 14: Stampede, Boku no Hero Academia the Movie 2: Heroes:Rising, Black Clover: Mahou Tei no Ken, Yu\u2606Gi\u2606Oh! The Dark Side of Dimensions",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Earth is at peace after The Tournament of Power but Goku continues to train, knowing there are ever-stronger forces in the universe. With the arrival of a Saiyan warrior named Broly, Goku and Vegeta face their most dangerous challenge yet. The film also chronicles the history of the Saiyans and the background story of these three Saiyans with different destinies connected to the turbulent period of their now extinct race.",
+        "ranime": [
+            "Dragon Ball Super",
+            "Dragon Ball Super: Super Hero",
+            "Dragon Ball Super: Broly - Skytree Super"
+        ]
     }
 ]
