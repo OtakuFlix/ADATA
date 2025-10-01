@@ -9414,7 +9414,7 @@
         "aid": 339,
         "name": "Takopi'S Original Sin",
         "jname": "\u30bf\u30b3\u30d4\u30fc\u306e\u539f\u7f6a",
-        "poster": "https://iili.io/KMNN47n.webp, https://iili.io/KMNNOzv.webp, https://iili.io/KMNNh5g.webp",
+        "poster": "https://iili.io/KMe3tS4.webp, https://iili.io/KMNN47n.webp, https://iili.io/KMNNh5g.webp",
         "banner": "https://iili.io/KMNNLX4.webp, https://iili.io/KMNNjea.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "323903, 14256",
