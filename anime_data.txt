@@ -9409,5 +9409,31 @@
             "Dragon Ball Super: Super Hero",
             "Dragon Ball Super: Broly - Skytree Super"
         ]
+    },
+    {
+        "aid": 339,
+        "name": "Takopi'S Original Sin",
+        "jname": "\u30bf\u30b3\u30d4\u30fc\u306e\u539f\u7f6a",
+        "poster": "https://iili.io/KMNN47n.webp, https://iili.io/KMNNOzv.webp, https://iili.io/KMNNh5g.webp",
+        "banner": "https://iili.io/KMNNLX4.webp, https://iili.io/KMNNjea.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "323903, 14256",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/SUhYB0W7gM0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/SUhYB0W7gM0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Drama, Sci-Fi",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Enishiya",
+        "producers": "TBS, Movic, Magic Capsule, KlockWorx, Good Smile Company, Toy's Factory, Toho Music",
+        "total_episodes": 6,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Dead Dead Demons Dededede Destruction (ONA), Higurashi no Naku Koro ni, Mahou Shoujo Madoka\u2605Magica, Boku dake ga Inai Machi, Shinseiki Evangelion, Narutaru: Mukuro Naru Hoshi Tama Taru Ko, Wonder Egg Priority, Happy Sugar Life, Made in Abyss, Dwaeji-ui Wang, Alien 9, Hikaru ga Shinda Natsu, Clannad: After Story, Steins;Gate, Made in Abyss: Retsujitsu no Ougonkyou, Shoujo Shuumatsu Ryokou, Look Back, Kotarou wa Hitorigurashi, NHK ni Youkoso!, Fruits Basket 1st Season, Zenshuu., T.P BON, Shiyakusho, Aku no Hana, Bokura no, [Oshi no Ko], Mousou Dairinin, Colorful (Movie), Mahou Shoujo Site, Mawaru Penguindrum",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Takopii no Genzai"
+        ]
     }
 ]
