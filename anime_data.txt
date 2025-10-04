@@ -9464,5 +9464,60 @@
         "imdb_votes": "N/A",
         "synopsis": "No synopsis available.",
         "ranime": "N/A"
+    },
+    {
+        "aid": 342,
+        "name": "May I Ask For One Final Thing",
+        "jname": "\u6700\u5f8c\u306b\u3072\u3068\u3064\u3060\u3051\u304a\u9858\u3044\u3057\u3066\u3082\u3088\u308d\u3057\u3044\u3067\u3057\u3087\u3046\u304b",
+        "poster": "https://iili.io/KWL8UqF.webp, https://iili.io/KWL8kzB.webp, https://iili.io/KWL8lb2.webp",
+        "banner": "N/A, https://iili.io/KWL8jJj.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "324498, 14393",
+        "let": "M",
+        "trailer": "N/A, https://www.youtube.com/embed/weINAnwuyT8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "LIDENFILMS",
+        "producers": "Aniplex",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In the middle of a ball, Scarlet's fianc\u00e9, Kyle, suddenly calls off their engagement. She's falsely accused of being a bully and people unfairly call her a \"Villainess.\" The aristocrats and noble families all denounce her. For years, she had to put up with his abuse and idiocy, but she can't take anymore of it! At her wit's end, she asks for one last favor; to give him a good fist in the face. So begins Scarlet's story of revenge against Kyle and his cronies! A fantasy about an elegant yet rebellious fighter, who doesn't let anyone take advantage of her!!\n\n(Source: Alpha Manga)",
+        "ranime": [
+            "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+            "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka"
+        ]
+    },
+    {
+        "aid": 343,
+        "name": "Food Wars!: Shokugeki No Soma",
+        "jname": "\u98df\u621f\u306e\u30bd\u30fc\u30de",
+        "poster": "https://iili.io/KWLS9dG.webp, https://iili.io/KWL8tst.webp, N/A",
+        "banner": "https://iili.io/KWLSdml.webp, https://iili.io/KWL8QzN.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "324499, 14395",
+        "let": "F",
+        "trailer": "https://www.youtube.com/embed/H-4Qyr_3V-E?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/H-4Qyr_3V-E?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Gourmet, Ecchi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "J.C.Staff",
+        "producers": "Dentsu, Frontier Works, Mainichi Broadcasting System, Magic Capsule, Warner Bros. Japan, KlockWorx, Showgate, Shueisha, I Will",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Yakitate!! Japan, Kakegurui, Koufuku Graffiti, No Game No Life, Dr. Stone, Toriko, Isekai Shokudou, Haikyuu!!, Yume-iro P\u00e2tissi\u00e8re, Gin no Saji, Emiya-san Chi no Kyou no Gohan, Chuuka Ichiban!, Amaama to Inazuma, Tennis no Oujisama, Ben-To, Boku no Hero Academia, Mister Ajikko, Keijo!!!!!!!!, One Punch Man, Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e, Kill la Kill, Black Clover, Dagashi Kashi, Hunter x Hunter (2011), Piace: Watashi no Italian, Runway de Waratte, Wakako-zake, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kuroko no Basket, Enen no Shouboutai, One Piece, 23-ji no Saga Meshi Anime, Yu\u2606Gi\u2606Oh! Duel Monsters GX, Bakuman., Initial D First Stage, Oishinbo, Meng Qi Shi Shen, Mahouka Koukou no Rettousei, Kono Subarashii Sekai ni Shukufuku wo!, Ginga Eiyuu Densetsu, Dumbbell Nan Kilo Moteru?, Blue Lock, JoJo no Kimyou na Bouken (TV), Air Gear, Kuutei Dragons, World Trigger, Ansatsu Kyoushitsu, Nanatsu no Taizai, Ishuzoku Reviewers, Hagure Yuusha no Aesthetica, Appare-Ranman!, Trinity Seven, Jujutsu Kaisen, Shin Chuuka Ichiban!, High School DxD, Fermat no Ryouri, Princess Connect! Re:Dive, Saiki Kusuo no \u03a8-nan, Ramen Daisuki Koizumi-san, Rokuhou-dou Yotsuiro Biyori, Birdie Wing: Golf Girls' Story, Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?, Eikoku Ikka, Nihon wo Taberu, Toradora!: Bentou no Gokui, Dungeon Meshi PVs, Soul Eater, Ouran Koukou Host Club, Nazo no Kanojo X, Wind Breaker, Grand Blue, Boku no Hero Academia 2nd Season, Sakura-sou no Pet na Kanojo, Bokura wa Minna Kawai-sou, Chihayafuru, Nisekoi, Cooking Papa, Shirokuma Cafe, Gyakkyou Burai Kaiji: Ultimate Survivor, Shigatsu wa Kimi no Uso, Fairy Tail, Osake wa Fuufu ni Natte kara, Saint Seiya, Skip Beat!, Bonjour\u266aKoiaji P\u00e2tisserie, Ballroom e Youkoso, Hikaru no Go, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Kakuriyo no Yadomeshi",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Ever since he was a child, fifteen-year-old Souma Yukihira has helped his father by working as the sous chef in the restaurant his father runs and owns. Throughout the years, Souma developed a passion for entertaining his customers with his creative, skilled, and daring culinary creations. His dream is to someday own his family's restaurant as its head chef.\nYet when his father suddenly decides to close the restaurant to test his cooking abilities in restaurants around the world, he sends Souma to Tootsuki Culinary Academy, an elite cooking school where only 10 percent of the students graduate. The institution is famous for its \"Shokugeki\" or \"food wars,\" where students face off in intense, high-stakes cooking showdowns.\nAs Souma and his new schoolmates struggle to survive the extreme lifestyle of Tootsuki, more and greater challenges await him, putting his years of learning under his father to the test.\n[Written by MAL Rewrite]",
+        "ranime": [
+            "Shokugeki no Souma: Ni no Sara",
+            "Shokugeki no Souma",
+            "Shokugeki no Souma OVA"
+        ]
     }
 ]
