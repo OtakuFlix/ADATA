@@ -9622,5 +9622,61 @@
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
         ]
+    },
+    {
+        "aid": 346,
+        "name": "Let This Grieving Soul Retire! Season 2",
+        "jname": "\u5606\u304d\u306e\u4ea1\u970a\u306f\u5f15\u9000\u3057\u305f\u3044 \u7b2c2\u30af\u30fc\u30eb",
+        "poster": "https://iili.io/KXDRePs.webp, https://iili.io/KXDRhNI.webp, https://iili.io/KXDRcoF.webp",
+        "banner": "N/A, https://iili.io/KXDREKJ.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "324818, 14479",
+        "let": "L",
+        "trailer": "N/A, https://www.youtube.com/embed/f9iNG9he4bg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "false",
+        "studio": "Zero-G",
+        "producers": "Tokyo MX, Avex Pictures, BS NTV, Micro Magazine Publishing, GREE Entertainment, Saber Links",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The sequel of Nageki no Bourei wa Intai shitai.\n\nnote: Each episode was streamed two days in advance of the TV broadcast starting on October 4, 2025, on ABEMA and d-anime Store. Regular broadcasting began on October 6, 2025.",
+        "ranime": [
+            "Nageki no Bourei wa Intai shitai",
+            "Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu",
+            "Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu"
+        ]
+    },
+    {
+        "aid": 347,
+        "name": "Ranma1/2 Season 2",
+        "jname": "\u3089\u3093\u307e1/2 \u7b2c2\u671f",
+        "poster": "https://iili.io/KXD5K0J.webp, https://iili.io/KXD5Jx1.webp, https://iili.io/KXDRix9.webp",
+        "banner": "https://iili.io/KXD5IWX.webp, https://iili.io/KXDRtlj.webp",
+        "cname": "Filemoon",
+        "cid": "324819",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/qf_pRksXtTw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/qf_pRksXtTw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy, Romance, Ecchi",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "MAPPA",
+        "producers": "Shogakukan-Shueisha Productions, Shogakukan Music & Digital Entertainment, Nippon Television Network, Shogakukan, dugout",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Ranma 1/2 (2024).\n\nThe mayhem continues at the Tendo Dojo as Akane and Ranma deal with a spatula-wielding fianc\u00e9e, fowl-tempered rival, and lecherous martial arts master.\n\n(Source: Netflix)",
+        "ranime": [
+            "Ranma \u00bd (2024)",
+            "Ranma \u00bd",
+            "Ranma \u00bd"
+        ]
     }
 ]
