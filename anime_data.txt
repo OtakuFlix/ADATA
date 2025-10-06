@@ -9604,5 +9604,34 @@
             "Ranma \u00bd",
             "Ranma \u00bd"
         ]
+    },
+    {
+        "aid": 348,
+        "name": "Shinchan Spin Off Season 2",
+        "jname": "\u3057\u3093\u6b21\u5143! \u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093THE MOVIE \u8d85\u80fd\u529b\u5927\u6c7a\u6226 ~\u3068\u3079\u3068\u3079\u624b\u5dfb\u304d\u5bff\u53f8~",
+        "poster": "https://iili.io/KhnTjnt.webp, https://iili.io/KXDJTYv.webp, https://iili.io/KXDJnCF.webp",
+        "banner": "N/A, https://iili.io/KXDJoEg.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "324891, 14506",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/EfmNV46YQ80?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/AwAcq_p2gRw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Comedy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Shirogumi, Shin-Ei Animation",
+        "producers": "N/A",
+        "total_episodes": 1,
+        "pg_rating": "G - All Ages",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The film takes place in Australia and follows the Nohara family on an inexpensive and family-friendly honeymoon trip that Misae discovered. Instead of the romantic trip they envisioned, Misae, Hiroshi, and their children get wrapped up in a dangerous adventure. Hiroshi is the center of the story and becomes the key to a treasure. Hiroshi is taken away soon after the family's arrival in Australia. The remaining family members must rescue him while dealing with a mysterious masked group and treasure hunters.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
+            "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
+            "Crayon Shin-chan",
+            "Crayon Shin-chan"
+        ]
     }
 ]
