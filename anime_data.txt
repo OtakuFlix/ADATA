@@ -9633,5 +9633,59 @@
             "Crayon Shin-chan",
             "Crayon Shin-chan"
         ]
+    },
+    {
+        "aid": 349,
+        "name": "My Status As An Assassin Obviously Exceeds The Hero\u2019S",
+        "jname": "\u6697\u6bba\u8005\u3067\u3042\u308b\u4ffa\u306e\u30b9\u30c6\u30fc\u30bf\u30b9\u304c\u52c7\u8005\u3088\u308a\u3082\u660e\u3089\u304b\u306b\u5f37\u3044\u306e\u3060\u304c",
+        "poster": "https://iili.io/KhNQAss.webp, https://iili.io/KhNQo5N.webp, https://iili.io/KhNQFsa.webp",
+        "banner": "N/A, https://iili.io/KhNQBgR.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "324984, 14527",
+        "let": "M",
+        "trailer": "N/A, https://www.youtube.com/embed/y6JhkExwfrs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Sunrise",
+        "producers": "TMS Entertainment, Kanon Sound",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre \u201cassassin.\u201d However, his status soon surpasses \u201chero,\u201d the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+            "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga"
+        ]
+    },
+    {
+        "aid": 350,
+        "name": "Relife",
+        "jname": "ReLIFE",
+        "poster": "https://iili.io/KhNQ1m7.webp, https://iili.io/KhNQ0eS.webp, https://iili.io/KhNQcdl.webp",
+        "banner": "https://iili.io/KhNQXqb.webp, https://iili.io/KhNQl72.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "324983, 14526",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/fZCgXuxMAZY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/fZCgXuxMAZY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Drama, Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "TMS Entertainment",
+        "producers": "Aniplex, Half H.P Studio, comico, Hakuhodo DY Media Partners, Lawson, C & I entertainment, TMS Music",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Bokutachi no Remake, Boku dake ga Inai Machi, NHK ni Youkoso!, Yahari Ore no Seishun Love Comedy wa Machigatteiru., Orange, Kokoro Connect, Angel Beats!, Kimi ni Todoke, Net-juu no Susume, Sakura-sou no Pet na Kanojo, Hige wo Soru. Soshite Joshikousei wo Hirou., Golden Time, Toradora!, Kimi no Na wa., Kiznaiver, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Charlotte, Tsuki ga Kirei, Irozuku Sekai no Ashita kara, Barakamon, Horimiya, Kono Oto Tomare!, Tokyo Revengers, Meitantei Conan, Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku, Tonari no Kaibutsu-kun, Death Parade, Steins;Gate, Oniichan wa Oshimai!, Fruits Basket 1st Season, Yesterday wo Utatte, Mushoku Tensei: Isekai Ittara Honki Dasu, Nijiiro Days, Gekkan Shoujo Nozaki-kun, Suki tte Ii na yo., Kaichou wa Maid-sama!, Plastic Memories, Komi-san wa, Comyushou desu., Re:Zero kara Hajimeru Isekai Seikatsu, Tada-kun wa Koi wo Shinai, Jaku-Chara Tomozaki-kun, Kanojo, Okarishimasu, Ansatsu Kyoushitsu, Ao Haru Ride, 3D Kanojo: Real Girl, Sasaki to Miyano, Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san, Chuunibyou demo Koi ga Shitai!, Mushoku Tensei: Isekai Ittara Honki Dasu Part 2, Koe no Katachi, ReLIFE: Kanketsu-hen, Golden Boy, Charlotte: Tsuyoimono-tachi, Kokoro Connect: Michi Random, Bokura wa Minna Kawai-sou, Uramichi Oniisan, Nagi no Asu kara, Tasogare Otome x Amnesia, Gin no Saji, Xiehou Ta de Shaonu Shidai, Koi to Uso, Kami-tachi ni Hirowareta Otoko, Oemojisangjuui, Hatsukoi Limited., Ballroom e Youkoso, Usagi Drop, Yojouhan Shinwa Taikei, Clannad, Toki wo Kakeru Shoujo, Demi-chan wa Kataritai, Sakura Quest, Yamada-kun to 7-nin no Majo, Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e, Inuyashiki, Mahou Shoujo Madoka\u2605Magica",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Dismissed as a hopeless loser by those around him, 27-year-old Arata Kaizaki bounces around from one job to another after quitting his first company. His unremarkable existence takes a sharp turn when he meets Ryou Yoake, a member of the ReLife Research Institute, who offers Arata the opportunity to change his life for the better with the help of a mysterious pill. Taking it without a second thought, Arata awakens the next day to find that his appearance has reverted to that of a 17-year-old.\nArata soon learns that he is now the subject of a unique experiment and must attend high school as a transfer student for one year. Though he initially believes it will be a cinch due to his superior life experience, Arata is proven horribly wrong on his first day: he flunks all his tests, is completely out of shape, and can't keep up with the new school policies that have cropped up in the last 10 years. Furthermore, Ryou has been assigned to observe him, bringing Arata endless annoyance. ReLIFE follows Arata's struggle to adjust to his hectic new lifestyle and avoid repeating his past mistakes, all while slowly discovering more about his fellow classmates.\n[Written by MAL Rewrite]\n\nNote: All 13 episodes of the anime were pre-streamed before the television broadcast on the ReLIFE Channel app on June 24, 2016.",
+        "ranime": [
+            "ReLIFE: Kanketsu-hen",
+            "ReLIFE"
+        ]
     }
 ]
