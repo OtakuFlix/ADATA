@@ -9687,5 +9687,31 @@
             "ReLIFE: Kanketsu-hen",
             "ReLIFE"
         ]
+    },
+    {
+        "aid": 351,
+        "name": "Girls\u2019 Frontline",
+        "jname": "BIRDIE WING -Golf Girls\u2019 Story- Season 2",
+        "poster": "https://iili.io/KjR4n72.webp, https://iili.io/KjR4f1f.webp, https://iili.io/KjRrtqJ.webp",
+        "banner": "https://iili.io/KjR4xm7.webp, https://iili.io/KjR4dzX.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "325171, 14564",
+        "let": "G",
+        "trailer": "https://www.youtube.com/embed/2i4WHoSdJZU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/wYl7mUTIyTQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Sports",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Bandai Namco Pictures",
+        "producers": "TV Tokyo",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Hanebado!, Mou Ippon!",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In the fallout of nuclear war, the last of humanity survives with the help of life-like androids known as Dolls. Built to serve, some fight in wars as Tactical Dolls or T-Dolls. Now, an elite team comprised of T-Dolls are sent to face a new rogue threat, Sangvis Ferri. Leading them into battle is their new human commander, M4A1.\n\n(Source: Funimation)",
+        "ranime": [
+            "Birdie Wing: Golf Girls' Story"
+        ]
     }
 ]
