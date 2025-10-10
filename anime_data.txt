@@ -9713,5 +9713,60 @@
         "ranime": [
             "Birdie Wing: Golf Girls' Story"
         ]
+    },
+    {
+        "aid": 352,
+        "name": "The Witch And The Beast",
+        "jname": "\u9b54\u5973\u3068\u91ce\u7363",
+        "poster": "https://iili.io/KwSOokN.webp, https://iili.io/KwSOC2R.webp, https://iili.io/KwSOdI1.webp",
+        "banner": "https://iili.io/KwSO5EG.webp, https://iili.io/KwSOfEJ.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "325631, 14687",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/IViCwCNsfIc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/fixrPjPnOw4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Yokohama Animation Laboratory",
+        "producers": "TBS, Kodansha, DAX Production, NBCUniversal Entertainment Japan, BS11, Crunchyroll, Nichion, MAGNET",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Undead Girl Murder Farce, Kuroshitsuji, Pandora Hearts, Psycho-Pass, Shisha no Teikoku, Blood+, Witch Hunter Robin, Dantalian no Shoka, Vanitas no Karte",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Ashaf: a soft-spoken man with delicate features, a coffin strapped to his back, and an entourage of black crows. Guideau: a feral, violent girl with long fangs and the eyes of a beast. This ominous pair appear one day in a town in thrall to a witch \u2014 a ruler with magic coursing through her tattooed body, who has convinced the townsfolk she\u2019s their hero. But Ashaf and Guideau know better. They live by one creed: \u201cWherever a witch goes, only curses and disasters follow.\u201d They have scores to settle, and they won\u2019t hesitate to remove anyone in their way, be it angry mob or army garrison.\n\n(Source: Kodansha USA)",
+        "ranime": [
+            "Majo to Yajuu"
+        ]
+    },
+    {
+        "aid": 353,
+        "name": "Reborn As A Vending Machine Season 2",
+        "jname": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u306b\u751f\u307e\u308c\u5909\u308f\u3063\u305f\u4ffa\u306f\u8ff7\u5bae\u3092\u5f77\u5fa8\u30462nd season",
+        "poster": "https://iili.io/KwSOvTP.webp, https://iili.io/KwSONYQ.webp, https://iili.io/KwSOGj9.webp",
+        "banner": "https://iili.io/KwSOrGa.webp, https://iili.io/KwSOw3x.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "325630, 14686",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/vKRBVVjQs6g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/vKRBVVjQs6g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Comedy, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Studio Gokumi, AXsiZ",
+        "producers": "VAP, Nippon Television Network, Docomo Anime Store, Yomiuri TV Enterprise, BS NTV, NTV Wands, Anici",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.",
+        "ranime": [
+            "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+            "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+            "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+            "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
+        ]
     }
 ]
