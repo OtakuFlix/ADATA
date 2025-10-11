@@ -9796,5 +9796,29 @@
             "Silent Witch: Chinmoku no Majo no Kakushigoto",
             "Silent Witch: Chinmoku no Majo no Kakushigoto - Sennyuu Kiroku"
         ]
+    },
+    {
+        "aid": 355,
+        "name": "Kurukshetra - The Great War Of Mahabharata",
+        "jname": "Dattebayo!!!",
+        "poster": "https://iili.io/KN0peyJ.webp",
+        "banner": "N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "325779, 14797",
+        "let": "K",
+        "trailer": "N/A",
+        "genre": "N/A",
+        "type": "N/A",
+        "status": "N/A",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "N/A",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "No synopsis available.",
+        "ranime": "N/A"
     }
 ]
