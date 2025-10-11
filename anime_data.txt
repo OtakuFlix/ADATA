@@ -459,7 +459,11 @@
         "synopsis": "The series follows when God Mahadev incarnates as Hanuman to serve God Rama and his transformation from a mighty warrior to a god and how Hanuman became the beacon of hope amidst the harrowing darkness.",
         "ranime": [
             "The Legend Of Hanuman Season 2",
-            "The Legend Of Hanuman Season 3"
+            "The Legend Of Hanuman Season 3",
+            "The Legend Of Hanuman",
+            "Ramayana: The Legend Of Prince Rama",
+            "Mahavatar Narsimha",
+            "Kurukshetra - The Great War Of Mahabharata"
         ]
     },
     {
@@ -486,7 +490,10 @@
         "synopsis": "He has to battle hard with Ravan (Sharad Kelkar) in order to find and rescue Sita (Surbhi Pandey) and reunite her with Ram (Sanket Mhatre). For this, he puts Lanka on fire, finishes his task, and then finally proceeds to reunite with his king and his lord.",
         "ranime": [
             "The Legend Of Hanuman Season 1",
-            "The Legend Of Hanuman Season 3"
+            "The Legend Of Hanuman Season 3",
+            "Ramayana: The Legend Of Prince Rama",
+            "Mahavatar Narsimha",
+            "Kurukshetra - The Great War Of Mahabharata"
         ]
     },
     {
@@ -513,7 +520,10 @@
         "synopsis": "The third season of 'The Legend of Hanuman' will continue to explore the relationship between Lord Vishnu's reincarnation Rama (Sanket Mhatre) and his devoted companion Hanuman (Da Man)",
         "ranime": [
             "The Legend Of Hanuman Season 1",
-            "The Legend Of Hanuman Season 2"
+            "The Legend Of Hanuman Season 2",
+            "Ramayana: The Legend Of Prince Rama",
+            "Mahavatar Narsimha",
+            "Kurukshetra - The Great War Of Mahabharata"
         ]
     },
     {
@@ -5325,7 +5335,11 @@
         "imdb_rating": 9.1,
         "imdb_votes": 16192,
         "synopsis": "A theatrical anime movie of the original story of the epic Indian classical \"Ramayana\" and a joint production between Japan and India. Prince Rama, one of the four Princes of Ayodhya, will be expelled from the palace through a conspiracy. Rama is banished to the forest for 14 years. A girl named Sita and Lakshman, Rama's brother, go with him into the forest. Ravana, the King of Demons, falls in love with Sita and kidnaps her. In order to save his love, Rama goes to Lanka with the help of an army of monkeys and friends of the forest. \nA feature film based on a story of true love, friendship, and trust, this anime is about 2 hours and 15 minutes long, with musical elements from Indian cinemas in between. ",
-        "ranime": "N/A"
+        "ranime": [
+            "The Legend Of Hanuman",
+            "Kurukshetra - The Great War Of Mahabharata",
+            "Mahavatar Narsimha"
+        ]
     },
     {
         "aid": 190,
@@ -9463,7 +9477,11 @@
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
         "synopsis": "No synopsis available.",
-        "ranime": "N/A"
+        "ranime": [
+            "The Legend Of Hanuman",
+            "Ramayana: The Legend Of Prince Rama",
+            "Kurukshetra - The Great War Of Mahabharata"
+        ]
     },
     {
         "aid": 342,
@@ -9800,25 +9818,28 @@
     {
         "aid": 355,
         "name": "Kurukshetra - The Great War Of Mahabharata",
-        "jname": "Dattebayo!!!",
-        "poster": "https://iili.io/KN0peyJ.webp",
-        "banner": "N/A",
+        "jname": "कुरुक्षेत्र - महाभारत का महान युद्ध",
+        "poster": "https://iili.io/KN1lEgV.webp, https://iili.io/KN0peyJ.webp",
+        "banner": "https://iili.io/KN1IPKF.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "325779, 14797",
         "let": "K",
-        "trailer": "N/A",
-        "genre": "N/A",
-        "type": "N/A",
-        "status": "N/A",
-        "airing": "false",
-        "studio": "N/A",
-        "producers": "N/A",
-        "total_episodes": "N/A",
-        "pg_rating": "N/A",
+        "trailer": "https://www.youtube.com/embed/7lZvI5okNNE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Animation, Action, Adventure. Drama, Epic, Mythological, War",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Tipping Point, Hitech Animation",
+        "producers": "Anu Sikka, Alok Jain, Ajit Andhare",
+        "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "N/A",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "No synopsis available.",
-        "ranime": "N/A"
+        "imdb_rating": "7.7",
+        "imdb_votes": "176",
+        "synopsis": "The Kurukshetra War was a legendary 18-day battle in the Hindu epic Mahabharata between two groups of cousins, the Pandavas and the Kauravas, over the throne of Hastinapura. It took place on the battlefield of Kurukshetra in modern-day Haryana, with many ancient kingdoms joining as allies for each side. The war is a central theme in the epic and features the famous discourse of the Bhagavad Gita, where Krishna guides Arjuna on his duty as a warrior.",
+        "ranime": [
+            "The Legend Of Hanuman",
+            "Ramayana: The Legend Of Prince Rama",
+            "Mahavatar Narsimha"
+        ]
     }
 ]
