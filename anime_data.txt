@@ -9768,5 +9768,33 @@
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
         ]
+    },
+    {
+        "aid": 354,
+        "name": "Secrets Of The Silent Witch",
+        "jname": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30fb\u30a6\u30a3\u30c3\u30c1 \u6c88\u9ed9\u306e\u9b54\u5973\u306e\u96a0\u3057\u3054\u3068",
+        "poster": "https://iili.io/KN0L5HQ.webp, https://iili.io/KN0Lulj.webp, https://iili.io/KN0LFS4.webp",
+        "banner": "https://iili.io/KN0LM0J.webp, https://iili.io/KN0Lox9.webp",
+        "cname": "Filemoon, RpmShare",
+        "cid": "325778, 14794",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/0OBF29HoV4A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/0OBF29HoV4A?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Studio Gokumi",
+        "producers": "Aniplex, Movic, Half H.P Studio, Tokyo MX, BS11, Cygames, Kadokawa",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Bocchi the Rock!, Sousou no Frieren, Majo no Tabitabi, Mizu Zokusei no Mahoutsukai, Hikikomari Kyuuketsuki no Monmon, Shy, Tsue to Tsurugi no Wistoria, Mahouka Koukou no Rettousei, Mushoku Tensei: Isekai Ittara Honki Dasu, Kusuriya no Hitorigoto, Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story, Seijo no Maryoku wa Bannou desu, Zero kara Hajimeru Mahou no Sho, Ousama Ranking, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen, Unnamed Memory",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Humans couldn\u2019t handle magic without chanting until Monica Everett, the Silent Witch and one of the Seven Sages, made unspoken magecraft possible. Painfully shy, she enjoys seclusion. One day, Louis Miller, the Barrier Mage, delivers the king\u2019s order: Go undercover at a prestigious school for nobles to guard the second prince. Get ready for her silent mission to begin!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Silent Witch: Chinmoku no Majo no Kakushigoto",
+            "Silent Witch: Chinmoku no Majo no Kakushigoto",
+            "Silent Witch: Chinmoku no Majo no Kakushigoto - Sennyuu Kiroku"
+        ]
     }
 ]
