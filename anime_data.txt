@@ -9995,7 +9995,7 @@
         "aid": 358,
         "name": "Shin-Chan Spin-Off Lone Wolf And Family Season 3",
         "jname": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093",
-        "poster": "https://iili.io/KORJugS.webp, https://iili.io/KORJnzG.webp",
+        "poster": "https://iili.io/KORJnzG.webp",
         "banner": "https://iili.io/KORJRd7.webp, N/A",
         "cname": "Filemoon, RpmShare",
         "cid": "326016, 14895",
