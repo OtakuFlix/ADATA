@@ -10092,5 +10092,32 @@
             "One Punch Man 2nd Season: Ichigeki de Wakaru! Maji Furikaeri!",
             "One Punch-Man"
         ]
+    },
+    {
+        "aid": 360,
+        "name": "My Hero Academia Season 8",
+        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 FINAL SEASON",
+        "poster": "https://iili.io/KeMsVJ1.webp, https://iili.io/KeMs5Ou.webp, N/A",
+        "banner": "https://iili.io/KeMsXOg.webp, https://iili.io/KeMsIlS.webp",
+        "cname": "RpmShare",
+        "cid": "15050",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/wQgQij8Ry4g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/wQgQij8Ry4g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Bones Film",
+        "producers": "Bones, Dentsu, Yomiuri Telecasting, Movic, Sony Music Entertainment, TOHO animation, Shueisha, Techno Sound, Toho Music",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The eighth and final season of Boku no Hero Academia.\n\nDeku and the heroes are plunged into a final battle against villains across Japan. Deku, by fully unleashing One For All Quirks, faces off against Shigaraki. A young and refreshed All For One faces Armored All Might, Quirkless in his powered armor suit. Will Deku be able to bring the story of how they all became the greatest heroes to its finale? Or will everything be destroyed?!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Boku no Hero Academia 7th Season",
+            "Boku no Hero Academia"
+        ]
     }
 ]
