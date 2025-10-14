@@ -10064,5 +10064,33 @@
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
         ]
+    },
+    {
+        "aid": 359,
+        "name": "One Punch Man Season 3",
+        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
+        "poster": "https://iili.io/KeMlFln.webp, https://iili.io/KeMldPt.webp, https://iili.io/KeMctSa.webp",
+        "banner": "https://iili.io/KeMlKSs.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "326512, 15049",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/uutwYXxAB2c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "J.C.Staff",
+        "producers": "Lantis, Magic Capsule, Shueisha",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The third season of One Punch Man.\n\nSaitama is a hero who only became a hero for fun.\nAfter three years of \"special training,\" he\u2019s become so strong that he's practically invincible. In fact, he's too strong\u2014even his mightiest opponents are taken out with a single punch. Alongside Genos, his faithful disciple, Saitama performs his official hero duties as a member of the Hero Association.\nOne day, monsters claiming to be from the Monster Association suddenly appeared, taking a child of Hero Association executive hostage. The S-class heroes gather and plan a raid on the Monster Association hideout to rescue the hostage. Meanwhile, Garou, a \"human monster\" who was taken by the Monster Association during a battle with the heroes, awakens in the Monster Association hideout.\n\n(Source: YouTube Description)",
+        "ranime": [
+            "One Punch Man 2nd Season",
+            "One Punch Man 2nd Season: Ichigeki de Wakaru! Maji Furikaeri!",
+            "One Punch-Man"
+        ]
     }
 ]
