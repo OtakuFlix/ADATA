@@ -10201,5 +10201,32 @@
             "Peaceful Times (F02) Petit Film",
             "Beautiful World"
         ]
+    },
+    {
+        "aid": 364,
+        "name": "Heroines Run The Show",
+        "jname": "\u30d2\u30ed\u30a4\u30f3\u305f\u308b\u3082\u306e\uff01\u301c\u5acc\u308f\u308c\u30d2\u30ed\u30a4\u30f3\u3068\u5185\u7dd2\u306e\u304a\u4ed5\u4e8b\u301c",
+        "poster": "https://iili.io/KkSUFiG.webp, https://iili.io/KkSSmSp.webp, https://iili.io/KkSSQVa.webp",
+        "banner": "https://iili.io/KkSUoRS.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "326788, 15110",
+        "let": "H",
+        "trailer": "https://www.youtube.com/embed/y20zBmpuSVY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "N/A",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Lay-duce",
+        "producers": "Movic, Futabasha, U-NEXT, MusicRay\u2019n, INCS toenter, Marui Group, Lawson Entertainment, tamakoshi, flaggs, Laulea Works, Alice",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Skip to Loafer, Skip Beat!, [Oshi no Ko], Fruits Basket 1st Season, IDOLiSH7, Ensemble Stars!, Oshi ga Budoukan Ittekuretara Shinu, Paripi Koumei",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Hiyori left her hometown to pursue her passion, track and field, by enrolling in Tokyo's Sakuragaoka High School. Looking for a part-time job in Tokyo, she ended up working as an apprentice manager for her classmates (and LIP\u00d7LIP members) Yuujirou Someya and Aizou Shibasaki. The story revolves around the coming-of-age of Hiyori (as she juggles school, extracurricular life, and managing) and LIP\u00d7LIP (as they shine on stage).\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto Mini Anime",
+            "Kono Sekai no Tanoshimikata: Secret Story Film"
+        ]
     }
 ]
