@@ -10257,5 +10257,32 @@
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
         ]
+    },
+    {
+        "aid": 366,
+        "name": "A Wild Last Boss Appeared!",
+        "jname": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01",
+        "poster": "https://iili.io/K8S6gK7.webp, https://iili.io/K8S6XcX.webp, https://iili.io/K8S6RF1.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "327154, 15192",
+        "let": "A",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "WAO World",
+        "producers": "KlockWorx, Tohokushinsha Film Corporation, Earth Star Entertainment, NBCUniversal Entertainment Japan, Kansai Telecasting, BS Asahi, Bushiroad Move, WOWMAX",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The year is 2800 and Lufas Maphaahl \u2013 The Black-Winged Tyrant, Great Conqueror, and leader of the Twelve Heavenly Stars \u2013 has returned. A man wakes up in the body of his MMO character 200 years after her defeat during a player-made event in the game, Exgate Online. Now, he's stuck in her body. But this isn't a game, it's real. With her reign long over, and her legacy one of fear, Lufas must journey through the world of Exgate, looking for answers, possible comrades, and all the monsters her \u201cdeath\u201d unleashed upon the world...\n\n(Source: J-Novel Club)",
+        "ranime": [
+            "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
+            "Yasei no Last Boss ga Arawareta!"
+        ]
     }
 ]
