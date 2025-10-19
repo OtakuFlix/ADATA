@@ -10228,5 +10228,34 @@
             "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto Mini Anime",
             "Kono Sekai no Tanoshimikata: Secret Story Film"
         ]
+    },
+    {
+        "aid": 365,
+        "name": "Classroom Of The Elite Season 2",
+        "jname": "\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078 2nd Season",
+        "poster": "https://iili.io/K8EwTG4.webp, https://iili.io/K8EwxZG.webp, https://iili.io/K8EwK3N.webp",
+        "banner": "https://iili.io/K8Ewu6l.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "327148, 15187",
+        "let": "C",
+        "trailer": "https://www.youtube.com/embed/0mM3lQytac4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Drama, Suspense",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Lerche",
+        "producers": "Studio Hibari, Movic, AT-X, Sammy, Crunchyroll, Kadokawa Media House, Kadokawa, Bandai Namco Music Live",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Tomodachi Game, Yahari Ore no Seishun Love Comedy wa Machigatteiru., Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e.\n\nTokyo Metropolitan Advanced Nurturing High School seems like a paradise, but in reality, it is an extreme meritocracy. In the class of underachievers, Kiyotaka has begun working with Suzune, who seeks to ascend higher. After a survival test on an uninhabited island, they get to enjoy a luxury liner, but a new class-scrambling test will begin.",
+        "ranime": [
+            "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+            "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+            "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+            "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+        ]
     }
 ]
