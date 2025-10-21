@@ -10284,5 +10284,32 @@
             "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
             "Yasei no Last Boss ga Arawareta!"
         ]
+    },
+    {
+        "aid": 367,
+        "name": "Spy X Family Season 3",
+        "jname": "SPY\u00d7FAMILY Season 3",
+        "poster": "https://iili.io/KSMDCgt.webp, https://iili.io/KSMDH5g.webp, https://iili.io/KSMtbqB.webp",
+        "banner": "https://iili.io/KSMDodX.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "327361, 15392",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/9-JreaprnO0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Wit Studio, CloverWorks",
+        "producers": "TV Tokyo, Shogakukan-Shueisha Productions, Sound Team Don Juan, Shueisha, Toho Music, Verygoo",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The third season of SPY\u00d7FAMILY.\n\nWorld peace is at stake, and secret agent Twilight must undergo his most difficult mission yet\u2014pretend to be a family man. Posing as a loving husband and father, he\u2019ll infiltrate an elite school to get close to a high-profile politician. He has the perfect cover, except his wife\u2019s a deadly assassin and neither knows each other\u2019s identity. But someone does, his adopted daughter, who\u2019s a telepath!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Spy x Family Season 2",
+            "Spy x Family"
+        ]
     }
 ]
