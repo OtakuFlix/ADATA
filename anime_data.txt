@@ -10311,5 +10311,33 @@
             "Spy x Family Season 2",
             "Spy x Family"
         ]
+    },
+    {
+        "aid": 368,
+        "name": "Food Wars!: Shokugeki No Soma Season 2",
+        "jname": "\u98df\u621f\u306e\u30bd\u30fc\u30de \u5f0d\u30ce\u76bf",
+        "poster": "https://iili.io/KS6Q9un.webp, https://iili.io/KS6LryF.webp, https://iili.io/KS6LeCx.webp",
+        "banner": "https://iili.io/KS6QfF2.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "327394, 15419",
+        "let": "F",
+        "trailer": "https://www.youtube.com/embed/AB5L9PoXKcA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Gourmet, Ecchi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "J.C.Staff",
+        "producers": "Dentsu, Lantis, Mainichi Broadcasting System, Warner Bros. Japan, KlockWorx, Showgate, Shueisha",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Boku no Hero Academia, Dagashi Kashi, Yakitate!! Japan, Boku no Hero Academia 2nd Season, Ben-To",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Shokugeki no Souma.",
+        "ranime": [
+            "Shokugeki no Souma",
+            "Shokugeki no Souma: Ni no Sara OVA",
+            "Shokugeki no Souma"
+        ]
     }
 ]
