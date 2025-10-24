@@ -10339,5 +10339,29 @@
             "Shokugeki no Souma: Ni no Sara OVA",
             "Shokugeki no Souma"
         ]
+    },
+    {
+        "aid": 369,
+        "name": "Let'S Play",
+        "jname": "Let's Play \u30af\u30a8\u30b9\u30c8\u3060\u3089\u3051\u306e\u30de\u30a4\u30e9\u30a4\u30d5",
+        "poster": "https://iili.io/KgVbVEb.webp, https://iili.io/KgVbMCu.webp, https://iili.io/KgVb724.webp",
+        "banner": "https://iili.io/KgVbh3x.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "327697, 15553",
+        "let": "L",
+        "trailer": "N/A, N/A",
+        "genre": "Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "true",
+        "studio": "OLM",
+        "producers": "Fuji TV, KlockWorx, Slow Curve, Fujipacific Music, Kansai TV, Crunchyroll, Techno Sound, Fuji Creative, Hakuhodo",
+        "total_episodes": 2,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the first series and contains Christmas Night &amp; Kanga Games.",
+        "ranime": "N/A"
     }
 ]
