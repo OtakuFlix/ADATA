@@ -10363,5 +10363,31 @@
         "imdb_votes": "31",
         "synopsis": "An aspiring game developer, Samara 'Sam' Young, is excited to launch her first video game, *Ruminate*, until a popular streamer, Marshall Law, posts a scathing review that causes fans to review-bomb her game. To make matters worse, she discovers that the same critic is her new next-door neighbor. The series follows their comedic and awkward journey as they navigate the complexities of online and offline relationships, gaming culture, and social anxiety.",
         "ranime": "N/A"
+    },
+    {
+        "aid": 370,
+        "name": "Tojima Wants To Be A Kamen Rider",
+        "jname": "\u6771\u5cf6\u4e39\u4e09\u90ce\u306f\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u306b\u306a\u308a\u305f\u3044",
+        "poster": "https://iili.io/K4dfFRe.webp, https://iili.io/K4dfHf2.webp, https://iili.io/K4dKDDG.webp",
+        "banner": "https://iili.io/K4dfKOu.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "328060, 15651",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/76c3cCV1BcU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "LIDENFILMS",
+        "producers": "Aniplex, Studio Mausu, Tokyo MX, Crunchyroll, Kinoshita Group Holdings",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Samurai Flamenco",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Even after turning 40 years old, Tojima Tanzaburo still seriously wants to be a Kamen Rider. Just when it seems like his dream may never come true, he gets caught up in a series of infamous Shocker-inspired robberies... Shibata Yokusaru, the author of Air Master and 81 Diver, presents a story about adults who love Kamen Rider a little too much, and start playing pretend... for real!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Toujima Tanzaburou wa Kamen Rider ni Naritai"
+        ]
     }
 ]
