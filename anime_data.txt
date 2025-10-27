@@ -10389,5 +10389,33 @@
         "ranime": [
             "Toujima Tanzaburou wa Kamen Rider ni Naritai"
         ]
+    },
+    {
+        "aid": 371,
+        "name": "Mechanical Marie",
+        "jname": "\u6a5f\u68b0\u3058\u304b\u3051\u306e\u30de\u30ea\u30fc",
+        "poster": "https://iili.io/K4ylXRI.webp, https://iili.io/K4yl0iJ.webp, https://iili.io/K4ylcog.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "328259, 15809",
+        "let": "M",
+        "trailer": "N/A, N/A",
+        "genre": "Comedy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Zero-G, Liber",
+        "producers": "Shogakukan-Shueisha Productions, Pony Canyon, Hakusensha, KlockWorx, BS Fuji, Amusement Media Academy, Yomiuri TV Enterprise, Production Ace, AMG Studio",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kimi wa Meido-sama., Chobits, Hayate no Gotoku!",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Marie, a former martial artist, has a new job as the personal maid of Arthur, the heir to a large conglomerate. However, Arthur is ruthless and hates people of the highest order, so Marie has to pretend to be a robot to work for him! If it is discovered that she is human, she will be executed immediately, but Arthur is extremely kind to inorganic objects and... unexpectedly goes into a doting route!\n\nDoting or death? The strongest romantic comedy that will make you laugh and make your heart thumping.\n\n(Source: Crunchyroll News)",
+        "ranime": [
+            "Kikaijikake no Marie",
+            "Kikaijikake no Marie Mini Anime Episode 0",
+            "Kikaijikake no Marie Mini Anime"
+        ]
     }
 ]
