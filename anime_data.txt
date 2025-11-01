@@ -10495,5 +10495,32 @@
             "Hazbin Hotel",
             "Helluva Boss"
         ]
+    },
+    {
+        "aid": 375,
+        "name": "The Summer Hikaru Died",
+        "jname": "\u5149\u304c\u6b7b\u3093\u3060\u590f",
+        "poster": "https://iili.io/KsMRHEG.webp, https://iili.io/KsMApQn.webp, https://iili.io/KsMAbIt.webp",
+        "banner": "https://iili.io/KsMR3Yl.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "329014, 16153",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/sFaO07LwAVg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Horror, Mystery, Supernatural",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "CygamesPictures",
+        "producers": "Nippon Television Network, CyberAgent, Kadokawa, dugout",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Shiki, Higurashi no Naku Koro ni, Summertime Render, Kiseijuu: Sei no Kakuritsu, Another, Chainsaw Man, Suzume no Tojimari, Wonder Egg Priority: Watashi no Priority, Kitarou Tanjou: Gegege no Nazo, Bakemonogatari, Tengoku Daimakyou, Sonny Boy, Takopii no Genzai, Evangelion Movie 3: Q, Tokyo Ghoul, Serial Experiments Lain, Kowloon Generic Romance, Look Back, Shinsekai yori, Shinreigari, Aku no Hana, Watashi wo Tabetai, Hitodenashi, Hotarubi no Mori e, Mushishi",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Two best friends living in a rural Japanese village: Yoshiki and Hikaru. Growing up together, they were inseparable\u2026 until the day Hikaru came back from the mountains, and was no longer himself. \u201cSomething\u201d has taken over Hikaru\u2019s body, memories, feelings\u2026 and everything they know begins to unravel.\n\n(Source: Netflix)",
+        "ranime": [
+            "Hikaru ga Shinda Natsu 2nd Season",
+            "Hikaru ga Shinda Natsu"
+        ]
     }
 ]
