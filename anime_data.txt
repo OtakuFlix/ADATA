@@ -10655,5 +10655,32 @@
             "Dead Mount Death Play",
             "Nero"
         ]
+    },
+    {
+        "aid": 381,
+        "name": "Welcome To Demon School! Iruma-Kun",
+        "jname": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093",
+        "poster": "https://iili.io/KQfbNiN.webp, https://iili.io/KQfbjxR.webp, https://iili.io/KQfbVRa.webp",
+        "banner": "https://iili.io/KQfbvUX.webp, N/A",
+        "cname": "Aniflix",
+        "cid": "50",
+        "let": "W",
+        "trailer": "https://www.youtube.com/embed/kkeuJt0DE7g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Comedy, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Bandai Namco Pictures",
+        "producers": "NHK, NHK Enterprises",
+        "total_episodes": 23,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Boku no Hero Academia, Rosario to Vampire, Maoujou de Oyasumi, Saiki Kusuo no \u03a8-nan, Little Witch Academia (TV), Hayate no Gotoku!, Jitsu wa Watashi wa, Mashle, Nanbaka, Beelzebub, Youkai Gakkou no Sensei Hajimemashita!, Kyuuketsuki Sugu Shinu, Ao no Exorcist, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Kemono Jihen, Katekyou Hitman Reborn!, Tensei shitara Slime Datta Ken, Tsuki ga Michibiku Isekai Douchuu, Mob Psycho 100, Boku no Tonari ni Ankoku Hakaishin ga Imasu., Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!, Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita, Azumanga Daiou The Animation, Keroro Gunsou, Medaka Box, Tsue to Tsurugi no Wistoria, Youkai Watch, Xiao Mo Tou Baolu La!, Dokidoki! Precure, Hanasaku Iroha, Hataraku Maou-sama!, Zero no Tsukaima, Overlord, Majimoji Rurumo, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen, Kyou kara Maou!, Kyoukai no Rinne, To LOVE-Ru, Mahoutsukai ni Narenakatta Onnanoko no Hanashi, Noblesse, Ouran Koukou Host Club, 100% Pascal-sensei (TV), Soul Eater, Boku no Hero Academia 2nd Season, Fairy Tail, Makai Ouji: Devils and Realist, Rokudou no Onna-tachi, Magi: The Labyrinth of Magic, Murenase! Seton Gakuen",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A boy's chaotic life in a \"prestigious\" boarding school for elite demons!\n\nIruma Suzuki, human, 14, one day finds himself sold to the devil. To add to his predicament, his doting owner and self-appointed \"Grandpa\" is the principal at his new school. Now Iruma must deal with a haughty student who challenges him to a duel, a girl with adjustment issues, and so many more scary beings! Can this ultimate pacifist dodge the slings and arrows that are flung his way? As he struggles frantically, Iruma's innate kindness begins to win over enemies.\n\n(Source: NHK Enterprises)",
+        "ranime": [
+            "Mairimashita! Iruma-kun 2nd Season",
+            "Mairimashita! Iruma-kun"
+        ]
     }
 ]
