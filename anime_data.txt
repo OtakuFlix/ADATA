@@ -10682,5 +10682,34 @@
             "Mairimashita! Iruma-kun 2nd Season",
             "Mairimashita! Iruma-kun"
         ]
+    },
+    {
+        "aid": 382,
+        "name": "Jujutsu Kaisen 0",
+        "jname": "\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0",
+        "poster": "https://iili.io/KtByVrG.webp, https://iili.io/KtBylII.webp",
+        "banner": "https://iili.io/KtByOIS.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "329981, 16659",
+        "let": "J",
+        "trailer": "https://www.youtube.com/embed/2docezZl574?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Supernatural",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "MAPPA",
+        "producers": "Mainichi Broadcasting System, TOHO animation, Shueisha, Sumzap",
+        "total_episodes": 1,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Devilman: Crybaby, Shikabane Hime: Aka, Shinseiki Evangelion",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Yuta Okkotsu, a nervous high school student, enrolls in the mysterious Tokyo Jujutsu High School under the guidance of Satoru Gojo after being haunted by the curse of his childhood friend.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Jujutsu Kaisen",
+            "Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
+            "Gekijouban Jujutsu Kaisen 0 Novelize",
+            "Jujutsu Kaisen 2nd Season Recaps"
+        ]
     }
 ]
