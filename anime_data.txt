@@ -10711,5 +10711,32 @@
             "Gekijouban Jujutsu Kaisen 0 Novelize",
             "Jujutsu Kaisen 2nd Season Recaps"
         ]
+    },
+    {
+        "aid": 383,
+        "name": "Tatsuki Fujimoto 17-26",
+        "jname": "\u85e4\u672c\u30bf\u30c4\u30ad17-26",
+        "poster": "https://iili.io/KbmpFHl.webp, https://iili.io/KbmpJKG.webp",
+        "banner": "https://iili.io/KbmpqD7.webp, N/A",
+        "cname": "Filemoon, RpmShare, Aniflix",
+        "cid": "331015, 16781, 65",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/xDsN2cmAlhQ?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Comedy, Drama, Romance, Supernatural",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "P.A. Works, Zexcs, Lapin Track, Studio Kafka, 100studio, Studio Graph77",
+        "producers": "Imagin, Tohokushinsha Film Corporation, Avex Pictures, Sound Team Don Juan, Shueisha, Twin Engine, dugout, Bit grooove promotion, Flagship Line, IRMA LA DOUCE, Amazon MGM Studios, Aube",
+        "total_episodes": 8,
+        "pg_rating": "R+ - Mild Nudity",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Six studios and seven directors adapt the early works of Tatsuki Fujimoto, the mastermind behind \"Chainsaw Man,\" into an anime anthology. Each episode is an anime adaptation of a short story he drew from ages seventeen to twenty-six, including the first manga he ever submitted for competition. Watch as vivid tales of young love, chaos, madness, and the bonds between people unfold in each episode.\n\n(Source: Amazon Prime Video)\n\n1) A Couple Clucking Chickens Were Still Kickin' in the Schoolyard (Seishirou Nagaya, ZEXCS)\n2) Sasaki Stopped a Bullet (Nobukage Kimura, Lapin Track)\n3) Love is Blind (Nobuyuki Takeuchi, Lapin Track)\n4) Shikaku (Naoya Ando, GRAPH77)\n5) Mermaid Rhapsody (Tetsuaki Watanabe, 100Studio)\n6) Woke-Up-as-a-Girl Syndrome (Kazuaki Terasawa, Studio Kafka)\n7) Nayuta of the Prophecy (Tetsuaki Watanabe, 100Studio)\n8) Sisters (Osamu Honma, P.A.WORKS)\n\nNote: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan, divided into two parts, was released on the same day, October 17, 2025. The anime series later streamed worldwide on Amazon Prime Video on November 8, 2025.",
+        "ranime": [
+            "17-21: Fujimoto Tatsuki Tanpenshuu",
+            "22-26: Fujimoto Tatsuki Tanpenshuu"
+        ]
     }
 ]
