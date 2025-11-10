@@ -10764,5 +10764,62 @@
         "ranime": [
             "Kimi to Koete Koi ni Naru"
         ]
+    },
+    {
+        "aid": 385,
+        "name": "Spy X Family Code White",
+        "jname": "SPY\u00d7FAMILY CODE: White",
+        "poster": "https://iili.io/Kmu6Hgf.webp, https://iili.io/Kmu4ZbI.webp",
+        "banner": "https://iili.io/Kmu6FbS.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "331123, 16795",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/EpUAso8ITVw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Comedy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Wit Studio, CloverWorks",
+        "producers": "TV Tokyo, Shogakukan-Shueisha Productions, TOHO animation, Shueisha",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "He's a spy. She's an assassin. Together, Loid and Yor keep their double lives to themselves while pretending to be the perfect family. However, their adopted daughter Anya, a telepath, knows both of their exciting secrets unbeknownst to them. While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix proves difficult when Anya mistakenly gets involved and triggers events that threaten world peace!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Spy x Family",
+            "Gekijouban Spy x Family Code: White",
+            "Spy x Family Season 2",
+            "Spy x Family Movie: Code: White Manner Movie",
+            "Street Fighter 6 x Spy x Family Movie: Code: White",
+            "Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki"
+        ]
+    },
+    {
+        "aid": 386,
+        "name": "Ragna Crimson",
+        "jname": "\u30e9\u30b0\u30ca\u30af\u30ea\u30e0\u30be\u30f3",
+        "poster": "https://iili.io/Kmu6XII.webp, https://iili.io/Kmu6AmB.webp",
+        "banner": "https://iili.io/Kmu6erG.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "331122, 16794",
+        "let": "R",
+        "trailer": "https://www.youtube.com/embed/RdshFiWLQNs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "SILVER LINK.",
+        "producers": "Square Enix, Mainichi Broadcasting System, Movic, King Records, BS11, NewGin, GREE Entertainment",
+        "total_episodes": 24,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Akame ga Kill!, Kage no Jitsuryokusha ni Naritakute!, Shingeki no Kyojin, Kimetsu no Yaiba, Kikansha no Mahou wa Tokubetsu desu, Tate no Yuusha no Nariagari Season 2, Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru, Kenpuu Denki Berserk, Boushoku no Berserk, Hametsu no Oukoku, 86, Overlord, Ore dake Level Up na Ken Season 2: Arise from the Shadow, Fairy Tail, D.Gray-man, Muv-Luv Alternative, Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha, Overlord II, Shakugan no Shana, Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Dragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson\u2019s motivations may be mysterious, his goal and Ragna\u2019s perfectly align, and together they\u2019ll fight to vanquish the dragons once and for all.\n\n(Source: Sentai Filmworks)\n\nNote: The first episode aired with a runtime of ~1 hour.",
+        "ranime": [
+            "Ragna Crimson"
+        ]
     }
 ]
