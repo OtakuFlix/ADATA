@@ -10738,5 +10738,31 @@
             "17-21: Fujimoto Tatsuki Tanpenshuu",
             "22-26: Fujimoto Tatsuki Tanpenshuu"
         ]
+    },
+    {
+        "aid": 384,
+        "name": "With You, Our Love Will Make It Through",
+        "jname": "\u30ad\u30df\u3068\u8d8a\u3048\u3066\u604b\u306b\u306a\u308b",
+        "poster": "https://iili.io/KmFDktj.webp, https://iili.io/KmFDjS9.webp",
+        "banner": "https://iili.io/KmFD6S1.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "331051, 16783",
+        "let": "W",
+        "trailer": "https://www.youtube.com/embed/ofri2hbNCqs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Fantasy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Millepensee",
+        "producers": "Studio Mausu, Shueisha, REMOW, Shueisha DeNA Projects",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Beastars, Zero kara Hajimeru Mahou no Sho, Kaoru Hana wa Rin to Saku, Inu ni Nattara Suki na Hito ni Hirowareta.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "When high schooler Mari bumps into a fellow tardy student, she's surprised to find out he's a beastfolk who's to attend her school! After all, it's not rare for beastfolk to coexist alongside humans, but it's still uncommon, with the prejudice and all. Nervous to meet one at first, Mari soon learns there's more to him than his furry exterior. In fact, the more she gets to know him, the more she finds herself drawn to him, his steadfastness, his kindheartedness, and\u2026his body\u2026\n\n(Source: Yen Press)",
+        "ranime": [
+            "Kimi to Koete Koi ni Naru"
+        ]
     }
 ]
