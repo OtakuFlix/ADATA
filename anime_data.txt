@@ -10958,5 +10958,36 @@
             "Shokugeki no Souma: Shin no Sara",
             "Shokugeki no Souma"
         ]
+    },
+    {
+        "aid": 392,
+        "name": "Jujutsu Kaisen: Execution",
+        "jname": "\u546a\u8853\u5efb\u6226",
+        "poster": "https://iili.io/f2m3bql.webp, https://iili.io/f2m3P5X.webp",
+        "banner": "https://iili.io/f2mFJee.webp, N/A",
+        "cname": "Aniflix",
+        "cid": "73",
+        "let": "J",
+        "trailer": "https://www.youtube.com/embed/VpO6APNqY1c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Award Winning, Supernatural",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "MAPPA",
+        "producers": "Mainichi Broadcasting System, TOHO animation, Shueisha, dugout, Sumzap",
+        "total_episodes": 24,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kimetsu no Yaiba, Chainsaw Man, Bleach, Naruto, Noragami, Hunter x Hunter (2011), Naruto: Shippuuden, Ao no Exorcist, Boku no Hero Academia, The God of High School, Mob Psycho 100, Kiseijuu: Sei no Kakuritsu, Bungou Stray Dogs, Kemono Jihen, Kyoukai no Kanata, Black Clover, One Punch Man, Yuu\u2606Yuu\u2606Hakusho, Devilman: Crybaby, Mieruko-chan, Kaijuu 8-gou, Soul Eater, Tokyo Ghoul, D.Gray-man, Kyokou Suiri, Bleach: Sennen Kessen-hen, Jigokuraku, Owari no Seraph, JoJo no Kimyou na Bouken (TV), Fullmetal Alchemist: Brotherhood, Shingeki no Kyojin, Beelzebub, Sankaku Mado no Sotogawa wa Yoru, Dandadan, Enen no Shouboutai, Yu\u2606Gi\u2606Oh! Duel Monsters, Kimetsu no Yaiba: Yuukaku-hen, Noblesse, Ore dake Level Up na Ken, Dr. Stone, Boku no Hero Academia 4th Season, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Fugou Keiji: Balance:Unlimited, Yozakura Quartet: Hana no Uta, 86, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Sousei no Onmyouji, Takt Op. Destiny, Haikyuu!!, Ninja Kamui, Psycho-Pass, Mononogatari, Boku no Hero Academia 5th Season, Jibaku Shounen Hanako-kun, Mob Psycho 100 II, Kara no Kyoukai Movie 1: Fukan Fuukei, Mushibugyou, D_Cide Traumerei the Animation, Subarashiki Kono Sekai The Animation, Undead Unluck, Dorohedoro, Diamond no Ace, Ushio to Tora (TV), Ao no Exorcist: Kyoto Fujouou-hen, Blood Lad, Death Note, Tougen Anki, Fate/stay night: Unlimited Blade Works, Yi Nian Yong Heng, Yu\u2606Gi\u2606Oh! Duel Monsters GX, Air Gear, Tenjou Tenge, Kekkai Sensen & Beyond, High School DxD, Taboo Tattoo, Tokyo Ravens, Mononoke Hime, Majutsushi Orphen, Shokugeki no Souma, Mahou Shoujo Madoka\u2605Magica, Kamikaze Kaitou Jeanne, Yu\u2606Gi\u2606Oh!, Ga-Rei: Zero, Tokyo Majin Gakuen Kenpuuchou: Tou, Dororo",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Jujutsu Kaisen 0 Movie",
+            "Jujutsu Kaisen 2nd Season",
+            "Jujutsu Kaisen",
+            "Jujutsu Kaisen 2nd Season Recaps",
+            "Jujutsu Kaisen Official PVs",
+            "Vivid Vice"
+        ]
     }
 ]
