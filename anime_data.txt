@@ -10989,5 +10989,32 @@
             "Jujutsu Kaisen Official PVs",
             "Vivid Vice"
         ]
+    },
+    {
+        "aid": 393,
+        "name": "The Tunnel To Summer The Exit Of Goodbyes",
+        "jname": "\u590f\u3078\u306e\u30c8\u30f3\u30cd\u30eb, \u3055\u3088\u306a\u3089\u306e\u51fa\u53e3",
+        "poster": "https://iili.io/fqvYYps.webp, https://iili.io/fqvY7vn.webp",
+        "banner": "N/A, N/A",
+        "cname": "Aniflix",
+        "cid": "75",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/nlv68sEBaDg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Drama, Mystery, Romance, Supernatural",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "CLAP",
+        "producers": "Pony Canyon, Studio Mausu",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Byousoku 5 Centimeter, Hoshi no Koe, Suzume no Tojimari, Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?, Boku ga Aishita Subete no Kimi e",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Tono Kaoru heard a rumor: The laws of space and time mean nothing to the Urashima Tunnel. If you find it, walk through and you\u2019ll find your heart\u2019s desire on the other side\u2026in exchange for years of your own life. On the night Kaoru just so happens to find himself standing in front of a tunnel that looks suspiciously like the one the rumor describes, he finds himself thinking of Karen, the sister he lost in an accident five years ago. To Kaoru\u2019s surprise, he\u2019s been followed by the new transfer student Anzu Hanaki, who promises to help him experiment with the mysterious tunnel\u2013but what does she want from Kaoru in exchange? And what will he have left to give, after the tunnel\u2019s done with him?\n\n(Source: Seven Seas Entertainment)",
+        "ranime": [
+            "Natsu e no Tunnel, Sayonara no Deguchi: Gunjou",
+            "Natsu e no Tunnel, Sayonara no Deguchi"
+        ]
     }
 ]
