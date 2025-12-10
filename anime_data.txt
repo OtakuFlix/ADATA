@@ -10657,33 +10657,6 @@
         ]
     },
     {
-        "aid": 381,
-        "name": "Welcome To Demon School! Iruma-Kun",
-        "jname": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093",
-        "poster": "https://iili.io/KQfbNiN.webp, https://iili.io/KQfbjxR.webp, https://iili.io/KQfbVRa.webp",
-        "banner": "https://iili.io/KQfbvUX.webp, N/A",
-        "cname": "Aniflix",
-        "cid": "50",
-        "let": "W",
-        "trailer": "https://www.youtube.com/embed/kkeuJt0DE7g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Comedy, Fantasy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "Bandai Namco Pictures",
-        "producers": "NHK, NHK Enterprises",
-        "total_episodes": 23,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Boku no Hero Academia, Rosario to Vampire, Maoujou de Oyasumi, Saiki Kusuo no \u03a8-nan, Little Witch Academia (TV), Hayate no Gotoku!, Jitsu wa Watashi wa, Mashle, Nanbaka, Beelzebub, Youkai Gakkou no Sensei Hajimemashita!, Kyuuketsuki Sugu Shinu, Ao no Exorcist, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Kemono Jihen, Katekyou Hitman Reborn!, Tensei shitara Slime Datta Ken, Tsuki ga Michibiku Isekai Douchuu, Mob Psycho 100, Boku no Tonari ni Ankoku Hakaishin ga Imasu., Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!, Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita, Azumanga Daiou The Animation, Keroro Gunsou, Medaka Box, Tsue to Tsurugi no Wistoria, Youkai Watch, Xiao Mo Tou Baolu La!, Dokidoki! Precure, Hanasaku Iroha, Hataraku Maou-sama!, Zero no Tsukaima, Overlord, Majimoji Rurumo, Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen, Kyou kara Maou!, Kyoukai no Rinne, To LOVE-Ru, Mahoutsukai ni Narenakatta Onnanoko no Hanashi, Noblesse, Ouran Koukou Host Club, 100% Pascal-sensei (TV), Soul Eater, Boku no Hero Academia 2nd Season, Fairy Tail, Makai Ouji: Devils and Realist, Rokudou no Onna-tachi, Magi: The Labyrinth of Magic, Murenase! Seton Gakuen",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "A boy's chaotic life in a \"prestigious\" boarding school for elite demons!\n\nIruma Suzuki, human, 14, one day finds himself sold to the devil. To add to his predicament, his doting owner and self-appointed \"Grandpa\" is the principal at his new school. Now Iruma must deal with a haughty student who challenges him to a duel, a girl with adjustment issues, and so many more scary beings! Can this ultimate pacifist dodge the slings and arrows that are flung his way? As he struggles frantically, Iruma's innate kindness begins to win over enemies.\n\n(Source: NHK Enterprises)",
-        "ranime": [
-            "Mairimashita! Iruma-kun 2nd Season",
-            "Mairimashita! Iruma-kun"
-        ]
-    },
-    {
         "aid": 382,
         "name": "Jujutsu Kaisen 0",
         "jname": "\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0",
@@ -10852,32 +10825,6 @@
         ]
     },
     {
-        "aid": 388,
-        "name": "Doraemon: Nobita'S Earth Symphony",
-        "jname": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u5730\u7403\u4ea4\u97ff\u697d",
-        "poster": "https://iili.io/f9DdI87.webp, https://iili.io/f9DdfZG.webp",
-        "banner": "N/A, N/A",
-        "cname": "Aniflix",
-        "cid": "71",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/L63JctjGPy8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Adventure, Comedy, Sci-Fi",
-        "type": "Movie",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "Shin-Ei Animation",
-        "producers": "N/A",
-        "total_episodes": 1,
-        "pg_rating": "PG - Children",
-        "sanime": "No similar anime found.",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "Nobita requests of Doraemon the Moshimo-box and wishes for the world to become a place where the use of magic is possible. Witchcraft replaces science and technology and everyone makes use of it on their daily lives, except for Nobita, who, like usual, isn't very good at conjuring spells. Frustrated, he plans on returning things to their past state, but his mother threw the Moshimo-box away. \nOne day, Doraemon and his friends meet Professor Mangetsu, who studies magic and magical beings such as goblins, and his daughter Miyoko, and are warned of the dangerous approximation of the \"star of the Underworld\" to the Earth's orbit. \nWith the future of the planet at stake, the group must travel to the Underworld and pierce the heart of the Underworld King with a silver dart, as detailed in the ancient texts of \"The Chronicles of the Underworld\". Their attempts are, however, thwarted and Miyoko captured. \nDoraemon and his friends then decided to use the Time Machine to return to the past and, using Dorami's Moshimo-box, they manage to restore the Earth. The events on the Underworld continue, however, to take place in a Parallel Universe, where Miyoko is still captive. As a result, the group is once again forced to travel to the Underworld and defeat its tyrannical ruler once and for all. \n(Source: AniDB)",
-        "ranime": [
-            "Doraemon (2005)"
-        ]
-    },
-    {
         "aid": 389,
         "name": "Doraemon Nobita'S Earth Symphony",
         "jname": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u5730\u7403\u4ea4\u97ff\u697d",
@@ -10957,37 +10904,6 @@
             "Shokugeki no Souma: San no Sara",
             "Shokugeki no Souma: Shin no Sara",
             "Shokugeki no Souma"
-        ]
-    },
-    {
-        "aid": 392,
-        "name": "Jujutsu Kaisen: Execution",
-        "jname": "\u546a\u8853\u5efb\u6226",
-        "poster": "https://iili.io/f2m3bql.webp, https://iili.io/f2m3P5X.webp",
-        "banner": "https://iili.io/f2mFJee.webp, N/A",
-        "cname": "Aniflix",
-        "cid": "73",
-        "let": "J",
-        "trailer": "https://www.youtube.com/embed/VpO6APNqY1c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Action, Award Winning, Supernatural",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "MAPPA",
-        "producers": "Mainichi Broadcasting System, TOHO animation, Shueisha, dugout, Sumzap",
-        "total_episodes": 24,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Kimetsu no Yaiba, Chainsaw Man, Bleach, Naruto, Noragami, Hunter x Hunter (2011), Naruto: Shippuuden, Ao no Exorcist, Boku no Hero Academia, The God of High School, Mob Psycho 100, Kiseijuu: Sei no Kakuritsu, Bungou Stray Dogs, Kemono Jihen, Kyoukai no Kanata, Black Clover, One Punch Man, Yuu\u2606Yuu\u2606Hakusho, Devilman: Crybaby, Mieruko-chan, Kaijuu 8-gou, Soul Eater, Tokyo Ghoul, D.Gray-man, Kyokou Suiri, Bleach: Sennen Kessen-hen, Jigokuraku, Owari no Seraph, JoJo no Kimyou na Bouken (TV), Fullmetal Alchemist: Brotherhood, Shingeki no Kyojin, Beelzebub, Sankaku Mado no Sotogawa wa Yoru, Dandadan, Enen no Shouboutai, Yu\u2606Gi\u2606Oh! Duel Monsters, Kimetsu no Yaiba: Yuukaku-hen, Noblesse, Ore dake Level Up na Ken, Dr. Stone, Boku no Hero Academia 4th Season, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Fugou Keiji: Balance:Unlimited, Yozakura Quartet: Hana no Uta, 86, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Sousei no Onmyouji, Takt Op. Destiny, Haikyuu!!, Ninja Kamui, Psycho-Pass, Mononogatari, Boku no Hero Academia 5th Season, Jibaku Shounen Hanako-kun, Mob Psycho 100 II, Kara no Kyoukai Movie 1: Fukan Fuukei, Mushibugyou, D_Cide Traumerei the Animation, Subarashiki Kono Sekai The Animation, Undead Unluck, Dorohedoro, Diamond no Ace, Ushio to Tora (TV), Ao no Exorcist: Kyoto Fujouou-hen, Blood Lad, Death Note, Tougen Anki, Fate/stay night: Unlimited Blade Works, Yi Nian Yong Heng, Yu\u2606Gi\u2606Oh! Duel Monsters GX, Air Gear, Tenjou Tenge, Kekkai Sensen & Beyond, High School DxD, Taboo Tattoo, Tokyo Ravens, Mononoke Hime, Majutsushi Orphen, Shokugeki no Souma, Mahou Shoujo Madoka\u2605Magica, Kamikaze Kaitou Jeanne, Yu\u2606Gi\u2606Oh!, Ga-Rei: Zero, Tokyo Majin Gakuen Kenpuuchou: Tou, Dororo",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Jujutsu Kaisen 0 Movie",
-            "Jujutsu Kaisen 2nd Season",
-            "Jujutsu Kaisen",
-            "Jujutsu Kaisen 2nd Season Recaps",
-            "Jujutsu Kaisen Official PVs",
-            "Vivid Vice"
         ]
     },
     {
@@ -11160,6 +11076,32 @@
             "Shousetsu Suzume no Tojimari",
             "Suzume no Tojimari",
             "Big Mac to, Susume"
+        ]
+    },
+    {
+        "aid": 399,
+        "name": "Isekai Suicide Squad",
+        "jname": "\u7570\u4e16\u754c\u30b9\u30fc\u30b5\u30a4\u30c9\u30fb\u30b9\u30af\u30ef\u30c3\u30c9",
+        "poster": "https://iili.io/fRVVwhv.webp, https://iili.io/fRVVVYF.webp",
+        "banner": "https://iili.io/fRVVkEN.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "346372, 18835",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/WgSwwFXPgSs?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Wit Studio",
+        "producers": "Magic Capsule, Warner Bros. Japan, ONEMUSIC",
+        "total_episodes": 10,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Outbreak Company, Nanbaka",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In the crime-ridden city of Gotham, Amanda Waller, the head of A.R.G.U.S., has assembled a group of notorious criminals for a mission: Harley Quinn, Deadshot, Peacemaker, Clayface, and King Shark. These Super-Villains are sent into an otherworldly realm that\u2019s connected to this world through a gate. It\u2019s a world of swords and magic where orcs rampage and dragons rule the skies\u2014an \u201cISEKAI\u201d!\n\nWith lethal explosives planted in their necks, there\u2019s no running or hiding, and failing the mission means a one-way ticket to the afterlife! Can Harley Quinn and her crew conquer this perilous ISEKAI realm?! Brace yourselves for the pulse-pounding saga of the elite task force known as the \u201cSuicide Squad\u201d as they embark on a jaw-dropping adventure!\n\n(Source: Warner Bros. Japan)",
+        "ranime": [
+            "Go-Getters"
         ]
     }
 ]
