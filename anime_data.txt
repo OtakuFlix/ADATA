@@ -11294,5 +11294,67 @@
             "Hataraku Saibou Black CM",
             "Kesshouban: Eigakan e Iku"
         ]
+    },
+    {
+        "aid": 409,
+        "name": "One-Punch Man Season 3",
+        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
+        "poster": "https://iili.io/famIP6P.webp, https://iili.io/famI4nV.webp",
+        "banner": "https://iili.io/famILcF.webp, N/A",
+        "cname": "Aniflix",
+        "cid": "107",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/uutwYXxAB2c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "J.C.Staff",
+        "producers": "TV Tokyo, Lantis, Magic Capsule, Good Smile Company, Shueisha, JR East Marketing & Communications, Bandai Spirits, ADK Marketing Solutions, Bandai Namco Filmworks, Bandai Namco Music Live",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The third season of One Punch Man.\n\nSaitama is a hero who only became a hero for fun.\nAfter three years of \"special training,\" he\u2019s become so strong that he's practically invincible. In fact, he's too strong\u2014even his mightiest opponents are taken out with a single punch. Alongside Genos, his faithful disciple, Saitama performs his official hero duties as a member of the Hero Association.\nOne day, monsters claiming to be from the Monster Association suddenly appeared, taking a child of Hero Association executive hostage. The S-class heroes gather and plan a raid on the Monster Association hideout to rescue the hostage. Meanwhile, Garou, a \"human monster\" who was taken by the Monster Association during a battle with the heroes, awakens in the Monster Association hideout.\n\n(Source: YouTube Description)",
+        "ranime": [
+            "One Punch Man 2nd Season",
+            "One Punch Man 2nd Season: Ichigeki de Wakaru! Maji Furikaeri!",
+            "One Punch-Man"
+        ]
+    },
+    {
+        "aid": 410,
+        "name": "Cell At Work!",
+        "jname": "\u306f\u305f\u3089\u304f\u7d30\u80de",
+        "poster": "https://iili.io/famIbwv.webp, https://iili.io/famIt9a.webp",
+        "banner": "https://iili.io/famImtR.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "347395, 19012",
+        "let": "C",
+        "trailer": "https://www.youtube.com/embed/TlAOb50n3w0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Comedy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "David Production",
+        "producers": "Aniplex, Kodansha, Magic Capsule",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Dr. Stone, Hetalia Axis Powers, Moyashimon, Seimei no Kagaku: Micro Patrol, Houseki no Kuni, Tenchi Souzou Design-bu, Hataraku Saibou Black, One Punch Man, Dumbbell Nan Kilo Moteru?, Yuru Camp\u25b3, Violet Evergarden, Kaitou Joker, Girls & Panzer, Byoudoku no Denpa, Tenchi Souzou Design-bu: Idea 13, Eyedrops, Ikebukuro West Gate Park, Akazukin to Kenkou, Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi, Magical Death, Oshiete! Galko-chan, Hoozuki no Reitetsu, Shirobako, Black Jack (TV)",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "In this new spin-off, a newbie Red Blood Cell is one of 37 trillion working to keep this body running. But something's wrong! Stress hormones keep yelling at him to go faster. The blood vessels are crusted over with cholesterol. Ulcers, fatty liver, trouble (ahem) downstairs... It's hard for a cell to keep working when every day is a CODE BLACK!\n\nThere are trillions of cells in the human body, and they all have to work hard to keep that body alive. But what if that body isn't taking great care of itself? This new take stars a fresh-faced Red Blood Cell and his friend, the buxom White Blood Cell, as they struggle to keep themselves and their world together through alcoholism, smoking, erectile dysfunction, athlete's foot, gout. It turns out the same immune cells that fight off the common cold also have to deal with troubles of a distinctly more adult nature...\n\n(Source: Kodansha Comics, edited)",
+        "ranime": [
+            "Hataraku Saibou!!",
+            "Hataraku Saibou",
+            "Hataraku Saibou: Kaze Shoukougun",
+            "Hataraku Saibou Black",
+            "Hataraku Saibou CM",
+            "Hataraku Saibou Specials",
+            "Hataraku Saibou: Necchuushou - Moshimo Pocari Sweat ga Attara",
+            "Hataraku Saibou Black CM",
+            "Kesshouban: Eigakan e Iku"
+        ]
     }
 ]
