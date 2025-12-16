@@ -9290,6 +9290,8 @@
             "Shoot!"
         ]
     },
+
+
     {
         "aid": 335,
         "name": "Ghost In The Shell: The New Movie",
@@ -11241,7 +11243,7 @@
         "aid": 407,
         "name": "Mahavatar Narsimha",
         "jname": "Dattebayo!!!",
-        "poster": "N/A",
+        "poster": "https://iili.io/KVdVhdb.webp",
         "banner": "N/A",
         "cname": "Filemoon, RpmShare",
         "cid": "322001, 13884",
@@ -11262,7 +11264,7 @@
         "ranime": "N/A"
     },
     {
-        "aid": 409,
+        "aid": 408,
         "name": "Cell At Work!",
         "jname": "\u306f\u305f\u3089\u304f\u7d30\u80de",
         "poster": "https://iili.io/famIbwv.webp, https://iili.io/famIt9a.webp",
