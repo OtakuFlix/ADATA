@@ -11431,5 +11431,31 @@
         "ranime": [
             "Doraemon (2005)"
         ]
+    },
+    {
+        "aid": 396,
+        "name": "If My Favorite Pop Idol Made It To The Budokan, I Would Die",
+        "jname": "\u63a8\u3057\u304c\u6b66\u9053\u9928\u3044\u3063\u3066\u304f\u308c\u305f\u3089\u6b7b\u306c",
+        "poster": "https://iili.io/fV3exTX.webp, https://iili.io/fV3eBYN.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "349457, 19515",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/LPrrmjDKTjY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Comedy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "8bit",
+        "producers": "Pony Canyon, TBS, Movic, Tokuma Shoten",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "[Oshi no Ko], Wake Up, Girls!, Uramichi Oniisan, Shine Post, Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto, Zombieland Saga, Futsuu no Joshikousei ga \"Locodol\" Yattemita., Kami Kuzu\u2606Idol, Genshiken",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The story centers on a woman called \"Eripiyo,\" who is an extreme idol fan. She is wildly enthusiastic about Maina, the shy and lowest-ranking member of the minor underground idol group Cham Jam that performs in Okayama Prefecture. She gets so wrapped up in her love for Maina during a particular performance, that she has a major nosebleed. Eri will continue to give her complete devotion to Maina until the day she can perform at Bud\u014dkan (a major performing venue in Tokyo).\n\n(Source: ANN)",
+        "ranime": [
+            "Oshi ga Budoukan Ittekuretara Shinu"
+        ]
     }
 ]
