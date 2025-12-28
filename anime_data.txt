@@ -11325,34 +11325,6 @@
         ]
     },
     {
-        "aid": 392,
-        "name": "One-Punch Man Season 3",
-        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
-        "poster": "https://iili.io/fMWVsWu.webp, https://iili.io/fMWVrRS.webp",
-        "banner": "https://iili.io/fMWVt0x.webp, N/A",
-        "cname": "Aniflix",
-        "cid": "137",
-        "let": "O",
-        "trailer": "https://www.youtube.com/embed/uutwYXxAB2c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Action, Comedy",
-        "type": "TV",
-        "status": "Current",
-        "airing": "true",
-        "studio": "J.C.Staff",
-        "producers": "TV Tokyo, Lantis, Magic Capsule, Good Smile Company, Shueisha, JR East Marketing & Communications, Bandai Spirits, ADK Marketing Solutions, Bandai Namco Filmworks, Bandai Namco Music Live",
-        "total_episodes": 12,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "No similar anime found.",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "The third season of One Punch Man.\n\nSaitama is a hero who only became a hero for fun.\nAfter three years of \"special training,\" he\u2019s become so strong that he's practically invincible. In fact, he's too strong\u2014even his mightiest opponents are taken out with a single punch. Alongside Genos, his faithful disciple, Saitama performs his official hero duties as a member of the Hero Association.\nOne day, monsters claiming to be from the Monster Association suddenly appeared, taking a child of Hero Association executive hostage. The S-class heroes gather and plan a raid on the Monster Association hideout to rescue the hostage. Meanwhile, Garou, a \"human monster\" who was taken by the Monster Association during a battle with the heroes, awakens in the Monster Association hideout.\n\n(Source: YouTube Description)",
-        "ranime": [
-            "One Punch Man 2nd Season",
-            "One Punch Man 2nd Season: Ichigeki de Wakaru! Maji Furikaeri!",
-            "One Punch-Man"
-        ]
-    },
-    {
         "aid": 393,
         "name": "Doraemon Nobita'S New Dinosaur",
         "jname": "\u6620\u753b \u30c9\u30e9\u3048\u3082\u3093 \u306e\u3073\u592a\u306e\u65b0\u6050\u7adc",
@@ -11456,6 +11428,33 @@
         "synopsis": "The story centers on a woman called \"Eripiyo,\" who is an extreme idol fan. She is wildly enthusiastic about Maina, the shy and lowest-ranking member of the minor underground idol group Cham Jam that performs in Okayama Prefecture. She gets so wrapped up in her love for Maina during a particular performance, that she has a major nosebleed. Eri will continue to give her complete devotion to Maina until the day she can perform at Bud\u014dkan (a major performing venue in Tokyo).\n\n(Source: ANN)",
         "ranime": [
             "Oshi ga Budoukan Ittekuretara Shinu"
+        ]
+    },
+    {
+        "aid": 397,
+        "name": "Dark Gathering",
+        "jname": "\u30c0\u30fc\u30af\u30ae\u30e3\u30b6\u30ea\u30f3\u30b0",
+        "poster": "https://iili.io/fVk4Im7.webp, https://iili.io/fVk4B1f.webp",
+        "banner": "https://iili.io/fVk4Y1j.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "349606, 19535",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/ErFEKvoRgk8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Horror, Supernatural",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "OLM",
+        "producers": "Sotsu, Pony Canyon, Kansai TV, NetEase, BS Asahi, CHOCOLATE",
+        "total_episodes": 25,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Dandadan, Mieruko-chan, Kaii to Otome to Kamikakushi, Another, Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou, Ghost Hunt, Kyokou Suiri, Gakkou no Kaidan, Higurashi no Naku Koro ni, Aoi Bungaku Series, Tokyo Ghoul, Kemono Jihen, Shadows House, Death Parade, Fukigen na Mononokean, Kai Byoui Ramune, Denpa-teki na Kanojo, Pokemon, Natsume Yuujinchou, Urasekai Picnic, Mob Psycho 100",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The story centers on Keitarou Gentouga, who has the ability to be a spirit medium. In junior high school, he got someone else wrapped up in a spirit possession incident, and he has been a shut-in for more than two years. As he reintroduces himself to society as a private tutor, he meets a genius girl named Yayoi Houzuki. Yayoi is instantly able to tell that Keitarou has skill as a spirit medium, and she invites him to go with her to a haunted location. The two then start their journey capturing evil spirits.\n\n(Source: ANN)",
+        "ranime": [
+            "Dark Gathering 2nd Season",
+            "Dark Gathering"
         ]
     }
 ]
