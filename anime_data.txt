@@ -11456,5 +11456,32 @@
             "Dark Gathering 2nd Season",
             "Dark Gathering"
         ]
+    },
+    {
+        "aid": 398,
+        "name": "Your Lie In April",
+        "jname": "\u56db\u6708\u306f\u541b\u306e\u5618",
+        "poster": "https://iili.io/fXq1PlR.webp, https://iili.io/fXq1riJ.webp",
+        "banner": "https://iili.io/fXq1LHN.webp, N/A",
+        "cname": "Filemoon, RpmShare, Aniflix",
+        "cid": "350088, 19613, 150",
+        "let": "Y",
+        "trailer": "https://www.youtube.com/embed/AbTfMbmucpI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Drama, Romance",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "A-1 Pictures",
+        "producers": "Aniplex, Dentsu, Kodansha, Fuji TV, Lawson HMV Entertainment, Kyoraku Industrial Holdings, Kansai TV",
+        "total_episodes": 22,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kimi no Suizou wo Tabetai, 3-gatsu no Lion, Nodame Cantabile, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Clannad: After Story, Sakamichi no Apollon, Plastic Memories, Violet Evergarden, Angel Beats!, Kono Oto Tomare!, White Album 2, Sakura-sou no Pet na Kanojo, Hibike! Euphonium, Yuri!!! on Ice, Clannad, Piano no Mori, Orange, Koe no Katachi, Golden Time, Piano no Mori (TV), Kimi no Na wa., Chihayafuru, Nagi no Asu kara, Given, Ao no Orchestra, Kiniro no Corda: Primo Passo, Ballroom e Youkoso, Hanbun no Tsuki ga Noboru Sora, Fuuka, Tsurune: Kazemai Koukou Kyuudou-bu, Byousoku 5 Centimeter, Toradora!, Fukumenkei Noise, Carole & Tuesday, Hyouka, 3D Kanojo: Real Girl, Hachimitsu to Clover, Barakamon, Mashiro no Oto, Kokoro ga Sakebitagatterunda., NHK ni Youkoso!, Hotarubi no Mori e, HaruChika: Haruta to Chika wa Seishun suru, Bakuman., Princess Tutu, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, 3-gatsu no Lion 2nd Season, Horimiya, Josee to Tora to Sakana-tachi, Uchuu Kyoudai, Kimi wa Houkago Insomnia, Full Moon wo Sagashite, Runway de Waratte, Ping Pong the Animation, Mahoutsukai ni Taisetsu na Koto: Natsu no Sora, Suzuka, Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen, Hanebado!, Mahoutsukai no Yome, Shouwa Genroku Rakugo Shinjuu, Kaze ga Tsuyoku Fuiteiru, Free! Eternal Summer, Sora no Aosa wo Shiru Hito yo, Beck, Hoshi no Koe, Kiniro no Corda: Blue\u266aSky, Fusha no Sha, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie, Tonari no Kaibutsu-kun, Charlotte, Area no Kishi, Slow Loop, No Game No Life: Zero, Lycoris Recoil, Tonikaku Kawaii, Dance Dance Danseur, Haikyuu!!, Hoshiai no Sora, Ansatsu Kyoushitsu, Bocchi the Rock!, Darling in the FranXX, Cider no You ni Kotoba ga Wakiagaru, Steins;Gate, Mahou Shoujo Madoka\u2605Magica, Kono Oto Tomare! Part 2, Shokugeki no Souma, Fruits Basket: The Final, Idoly Pride, 3D Kanojo: Real Girl 2nd Season, Death Parade, Fruits Basket 1st Season, Kamisama no Memochou, Suki tte Ii na yo., Bokura ga Ita, Ao no Hako, Nisekoi, Chihayafuru 2, Tsuki no Sango, Nana, Clannad Movie, K-On!, Agitated Screams of Maggots, The iDOLM@STER, Kanojo to Kanojo no Neko: Everything Flows, Tari Tari, Irozuku Sekai no Ashita kara, Natsume Yuujinchou, Shinseiki Evangelion, Hanasaku Iroha, Ao Haru Ride, Myself; Yourself, Piano, Air, Akagami no Shirayuki-hime 2nd Season, Akagami no Shirayuki-hime, Harmonie, Kuro no Su: Chronus, Tada-kun wa Koi wo Shinai, Black Bullet, Hibike! Euphonium 2, Boku dake ga Inai Machi, Isshuukan Friends., So Ra No Wo To, ef: A Tale of Melodies., Cross Game, Accel World, Ano Natsu de Matteru, Ongaku Shoujo, Ore Monogatari!!, Kiznaiver",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Music accompanies the path of the human metronome, the prodigious pianist Kousei Arima. But after the passing of his mother, Saki Arima, Kousei falls into a downward spiral, rendering him unable to hear the sound of his own piano.\nTwo years later, Kousei still avoids the piano, leaving behind his admirers and rivals, and lives a colorless life alongside his friends Tsubaki Sawabe and Ryouta Watari. However, everything changes when he meets a beautiful violinist, Kaori Miyazono, who stirs up his world and sets him on a journey to face music again.\nBased on the manga series of the same name, Shigatsu wa Kimi no Uso approaches the story of Kousei's recovery as he discovers that music is more than playing each note perfectly, and a single melody can bring in the fresh spring air of April.\n[Written by MAL Rewrite]",
+        "ranime": [
+            "Shigatsu wa Kimi no Uso: Moments",
+            "Shigatsu wa Kimi no Uso"
+        ]
     }
 ]
