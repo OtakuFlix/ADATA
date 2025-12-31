@@ -11483,5 +11483,34 @@
             "Shigatsu wa Kimi no Uso: Moments",
             "Shigatsu wa Kimi no Uso"
         ]
+    },
+    {
+        "aid": 399,
+        "name": "Tokyo Ghoul",
+        "jname": "\u6771\u4eac\u55b0\u7a2e-\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb-",
+        "poster": "https://iili.io/fXgUv7n.webp, https://iili.io/fXgUGea.webp",
+        "banner": "https://iili.io/fXgUSmG.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "350257, 19638",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/vGuQeQsoRgU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Fantasy, Horror, Suspense",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Studio Pierrot",
+        "producers": "Marvelous AQL, TC Entertainment, Shueisha",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kiseijuu: Sei no Kakuritsu, Ajin, Shingeki no Kyojin, Deadman Wonderland, Shiki, Devils Line, Akame ga Kill!, Pupa, Death Note, Owari no Seraph, Kimetsu no Yaiba, Psycho-Pass, Bungou Stray Dogs, Another, Devilman: Crybaby, Mirai Nikki (TV), Elfen Lied, Claymore, Ao no Exorcist, Shinseiki Evangelion, Guilty Crown, Zankyou no Terror, High School DxD, Koutetsujou no Kabaneri, Hellsing Ultimate, B: The Beginning, Black Bullet, Amon: Devilman Mokushiroku, Hellsing, Houseki no Kuni, Inuyashiki, No.6, Chainsaw Man, Jujutsu Kaisen, Bleach, Darker than Black: Kuro no Keiyakusha, Death Parade, Beastars, Durarara!!, Highschool of the Dead, Kyoukai no Kanata, Darwin's Game, Yakusoku no Neverland, Vanitas no Karte, 91 Days, Nurarihyon no Mago, D.Gray-man, Perfect Blue, Cyberpunk: Edgerunners, Dorohedoro, Terra Formars, Ookami Kodomo no Ame to Yuki, Ajin Part 1: Shoudou, Gangsta., Charlotte, Naruto: Shippuuden, Shingeki no Kyojin OVA, Gleipnir, Akudama Drive, Devilman: Youchou Sirene-hen, Kakegurui, Berserk: Ougon Jidai-hen I - Haou no Tamago, Kizumonogatari III: Reiketsu-hen, Bio Hunter, Mob Psycho 100, Tantei wa Mou, Shindeiru., 86, Shiki Specials, Code Geass: Hangyaku no Lelouch, Kami no Tou, Banana Fish, Shingeki no Kyojin: The Final Season Part 2, Smile Precure!, Kyuuketsuki Sugu Shinu, Witchblade, Devilman: Tanjou-hen, Hikaru ga Shinda Natsu, Dark Gathering, Naruto, Mars Red, Owaranai Seraph, Arifureta Shokugyou de Sekai Saikyou, Mnemosyne: Mnemosyne no Musume-tachi, Sirius, Satsuriku no Tenshi, Vinland Saga, Jigokuraku, Higurashi no Naku Koro ni Kai, Boku no Hero Academia, Kyoushoku Soukou Guyver, Kekkai Sensen, Ch\u00e4oS;HEAd, Phantom: Requiem for the Phantom, Zettai Karen Children: The Unlimited - Hyoubu Kyousuke, s.CRY.ed, Baccano!, Yuri Kuma Arashi, Zetman, Evil or Live, Somali to Mori no Kamisama, Chirin no Suzu, Bloodivores, Mushishi, Darker than Black: Ryuusei no Gemini, Shakugan no Shana, Witch Hunter Robin, Black Lagoon, Owari no Seraph: Nagoya Kessen-hen, Code Geass: Hangyaku no Lelouch R2, Red Garden, Yofukashi no Uta, Ajin Part 2, Re:Zero kara Hajimeru Isekai Seikatsu, Tougen Anki, Kemonozume, Servamp, InuYasha, Kuroshitsuji, Eve no Jikan, Gilgamesh, Sidonia no Kishi, Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou, BNA, Fate/Zero",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious \"ghouls\" who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the caf\u00e9 he frequents. Little does he realize that his fate will change overnight.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Tokyo Ghoul \u221aA",
+            "Tokyo Ghoul",
+            "Tokyo Ghoul: \"Jack\"",
+            "Tokyo Ghoul: \"Pinto\""
+        ]
     }
 ]
