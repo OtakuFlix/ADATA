@@ -11512,5 +11512,32 @@
             "Tokyo Ghoul: \"Jack\"",
             "Tokyo Ghoul: \"Pinto\""
         ]
+    },
+    {
+        "aid": 400,
+        "name": "Sentenced To Be A Hero",
+        "jname": "\u52c7\u8005\u5211\u306b\u51e6\u3059 \u61f2\u7f70\u52c7\u80059004\u968a\u5211\u52d9\u8a18\u9332",
+        "poster": "https://iili.io/fwx4xst.webp, https://iili.io/fwx4Bbp.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "350848, 19731",
+        "let": "S",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Studio KAI",
+        "producers": "Bit grooove promotion",
+        "total_episodes": 12,
+        "pg_rating": "N/A",
+        "sanime": "Isekai Suicide Squad, Nanatsu no Taizai, Ars no Kyojuu, Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Heroism\u2014a punishment for only the worst criminals. Those sentenced to the fate of a hero are forced to fight at the front lines. But when their leader meets a goddess, the contract they forge may change the world\u2026\n\n(Source: Yen Press)",
+        "ranime": [
+            "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+            "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
+        ]
     }
 ]
