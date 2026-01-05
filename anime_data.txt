@@ -11539,5 +11539,29 @@
             "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
             "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
         ]
+    },
+    {
+        "aid": 401,
+        "name": "Hana Kimi",
+        "jname": "\u82b1\u306b\u96e8\u3092\u3001\u541b\u306b\u6b4c\u3092",
+        "poster": "https://iili.io/fNoKnxs.webp, https://iili.io/fNoFel2.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "351116, 19763",
+        "let": "H",
+        "trailer": "N/A, N/A",
+        "genre": "N/A",
+        "type": "Music",
+        "status": "Current",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "G - All Ages",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Japanese-American track-and-field star Mizuki has gotten herself to transfer to a high school in Japan...but not just any school! To be close to her idol, high jumper Izumi Sano, she's going to an all-guys' high school...and disguising herself as a boy! But as fate would have it, they're more than classmates...they're roommates! Now, Mizuki must keep her secret in the classroom, the locker room, and her own bedroom. And her classmates--and the school nurse--must cope with a new transfer student who may make them question their own orientation...\n\n(Source: Viz Media)",
+        "ranime": "N/A"
     }
 ]
