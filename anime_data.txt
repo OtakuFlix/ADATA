@@ -11712,29 +11712,5 @@
     "ranime": [
       "Seihantai na Kimi to Boku"
     ]
-  },
-  {
-    "aid": 409,
-    "name": "Jujutsu Kaisen Season 3",
-    "jname": "N/A",
-    "poster": "N/A",
-    "banner": "N/A",
-    "cname": "Filemoon, RpmShare",
-    "cid": "353179, 20315",
-    "let": "J",
-    "trailer": "N/A",
-    "genre": "N/A",
-    "type": "N/A",
-    "status": "N/A",
-    "airing": "false",
-    "studio": "N/A",
-    "producers": "Aniflix",
-    "total_episodes": "N/A",
-    "pg_rating": "N/A",
-    "sanime": "N/A",
-    "imdb_rating": "N/A",
-    "imdb_votes": "N/A",
-    "synopsis": "No synopsis available.",
-    "ranime": []
   }
 ]
