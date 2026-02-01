@@ -11906,5 +11906,32 @@
             "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai the Comic",
             "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai"
         ]
+    },
+    {
+        "aid": 416,
+        "name": "A Misanthrope Teaches A Class For Demi Humans",
+        "jname": "\u4eba\u5916\u6559\u5ba4\u306e\u4eba\u9593\u5acc\u3044\u6559\u5e2b",
+        "poster": "https://iili.io/fQgLFaf.webp, https://iili.io/fQgLHCX.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "355059, 21040",
+        "let": "A",
+        "trailer": "https://www.youtube.com/embed/bkNbjN6nwlg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Drama, Supernatural",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "asread.",
+        "producers": "Pony Canyon, AT-X, Zack Promotion, ABC Animation, Kadokawa, ANYCOLOR",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Demi-chan wa Kataritai, Murenase! Seton Gakuen",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Rei Hitoma is a former schoolteacher and a self-professed misanthrope due to past trauma. Hoping to live a slow, relaxing life, he takes a new teaching job in the mountains. But it turns out that this place is actually an all-girls school for demi-humans who want to become full-fledged human beings!\n\n(Source: Yen Press)",
+        "ranime": [
+            "Jingai Kyoushitsu no Ningengirai Kyoushi: Hitoma-sensei, Watashitachi ni Ningen wo Oshiete Kuremasu ka......?",
+            "Jingai Kyoushitsu no Ningengirai Kyoushi"
+        ]
     }
 ]
