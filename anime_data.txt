@@ -11852,5 +11852,59 @@
             "Ao Haru Ride",
             "Ao Haru Ride OVA"
         ]
+    },
+    {
+        "aid": 414,
+        "name": "Trigun Stargaze",
+        "jname": "TRIGUN STARGAZE",
+        "poster": "https://iili.io/fQUAC11.webp, https://iili.io/fQUAKXV.webp",
+        "banner": "https://iili.io/fQUAIkJ.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "355056, 21038",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/JBYLkW--zmI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Adventure, Sci-Fi",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Orange",
+        "producers": "Movic, TOHO animation, Toy's Factory, Shounen Gahousha, Sonilude, Toho Music",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "It\u2019s been two and a half years since the Lost JuLai tragedy, which laid waste to an entire city and engulfed the whole planet in chaos. Meryl, now a senior journalist, continues her search for Vash with her new younger sidekick, Milly, and runs into Wolfwood along the way. As plant robberies begin taking place once again, they sense Millions Knives\u2019s organization conspiring behind the scenes.\n\nMeanwhile, Vash has taken the new name Eriks and is living in hiding in a backwater town when he gets an abrupt visit from Jessica, a young girl with an SOS from the third ship they call home. He thus decides to put an end to a long-standing feud in order to protect those dear to him.\n\nJust as the pieces of the story begin falling back together again, the planet receives a message from the far reaches of outer space: \u201cWe are a fleet of colony ships from Earth... Those who wish may accompany us to a new frontier.\u201d The entire population rejoices at this news. However, as if to mock their celebration, the one-winged angel returns to wreak havoc and despair. Fates collide to forge a final conclusion for the panicked planet.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Trigun Stampede",
+            "Trigun"
+        ]
+    },
+    {
+        "aid": 415,
+        "name": "Roll Over And Die",
+        "jname": "\u300c\u304a\u524d\u3054\u3068\u304d\u304c\u9b54\u738b\u306b\u52dd\u3066\u308b\u3068\u601d\u3046\u306a\u300d\u3068\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u3092\u8ffd\u653e\u3055\u308c\u305f\u306e\u3067\u3001\u738b\u90fd\u3067\u6c17\u307e\u307e\u306b\u66ae\u3089\u3057\u305f\u3044",
+        "poster": "https://iili.io/fQUAGpf.webp, https://iili.io/fQUAAIR.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "354873, 20646",
+        "let": "R",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Adventure, Fantasy, Girls Love",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "A.C.G.T.",
+        "producers": "Lantis, Rakuonsha, Tokyo MX, BS11, Crunchyroll, Kadokawa Media House, FuRyu, Daiichi Shokai, Micro Magazine Publishing, Bandai Namco Music Live, Capibara, Anici, MoooD Records",
+        "total_episodes": "N/A",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Flum Apricot was never meant to be a hero. Despite zero stats across the board and a power she can\u2019t even use, she somehow finds herself included in a party of heroes. But Flum\u2019s life hits rock bottom when the party\u2019s renowned sage, Jean Inteige, decides that the useless girl is dead weight, and arranges to have her sold into slavery. Tossed to monsters to be feasted upon for her master\u2019s entertainment, Flum makes the desperate choice to reach for a cursed weapon\u2026and something new awakens within her. A grimdark tale about one woman\u2019s blood-soaked quest to reclaim her life!\n\n(Source: Seven Seas Entertainment)",
+        "ranime": [
+            "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai the Comic",
+            "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai"
+        ]
     }
 ]
