@@ -11933,5 +11933,32 @@
             "Jingai Kyoushitsu no Ningengirai Kyoushi: Hitoma-sensei, Watashitachi ni Ningen wo Oshiete Kuremasu ka......?",
             "Jingai Kyoushitsu no Ningengirai Kyoushi"
         ]
+    },
+    {
+        "aid": 417,
+        "name": "Kunon The Sorcerer Can See",
+        "jname": "\u9b54\u8853\u5e2b\u30af\u30ce\u30f3\u306f\u898b\u3048\u3066\u3044\u308b",
+        "poster": "https://media.kitsu.app/anime/50424/poster_image/b4315b89180dfe592c0e53a734e5191e.jpg, https://iili.io/fZ7usFn.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "355145, 21046",
+        "let": "K",
+        "trailer": "N/A, N/A",
+        "genre": "Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Platinum Vision",
+        "producers": "Pony Canyon, Yomiuri TV Enterprise, Kadokawa, arma bianca, Bit grooove promotion, Pia, BS Asahi, Happinet Media Marketing, SKY Perfect Pictures, REMOW",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kage no Jitsuryokusha ni Naritakute! 2nd Season, H2O: Footprints in the Sand",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Majutsushi Kunon wa Mieteiru",
+            "Majutsushi Kunon wa Mieteiru"
+        ]
     }
 ]
