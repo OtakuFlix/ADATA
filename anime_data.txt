@@ -11960,5 +11960,33 @@
             "Majutsushi Kunon wa Mieteiru",
             "Majutsushi Kunon wa Mieteiru"
         ]
+    },
+    {
+        "aid": 418,
+        "name": "Yuri On Ice",
+        "jname": "\u30e6\u30fc\u30ea!!! on ICE",
+        "poster": "https://iili.io/fmA2MFf.webp, https://iili.io/fmA2Rvp.webp",
+        "banner": "https://iili.io/fmA249V.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "355770, 21189",
+        "let": "Y",
+        "trailer": "https://www.youtube.com/embed/9-xcX0sqkkA?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Award Winning, Sports",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "MAPPA",
+        "producers": "Dentsu, TV Asahi, Movic, Avex Pictures, CIC, Cygames",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "SK\u221e, Free!, Ballroom e Youkoso, No.6, Shigatsu wa Kimi no Uso, Haikyuu!!, Given, Ginban Kaleidoscope, Banana Fish, Skate-Leading\u2606Stars, Doukyuusei, Taisou Zamurai, Shouwa Genroku Rakugo Shinjuu, Ping Pong the Animation, Sakamichi no Apollon, Ookiku Furikabutte, Barakamon, Prince of Stride: Alternative, Shoujo Kakumei Utena, Gakuen Heaven, Housekishou Richard-shi no Nazo Kantei, Sasaki to Miyano, Kimetsu no Yaiba, Citrus, Zankyou no Terror, Cheer Danshi!!, Free! Eternal Summer: Kindan no All Hard!, Hitorijime My Hero, Blue Period, Major S6, Carole & Tuesday, Hajime no Ippo, Kuroko no Basket, Princess Tutu, Dive!!, Free! Eternal Summer, Re-Main, Koisuru Boukun, Medalist, Kyousou Giga (TV), King of Prism by Pretty Rhythm, Kiniro no Corda: Primo Passo, Samurai Flamenco, Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou, Bakuten!!, Piano no Mori (TV), Runway de Waratte, Dance Dance Danseur, Kuragehime, Nihon Animator Mihonichi, Keijo!!!!!!!!, Megalo Box, Hibike! Euphonium, Tsurune: Kazemai Koukou Kyuudou-bu, Love Stage!!, Boku no Hero Academia, Uchuu Kyoudai, Mimi wo Sumaseba, Quanzhi Gaoshou, Loveless",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Reeling from his crushing defeat at the Grand Prix Finale, Yuuri Katsuki, once Japan's most promising figure skater, returns to his family home to assess his options for the future. At age 23, Yuuri's window for success in skating is closing rapidly, and his love of pork cutlets and aptitude for gaining weight are not helping either.\n\nHowever, Yuuri finds himself in the spotlight when a video of him performing a routine previously executed by five-time world champion, Victor Nikiforov, suddenly goes viral. In fact, Victor himself abruptly appears at Yuuri's house and offers to be his mentor. As one of his biggest fans, Yuuri eagerly accepts, kicking off his journey to make it back onto the world stage. But the competition is fierce, as the rising star from Russia, Yuri Plisetsky, is relentlessly determined to defeat Yuuri and win back Victor's tutelage.\n\n(Source: MAL Rewrite)",
+        "ranime": [
+            "Yuri!!! on Ice Bangai-hen: Welcome to the Madness",
+            "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness",
+            "Yuri!!! on Ice The Movie: Ice Adolescence PV"
+        ]
     }
 ]
