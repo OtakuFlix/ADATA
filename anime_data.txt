@@ -11988,5 +11988,33 @@
             "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness",
             "Yuri!!! on Ice The Movie: Ice Adolescence PV"
         ]
+    },
+    {
+        "aid": 419,
+        "name": "I'M Standing On A Million Lives",
+        "jname": "100\u4e07\u306e\u547d\u306e\u4e0a\u306b\u4ffa\u306f\u7acb\u3063\u3066\u3044\u308b",
+        "poster": "https://iili.io/qHx5b3b.webp, https://iili.io/qHx5t6u.webp",
+        "banner": "https://iili.io/qHx5yyQ.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "357466, 21366",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/FyBU0SZIYx0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Adventure, Drama, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Maho Film",
+        "producers": "Lantis, Warner Bros. Japan",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Hai to Gensou no Grimgar, Kono Subarashii Sekai ni Shukufuku wo!, Sword Art Online, Gantz, Tondemo Skill de Isekai Hourou Meshi, Kokoro Connect, Arifureta Shokugyou de Sekai Saikyou, Isekai Meikyuu de Harem wo, Angel Beats!, 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Death March kara Hajimaru Isekai Kyousoukyoku, Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?, Sentouin, Haken shimasu!, Darwin's Game, Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta., Re:Zero kara Hajimeru Isekai Seikatsu, Log Horizon, Choujigen Kakumei Anime: Dimension High School, 7 Seeds, Seiken Gakuin no Makentsukai, Tate no Yuusha no Nariagari",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Yotsuya Yuusuke along with his classmates Shindou Iu and Hakozaki Kusue have been transported to a strange and unknown world inhabited by mythological creatures. As soon as they arrive, they meet somebody calling himself the Game Master who then grants them a time-limited quest. To aid them in this quest, he also bestows Shindou and Hakozaki with the roles of a Magician and a Warrior while Yotsuya is randomly granted the role of... a Farmer?!This is how a hectic life of adventuring began for three students who now have no choice, but to complete random quests for several phases in the fantasy world if they want to stay alive and protect the real world from the demons and monsters they encounter.(Source: MU)",
+        "ranime": [
+            "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+            "100-man no Inochi no Ue ni Ore wa Tatteiru",
+            "100-man no Inochi no Ue ni Ore wa Tatteiru Recap"
+        ]
     }
 ]
