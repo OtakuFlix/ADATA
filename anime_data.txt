@@ -12073,5 +12073,32 @@
             "100-man no Inochi no Ue ni Ore wa Tatteiru",
             "100-man no Inochi no Ue ni Ore wa Tatteiru"
         ]
+    },
+    {
+        "aid": 422,
+        "name": "I Want To Eat Your Pancreas",
+        "jname": "\u541b\u306e\u81b5\u81d3\u3092\u305f\u3079\u305f\u3044",
+        "poster": "https://iili.io/qJ3lM0X.webp, https://iili.io/qJ3llxp.webp",
+        "banner": "https://iili.io/qJ3leX2.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "357624, 21434",
+        "let": "I",
+        "trailer": "https://www.youtube.com/embed/-o3EKIQCxkI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Drama, Romance",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Studio VOLN",
+        "producers": "Aniplex, Asahi Shimbun, Futabasha, ABC Animation, JR East Marketing & Communications, Tohan Corporation",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Shigatsu wa Kimi no Uso, Koe no Katachi, Kimi no Na wa., Plastic Memories, Josee to Tora to Sakana-tachi, Hanbun no Tsuki ga Noboru Sora, Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., 3D Kanojo: Real Girl, Hyouka, Clannad: After Story, 3D Kanojo: Real Girl 2nd Season, Umi ga Kikoeru, Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai, Tsuki ga Kirei, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Sora yori mo Tooi Basho, Summer Ghost, Shinseiki Evangelion, Ansatsu Kyoushitsu 2nd Season, Angel Beats!, Hotarubi no Mori e, Kimi wa Houkago Insomnia, Uzaki-chan wa Asobitai!, Kimi to, Nami ni Noretara, Renai Flops, Orange, Liz to Aoi Tori, Mahoutsukai ni Taisetsu na Koto: Natsu no Sora, Boku dake ga Inai Machi, Kokoro ga Sakebitagatterunda., Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?, Hotaru no Haka, Suzuka, Byousoku 5 Centimeter",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Spring time in April and the last of the cherry blossoms are still in bloom. The usually aloof bookworm with no interest in others comes across a book in a hospital waiting room. Handwritten on the cover are the words: \"Living with Dying.\" He soon discovers that it is a diary kept by his very popular and genuinely cheerful classmate, Sakura Yamauchi, who reveals to him that she is secretly suffering from a pancreatic illness and only has a limited time left. It is at this moment that she gains just one more person to share her secret.\n\nTrying to maintain a normal life as much as possible, Sakura is determined to live her life to the fullest until the very last day. As her free spirit and unpredictable actions throw him for a loop, his heart begins to gradually change.\n\n(Source: Aniplex USA)",
+        "ranime": [
+            "Kimi no Suizou wo Tabetai",
+            "Kimi no Suizou wo Tabetai"
+        ]
     }
 ]
