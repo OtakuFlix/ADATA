@@ -12100,5 +12100,29 @@
             "Kimi no Suizou wo Tabetai",
             "Kimi no Suizou wo Tabetai"
         ]
+    },
+    {
+        "aid": 423,
+        "name": "Terror In Resonance",
+        "jname": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb",
+        "poster": "https://iili.io/q3DOaN1.webp, https://iili.io/q3DO7HB.webp",
+        "banner": "https://iili.io/q3DO1Va.webp, N/A",
+        "cname": "Aniflix",
+        "cid": "176",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/nLVy50LnLMM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Mystery, Suspense",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "MAPPA",
+        "producers": "Aniplex, Dentsu, Fuji TV, Tohokushinsha Film Corporation, Kyoraku Industrial Holdings",
+        "total_episodes": 11,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Death Note, Higashi no Eden, Psycho-Pass, B: The Beginning, Code Geass: Hangyaku no Lelouch, Monster, Steins;Gate, Subete ga F ni Naru, Boku dake ga Inai Machi, Kiznaiver, Yakusoku no Neverland, Inuyashiki, No.6, Tokyo Ghoul, Phantom: Requiem for the Phantom, Aldnoah.Zero, 91 Days, Death Parade, Zetsuen no Tempest, Devilman: Crybaby, Yuukoku no Moriarty, Mawaru Penguindrum, Ajin, Id:Invaded, Shinsekai yori, Fugou Keiji: Balance:Unlimited, Mekakucity Actors, Great Pretender, Charlotte, Jormungand, Akira, Darker than Black: Kuro no Keiyakusha, Hero Mask, Blade Runner: Black Out 2022, Durarara!!, Koukaku Kidoutai: Stand Alone Complex, Mousou Dairinin, Punch Line, Yuri!!! on Ice, Babylon, Guilty Crown, Zombie-Loan, Tokyo ESP, Gleipnir, Shingeki no Kyojin: The Final Season, Sonny Boy, Bokura no, Kiseijuu: Sei no Kakuritsu, Rainbow: Nisha Rokubou no Shichinin, 86, Yojouhan Shinwa Taikei, Zettai Karen Children: The Unlimited - Hyoubu Kyousuke, Elfen Lied, Happy Sugar Life, Bungou Stray Dogs, 7 Seeds, Darwin Jihen, Jin-Rou, Tokyo Magnitude 8.0, Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation, Sakamichi no Apollon, Coppelion, Evangelion Movie 3: Q, Meitantei Conan Movie 01: Tokei Jikake no Matenrou, Kimi no Na wa., Un-Go, Houseki no Kuni, R.O.D: The TV, Wolf's Rain, Hitsugi no Chaika, Hunter x Hunter (2011), K, Black Lagoon, Psycho-Pass 2, Big Order (TV), Mayoiga, Kaijuu no Kodomo, Banana Fish, Steamboy, Tokyo Ghoul \u221aA, Fumetsu no Anata e, Samurai Flamenco, Shiki, Ergo Proxy, Tetsuwan Birdy Decode:02, Shingeki no Kyojin, Nijuu Mensou no Musume",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless\u2014until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.\n[Written by MAL Rewrite]",
+        "ranime": "N/A"
     }
 ]
