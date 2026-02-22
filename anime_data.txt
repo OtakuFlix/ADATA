@@ -12130,16 +12130,16 @@
         "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
         "jname": "\u541b\u306e\u3053\u3068\u304c\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a100\u4eba\u306e\u5f7c\u5973",
         "poster": "https://iili.io/qFRQAsp.webp, https://iili.io/qFRQuXR.webp",
-        "banner": "https://iili.io/qFRQ5qN.webp, N/A",
+        "banner": "https://iili.io/qFRQ5qN.webp",
         "cname": "Filemoon, RpmShare",
         "cid": "359194, 21820",
         "let": "T",
         "trailer": "https://www.youtube.com/embed/ls2VNcSifi4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
         "genre": "Comedy, Romance",
         "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "Bibury Animation Studios",
+        "status": "Current",
+        "airing": "true",
+        "studio": "VOV Studios",
         "producers": "Lantis, Movic, Bushiroad, Tokyo MX, Shueisha, NetEase, Bushiroad Move, Bandai Namco Filmworks, Bandai Namco Music Live",
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -12150,32 +12150,6 @@
         "ranime": [
             "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
             "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo"
-        ]
-    },
-    {
-        "aid": 425,
-        "name": "Bofuri X265 Bluray Season 1",
-        "jname": "Peeping Life\uff08\u30d4\u30fc\u30d4\u30f3\u30b0\u30e9\u30a4\u30d5\uff09TV \u30b7\u30fc\u30ba\u30f31 ??",
-        "poster": "https://iili.io/qFRQMX4.webp, https://iili.io/qFRQGIf.webp",
-        "banner": "https://iili.io/qFRQO7e.webp, N/A",
-        "cname": "Filemoon, RpmShare",
-        "cid": "359126, 21794",
-        "let": "B",
-        "trailer": "https://www.youtube.com/embed/mgHnA7ZV8tM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Comedy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "Tatsunoko Production, CoMix Wave Films, FOREST Hunting One",
-        "producers": "N/A",
-        "total_episodes": 12,
-        "pg_rating": "G - All Ages",
-        "sanime": "Infini-T Force, Hokuro Kyoudai Full Throttle!!!!, Time Bokan Oudou Fukko, Tesagure! Bukatsumono, Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "The second season of Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.\n\nThe best offense is a great defense, and for VRMMO gamer Kaede Honjo, her defense is the best. Under her alias Maple, she and her guild journey through NewWorld Online gaining friends and foes through new battle-filled quests. All those skill points, new defensive techniques, and no pain\u2014Maple can\u2019t be stopped!\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Peeping Life"
         ]
     }
 ]
