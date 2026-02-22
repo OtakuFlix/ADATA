@@ -12140,7 +12140,7 @@
         "status": "Current",
         "airing": "true",
         "studio": "VOV Studios",
-        "producers": "Lantis, Movic, Bushiroad, Tokyo MX, Shueisha, NetEase, Bushiroad Move, Bandai Namco Filmworks, Bandai Namco Music Live",
+        "producers": "Aniflix, Lantis, Movic, Bushiroad, Tokyo MX, Shueisha, NetEase, Bushiroad Move, Bandai Namco Filmworks, Bandai Namco Music Live",
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Kanojo mo Kanojo, Kami nomi zo Shiru Sekai, Isekai wa Smartphone to Tomo ni., Kanojo mo Kanojo Season 2, Gintama, Futoku no Guild, Aishen Qiaokeli-ing..., Aho Girl, Shikanoko Nokonoko Koshitantan, Giji Harem, Kono Subarashii Sekai ni Shukufuku wo!, Seitokai no Ichizon, Date A Live, Kaminaki Sekai no Kamisama Katsudou, Seitokai no Ichizon Lv.2: Watasu Seitokai, Seitokai no Ichizon Lv.2, Tonikaku Kawaii, Keijo!!!!!!!!, Beelzebub-jou no Okinimesu mama., Nisekoi, Baka to Test to Shoukanjuu Ni!, Carnival Phantasm, Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru, Mikadono Sanshimai wa Angai, Choroi., Bokutachi wa Benkyou ga Dekinai, 5-toubun no Hanayome, Ouran Koukou Host Club, Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (\u203bMuri ja Nakatta!?), Chitose-kun wa Ramune Bin no Naka, Amagami SS",
