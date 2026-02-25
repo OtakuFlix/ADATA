@@ -12171,8 +12171,8 @@
         "total_episodes": 10,
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Natsume Yuujinchou, Majo no Tabitabi, Kino no Tabi: The Beautiful World - The Animated Series, Mushishi Zoku Shou",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
+        "imdb_rating": 9.18,
+        "imdb_votes": 57192,
         "synopsis": "The second season of Sousou no Frieren.\n\nOn the road to Ende, Frieren confronts past bonds and rising threats with her newfound party.\n\n(Source: Anime News Network)",
         "ranime": [
             "Sousou no Frieren",
@@ -12198,8 +12198,8 @@
         "total_episodes": 12,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Kiseijuu: Sei no Kakuritsu, Akame ga Kill!, Shiki, Elfen Lied, Owari no Seraph: Nagoya Kessen-hen, Ajin Part 2, Zankyou no Terror, Yakusoku no Neverland 2nd Season, Another, Mirai Nikki (TV), Shingeki no Kyojin: The Final Season, Psycho-Pass, One Piece, Pupa, s.CRY.ed, Death Note, Ookami Kodomo no Ame to Yuki, Black Bullet, Guilty Crown, Zettai Karen Children: The Unlimited - Hyoubu Kyousuke, Ajin, Shakugan no Shana, Fate/stay night: Unlimited Blade Works",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
+        "imdb_rating": 7.03,
+        "imdb_votes": 1264422,
         "synopsis": "The second season of Tokyo Ghoul.\n\nThe ghouls of Anteiku invaded the Aogiri's site in order to rescue Ken Kaneki who is being tortured. Due to provocation, he unleashed greater power enough to defeat Yamori. To become stronger, he decided to join Aogiri and left Anteiku. Ghoul investigators also making their moves by collecting information about the eye-patched ghoul - Ken Kaneki.\n\n(Source: Anime News Network)",
         "ranime": [
             "Tokyo Ghoul",
