@@ -12151,5 +12151,60 @@
             "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
             "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo"
         ]
+    },
+    {
+        "aid": 425,
+        "name": "Frieren Beyond Journey End Season 2",
+        "jname": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \u7b2c2\u671f",
+        "poster": "https://iili.io/qf2D2lp.webp, https://iili.io/qf2tyxa.webp",
+        "banner": "https://iili.io/qf2D3UN.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "359197, 21821",
+        "let": "F",
+        "trailer": "https://www.youtube.com/embed/RH-FcW94z00?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Adventure, Drama, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Madhouse",
+        "producers": "Aniplex, Dentsu, Shogakukan-Shueisha Productions, Nippon Television Network, TOHO animation, Sound Team Don Juan, Miracle Bus, Shogakukan, Toho Music",
+        "total_episodes": 10,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Natsume Yuujinchou, Majo no Tabitabi, Kino no Tabi: The Beautiful World - The Animated Series, Mushishi Zoku Shou",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Sousou no Frieren.\n\nOn the road to Ende, Frieren confronts past bonds and rising threats with her newfound party.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Sousou no Frieren",
+            "Sousou no Frieren"
+        ]
+    },
+    {
+        "aid": 426,
+        "name": "Tokyo Ghoul Season 3",
+        "jname": "\u6771\u4eac\u55b0\u7a2e\u221aA",
+        "poster": "https://iili.io/qf2DqOX.webp, https://iili.io/qf2DKJI.webp",
+        "banner": "https://iili.io/qf2Dnxs.webp, N/A",
+        "cname": "Aniflix",
+        "cid": "180",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/PNqzDbri45Y?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Fantasy, Horror, Suspense",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Studio Pierrot",
+        "producers": "Marvelous AQL, Shueisha",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kiseijuu: Sei no Kakuritsu, Akame ga Kill!, Shiki, Elfen Lied, Owari no Seraph: Nagoya Kessen-hen, Ajin Part 2, Zankyou no Terror, Yakusoku no Neverland 2nd Season, Another, Mirai Nikki (TV), Shingeki no Kyojin: The Final Season, Psycho-Pass, One Piece, Pupa, s.CRY.ed, Death Note, Ookami Kodomo no Ame to Yuki, Black Bullet, Guilty Crown, Zettai Karen Children: The Unlimited - Hyoubu Kyousuke, Ajin, Shakugan no Shana, Fate/stay night: Unlimited Blade Works",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Tokyo Ghoul.\n\nThe ghouls of Anteiku invaded the Aogiri's site in order to rescue Ken Kaneki who is being tortured. Due to provocation, he unleashed greater power enough to defeat Yamori. To become stronger, he decided to join Aogiri and left Anteiku. Ghoul investigators also making their moves by collecting information about the eye-patched ghoul - Ken Kaneki.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Tokyo Ghoul",
+            "Tokyo Ghoul:re",
+            "Tokyo Ghoul"
+        ]
     }
 ]
