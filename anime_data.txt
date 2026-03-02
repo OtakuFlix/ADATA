@@ -24,7 +24,10 @@
         "ranime": [
             "Level 1 dakedo Unique Skill de Saikyou desu",
             "Level 1 dakedo Unique Skill de Saikyou desu"
-        ]
+        ],
+        "mal_id": "51764",
+        "kitsu_id": "46099",
+        "anilist_id": "148465"
     },
     {
         "aid": 2,
@@ -50,7 +53,10 @@
         "synopsis": "Third-year high school student Jirou Yakuin hoped to partner with Shiori Sakurazaka of the same class in the mandatory \"Couple Practical\" course. In this practical, students must demonstrate that they have the necessary skillset to live with a partner of the opposite sex while presenting a certain level of harmony to the video surveillance that grades them.\n\nUnfortunately, random chance put his slightly subdued self into the practical with the person polar opposite to him, the gyaru Akari Watanabe. Akari on the other hand hoped to be paired with her crush Minami Tenjin.\n\nTheir hopes are doubly dashed when they find out that Shiori and Minami are assigned together. Thus, they reluctantly decide to cooperate to reach the top ten, which would give them the right to exchange partners if both couples agree. To that end, Jirou steals Akari's first kiss without realizing what he'd done, while giving a hurried good-bye kiss...",
         "ranime": [
             "Fuufu Ijou, Koibito Miman."
-        ]
+        ],
+        "mal_id": "50425",
+        "kitsu_id": "45521",
+        "anilist_id": "141949"
     },
     {
         "aid": 3,
@@ -78,7 +84,10 @@
             "Dungeon Meshi 2nd Season",
             "Dungeon Meshi",
             "Dungeon Meshi PVs"
-        ]
+        ],
+        "mal_id": "52701",
+        "kitsu_id": "46320",
+        "anilist_id": "153518"
     },
     {
         "aid": 4,
@@ -107,7 +116,10 @@
             "Shousetsu Suzume no Tojimari",
             "Suzume no Tojimari",
             "Big Mac to, Susume"
-        ]
+        ],
+        "mal_id": "50594",
+        "kitsu_id": "45597",
+        "anilist_id": "142770"
     },
     {
         "aid": 5,
@@ -136,7 +148,10 @@
             "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
             "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su - Saishin Wa made Maruwakari! Chousoku Digest",
             "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su Mini Anime"
-        ]
+        ],
+        "mal_id": "52347",
+        "kitsu_id": "46241",
+        "anilist_id": "151970"
     },
     {
         "aid": 6,
@@ -163,7 +178,10 @@
         "ranime": [
             "Kami no Tou: Ouji no Kikan",
             "Tower of God"
-        ]
+        ],
+        "mal_id": "40221",
+        "kitsu_id": "43004",
+        "anilist_id": "115230"
     },
     {
         "aid": 7,
@@ -194,7 +212,10 @@
             "Jujutsu Kaisen 2nd Season Recaps",
             "Jujutsu Kaisen Official PVs",
             "Vivid Vice"
-        ]
+        ],
+        "mal_id": "40748",
+        "kitsu_id": "42765",
+        "anilist_id": "113415"
     },
     {
         "aid": 8,
@@ -222,7 +243,10 @@
             "Spy x Family Part 2",
             "Spy x Family",
             "Good Day"
-        ]
+        ],
+        "mal_id": "50265",
+        "kitsu_id": "45398",
+        "anilist_id": "140960"
     },
     {
         "aid": 9,
@@ -252,7 +276,10 @@
             "Ore dake Level Up na Ken: How to Get Stronger",
             "Ore dake Level Up na Ken: ReAwakening",
             "Echo"
-        ]
+        ],
+        "mal_id": "52299",
+        "kitsu_id": "46231",
+        "anilist_id": "151807"
     },
     {
         "aid": 10,
@@ -282,7 +309,10 @@
             "Jujutsu Kaisen",
             "Jujutsu Kaisen 2nd Season Recaps",
             "Jujutsu Kaisen: Kaigyoku/Gyokusetsu"
-        ]
+        ],
+        "mal_id": "51009",
+        "kitsu_id": "45857",
+        "anilist_id": "145064"
     },
     {
         "aid": 11,
@@ -312,7 +342,10 @@
             "Spy x Family",
             "Spy x Family Movie: Code: White",
             "Kura Kura"
-        ]
+        ],
+        "mal_id": "53887",
+        "kitsu_id": "46873",
+        "anilist_id": "158927"
     },
     {
         "aid": 12,
@@ -342,7 +375,10 @@
             "Shousetsu Kimi no Na wa.",
             "Suntory Minami Alps no Tennensui",
             "Tenki no Ko CMs"
-        ]
+        ],
+        "mal_id": "32281",
+        "kitsu_id": "11614",
+        "anilist_id": "97962"
     },
     {
         "aid": 13,
@@ -369,7 +405,10 @@
         "ranime": [
             "Sono Bisque Doll wa Koi wo Suru 2nd Season",
             "Sono Bisque Doll wa Koi wo Suru"
-        ]
+        ],
+        "mal_id": "48736",
+        "kitsu_id": "44382",
+        "anilist_id": "132405"
     },
     {
         "aid": 14,
@@ -404,7 +443,10 @@
             "Dr. Slump: Arale-chan",
             "FNS 27-Jikan TV: Nihon no Rekishi Anime",
             "Annecy Festival 60th Anniversary PVs"
-        ]
+        ],
+        "mal_id": "30694",
+        "kitsu_id": "10879",
+        "anilist_id": "21175"
     },
     {
         "aid": 15,
@@ -433,7 +475,10 @@
             "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
             "Dragon Ball",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "6033",
+        "kitsu_id": "4394",
+        "anilist_id": "6033"
     },
     {
         "aid": 16,
@@ -464,7 +509,10 @@
             "Ramayana: The Legend Of Prince Rama",
             "Mahavatar Narsimha",
             "Kurukshetra - The Great War Of Mahabharata"
-        ]
+        ],
+        "mal_id": "48441",
+        "kitsu_id": "727",
+        "anilist_id": "N/A"
     },
     {
         "aid": 17,
@@ -494,7 +542,10 @@
             "Ramayana: The Legend Of Prince Rama",
             "Mahavatar Narsimha",
             "Kurukshetra - The Great War Of Mahabharata"
-        ]
+        ],
+        "mal_id": "48441",
+        "kitsu_id": "727",
+        "anilist_id": "N/A"
     },
     {
         "aid": 18,
@@ -524,7 +575,10 @@
             "Ramayana: The Legend Of Prince Rama",
             "Mahavatar Narsimha",
             "Kurukshetra - The Great War Of Mahabharata"
-        ]
+        ],
+        "mal_id": "48441",
+        "kitsu_id": "727",
+        "anilist_id": "N/A"
     },
     {
         "aid": 19,
@@ -560,7 +614,10 @@
             "Naruto: The Cross Roads",
             "Road of Naruto",
             "Naruto (Shinsaku Anime)"
-        ]
+        ],
+        "mal_id": "20",
+        "kitsu_id": "1555",
+        "anilist_id": "20"
     },
     {
         "aid": 20,
@@ -595,7 +652,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "33486",
+        "kitsu_id": "13881",
+        "anilist_id": "104276"
     },
     {
         "aid": 21,
@@ -630,7 +690,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "33486",
+        "kitsu_id": "12268",
+        "anilist_id": "21856"
     },
     {
         "aid": 22,
@@ -665,7 +728,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "36456",
+        "kitsu_id": "13881",
+        "anilist_id": "100166"
     },
     {
         "aid": 23,
@@ -700,7 +766,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "36896",
+        "kitsu_id": "14084",
+        "anilist_id": "100723"
     },
     {
         "aid": 24,
@@ -735,7 +804,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "39565",
+        "kitsu_id": "42205",
+        "anilist_id": "108553"
     },
     {
         "aid": 25,
@@ -770,7 +842,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "44200",
+        "kitsu_id": "44209",
+        "anilist_id": "126659"
     },
     {
         "aid": 26,
@@ -802,7 +877,10 @@
             "In the Back Room",
             "Dainouteki na Rendezvous",
             "Fight Song"
-        ]
+        ],
+        "mal_id": "44511",
+        "kitsu_id": "43806",
+        "anilist_id": "127230"
     },
     {
         "aid": 27,
@@ -831,7 +909,10 @@
             "Mashle",
             "Mashle: Mash Burnedead to Fushigi na Tegami",
             "Mash Burnedead-tachi to School Life"
-        ]
+        ],
+        "mal_id": "52211",
+        "kitsu_id": "46229",
+        "anilist_id": "151801"
     },
     {
         "aid": 28,
@@ -860,7 +941,10 @@
             "Hunter x Hunter",
             "Hunter x Hunter Pilot",
             "Hunter x Hunter (2011)"
-        ]
+        ],
+        "mal_id": "136",
+        "kitsu_id": "6448",
+        "anilist_id": "136"
     },
     {
         "aid": 29,
@@ -888,7 +972,10 @@
             "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
             "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
             "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
-        ]
+        ],
+        "mal_id": "52830",
+        "kitsu_id": "46370",
+        "anilist_id": "153845"
     },
     {
         "aid": 30,
@@ -919,7 +1006,10 @@
             "One Punch Man Specials",
             "One Punch Man 2nd Season Commemorative Special",
             "Go! Saitama"
-        ]
+        ],
+        "mal_id": "30276",
+        "kitsu_id": "10740",
+        "anilist_id": "21087"
     },
     {
         "aid": 31,
@@ -945,7 +1035,10 @@
         "synopsis": "Park Hyung Suk has spent all 17 years of his life at the bottom of the food chain. Short, overweight, and unattractive, he is used to being bullied by his classmates and constantly discriminated against for his looks. In an attempt to escape his biggest bully, Lee Tae Sung, he decides to transfer to Seoul's Jae Won High School, a vocational preparatory school notorious for its liberal education system and carefree students.\n\nDays before his transfer, Hyung Suk wakes to find that he is no longer in his usual chubby body, but is instead in a perfect body! Tall, handsome, and beautifully toned, Hyung Suk has become the ideal version of himself. The only problem is that his original body still lays beside him\u2014and when one body falls asleep, he awakens in the other.\n\nNow possessing two extremely different bodies, Hyung Suk must learn to navigate his new and much more popular life at J High whilst also solving the mystery of where his second, almost superhuman, body came from.",
         "ranime": [
             "Lookism"
-        ]
+        ],
+        "mal_id": "53149",
+        "kitsu_id": "46837",
+        "anilist_id": "158539"
     },
     {
         "aid": 32,
@@ -972,7 +1065,10 @@
         "ranime": [
             "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
             "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Recap"
-        ]
+        ],
+        "mal_id": "54112",
+        "kitsu_id": "46954",
+        "anilist_id": "159831"
     },
     {
         "aid": 33,
@@ -1002,7 +1098,10 @@
             "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
             "Kusuriya no Hitorigoto",
             "Maomao no Hitorigoto"
-        ]
+        ],
+        "mal_id": "54492",
+        "kitsu_id": "47083",
+        "anilist_id": "161645"
     },
     {
         "aid": 34,
@@ -1030,7 +1129,10 @@
             "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season",
             "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
             "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
-        ]
+        ],
+        "mal_id": "50461",
+        "kitsu_id": "45529",
+        "anilist_id": "142074"
     },
     {
         "aid": 35,
@@ -1057,7 +1159,10 @@
         "ranime": [
             "Uchi no Kaisha no Chiisai Senpai no Hanashi",
             "Uchi no Kaisha no Chiisai Senpai no Hanashi Mini Anime"
-        ]
+        ],
+        "mal_id": "53379",
+        "kitsu_id": "46647",
+        "anilist_id": "155730"
     },
     {
         "aid": 36,
@@ -1084,7 +1189,10 @@
         "ranime": [
             "Tomo-chan wa Onnanoko!",
             "Kurae! Telepathy"
-        ]
+        ],
+        "mal_id": "52305",
+        "kitsu_id": "46232",
+        "anilist_id": "151806"
     },
     {
         "aid": 37,
@@ -1131,7 +1239,10 @@
             "Naruto: Shippuuden - Sunny Side Battle",
             "Road of Naruto",
             "Naruto (Shinsaku Anime)"
-        ]
+        ],
+        "mal_id": "1735",
+        "kitsu_id": "1555",
+        "anilist_id": "1735"
     },
     {
         "aid": 38,
@@ -1158,7 +1269,10 @@
         "ranime": [
             "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
             "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
-        ]
+        ],
+        "mal_id": "47163",
+        "kitsu_id": "44015",
+        "anilist_id": "146346"
     },
     {
         "aid": 39,
@@ -1185,7 +1299,10 @@
         "ranime": [
             "Re:Monster",
             "Re:Monster"
-        ]
+        ],
+        "mal_id": "56690",
+        "kitsu_id": "47964",
+        "anilist_id": "169417"
     },
     {
         "aid": 40,
@@ -1211,7 +1328,10 @@
         "synopsis": "It is no use you cant find anything on this page it isnt anime it is my dump file dummy poster",
         "ranime": [
             ""
-        ]
+        ],
+        "mal_id": "5828",
+        "kitsu_id": "45257",
+        "anilist_id": "5828"
     },
     {
         "aid": 41,
@@ -1237,7 +1357,10 @@
         "synopsis": "Scrawny high school student Hobin Yu is probably the last guy you\u2019d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?\n\n(Source: WEBTOON)",
         "ranime": [
             "Viral Hit"
-        ]
+        ],
+        "mal_id": "58080",
+        "kitsu_id": "48533",
+        "anilist_id": "174653"
     },
     {
         "aid": 42,
@@ -1264,7 +1387,10 @@
         "ranime": [
             "Kaijuu 8-gou",
             "Kaijuu 8-gou"
-        ]
+        ],
+        "mal_id": "52588",
+        "kitsu_id": "46300",
+        "anilist_id": "153288"
     },
     {
         "aid": 43,
@@ -1288,7 +1414,10 @@
         "imdb_rating": 7,
         "imdb_votes": 310,
         "synopsis": "Love is in the air when the story of Sakura Trick begins. Haruka Takayama and Yuu Sonoda were best friends in middle school, and are now attending Misato West High School together. They are assigned to the same class in their first year, but are given seats on opposite sides of the room! If that wasn't enough, it is announced at the entrance ceremony that the school will be closed in three years. This doesn't bother either of them, as they still plan on having lots of fun together during their high school years.\nHaruka gets jealous of Yuu making new friends though, so the two decide to deepen their bond. \"Let's do something we'd never do with other girls,\" Yuu says, and they share a kiss in a vacant classroom after school one day. After that one kiss leads to many kisses, the two begin to realize that the relationship they share has changed completely. But what will happen to their relationship once a disapproving older sister begins to suspect that something is going on between the two?",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "53912",
+        "kitsu_id": "7978",
+        "anilist_id": "159039"
     },
     {
         "aid": 44,
@@ -1316,7 +1445,10 @@
             "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
             "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
             "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu"
-        ]
+        ],
+        "mal_id": "53516",
+        "kitsu_id": "46704",
+        "anilist_id": "156415"
     },
     {
         "aid": 45,
@@ -1342,7 +1474,10 @@
         "synopsis": "Arajin Tomoshibi's reunion with his old pal Matakara Asamine takes an unexpected turn when they stumble into a brawl with the toughest guys in town. And just when you thought things couldn't get weirder, a colossal genie decides to drop in. Brace yourself for the ultimate showdown. It's the clash of the cool and the magical!\n\n(Source: Crunchyroll)",
         "ranime": [
             "Bucchigiri?! Yomigaeru! Konya wa Bucchii Back to the Chuuka!"
-        ]
+        ],
+        "mal_id": "55358",
+        "kitsu_id": "47469",
+        "anilist_id": "165254"
     },
     {
         "aid": 46,
@@ -1369,7 +1504,10 @@
         "ranime": [
             "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
             "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
-        ]
+        ],
+        "mal_id": "53263",
+        "kitsu_id": "46600",
+        "anilist_id": "155418"
     },
     {
         "aid": 47,
@@ -1395,7 +1533,10 @@
         "synopsis": "High school freshman Hotaru Hinase has a vibrant life full of family and friendship, but not much luck in romance. That all changes when she makes a warm gesture to her handsome and heartbroken classmate, Hananoi, leading to him asking her out and her becoming flustered. Witness a girl who grapples with the enigma of love and a boy who is heavy-handed with it.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Hananoi-kun to Koi no Yamai"
-        ]
+        ],
+        "mal_id": "55597",
+        "kitsu_id": "47574",
+        "anilist_id": "165855"
     },
     {
         "aid": 48,
@@ -1419,7 +1560,10 @@
         "imdb_rating": 6.7,
         "imdb_votes": 272,
         "synopsis": "Kaburaya Sosuke, an impoverished detective, met Sarah, a princess from another world with magical powers.\n\nSarah began living with Sosuke, and she quickly adjusted to life in modern Japan.\nMeanwhile, Livia, a female knight who came from the same world as Sarah, found herself lost and homeless, but surprisingly enjoyed her days here.\n\nThese two people, who live a positive life despite their situation, began to have an impact on Sosuke and the other oddballs in the neighborhood, including a devilish lawyer, a divorce agent, and a cult leader.",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "55877",
+        "kitsu_id": "47692",
+        "anilist_id": "166828"
     },
     {
         "aid": 49,
@@ -1443,7 +1587,10 @@
         "imdb_rating": 7.3,
         "imdb_votes": 3075,
         "synopsis": "Many years ago, a Great Civil War ravaged Japan, leaving the country fragmented between two regions: Kansai and Kanto. In Kansai, a group of six Akudama carry out missions given to them by a mysterious black cat, while evading the police. But a dangerous journey is about to unfold when a civilian girl becomes twisted into the Akudama\u2019s way of life and witnesses their criminal drives.\n\n(Source: Funimation)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "41433",
+        "kitsu_id": "43067",
+        "anilist_id": "116566"
     },
     {
         "aid": 50,
@@ -1472,7 +1619,10 @@
             "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
             "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken: After the Rain",
             "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
-        ]
+        ],
+        "mal_id": "50739",
+        "kitsu_id": "45715",
+        "anilist_id": "143338"
     },
     {
         "aid": 51,
@@ -1498,7 +1648,10 @@
         "synopsis": "The ultimate \"heartthrob girlfriend\" appears! Naturally unlucky high school student Izumi's girlfriend is his classmate Shikimori. She has a beautiful smile and kind personality and always seems happy when she's with Izumi. She's a pretty, cute, and loving girlfriend, but when Izumi's in trouble\u2026 she transforms into a super cool \"heartthrob girlfriend!\" The fun lives of the cute and cool Shikimori, Izumi, and their good friends never end!\n\n(Source: Crunchyroll)",
         "ranime": [
             "Kawaii dake ja Nai Shikimori-san"
-        ]
+        ],
+        "mal_id": "45613",
+        "kitsu_id": "44159",
+        "anilist_id": "127911"
     },
     {
         "aid": 52,
@@ -1526,7 +1679,10 @@
             "Kakkou no Iinazuke 2nd Season",
             "Kakkou no Iinazuke",
             "Kakkou no Iikagen"
-        ]
+        ],
+        "mal_id": "48675",
+        "kitsu_id": "44310",
+        "anilist_id": "132052"
     },
     {
         "aid": 53,
@@ -1561,7 +1717,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "38408",
+        "kitsu_id": "41971",
+        "anilist_id": "104276"
     },
     {
         "aid": 54,
@@ -1585,7 +1744,10 @@
         "imdb_rating": 6,
         "imdb_votes": 515,
         "synopsis": "Metallic Rouge takes place in a a world where humans and androids coexist. The story follows Rouge, an android girl, who is on a mission on Mars with her partner Naomi. The mission is to murder nine artificial humans who are hostile to the government.\n\n(Source: Anime News Network, edited)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "54794",
+        "kitsu_id": "47228",
+        "anilist_id": "162985"
     },
     {
         "aid": 55,
@@ -1611,7 +1773,10 @@
         "synopsis": "Snowflakes aren\u2019t the only things dropping in Hokkaido\u2014so are jaws, thanks to the super adorable gals who are turning the icy north into a hotbed of fashion and fun. Brace yourself for a winter storm of laughs, love, and killer outfits as these gals prove that being cute is an all-season affair. Here, frostbite meets fashionista!\n\n(Source: Crunchyroll)",
         "ranime": [
             "Dosanko Gal wa Namara Menkoi"
-        ]
+        ],
+        "mal_id": "53421",
+        "kitsu_id": "46663",
+        "anilist_id": "155963"
     },
     {
         "aid": 56,
@@ -1639,7 +1804,10 @@
             "Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkai-domo ni Kurabete Monster ga Yowasugirunda ga",
             "Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkai-domo ni Kurabete Monster ga Yowasugirunda ga",
             "Saikyou Onmyouji Mini"
-        ]
+        ],
+        "mal_id": "50932",
+        "kitsu_id": "45813",
+        "anilist_id": "144553"
     },
     {
         "aid": 57,
@@ -1667,7 +1835,10 @@
             "Chiyu Mahou no Machigatta Tsukaikata 2nd Season",
             "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
             "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin"
-        ]
+        ],
+        "mal_id": "49613",
+        "kitsu_id": "44981",
+        "anilist_id": "137908"
     },
     {
         "aid": 58,
@@ -1693,7 +1864,10 @@
         "synopsis": "There\u2019s something really strange about the maid I just hired! No normal person could be so beautiful, or cook such amazingly delicious food, or know exactly what I want before I even ask. She must be using magic\u2014right, a spell is the only thing that can explain why my chest feels so tight whenever I look at her. I swear, I\u2019m going to get to the bottom of what makes this maid so...mysterious!\n\n(Source: Yen Press)",
         "ranime": [
             "Saikin Yatotta Maid ga Ayashii"
-        ]
+        ],
+        "mal_id": "51837",
+        "kitsu_id": "46135",
+        "anilist_id": "149326"
     },
     {
         "aid": 59,
@@ -1723,7 +1897,10 @@
             "Log Horizon: Kanami, Go! East!",
             "Log Horizon",
             "Imanara Maniau! Log Horizon"
-        ]
+        ],
+        "mal_id": "17265",
+        "kitsu_id": "7622",
+        "anilist_id": "17265"
     },
     {
         "aid": 60,
@@ -1752,7 +1929,10 @@
             "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi\u2640",
             "Eiyuuou, Bu wo Kiwameru Tame Tenseisu Mini Anime",
             "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi\u2640"
-        ]
+        ],
+        "mal_id": "N/A",
+        "kitsu_id": "44393",
+        "anilist_id": "129898"
     },
     {
         "aid": 61,
@@ -1780,7 +1960,10 @@
             "Wind Breaker Season 2",
             "Wind Breaker",
             "Zettai Reido (2024)"
-        ]
+        ],
+        "mal_id": "54900",
+        "kitsu_id": "47271",
+        "anilist_id": "163270"
     },
     {
         "aid": 62,
@@ -1806,7 +1989,10 @@
         "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece\u2014which promises an unlimited amount of riches and fame\u2014and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy\u2019s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes\u2014One Piece.\n[Written by MAL Rewrite]",
         "ranime": [
             "One Piece"
-        ]
+        ],
+        "mal_id": "459",
+        "kitsu_id": "12",
+        "anilist_id": "21"
     },
     {
         "aid": 63,
@@ -1837,7 +2023,10 @@
             "Black Clover: Mahou Tei no Ken",
             "Black Clover: Jump Festa 2016 Special",
             "Mugyutto! Black Clover"
-        ]
+        ],
+        "mal_id": "34572",
+        "kitsu_id": "13209",
+        "anilist_id": "97940"
     },
     {
         "aid": 64,
@@ -1864,7 +2053,10 @@
         "ranime": [
             "Eiga Black Clover: Mahou Tei no Ken",
             "Black Clover"
-        ]
+        ],
+        "mal_id": "48585",
+        "kitsu_id": "44242",
+        "anilist_id": "131680"
     },
     {
         "aid": 65,
@@ -1891,7 +2083,10 @@
         "ranime": [
             "Kami wa Game ni Ueteiru.",
             "Kami wa Game ni Ueteiru."
-        ]
+        ],
+        "mal_id": "50869",
+        "kitsu_id": "45789",
+        "anilist_id": "144176"
     },
     {
         "aid": 66,
@@ -1918,7 +2113,10 @@
         "ranime": [
             "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
             "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen"
-        ]
+        ],
+        "mal_id": "54837",
+        "kitsu_id": "47237",
+        "anilist_id": "163076"
     },
     {
         "aid": 67,
@@ -1948,7 +2146,10 @@
             "Tantei wa Mou, Shindeiru.: The Lost Memory",
             "Tantei wa Mou, Shindeiru.",
             "Tantei wa Mou, Shindeiru. Mini Anime"
-        ]
+        ],
+        "mal_id": "46471",
+        "kitsu_id": "44022",
+        "anilist_id": "128712"
     },
     {
         "aid": 68,
@@ -1974,7 +2175,10 @@
         "synopsis": "The fourth season of Xian Wang De Richang Shenghuo.",
         "ranime": [
             "Xian Wang de Richang Shenghuo 4"
-        ]
+        ],
+        "mal_id": "53450",
+        "kitsu_id": "48349",
+        "anilist_id": "126357"
     },
     {
         "aid": 69,
@@ -2000,7 +2204,10 @@
         "synopsis": "Second season of Xian Wang de Richang Shenghuo",
         "ranime": [
             "Xian Wang de Richang Shenghuo 4"
-        ]
+        ],
+        "mal_id": "53450",
+        "kitsu_id": "43795",
+        "anilist_id": "126357"
     },
     {
         "aid": 70,
@@ -2026,7 +2233,10 @@
         "synopsis": "Third season of Xian Wang de Richang Shenghuo.",
         "ranime": [
             "Xian Wang de Richang Shenghuo 4"
-        ]
+        ],
+        "mal_id": "53450",
+        "kitsu_id": "45524",
+        "anilist_id": "141852"
     },
     {
         "aid": 71,
@@ -2053,7 +2263,10 @@
         "ranime": [
             "Xian Wang de Richang Shenghuo 3",
             "Xian Wang de Richang Shenghuo 5"
-        ]
+        ],
+        "mal_id": "53450",
+        "kitsu_id": "48349",
+        "anilist_id": "156110"
     },
     {
         "aid": 72,
@@ -2080,7 +2293,10 @@
         "ranime": [
             "Rent A Girlfriend Season 2",
             "Rent A Girlfriend Season 3"
-        ]
+        ],
+        "mal_id": "52289",
+        "kitsu_id": "49033",
+        "anilist_id": "N/A"
     },
     {
         "aid": 73,
@@ -2112,7 +2328,10 @@
             "Kanojo, Okarishimasu Petit 2nd Season",
             "Ienai feat. asmi",
             "Kanojo, Okarishimasu 2nd Season: Kanokari Call"
-        ]
+        ],
+        "mal_id": "42963",
+        "kitsu_id": "43588",
+        "anilist_id": "124410"
     },
     {
         "aid": 74,
@@ -2143,7 +2362,10 @@
             "Temple x Kanojo, Okarishimasu",
             "Kanojo, Okarishimasu Petit 3rd Season",
             "Kanojo, Okarishimasu 3rd Season: Kanokari Call"
-        ]
+        ],
+        "mal_id": "53050",
+        "kitsu_id": "46489",
+        "anilist_id": "154745"
     },
     {
         "aid": 75,
@@ -2170,7 +2392,10 @@
         "ranime": [
             "Uso ja Nai",
             "Blues in the Closet"
-        ]
+        ],
+        "mal_id": "58449",
+        "kitsu_id": "48617",
+        "anilist_id": "148080"
     },
     {
         "aid": 76,
@@ -2196,7 +2421,10 @@
         "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the \u201cBirdcage.\u201d That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. \u201cI\u2019ve found you, my Darling.\u201d\n\n(Source: Crunchyroll)",
         "ranime": [
             "Darling in the FranXX"
-        ]
+        ],
+        "mal_id": "35849",
+        "kitsu_id": "13600",
+        "anilist_id": "99423"
     },
     {
         "aid": 77,
@@ -2220,7 +2448,10 @@
         "imdb_rating": 6.3,
         "imdb_votes": 1009,
         "synopsis": "Once upon a time, brothers Jacob and Wilhelm collected fairy tales from across the land and made them into a book. They also had a much younger sister, the innocent and curious Charlotte, who they loved very much. One day, while the brothers were telling Charlotte a fairy tale like usual, they saw that she had a somewhat melancholy look on her face. She asked them, \"Do you suppose they really lived happily ever after?\"\n\nThe pages of Grimm's Fairy Tales, written by Jacob and Wilhelm, are now presented from the unique perspective of Charlotte, who sees the stories quite differently from her brothers.\n\n(Source: Netflix, edited)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "N/A",
+        "kitsu_id": "44745",
+        "anilist_id": "135643"
     },
     {
         "aid": 78,
@@ -2246,7 +2477,10 @@
         "synopsis": "Mito, who has no family to rely on, lives on the streets, disguised as a boy. Ruka, a vampire, saves her from a perilous situation and makes her an offer: become his subservient thrall from which he can feed whenever he wants, and she can live with him\u2014in the boys' dorm. Because her very existence depends on her secret not being found out, every day is a new danger\u2014to say nothing of that vampire! Meanwhile, Ruka, not knowing Mito's a girl, dotes on her night and day in an attempt to ripen her \"disgusting male blood,\" but when real feelings develop... This dangerous romance between a crossdressing girl and an obsessive vampire begins!\n\n(Source: Kodansha USA)",
         "ranime": [
             "Vampire Dormitory"
-        ]
+        ],
+        "mal_id": "57031",
+        "kitsu_id": "48217",
+        "anilist_id": "170604"
     },
     {
         "aid": 79,
@@ -2274,7 +2508,10 @@
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
-        ]
+        ],
+        "mal_id": "62512",
+        "kitsu_id": "46311",
+        "anilist_id": "153360"
     },
     {
         "aid": 80,
@@ -2302,7 +2539,10 @@
             "Terra Formars",
             "Terra Formars: Earth-hen",
             "Terra Formars"
-        ]
+        ],
+        "mal_id": "58057",
+        "kitsu_id": "46031",
+        "anilist_id": "146953"
     },
     {
         "aid": 81,
@@ -2332,7 +2572,10 @@
             "Log Horizon",
             "Log Horizon: Kanami, Go! East!",
             "Log Horizon"
-        ]
+        ],
+        "mal_id": "23321",
+        "kitsu_id": "8313",
+        "anilist_id": "20671"
     },
     {
         "aid": 82,
@@ -2359,7 +2602,10 @@
         "ranime": [
             "Bartender",
             "Bartender"
-        ]
+        ],
+        "mal_id": "53407",
+        "kitsu_id": "46644",
+        "anilist_id": "155890"
     },
     {
         "aid": 83,
@@ -2388,7 +2634,10 @@
             "Dr. Stone",
             "Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou",
             "Sekikashita Kusanagi"
-        ]
+        ],
+        "mal_id": "38691",
+        "kitsu_id": "42080",
+        "anilist_id": "105333"
     },
     {
         "aid": 84,
@@ -2420,7 +2669,10 @@
             "Haikyuu!! Movie 1: Owari to Hajimari",
             "Haikyuu!! Movie 2: Shousha to Haisha",
             "Haikyuu!! Quest Picture Drama"
-        ]
+        ],
+        "mal_id": "20583",
+        "kitsu_id": "8133",
+        "anilist_id": "20464"
     },
     {
         "aid": 85,
@@ -2447,7 +2699,10 @@
         "ranime": [
             "Horimiya",
             "Horimiya"
-        ]
+        ],
+        "mal_id": "54856",
+        "kitsu_id": "47234",
+        "anilist_id": "N/A"
     },
     {
         "aid": 86,
@@ -2473,7 +2728,10 @@
         "synopsis": "Yukito's parents are the leaders of a cult. After he gets sacrificed, he gets reincarnated into another world where religion doesn't exist and porn books are akin to a child's doodles. He finds that it's also a world where your life and death is decided by the country. While obstructing his friend's execution, both of them lose their lives. Just at that moment, the god of his religion comes to their world and revives them.",
         "ranime": [
             "Kaminaki Sekai no Kamisama Katsudou"
-        ]
+        ],
+        "mal_id": "51693",
+        "kitsu_id": "46089",
+        "anilist_id": "148048"
     },
     {
         "aid": 87,
@@ -2500,7 +2758,10 @@
         "ranime": [
             "Watashi no Oshi wa Akuyaku Reijou.: Revolution",
             "Watashi no Oshi wa Akuyaku Reijou. Mini Anime"
-        ]
+        ],
+        "mal_id": "53833",
+        "kitsu_id": "46856",
+        "anilist_id": "158704"
     },
     {
         "aid": 88,
@@ -2535,7 +2796,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "42603",
+        "kitsu_id": "43485",
+        "anilist_id": "122349"
     },
     {
         "aid": 89,
@@ -2566,7 +2830,10 @@
             "Kuroshitsuji: Sono Shitsuji, Kougyou",
             "Kuroshitsuji Recap",
             "Kuroshitsuji Picture Drama"
-        ]
+        ],
+        "mal_id": "4898",
+        "kitsu_id": "3840",
+        "anilist_id": "N/A"
     },
     {
         "aid": 90,
@@ -2594,7 +2861,10 @@
             "Potion-danomi de Ikinobimasu!",
             "Potion-danomi de Ikinobimasu! Zoku",
             "Potion-danomi de Ikinobimasu!"
-        ]
+        ],
+        "mal_id": "54616",
+        "kitsu_id": "47154",
+        "anilist_id": "161992"
     },
     {
         "aid": 91,
@@ -2621,7 +2891,10 @@
         "ranime": [
             "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
             "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?"
-        ]
+        ],
+        "mal_id": "53434",
+        "kitsu_id": "46687",
+        "anilist_id": "156023"
     },
     {
         "aid": 92,
@@ -2647,7 +2920,10 @@
         "synopsis": "A sci-fi, summer story filled with suspense set on a small island with Shinpei Aijiro, whose childhood friend Ushio Kofune died. He returns to his hometown for the first time in two years for the funeral. Sou Hishigata, his best friend, suspects something's off with Ushio's death, and that someone can die next.\n\nA sinister omen is heard as an entire family next door suddenly disappears the following day. Furthermore, Mio implicates a \"shadow\" three days before Ushio's death.\n\n(Source: Disney+)",
         "ranime": [
             "Summertime Render"
-        ]
+        ],
+        "mal_id": "47194",
+        "kitsu_id": "44032",
+        "anilist_id": "129201"
     },
     {
         "aid": 93,
@@ -2674,7 +2950,10 @@
         "ranime": [
             "Buddy Daddies Intermission: Cherry-Pick",
             "Shock!"
-        ]
+        ],
+        "mal_id": "53411",
+        "kitsu_id": "46650",
+        "anilist_id": "155907"
     },
     {
         "aid": 94,
@@ -2704,7 +2983,10 @@
             "Blue Lock",
             "Blue Lock: Episode Nagi",
             "Blue Lock Additional Time"
-        ]
+        ],
+        "mal_id": "49596",
+        "kitsu_id": "44973",
+        "anilist_id": "137822"
     },
     {
         "aid": 95,
@@ -2733,7 +3015,10 @@
             "Shousetsu Tenki no Ko",
             "Tenki no Ko",
             "Tenki no Ko CMs"
-        ]
+        ],
+        "mal_id": "38826",
+        "kitsu_id": "42028",
+        "anilist_id": "106286"
     },
     {
         "aid": 96,
@@ -2763,7 +3048,10 @@
             "Sousou no Frieren: \u25cf\u25cf no Mahou",
             "Yuusha",
             "Haru (2024)"
-        ]
+        ],
+        "mal_id": "52991",
+        "kitsu_id": "46474",
+        "anilist_id": "189513"
     },
     {
         "aid": 97,
@@ -2792,7 +3080,10 @@
             "Tasogare Out Focus: Overlap",
             "Zanzou Slow Motion",
             "Yoiyoi Monologue"
-        ]
+        ],
+        "mal_id": "55844",
+        "kitsu_id": "47702",
+        "anilist_id": "166700"
     },
     {
         "aid": 98,
@@ -2820,7 +3111,10 @@
             "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
             "Tsuki ga Michibiku Isekai Douchuu",
             "Tsuki ga Michibiku Isekai Douchuu"
-        ]
+        ],
+        "mal_id": "43523",
+        "kitsu_id": "44297",
+        "anilist_id": "125206"
     },
     {
         "aid": 99,
@@ -2863,7 +3157,10 @@
             "Ma no Kakera",
             "Itou Junji: Collection - Tomie",
             "Itou Junji: Maniac"
-        ]
+        ],
+        "mal_id": "36124",
+        "kitsu_id": "13717",
+        "anilist_id": "99940"
     },
     {
         "aid": 100,
@@ -2889,7 +3186,10 @@
         "synopsis": "The second season of Tensei shitara Slime Datta Ken.\n\nA country built by our main character Rimuru and the many monsters who look up to him \u2013 the Jura Tempest Federation \u2013, through agreements and trade with neighbouring countries, is the ideal \u201ccountry where humans and monsters can walk alongside.\"\n\nRimuru has a tendency to \u201cfeel kindly towards humans\u201d, because of its former nature as a human being ...\n\nHowever, there is a clear \"hostility toward demons\" that exists in this world.\nWhen faced with that unreasonable reality, Rimuru makes its choice.\n\n\"Is there something that you don't want to lose?\"\n\n(Source: Muse Asia)",
         "ranime": [
             "Tensei shitara Slime Datta Ken 2nd Season Part 2"
-        ]
+        ],
+        "mal_id": "39551",
+        "kitsu_id": "42196",
+        "anilist_id": "108511"
     },
     {
         "aid": 101,
@@ -2924,7 +3224,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "41587",
+        "kitsu_id": "43108",
+        "anilist_id": "117193"
     },
     {
         "aid": 102,
@@ -2951,7 +3254,10 @@
         "ranime": [
             "Gimai Seikatsu",
             "Gimai Seikatsu"
-        ]
+        ],
+        "mal_id": "52481",
+        "kitsu_id": "46276",
+        "anilist_id": "152681"
     },
     {
         "aid": 103,
@@ -2983,7 +3289,10 @@
             "Kimetsu no Yaiba",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-        ]
+        ],
+        "mal_id": "38000",
+        "kitsu_id": "44081",
+        "anilist_id": "129874"
     },
     {
         "aid": 104,
@@ -3015,7 +3324,10 @@
             "Kimetsu no Yaiba",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-        ]
+        ],
+        "mal_id": "38000",
+        "kitsu_id": "45866",
+        "anilist_id": "N/A"
     },
     {
         "aid": 105,
@@ -3047,7 +3359,10 @@
             "Kimetsu no Yaiba",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-        ]
+        ],
+        "mal_id": "38000",
+        "kitsu_id": "47635",
+        "anilist_id": "N/A"
     },
     {
         "aid": 106,
@@ -3073,7 +3388,10 @@
         "synopsis": "After 2000 years has passed, the ruthless demon lord has just been reincarnated! But his aptitude at an academy for nurturing candidates for demon lords is, \u201cinept\u201d!?Having the capability to destroy humans, elementals, and gods, after a long period of countless wars and strife, Arnos the demon lord became sick and tired of all that and longed for a peaceful world, so he decided to reincarnate to the future.However, what awaited him after his reincarnation is a world too used to peace that his descendants became too weak due to a huge weakening in magical powers.(Source: MU)",
         "ranime": [
             "Maougun Saikyou no Majutsushi wa Ningen datta"
-        ]
+        ],
+        "mal_id": "57876",
+        "kitsu_id": "43005",
+        "anilist_id": "173584"
     },
     {
         "aid": 107,
@@ -3105,7 +3423,10 @@
             "Kimetsu no Yaiba",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-        ]
+        ],
+        "mal_id": "38000",
+        "kitsu_id": "47635",
+        "anilist_id": "N/A"
     },
     {
         "aid": 108,
@@ -3132,7 +3453,10 @@
         "ranime": [
             "Tsue to Tsurugi no Wistoria 2nd Season",
             "Tsue to Tsurugi no Wistoria"
-        ]
+        ],
+        "mal_id": "58059",
+        "kitsu_id": "48534",
+        "anilist_id": "174576"
     },
     {
         "aid": 109,
@@ -3161,7 +3485,10 @@
             "Mushoku Tensei: Isekai Ittara Honki Dasu",
             "Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen",
             "Mushoku Tensei: Isekai Ittara Honki Dasu"
-        ]
+        ],
+        "mal_id": "39535",
+        "kitsu_id": "42323",
+        "anilist_id": "108465"
     },
     {
         "aid": 110,
@@ -3188,7 +3515,10 @@
         "ranime": [
             "VTuber Nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta",
             "VTuber Nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta"
-        ]
+        ],
+        "mal_id": "54284",
+        "kitsu_id": "47004",
+        "anilist_id": "160488"
     },
     {
         "aid": 111,
@@ -3215,7 +3545,10 @@
         "ranime": [
             "Make Heroine ga Oosugiru! @comic",
             "Make Heroine ga Oosugiru!"
-        ]
+        ],
+        "mal_id": "57524",
+        "kitsu_id": "48312",
+        "anilist_id": "171457"
     },
     {
         "aid": 112,
@@ -3242,7 +3575,10 @@
         "ranime": [
             "Bye Bye, Earth Season 2",
             "Bye-Bye, Earth"
-        ]
+        ],
+        "mal_id": "53626",
+        "kitsu_id": "46764",
+        "anilist_id": "157371"
     },
     {
         "aid": 113,
@@ -3269,7 +3605,10 @@
         "ranime": [
             "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
             "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
-        ]
+        ],
+        "mal_id": "56062",
+        "kitsu_id": "47786",
+        "anilist_id": "167419"
     },
     {
         "aid": 114,
@@ -3298,7 +3637,10 @@
             "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
             "Dragon Ball",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "6033",
+        "kitsu_id": "4394",
+        "anilist_id": "N/A"
     },
     {
         "aid": 115,
@@ -3327,7 +3669,10 @@
             "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
             "Dragon Ball",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "6033",
+        "kitsu_id": "4394",
+        "anilist_id": "N/A"
     },
     {
         "aid": 116,
@@ -3356,7 +3701,10 @@
             "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
             "Dragon Ball",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "6033",
+        "kitsu_id": "4394",
+        "anilist_id": "N/A"
     },
     {
         "aid": 117,
@@ -3385,7 +3733,10 @@
             "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
             "Dragon Ball",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "6033",
+        "kitsu_id": "4394",
+        "anilist_id": "N/A"
     },
     {
         "aid": 118,
@@ -3411,7 +3762,10 @@
         "synopsis": "An adventure in another world with cute girls by your side and video game-like powers\u2013sounds like an anime fan\u2019s dream, right? Not so for melancholic author Osamu Dazai, who would quite literally prefer to drop dead. Video games haven\u2019t even been invented yet when he gets yanked into another world in 1948. Really, all the fantastical adventure he keeps running into is just getting in the way of his poetic dream of finding the perfect place to die. But no matter how much he risks his hide, everything seems to keep turning out okay. Follow a miserable hero like no other in this cheerfully bleak isekai comedy!\n\n(Source: Seven Seas Entertainment)",
         "ranime": [
             "Isekai Shikkaku"
-        ]
+        ],
+        "mal_id": "N/A",
+        "kitsu_id": "46243",
+        "anilist_id": "152137"
     },
     {
         "aid": 119,
@@ -3441,7 +3795,10 @@
             "Mushoku Tensei: Isekai Ittara Honki Dasu",
             "Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen",
             "Mushoku Tensei: Isekai Ittara Honki Dasu"
-        ]
+        ],
+        "mal_id": "51179",
+        "kitsu_id": "45950",
+        "anilist_id": "146065"
     },
     {
         "aid": 120,
@@ -3467,7 +3824,10 @@
         "synopsis": "A fantasy world with a dark secret can still hold cheery villagers! But what happens when things start to go wrong in a reality so fantastic?\n\n(Source: Kodansha USA)",
         "ranime": [
             "Kono Sekai wa Fukanzen Sugiru"
-        ]
+        ],
+        "mal_id": "54835",
+        "kitsu_id": "47236",
+        "anilist_id": "163077"
     },
     {
         "aid": 121,
@@ -3495,7 +3855,10 @@
             "Fairy Tail",
             "Fairy Tail: 100 Years Quest",
             "Fairy Tail: 100-nen Quest - Kanwa - Lucy's Diary"
-        ]
+        ],
+        "mal_id": "49785",
+        "kitsu_id": "45159",
+        "anilist_id": "139095"
     },
     {
         "aid": 122,
@@ -3526,7 +3889,10 @@
             "Ansatsu Kyoushitsu: 365-nichi no Jikan",
             "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
             "Koro-sensei Quest!"
-        ]
+        ],
+        "mal_id": "24833",
+        "kitsu_id": "8640",
+        "anilist_id": "20755"
     },
     {
         "aid": 123,
@@ -3555,7 +3921,10 @@
             "Ansatsu Kyoushitsu",
             "Ansatsu Kyoushitsu: Kagaijugyou-hen",
             "Ansatsu Kyoushitsu: 365-nichi no Jikan"
-        ]
+        ],
+        "mal_id": "30654",
+        "kitsu_id": "10877",
+        "anilist_id": "21170"
     },
     {
         "aid": 124,
@@ -3582,7 +3951,10 @@
         "ranime": [
             "Yeosin Gangnim 2nd Season",
             "True Beauty"
-        ]
+        ],
+        "mal_id": "57192",
+        "kitsu_id": "46271",
+        "anilist_id": "152184"
     },
     {
         "aid": 125,
@@ -3612,7 +3984,10 @@
             "Tensei shitara Slime Datta Ken",
             "Tensei shitara Slime Datta Ken Movie 2",
             "Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories"
-        ]
+        ],
+        "mal_id": "53580",
+        "kitsu_id": "46729",
+        "anilist_id": "156822"
     },
     {
         "aid": 126,
@@ -3641,7 +4016,10 @@
             "Tensei shitara Slime Datta Ken 2nd Season Part 2",
             "Tensei shitara Slime Datta Ken",
             "Tensei shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2"
-        ]
+        ],
+        "mal_id": "39551",
+        "kitsu_id": "43361",
+        "anilist_id": "108511"
     },
     {
         "aid": 127,
@@ -3668,7 +4046,10 @@
         "ranime": [
             "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
             "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita"
-        ]
+        ],
+        "mal_id": "44037",
+        "kitsu_id": "44167",
+        "anilist_id": "126213"
     },
     {
         "aid": 128,
@@ -3696,7 +4077,10 @@
             "Kami no Tou",
             "Kami no Tou: Koubou-sen",
             "Tower of God"
-        ]
+        ],
+        "mal_id": "52635",
+        "kitsu_id": "46312",
+        "anilist_id": "153406"
     },
     {
         "aid": 129,
@@ -3733,7 +4117,10 @@
             "Dr. Slump: Hoyoyo! Arale no Himitsu Dai Koukai da yo!!",
             "Super Dragon Ball Heroes",
             "Dragon Ball Daima"
-        ]
+        ],
+        "mal_id": "223",
+        "kitsu_id": "720",
+        "anilist_id": "223"
     },
     {
         "aid": 130,
@@ -3760,7 +4147,10 @@
         "ranime": [
             "Dragon Ball: Episode of Bardock",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "986",
+        "kitsu_id": "876",
+        "anilist_id": "N/A"
     },
     {
         "aid": 131,
@@ -3788,7 +4178,10 @@
             "Mashle",
             "Mashle (Zoku-hen)",
             "Mashle"
-        ]
+        ],
+        "mal_id": "55813",
+        "kitsu_id": "47671",
+        "anilist_id": "166610"
     },
     {
         "aid": 132,
@@ -3816,7 +4209,10 @@
             "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2",
             "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
             "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san"
-        ]
+        ],
+        "mal_id": "54744",
+        "kitsu_id": "47192",
+        "anilist_id": "162804"
     },
     {
         "aid": 133,
@@ -3846,7 +4242,10 @@
             "Koe no Katachi",
             "Shousetsu Eiga Koe no Katachi",
             "Koe no Katachi Specials"
-        ]
+        ],
+        "mal_id": "28851",
+        "kitsu_id": "10028",
+        "anilist_id": "20954"
     },
     {
         "aid": 134,
@@ -3874,7 +4273,10 @@
             "Horimiya",
             "Horimiya: Piece",
             "Hori-san to Miyamura-kun"
-        ]
+        ],
+        "mal_id": "42897",
+        "kitsu_id": "43545",
+        "anilist_id": "124080"
     },
     {
         "aid": 135,
@@ -3901,7 +4303,10 @@
         "ranime": [
             "Dragon Ball: Episode of Bardock",
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "986",
+        "kitsu_id": "875",
+        "anilist_id": "N/A"
     },
     {
         "aid": 136,
@@ -3930,7 +4335,10 @@
             "Nige Jouzu no Wakagimi",
             "Nige Jouzu no Wakagimi: Makuai (1333-nen - 1334-nen) \"Rekishi\"",
             "Kamakura Style"
-        ]
+        ],
+        "mal_id": "N/A",
+        "kitsu_id": "47197",
+        "anilist_id": "162896"
     },
     {
         "aid": 137,
@@ -3956,7 +4364,10 @@
         "synopsis": "Eunha Park was just a regular girl desperate to get into college, but when she finally does, her elation is cut short as she's pushed off a roof\u2014only to wake up as Raeliana McMillan, a character from a novel whose death serves as the catalyst for the story's events. But Raeliana refuses to die a second time and is determined to change her fate, no matter what!",
         "ranime": [
             "Why Raeliana Ended Up at the Duke's Mansion"
-        ]
+        ],
+        "mal_id": "52308",
+        "kitsu_id": "46233",
+        "anilist_id": "151847"
     },
     {
         "aid": 138,
@@ -3985,7 +4396,10 @@
             "Enen no Shouboutai",
             "Veil (July 2019)",
             "Enen no Shouboutai Mini Anime"
-        ]
+        ],
+        "mal_id": "38671",
+        "kitsu_id": "42068",
+        "anilist_id": "105310"
     },
     {
         "aid": 139,
@@ -4013,7 +4427,10 @@
             "Enen no Shouboutai",
             "Enen no Shouboutai: San no Shou",
             "Enen no Shouboutai"
-        ]
+        ],
+        "mal_id": "40956",
+        "kitsu_id": "42909",
+        "anilist_id": "114236"
     },
     {
         "aid": 140,
@@ -4044,7 +4461,10 @@
             ".hack//Gift",
             ".hack//Roots",
             ".hack//Quantum"
-        ]
+        ],
+        "mal_id": "298",
+        "kitsu_id": "1283",
+        "anilist_id": "N/A"
     },
     {
         "aid": 141,
@@ -4077,7 +4497,10 @@
             "Sword Art Online II",
             "Sword Art Online Fatal Bullet: The Third Episode - Pilot-ban",
             "Sword Art Online Fatal Bullet: The Third Episode"
-        ]
+        ],
+        "mal_id": "36475",
+        "kitsu_id": "13894",
+        "anilist_id": "100183"
     },
     {
         "aid": 142,
@@ -4111,7 +4534,10 @@
             "Sword Art Online: Sword Art Offline",
             "Sword Art Online: Full Dive - Opening Eizou",
             "Sword Art Online (Original Movie)"
-        ]
+        ],
+        "mal_id": "11757",
+        "kitsu_id": "6589",
+        "anilist_id": "11757"
     },
     {
         "aid": 143,
@@ -4137,7 +4563,10 @@
         "synopsis": "A new anime adaptation of Rumiko Takahashi's Ranma 1/2.\n\nRanma Saotome and Akane Tendou of Tendou Dojo are betrothed to each other by their parents. But Ranma faces a unique problem\u2026\n\nEver since he fell into the cursed springs of Jusenkyo while training in China, his body has acquired the peculiar trait of transforming into a girl when doused with cold water and reverting to a boy with hot water.\n\nGet ready for the slapstick, action-packed rom-com featuring Ranma, Akane, and a vibrant cast of unique characters!\n\n(Source: Ranma 1/2 PR Official Site, edited)",
         "ranime": [
             "Ranma \u00bd"
-        ]
+        ],
+        "mal_id": "1008",
+        "kitsu_id": "48981",
+        "anilist_id": "210"
     },
     {
         "aid": 144,
@@ -4163,7 +4592,10 @@
         "synopsis": "Nina had a rough start to life, stealing to survive\u2014and eventually being sold into slavery by her own brother. But to her surprise, her captor, Prince Azure, ordained that she would live the life of a princess...specifically, that of the recently deceased princess-priestess, Alisha. But despite her changing fortune, Nina won't give up her old life without a fight...and Azure might just be the one to finally match her wits. But how much can she trust Azure? And can she stop the feelings budding in her heart, knowing she must eventually marry another...?\n\n(Source: Kodansha USA)",
         "ranime": [
             "Hoshifuru Oukoku no Nina"
-        ]
+        ],
+        "mal_id": "57362",
+        "kitsu_id": "48391",
+        "anilist_id": "171038"
     },
     {
         "aid": 145,
@@ -4195,7 +4627,10 @@
             "Haikyuu!! vs. \"Akaten\"",
             "Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
             "Haikyuu!! Movie 3: Sainou to Sense"
-        ]
+        ],
+        "mal_id": "28891",
+        "kitsu_id": "10076",
+        "anilist_id": "106625"
     },
     {
         "aid": 146,
@@ -4222,7 +4657,10 @@
         "ranime": [
             "Dandadan",
             "Dandadan"
-        ]
+        ],
+        "mal_id": "57334",
+        "kitsu_id": "48269",
+        "anilist_id": "171018"
     },
     {
         "aid": 147,
@@ -4249,7 +4687,10 @@
         "ranime": [
             "Maou-sama, Retry!",
             "Maou-sama, Retry! R"
-        ]
+        ],
+        "mal_id": "56400",
+        "kitsu_id": "47881",
+        "anilist_id": "168500"
     },
     {
         "aid": 148,
@@ -4276,7 +4717,10 @@
         "ranime": [
             "Rekishi ni Nokoru Akujo ni Naru zo: Akuyaku Reijou ni Naru hodo Ouji no Dekiai wa Kasoku suru you desu!",
             "Rekishi ni Nokoru Akujo ni Naru zo: Akuyaku Reijou ni Naru hodo Ouji no Dekiai wa Kasoku suru you desu!"
-        ]
+        ],
+        "mal_id": "56228",
+        "kitsu_id": "47858",
+        "anilist_id": "168139"
     },
     {
         "aid": 149,
@@ -4302,7 +4746,10 @@
         "synopsis": "Uryuu Kamihate has had a rough start to life, but plans to forget it all by achieving his dream\u2014matriculating into medical school. But when he arrives at his new foster home, a working shrine, his dream of a quiet place to study goes up in smoke. Not only will he be living with the three beautiful, lively Amagami sisters\u2014but he learns that he must marry one of them and take over the temple!\n\n(Source: Kodansha USA)",
         "ranime": [
             "Amagami-san Chi no Enmusubi"
-        ]
+        ],
+        "mal_id": "55071",
+        "kitsu_id": "47331",
+        "anilist_id": "164172"
     },
     {
         "aid": 150,
@@ -4330,7 +4777,10 @@
             "Rurouni Kenshin: Kyoto Disturbance Season 2",
             "Rurouni Kenshin: Meiji Kenkaku Romantan",
             "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
-        ]
+        ],
+        "mal_id": "57554",
+        "kitsu_id": "48393",
+        "anilist_id": "171637"
     },
     {
         "aid": 151,
@@ -4358,7 +4808,10 @@
             "Rurouni Kenshin: Kyoto Disturbance",
             "Rurouni Kenshin: Meiji Kenkaku Romantan",
             "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran"
-        ]
+        ],
+        "mal_id": "57554",
+        "kitsu_id": "48393",
+        "anilist_id": "N/A"
     },
     {
         "aid": 152,
@@ -4385,7 +4838,10 @@
         "ranime": [
             "Sayounara Ryuusei, Konnichiwa Jinsei",
             "Sayounara Ryuusei, Konnichiwa Jinsei"
-        ]
+        ],
+        "mal_id": "58445",
+        "kitsu_id": "48619",
+        "anilist_id": "176053"
     },
     {
         "aid": 153,
@@ -4411,7 +4867,10 @@
         "synopsis": "Takuya and Rika work at the same travel agency in Tokyo and are both happily introverted and single. But their company is opening a new branch in Alaska next year, and employees without a spouse will be recruited to work there. Desperate to avoid the move, and though they\u2019ve hardly spoken before, they decide to fake an engagement. Can these quiet coworkers become a convincing couple?\n\n(Source: Crunchyroll)",
         "ranime": [
             "Kekkon suru tte, Hontou desu ka"
-        ]
+        ],
+        "mal_id": "55887",
+        "kitsu_id": "47586",
+        "anilist_id": "165790"
     },
     {
         "aid": 154,
@@ -4437,7 +4896,10 @@
         "synopsis": "This is the story of a maid who is all alone in the world, but who finally finds a family.\n\nTold from young that her only worth is as a killer, Yuki had known nothing else except cold efficiency and following orders. Now that she has a chance to leave her past behind, she arrives at the doorstep of Hitoyoshi Yokoya, asking to be employed\u2026 as a maid?! Thus begins the journey of a former assassin learning what it means to be \u2018normal\u2019!\n\n(Source: Shogakukan)",
         "ranime": [
             "Kimi wa Meido-sama."
-        ]
+        ],
+        "mal_id": "57611",
+        "kitsu_id": "48395",
+        "anilist_id": "172190"
     },
     {
         "aid": 155,
@@ -4467,7 +4929,10 @@
             "One Punch Man 3",
             "One Punch-Man",
             "One Punch Man 2nd Season Specials"
-        ]
+        ],
+        "mal_id": "34134",
+        "kitsu_id": "50239",
+        "anilist_id": "97668"
     },
     {
         "aid": 156,
@@ -4493,7 +4958,10 @@
         "synopsis": "Adaptation of Takashi Noguchi's manga, which itself adapts Baku Yumemakura's supernatural romance novel.\nThe original novel is about a 12th-century man named Minamoto no Yoshitsune (Kurou). Kurou flees into the mountains after losing to his brother Minamoto no Yoritomo, the first Shogun to rule all of Japan. History records that he committed suicide, but instead, Kurou meets a strange, beautiful woman named Kuromitsu in her mountain hermitage. Eventually, Kurou falls in love with Kuromitsu, but then realizes she conceals a dark secret. He learns that he is unable to die and continues to live for a thousand years as Japan evolves into a future society.\n(Source: ANN)",
         "ranime": [
             "Kurozuka"
-        ]
+        ],
+        "mal_id": "5039",
+        "kitsu_id": "3898",
+        "anilist_id": "5039"
     },
     {
         "aid": 157,
@@ -4521,7 +4989,10 @@
             "Blue Lock",
             "Shousetsu Blue Lock",
             "Blue Lock"
-        ]
+        ],
+        "mal_id": "54865",
+        "kitsu_id": "47245",
+        "anilist_id": "163146"
     },
     {
         "aid": 158,
@@ -4549,7 +5020,10 @@
             "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
             "Tondemo Skill de Isekai Hourou Meshi",
             "Tondemo Skill de Isekai Hourou Meshi"
-        ]
+        ],
+        "mal_id": "53446",
+        "kitsu_id": "46676",
+        "anilist_id": "156067"
     },
     {
         "aid": 159,
@@ -4575,7 +5049,10 @@
         "synopsis": "Old schoolmates Haru and Gaku will do anything to achieve success. And success to them means earning a trillion dollars! But to do so, they\u2019ll need to take full advantage of their own unique skills. Haru is a persuasive and confident speaker who can connect with anyone, while Gaku, although awkward, is an expert programmer. Will their combined talents be enough to make their dream a reality?\n\n(Source: Crunchyroll)",
         "ranime": [
             "Trillion Game"
-        ]
+        ],
+        "mal_id": "56662",
+        "kitsu_id": "47944",
+        "anilist_id": "169315"
     },
     {
         "aid": 160,
@@ -4601,7 +5078,10 @@
         "synopsis": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing. \n\n(Source: GKIDS)",
         "ranime": [
             "Look Back"
-        ]
+        ],
+        "mal_id": "58125",
+        "kitsu_id": "48541",
+        "anilist_id": "174788"
     },
     {
         "aid": 161,
@@ -4627,7 +5107,10 @@
         "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Dragon Ball Z"
-        ]
+        ],
+        "mal_id": "56894",
+        "kitsu_id": "48108",
+        "anilist_id": "170083"
     },
     {
         "aid": 162,
@@ -4656,7 +5139,10 @@
             "Dr. Stone: Ryuusui",
             "Dr. Stone",
             "Koe Dake ga"
-        ]
+        ],
+        "mal_id": "61322",
+        "kitsu_id": "48342",
+        "anilist_id": "N/A"
     },
     {
         "aid": 163,
@@ -4683,7 +5169,10 @@
         "ranime": [
             "Ore dake Level Up na Ken",
             "Solo Leveling"
-        ]
+        ],
+        "mal_id": "58567",
+        "kitsu_id": "48671",
+        "anilist_id": "176496"
     },
     {
         "aid": 164,
@@ -4710,7 +5199,10 @@
         "ranime": [
             "Sakamoto Days Part 2",
             "Sakamoto Days"
-        ]
+        ],
+        "mal_id": "58939",
+        "kitsu_id": "48915",
+        "anilist_id": "177709"
     },
     {
         "aid": 165,
@@ -4738,7 +5230,10 @@
             "Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru the Comic",
             "Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru",
             "Boushoku no Berserk Mini"
-        ]
+        ],
+        "mal_id": "53439",
+        "kitsu_id": "46688",
+        "anilist_id": "156039"
     },
     {
         "aid": 166,
@@ -4777,7 +5272,10 @@
             "Snickers x Shingeki no Kyojin",
             "Shingeki no Kyojin Picture Drama",
             "Shingeki no Kyotou"
-        ]
+        ],
+        "mal_id": "16498",
+        "kitsu_id": "7442",
+        "anilist_id": "16498"
     },
     {
         "aid": 167,
@@ -4801,7 +5299,10 @@
         "imdb_rating": 7,
         "imdb_votes": 252,
         "synopsis": "After graduating from high school, Natsuko Hirose starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love! However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she\u2019s unable to create the storyboard, causing the movie production to come to a standstill.\n\n(Source: YouTube description)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "58502",
+        "kitsu_id": "48638",
+        "anilist_id": "176273"
     },
     {
         "aid": 168,
@@ -4829,7 +5330,10 @@
             "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
             "Watashi no Shiawase na Kekkon",
             "Watashi no Shiawase na Kekkon"
-        ]
+        ],
+        "mal_id": "56701",
+        "kitsu_id": "47969",
+        "anilist_id": "169441"
     },
     {
         "aid": 169,
@@ -4858,7 +5362,10 @@
             "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
             "Bleach",
             "Rapport"
-        ]
+        ],
+        "mal_id": "41467",
+        "kitsu_id": "43078",
+        "anilist_id": "116674"
     },
     {
         "aid": 170,
@@ -4887,7 +5394,10 @@
             "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
             "Bleach",
             "Rapport"
-        ]
+        ],
+        "mal_id": "41467",
+        "kitsu_id": "46903",
+        "anilist_id": "159322"
     },
     {
         "aid": 171,
@@ -4921,7 +5431,10 @@
             "Groove Adventure Rave",
             "Fairy Tail: 100 Years Quest",
             "Fairy Tail x Mameshiba"
-        ]
+        ],
+        "mal_id": "6702",
+        "kitsu_id": "13658",
+        "anilist_id": "6702"
     },
     {
         "aid": 172,
@@ -4950,7 +5463,10 @@
             "Watashi no Shiawase na Kekkon",
             "Watashi no Shiawase na Kekkon",
             "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi"
-        ]
+        ],
+        "mal_id": "51552",
+        "kitsu_id": "46050",
+        "anilist_id": "147103"
     },
     {
         "aid": 173,
@@ -4978,7 +5494,10 @@
             "Vinland Saga Season 2",
             "Vinland Saga",
             "Ponkotsuland Saga"
-        ]
+        ],
+        "mal_id": "37521",
+        "kitsu_id": "41084",
+        "anilist_id": "101348"
     },
     {
         "aid": 174,
@@ -5007,7 +5526,10 @@
             "Vinland Saga",
             "Vinland Saga Season 2: Drowning in the Shadow",
             "Vinland Saga Season 2: Same Old Story"
-        ]
+        ],
+        "mal_id": "49387",
+        "kitsu_id": "44875",
+        "anilist_id": "136430"
     },
     {
         "aid": 175,
@@ -5034,7 +5556,10 @@
         "ranime": [
             "Izure Saikyou no Renkinjutsushi?",
             "Izure Saikyou no Renkinjutsushi?"
-        ]
+        ],
+        "mal_id": "58822",
+        "kitsu_id": "48842",
+        "anilist_id": "177506"
     },
     {
         "aid": 176,
@@ -5061,7 +5586,10 @@
         "ranime": [
             "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
             "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta."
-        ]
+        ],
+        "mal_id": "N/A",
+        "kitsu_id": "48995",
+        "anilist_id": "178462"
     },
     {
         "aid": 177,
@@ -5088,7 +5616,10 @@
         "ranime": [
             "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
             "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita"
-        ]
+        ],
+        "mal_id": "53488",
+        "kitsu_id": "46686",
+        "anilist_id": "156131"
     },
     {
         "aid": 178,
@@ -5115,7 +5646,10 @@
         "ranime": [
             "Magic Maker: Isekai Mahou no Tsukurikata",
             "Magic Maker: Isekai Mahou no Tsukurikata"
-        ]
+        ],
+        "mal_id": "59265",
+        "kitsu_id": "6944",
+        "anilist_id": "179297"
     },
     {
         "aid": 179,
@@ -5139,7 +5673,10 @@
         "imdb_rating": 7.6,
         "imdb_votes": 1488,
         "synopsis": "'The Glassworker' is a hand-drawn animated film about a young girl and boy who discover that life is beautiful but fragile, like glass.",
-        "ranime": []
+        "ranime": [],
+        "mal_id": "N/A",
+        "kitsu_id": "43050",
+        "anilist_id": "10060"
     },
     {
         "aid": 180,
@@ -5170,7 +5707,10 @@
             "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
             "Konjiki no Gash Bell!!: Hashire Gash!! Ubawareta Umagon",
             "Shounen Sunday CM: Konjiki no Gash!!"
-        ]
+        ],
+        "mal_id": "250",
+        "kitsu_id": "225",
+        "anilist_id": "250"
     },
     {
         "aid": 181,
@@ -5197,7 +5737,10 @@
         "ranime": [
             "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
             "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su"
-        ]
+        ],
+        "mal_id": "58572",
+        "kitsu_id": "48677",
+        "anilist_id": "176508"
     },
     {
         "aid": 182,
@@ -5226,7 +5769,10 @@
             "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
             "Bleach",
             "Rapport"
-        ]
+        ],
+        "mal_id": "41467",
+        "kitsu_id": "48015",
+        "anilist_id": "169755"
     },
     {
         "aid": 183,
@@ -5256,7 +5802,10 @@
             "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
             "Kusuriya no Hitorigoto",
             "Maomao no Hitorigoto 2nd Season"
-        ]
+        ],
+        "mal_id": "58514",
+        "kitsu_id": "48649",
+        "anilist_id": "176301"
     },
     {
         "aid": 184,
@@ -5285,7 +5834,10 @@
             "Re:Zero kara Hajimeru Break Time 3rd Season",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
-        ]
+        ],
+        "mal_id": "42364",
+        "kitsu_id": "47235",
+        "anilist_id": "163134"
     },
     {
         "aid": 185,
@@ -5311,7 +5863,10 @@
         "synopsis": "Woonan is the legendary Great Gold Pirate, earning the nickname after accumulating about 1/3 of the gold available in the world. Even after his disappearance, the tales of his gold being stashed away in a remote island continue to persist, a juicy target that other pirates lust for.\nOne of the pirates going to great lengths to attain the treasure is El Drago. He and his crew have hunted down Woonan's former crew members one by one, and along the way, they find the map that will take them to the hidden island.\nThe map is not all they come across; they also manage to come into contact with the straw hat pirates. After a short battle, Luffy and company are robbed and separated from one another. Now they must find a way to make it to the island before El Drago does and take the legendary treasure for themselves.",
         "ranime": [
             "One Piece"
-        ]
+        ],
+        "mal_id": "459",
+        "kitsu_id": "421",
+        "anilist_id": "N/A"
     },
     {
         "aid": 186,
@@ -5339,7 +5894,10 @@
             "The Legend Of Hanuman",
             "Kurukshetra - The Great War Of Mahabharata",
             "Mahavatar Narsimha"
-        ]
+        ],
+        "mal_id": "4921",
+        "kitsu_id": "3849",
+        "anilist_id": "4921"
     },
     {
         "aid": 187,
@@ -5374,7 +5932,10 @@
             "My Hero Academia World Hero Mission",
             "My Hero Academia Heroes Rising",
             "My Hero Academia Two Heroes"
-        ]
+        ],
+        "mal_id": "49918",
+        "kitsu_id": "45240",
+        "anilist_id": "139630"
     },
     {
         "aid": 188,
@@ -5404,7 +5965,10 @@
             "Haikyu!! Season 1",
             "Haikyu!! The Dumpster Battle",
             "Haikyuu!!"
-        ]
+        ],
+        "mal_id": "52742",
+        "kitsu_id": "46336",
+        "anilist_id": "153658"
     },
     {
         "aid": 189,
@@ -5433,7 +5997,10 @@
             "Re: Zero \u2013 Starting Life In Another World",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
-        ]
+        ],
+        "mal_id": "42364",
+        "kitsu_id": "42198",
+        "anilist_id": "108632"
     },
     {
         "aid": 190,
@@ -5461,7 +6028,10 @@
             "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
             "Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta",
             "Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta"
-        ]
+        ],
+        "mal_id": "55265",
+        "kitsu_id": "47481",
+        "anilist_id": "164702"
     },
     {
         "aid": 191,
@@ -5487,7 +6057,10 @@
         "synopsis": "Escaping from poverty to become a Witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.\n\n(Source Netflix)",
         "ranime": [
             "Mahou Shoujo-tai Arusu"
-        ]
+        ],
+        "mal_id": "3991",
+        "kitsu_id": "43730",
+        "anilist_id": "N/A"
     },
     {
         "aid": 192,
@@ -5513,7 +6086,10 @@
         "synopsis": "Asagaki Togo was the Red Ranger in a heroic Ranger squad. During their final battle against the ultimate evil organization, he suffers a crushing defeat and resigns himself to death... That is, until he finds himself reborn in an entirely different world! Embracing his new role as an adventurer, he transforms into Kizuna Red and continues his pursuit of justice, helping those in need. Enjoy this heroic tale of a Ranger becoming the protector of another world!\n\n(Source: MANGA UP!)",
         "ranime": [
             "Sentai Red Isekai de Boukensha ni Naru"
-        ]
+        ],
+        "mal_id": "59514",
+        "kitsu_id": "49121",
+        "anilist_id": "180052"
     },
     {
         "aid": 193,
@@ -5540,7 +6116,10 @@
         "ranime": [
             "Ameku Takao no Suiri Karte",
             "Ameku Takao Series"
-        ]
+        ],
+        "mal_id": "58600",
+        "kitsu_id": "48691",
+        "anilist_id": "176642"
     },
     {
         "aid": 194,
@@ -5569,7 +6148,10 @@
             "Jibaku Shounen Hanako-kun 2 2nd Season",
             "Jibaku Shounen Hanako-kun",
             "L'oN"
-        ]
+        ],
+        "mal_id": "53924",
+        "kitsu_id": "46924",
+        "anilist_id": "170892"
     },
     {
         "aid": 195,
@@ -5598,7 +6180,10 @@
             "Jibaku Shounen Hanako-kun",
             "Houkago Shounen Hanako-kun",
             "Houkago Shounen Hanako-kun Part 2"
-        ]
+        ],
+        "mal_id": "39534",
+        "kitsu_id": "42322",
+        "anilist_id": "108463"
     },
     {
         "aid": 196,
@@ -5624,7 +6209,10 @@
         "synopsis": "Geralt of Rivia, a mutated monster hunter, is hired to investigate a series of attacks in a seaside village and finds himself drawn into a centuries-old conflict between humans and merpeople. He must count on friends \u2014 old and new \u2014 to solve the mystery before the hostilities between the two kingdoms escalate into all-out war.",
         "ranime": [
             "Mahou Shoujo-tai Arusu"
-        ]
+        ],
+        "mal_id": "3991",
+        "kitsu_id": "48228",
+        "anilist_id": "N/A"
     },
     {
         "aid": 197,
@@ -5656,7 +6244,10 @@
             "Shingeki no Kyojin Season 3 Specials",
             "Shingeki no Kyojin: Chronicle",
             "Akatsuki no Chinkonka"
-        ]
+        ],
+        "mal_id": "35760",
+        "kitsu_id": "13569",
+        "anilist_id": "99147"
     },
     {
         "aid": 198,
@@ -5688,7 +6279,10 @@
             "Shingeki no Kyojin: Chronicle",
             "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
             "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora"
-        ]
+        ],
+        "mal_id": "25777",
+        "kitsu_id": "8671",
+        "anilist_id": "20958"
     },
     {
         "aid": 199,
@@ -5714,7 +6308,10 @@
         "synopsis": "The story centers on Mira, the clever brains behind an evil organization that invades and destroys everything in its path. One day, a magical girl named Byakuya Mimori decides to stand up to the organization, and Mira falls in love with her at first sight.\n\n(Source: Anime News Network)",
         "ranime": [
             "Katsute Mahou Shoujo to Aku wa Tekitai shiteita."
-        ]
+        ],
+        "mal_id": "57217",
+        "kitsu_id": "48238",
+        "anilist_id": "170938"
     },
     {
         "aid": 200,
@@ -5745,7 +6342,10 @@
             "Attack On Titans Oad",
             "Shingeki no Kyojin: The Final Season Specials",
             "Boku no Sensou"
-        ]
+        ],
+        "mal_id": "40028",
+        "kitsu_id": "42422",
+        "anilist_id": "110277"
     },
     {
         "aid": 201,
@@ -5769,7 +6369,10 @@
         "imdb_rating": 7.9,
         "imdb_votes": 3406,
         "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to hell\u2014especially when there's money to be made. The wildly popular video game is now a series, and this time, there's no sympathy for the devil.\n\n(Source: Funimation)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "1726",
+        "kitsu_id": "1547",
+        "anilist_id": "N/A"
     },
     {
         "aid": 202,
@@ -5799,7 +6402,10 @@
             "Boku no Hero Academia: Final Season",
             "Boku no Hero Academia",
             "Boku no Hero Academia the Movie 4: You're Next"
-        ]
+        ],
+        "mal_id": "54789",
+        "kitsu_id": "47232",
+        "anilist_id": "163139"
     },
     {
         "aid": 203,
@@ -5826,7 +6432,10 @@
         "ranime": [
             "The God of High School",
             "The God of High School PV"
-        ]
+        ],
+        "mal_id": "41353",
+        "kitsu_id": "43018",
+        "anilist_id": "116006"
     },
     {
         "aid": 204,
@@ -5857,7 +6466,10 @@
             "Black Clover: Mahou Tei no Ken",
             "Black Clover: Jump Festa 2016 Special",
             "Mugyutto! Black Clover"
-        ]
+        ],
+        "mal_id": "34572",
+        "kitsu_id": "50024",
+        "anilist_id": "195604"
     },
     {
         "aid": 205,
@@ -5884,7 +6496,10 @@
         "ranime": [
             "Kenja no Deshi wo Nanoru Kenja the Comic",
             "Kenja no Deshi wo Nanoru Kenja"
-        ]
+        ],
+        "mal_id": "42072",
+        "kitsu_id": "44121",
+        "anilist_id": "119056"
     },
     {
         "aid": 206,
@@ -5911,7 +6526,10 @@
         "ranime": [
             "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS-Rank Datta to Iu Yoku Aru Hanashi",
             "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS-Rank Datta to Iu Yoku Aru Hanashi"
-        ]
+        ],
+        "mal_id": "N/A",
+        "kitsu_id": "49740",
+        "anilist_id": "183133"
     },
     {
         "aid": 207,
@@ -5940,7 +6558,10 @@
             "JoJo no Kimyou na Bouken Part 1: Phantom Blood",
             "JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu",
             "JoJo no Kimyou na Bouken: Phantom Blood"
-        ]
+        ],
+        "mal_id": "14719",
+        "kitsu_id": "7158",
+        "anilist_id": "666"
     },
     {
         "aid": 208,
@@ -5968,7 +6589,10 @@
             "Nageki no Bourei wa Intai shitai Part 2",
             "Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu",
             "Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu"
-        ]
+        ],
+        "mal_id": "58172",
+        "kitsu_id": "48559",
+        "anilist_id": "175019"
     },
     {
         "aid": 209,
@@ -6008,7 +6632,10 @@
             "Isekai Quartet Movie: Another World",
             "Overlord Movie: Manner Movie",
             "Overlord Movie: Ple Ple Pleiades"
-        ]
+        ],
+        "mal_id": "29803",
+        "kitsu_id": "9965",
+        "anilist_id": "20832"
     },
     {
         "aid": 210,
@@ -6035,7 +6662,10 @@
         "ranime": [
             "Aru Majo ga Shinu Made: Owari no Kotoba to Hajimari no Namida",
             "Aru Majo ga Shinu Made"
-        ]
+        ],
+        "mal_id": "59169",
+        "kitsu_id": "49005",
+        "anilist_id": "178701"
     },
     {
         "aid": 211,
@@ -6059,7 +6689,10 @@
         "imdb_rating": 7.1,
         "imdb_votes": 72,
         "synopsis": "To escape his tiring job, weary Murata finds escape at a nearby baseball stadium. While the games are thrilling, it\u2019s Ruriko, the gyaru as cold as the beer she serves but secretly a sweetheart, who keeps him coming back. As her first regular, Murata discovers the warmth behind her frosty demeanor, and their hilarious, heartwarming encounters light up the ballpark and maybe even their hearts.\n\n(Source: Crunchyroll)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "7155",
+        "kitsu_id": "49336",
+        "anilist_id": "184279"
     },
     {
         "aid": 212,
@@ -6090,7 +6723,10 @@
             "Kidou Senshi Gundam: Suisei no Majo Recap",
             "Kidou Senshi Gundam",
             "Shukufuku"
-        ]
+        ],
+        "mal_id": "49828",
+        "kitsu_id": "45217",
+        "anilist_id": "139274"
     },
     {
         "aid": 213,
@@ -6117,7 +6753,10 @@
         "ranime": [
             "Ore dake Level Up na Ken",
             "Solo Leveling"
-        ]
+        ],
+        "mal_id": "58567",
+        "kitsu_id": "10083",
+        "anilist_id": "98437"
     },
     {
         "aid": 214,
@@ -6144,7 +6783,10 @@
         "ranime": [
             "Wind Breaker",
             "Wind Breaker"
-        ]
+        ],
+        "mal_id": "59160",
+        "kitsu_id": "48992",
+        "anilist_id": "178680"
     },
     {
         "aid": 215,
@@ -6171,7 +6813,10 @@
         "ranime": [
             "Bye Bye, Earth",
             "Bye-Bye, Earth"
-        ]
+        ],
+        "mal_id": "59819",
+        "kitsu_id": "49198",
+        "anilist_id": "181078"
     },
     {
         "aid": 216,
@@ -6199,7 +6844,10 @@
             "Enen no Shouboutai: Ni no Shou",
             "Enen no Shouboutai: San no Shou Part 2",
             "Enen no Shouboutai"
-        ]
+        ],
+        "mal_id": "51818",
+        "kitsu_id": "46119",
+        "anilist_id": "149118"
     },
     {
         "aid": 217,
@@ -6230,7 +6878,10 @@
             "Kuroshitsuji: Sono Shitsuji, Kougyou",
             "Kuroshitsuji Recap",
             "Kuroshitsuji Picture Drama"
-        ]
+        ],
+        "mal_id": "4898",
+        "kitsu_id": "49017",
+        "anilist_id": "N/A"
     },
     {
         "aid": 218,
@@ -6259,7 +6910,10 @@
             "Attack On Titans Season 2",
             "Attack On Titans Season 3",
             "Attack On Titans Season 4"
-        ]
+        ],
+        "mal_id": "18397",
+        "kitsu_id": "7442",
+        "anilist_id": "18397"
     },
     {
         "aid": 219,
@@ -6288,7 +6942,10 @@
             "Re: Zero \u2013 Starting Life In Another World Season 3",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
-        ]
+        ],
+        "mal_id": "42364",
+        "kitsu_id": "11209",
+        "anilist_id": "21355"
     },
     {
         "aid": 220,
@@ -6315,7 +6972,10 @@
         "ranime": [
             "Teogonia",
             "Teogonia"
-        ]
+        ],
+        "mal_id": "58614",
+        "kitsu_id": "48702",
+        "anilist_id": "176702"
     },
     {
         "aid": 221,
@@ -6345,7 +7005,10 @@
             "Mob Psycho Mini",
             "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
             "Mob Psycho 100: Tankoubon Hatsubai Kinen Anime"
-        ]
+        ],
+        "mal_id": "32182",
+        "kitsu_id": "11578",
+        "anilist_id": "21507"
     },
     {
         "aid": 222,
@@ -6374,7 +7037,10 @@
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e PV"
-        ]
+        ],
+        "mal_id": "35507",
+        "kitsu_id": "13503",
+        "anilist_id": "98659"
     },
     {
         "aid": 223,
@@ -6401,7 +7067,10 @@
         "ranime": [
             "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha no Yume wo Miru",
             "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai"
-        ]
+        ],
+        "mal_id": "57058",
+        "kitsu_id": "48202",
+        "anilist_id": "170695"
     },
     {
         "aid": 224,
@@ -6429,7 +7098,10 @@
             "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
             "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
             "He Wei Dao x Hui Yeda Xiaojie Xiangyao Wo Gaobai"
-        ]
+        ],
+        "mal_id": "37999",
+        "kitsu_id": "41373",
+        "anilist_id": "101921"
     },
     {
         "aid": 225,
@@ -6455,7 +7127,10 @@
         "synopsis": "The Shiunji family, with their seven children reside in a mansion within Tokyo\u2019s Setagaya ward. The eldest son, Arata, is tired of being pushed around by his five sisters and daydreams of a life without them. That is, until Arata\u2019s father reveals a shocking truth\u2014Arata isn\u2019t biologically related to his sisters! The siblings\u2019 relationships will be tested as they navigate life in this new light.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Shiunji-ke no Kodomotachi"
-        ]
+        ],
+        "mal_id": "N/A",
+        "kitsu_id": "48544",
+        "anilist_id": "174802"
     },
     {
         "aid": 226,
@@ -6498,7 +7173,10 @@
             "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
             "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
             "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e"
-        ]
+        ],
+        "mal_id": "1575",
+        "kitsu_id": "1415",
+        "anilist_id": "126830"
     },
     {
         "aid": 227,
@@ -6571,7 +7249,10 @@
             "Crayon Shin-chan Gaiden: Omocha Wars",
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
-        ]
+        ],
+        "mal_id": "966",
+        "kitsu_id": "9782",
+        "anilist_id": "N/A"
     },
     {
         "aid": 228,
@@ -6597,7 +7278,10 @@
         "synopsis": "Sophia, a timid daughter of a count, just wanted a peaceful life, but the Gorilla God had other plans. Blessed with unmatched strength, she\u2019s thrust into the Royal Knight Order, turning her quiet days into chaos. Now, she must juggle school, the knight life, and her overwhelming power. Who knew gorilla strength could be so complicated?\n\n(Source: Crunchyroll)",
         "ranime": [
             "Godzilla 2: Kessen Kidou Zoushoku Toshi"
-        ]
+        ],
+        "mal_id": "37897",
+        "kitsu_id": "49821",
+        "anilist_id": "182060"
     },
     {
         "aid": 229,
@@ -6624,7 +7308,10 @@
         "ranime": [
             "Kidou Senshi Gundam: GQuuuuuuX - Beginning",
             "Kidou Senshi Gundam"
-        ]
+        ],
+        "mal_id": "60449",
+        "kitsu_id": "49386",
+        "anilist_id": "185213"
     },
     {
         "aid": 230,
@@ -6653,7 +7340,10 @@
             "Tate no Yuusha no Nariagari Season 4",
             "Tate no Yuusha no Nariagari",
             "Tate no Yuusha no Nariagari"
-        ]
+        ],
+        "mal_id": "40357",
+        "kitsu_id": "43114",
+        "anilist_id": "101474"
     },
     {
         "aid": 231,
@@ -6677,7 +7367,10 @@
         "imdb_rating": 8.21,
         "imdb_votes": "N/A",
         "synopsis": "Jinta Yadomi is peacefully living as a recluse, spending his days away from school and playing video games at home instead. One hot summer day, his childhood friend, Meiko \"Menma\" Honma, appears and pesters him to grant a forgotten wish. He pays her no mind, which annoys her, but he doesn't really care. After all, Menma already died years ago.\nAt first, Jinta thinks that he is merely hallucinating due to the summer heat, but he is later on convinced that what he sees truly is the ghost of Menma. Jinta and his group of childhood friends grew apart after her untimely death, but they are drawn together once more as they try to lay Menma's spirit to rest. Re-living their pain and guilt, will they be able to find the strength to help not only Menma move on\u2014but themselves as well?\n[Written by MAL Rewrite]",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "5534",
+        "kitsu_id": "5981",
+        "anilist_id": "5534"
     },
     {
         "aid": 232,
@@ -6710,7 +7403,10 @@
             "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi",
             "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
             "Koukaku Kidoutai"
-        ]
+        ],
+        "mal_id": "467",
+        "kitsu_id": "429",
+        "anilist_id": "467"
     },
     {
         "aid": 233,
@@ -6734,7 +7430,10 @@
         "imdb_rating": 7.2,
         "imdb_votes": 102,
         "synopsis": "Avex and GCREST's hip-hop-themed multimedia project takes place in the near future, where rappers wear accessories that contain a metallic substance called Phantom Metal. Through the Phantom Metal's chemical reaction with the rappers' own DNA, the rapper can create illusions linked to their emotions during their performance. The result is a new type of spectacular concert.\n\n(Source: Anime News Network)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "51956",
+        "kitsu_id": "46141",
+        "anilist_id": "150077"
     },
     {
         "aid": 234,
@@ -6763,7 +7462,10 @@
             "Gekijouban Mononoke: Karakasa",
             "Shousetsu Gekijouban Mononoke: Karakasa",
             "Mononoke"
-        ]
+        ],
+        "mal_id": "52107",
+        "kitsu_id": "46188",
+        "anilist_id": "151117"
     },
     {
         "aid": 235,
@@ -6794,7 +7496,10 @@
             "Goblin Slayer: Day in the Life",
             "Goblin Slayer",
             "Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet"
-        ]
+        ],
+        "mal_id": "37349",
+        "kitsu_id": "40597",
+        "anilist_id": "101165"
     },
     {
         "aid": 236,
@@ -6818,7 +7523,10 @@
         "imdb_rating": 7.3,
         "imdb_votes": 759,
         "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu\u2019s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked.\n\nWang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.\n\n(Source: iQIYI International)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "60057",
+        "kitsu_id": "49739",
+        "anilist_id": "166442"
     },
     {
         "aid": 237,
@@ -6842,7 +7550,10 @@
         "imdb_rating": 7.2,
         "imdb_votes": 7,
         "synopsis": "Nan-young, whose astronaut mom failed to return to Earth when things went awry during her Mars probe. Nan-young has always dreamed of exploring space too and longs to go to Mars in hopes of finding a trace of her mom. Her dream comes true when she is selected as one of the astronauts for a Mars probe project. Before she blasts off though, she meets Jay, a musician who also fixes retro sound instruments.",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "61595",
+        "kitsu_id": "49950",
+        "anilist_id": "192002"
     },
     {
         "aid": 238,
@@ -6870,7 +7581,10 @@
             "Yoroiden Samurai Troopers Gaiden",
             "Shin Yoroiden Samurai Troopers",
             "Yoroiden Samurai Troopers"
-        ]
+        ],
+        "mal_id": "62580",
+        "kitsu_id": "48841",
+        "anilist_id": "177476"
     },
     {
         "aid": 239,
@@ -6897,7 +7611,10 @@
         "ranime": [
             "One Piece: Jango no Dance Carnival",
             "One Piece"
-        ]
+        ],
+        "mal_id": "460",
+        "kitsu_id": "422",
+        "anilist_id": "460"
     },
     {
         "aid": 240,
@@ -6924,7 +7641,10 @@
         "ranime": [
             "Feng Ling Yu Xiu",
             "Feng Ling Yu Xiu 2nd Season: Tebie Pian"
-        ]
+        ],
+        "mal_id": "55692",
+        "kitsu_id": "8739",
+        "anilist_id": "20799"
     },
     {
         "aid": 241,
@@ -6952,7 +7672,10 @@
             "Koukaku Kidoutai: SAC_2045",
             "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
             "Koukaku Kidoutai: SAC_2045 - Saigo no Ningen"
-        ]
+        ],
+        "mal_id": "41750",
+        "kitsu_id": "43142",
+        "anilist_id": "117756"
     },
     {
         "aid": 242,
@@ -6979,7 +7702,10 @@
         "ranime": [
             "Death Note",
             "Death Note: Rewrite"
-        ]
+        ],
+        "mal_id": "1535",
+        "kitsu_id": "1376",
+        "anilist_id": "1535"
     },
     {
         "aid": 243,
@@ -7007,7 +7733,10 @@
             "Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3-pun Dai Shingeki",
             "Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "8366",
+        "kitsu_id": "47066",
+        "anilist_id": "142549"
     },
     {
         "aid": 244,
@@ -7034,7 +7763,10 @@
         "ranime": [
             "Pokemon the Movie XY&Z: Volcanion to Karakuri no Magiana",
             "Pokemon XY&Z"
-        ]
+        ],
+        "mal_id": "31231",
+        "kitsu_id": "11202",
+        "anilist_id": "N/A"
     },
     {
         "aid": 245,
@@ -7062,7 +7794,10 @@
             "Pokemon Movie 21: Minna no Monogatari",
             "Gekijouban Pocket Monsters Koko: Mou Hitotsu no Hajimari",
             "Pokemon"
-        ]
+        ],
+        "mal_id": "40881",
+        "kitsu_id": "43025",
+        "anilist_id": "N/A"
     },
     {
         "aid": 246,
@@ -7090,7 +7825,10 @@
             "Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha",
             "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "44616",
+        "kitsu_id": "47067",
+        "anilist_id": "N/A"
     },
     {
         "aid": 247,
@@ -7118,7 +7856,10 @@
             "Pokemon Movie 01: Mewtwo no Gyakushuu",
             "Pocket Monster: Mewtwo! Ware wa Koko ni Ari",
             "Pokemon"
-        ]
+        ],
+        "mal_id": "1709",
+        "kitsu_id": "1534",
+        "anilist_id": "1709"
     },
     {
         "aid": 248,
@@ -7147,7 +7888,10 @@
             "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
             "Crayon Shin-chan",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "53810",
+        "kitsu_id": "47066",
+        "anilist_id": "N/A"
     },
     {
         "aid": 249,
@@ -7176,7 +7920,10 @@
             "Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan",
             "Crayon Shin-chan",
             "Crayon Shin-chan x Panpaka Pants: Aeon Cinema Manner Movie Collab"
-        ]
+        ],
+        "mal_id": "34244",
+        "kitsu_id": "43703",
+        "anilist_id": "N/A"
     },
     {
         "aid": 250,
@@ -7204,7 +7951,10 @@
             "Crayon Shin-chan Movie 21: Bakauma! B-Kyuu Gourmet Survival Battle!!",
             "Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "21395",
+        "kitsu_id": "43051",
+        "anilist_id": "N/A"
     },
     {
         "aid": 251,
@@ -7233,7 +7983,10 @@
             "Gekijouban Pocket Monsters: Kimi ni Kimeta!",
             "Pokemon (2019): Harukanaru Aoi Sora",
             "Pokemon"
-        ]
+        ],
+        "mal_id": "34540",
+        "kitsu_id": "12941",
+        "anilist_id": "N/A"
     },
     {
         "aid": 252,
@@ -7262,7 +8015,10 @@
             "Pok\u00e9mon the Movie XY: Hakai no Mayu to Diancie",
             "Pokemon XY",
             "Pokemon: Pikachu, Kore Nan no Kagi?"
-        ]
+        ],
+        "mal_id": "21569",
+        "kitsu_id": "8149",
+        "anilist_id": "N/A"
     },
     {
         "aid": 253,
@@ -7290,7 +8046,10 @@
             "Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road",
             "Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3-pun Dai Shingeki",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "8364",
+        "kitsu_id": "5313",
+        "anilist_id": "8364"
     },
     {
         "aid": 254,
@@ -7318,7 +8077,10 @@
             "Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki",
             "Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "8360",
+        "kitsu_id": "5309",
+        "anilist_id": "N/A"
     },
     {
         "aid": 255,
@@ -7346,7 +8108,10 @@
             "Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!",
             "Crayon Shin-chan Movie 16: Chou Arashi wo Yobu Kinpoko no Yuusha",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "2172",
+        "kitsu_id": "1967",
+        "anilist_id": "N/A"
     },
     {
         "aid": 256,
@@ -7374,7 +8139,10 @@
             "Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha",
             "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "44616",
+        "kitsu_id": "11540",
+        "anilist_id": "N/A"
     },
     {
         "aid": 257,
@@ -7402,7 +8170,10 @@
             "Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha",
             "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "44616",
+        "kitsu_id": "43052",
+        "anilist_id": "N/A"
     },
     {
         "aid": 258,
@@ -7432,7 +8203,10 @@
             "Pokemon XY",
             "Pokemon XY: Hoopa no Odemashi Daisakusen!!",
             "Pokemon: Pikachu to Pokemon Ongakutai"
-        ]
+        ],
+        "mal_id": "25805",
+        "kitsu_id": "8903",
+        "anilist_id": "N/A"
     },
     {
         "aid": 259,
@@ -7460,7 +8234,10 @@
             "Crayon Shin-chan Movie 21: Bakauma! B-Kyuu Gourmet Survival Battle!!",
             "Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "21395",
+        "kitsu_id": "43051",
+        "anilist_id": "N/A"
     },
     {
         "aid": 260,
@@ -7486,7 +8263,10 @@
         "synopsis": "Touka Kuroitsu is a research assistant who belongs to the Monster Development Department of the evil organization Agastia. However, the enemy she has to fight right now isn't the heroes of justice, but her boss. So long justice exists, evil too, will exist. This is the story of those who fight secretly in the shadows of justice and evil's confrontation. A scientist at an evil organization's monster development department struggles with bureaucracy and deadlines while creating creatures to battle a superhero, all while managing office politics and budget constraints.",
         "ranime": [
             "Kaijin Kaihatsu-bu no Kuroitsu-san"
-        ]
+        ],
+        "mal_id": "49385",
+        "kitsu_id": "4953",
+        "anilist_id": "136428"
     },
     {
         "aid": 261,
@@ -7513,7 +8293,10 @@
         "ranime": [
             "Fullmetal Alchemist: Brotherhood",
             "Fullmetal Alchemist: The Sacred Star of Milos Specials"
-        ]
+        ],
+        "mal_id": "9135",
+        "kitsu_id": "5613",
+        "anilist_id": "9135"
     },
     {
         "aid": 262,
@@ -7541,7 +8324,10 @@
             "Dr. Stone: Stone Wars",
             "Dr. Stone: New World",
             "Dr. Stone"
-        ]
+        ],
+        "mal_id": "50612",
+        "kitsu_id": "45615",
+        "anilist_id": "142876"
     },
     {
         "aid": 263,
@@ -7571,7 +8357,10 @@
             "Chibi Revenger",
             "Coffee Kousou",
             "Douwa Revenger"
-        ]
+        ],
+        "mal_id": "42249",
+        "kitsu_id": "43321",
+        "anilist_id": "120120"
     },
     {
         "aid": 264,
@@ -7600,7 +8389,10 @@
             "Senjou no Valkyria: SenVal Theater",
             "Senjou no Valkyria 3: Tagatame no Juusou",
             "Senjou no Valkyria Special"
-        ]
+        ],
+        "mal_id": "5507",
+        "kitsu_id": "4130",
+        "anilist_id": "5507"
     },
     {
         "aid": 265,
@@ -7628,7 +8420,10 @@
             "SK\u221e 2nd Season",
             "SK\u221e OVA: Extra Part",
             "SK\u221e: Crazy Rock Jam"
-        ]
+        ],
+        "mal_id": "42923",
+        "kitsu_id": "43595",
+        "anilist_id": "124153"
     },
     {
         "aid": 266,
@@ -7654,7 +8449,10 @@
         "synopsis": "The second season of Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita.\n\nGet ready for more relaxing tales! Azusa Aizawa is a powerful witch who finally reached level 99 and now busies herself with laid-back quests instead. Her family continues to grow as some familiar faces are joined by bright-eyed newcomers. From trips to the beach to a martial arts tournament, you\u2019re invited on Azusa\u2019s carefree and heartwarming adventures of leisure.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Peeping Life"
-        ]
+        ],
+        "mal_id": "31549",
+        "kitsu_id": "45717",
+        "anilist_id": "143337"
     },
     {
         "aid": 267,
@@ -7682,7 +8480,10 @@
             "Dr. Stone: Ryuusui",
             "Dr. Stone: New World Part 2",
             "Dr. Stone"
-        ]
+        ],
+        "mal_id": "62568",
+        "kitsu_id": "44289",
+        "anilist_id": "131518"
     },
     {
         "aid": 268,
@@ -7713,7 +8514,10 @@
             "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV)",
             "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
             "Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D"
-        ]
+        ],
+        "mal_id": "1566",
+        "kitsu_id": "1406",
+        "anilist_id": "1566"
     },
     {
         "aid": 269,
@@ -7744,7 +8548,10 @@
             "Haikyu!! The Dumpster Battle",
             "u!! Tokushuu! Haru-kou Volley ni Kaketa Seishun",
             "u!! Movie 4: Concept no Tatakai"
-        ]
+        ],
+        "mal_id": "32935",
+        "kitsu_id": "11935",
+        "anilist_id": "106625"
     },
     {
         "aid": 270,
@@ -7770,7 +8577,10 @@
         "synopsis": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
         "ranime": [
             "Overflow"
-        ]
+        ],
+        "mal_id": "40746",
+        "kitsu_id": "5497",
+        "anilist_id": "113417"
     },
     {
         "aid": 271,
@@ -7799,7 +8609,10 @@
             "Tsuki ga Michibiku Isekai Douchuu 3rd Season",
             "Tsuki ga Michibiku Isekai Douchuu",
             "Tsuki ga Michibiku Isekai Douchuu"
-        ]
+        ],
+        "mal_id": "49889",
+        "kitsu_id": "45235",
+        "anilist_id": "139518"
     },
     {
         "aid": 272,
@@ -7826,7 +8639,10 @@
         "ranime": [
             "The Third: Sabaku no Hoshi no Apprentice Girl",
             "The Third"
-        ]
+        ],
+        "mal_id": "944",
+        "kitsu_id": "48196",
+        "anilist_id": "N/A"
     },
     {
         "aid": 273,
@@ -7855,7 +8671,10 @@
             "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
             "Crayon Shin-chan",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "53810",
+        "kitsu_id": "6044",
+        "anilist_id": "158595"
     },
     {
         "aid": 274,
@@ -7886,7 +8705,10 @@
             "Fairy Tail Zer\u00f8",
             "Fairy Tail OVA (2016)",
             "Fairy Tail Movie 2: Dragon Cry"
-        ]
+        ],
+        "mal_id": "22043",
+        "kitsu_id": "8203",
+        "anilist_id": "20626"
     },
     {
         "aid": 275,
@@ -7914,7 +8736,10 @@
             "Naruto: Dai Katsugeki! Yuki Hime Ninpouchou Datteba yo!!",
             "Naruto: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! - Konoha no Sato no Dai Undoukai",
             "Naruto"
-        ]
+        ],
+        "mal_id": "442",
+        "kitsu_id": "405",
+        "anilist_id": "442"
     },
     {
         "aid": 276,
@@ -7940,7 +8765,10 @@
         "synopsis": "In a fantasy world where \"jobs\" are god-given from birth, heroes are born, not made... and Ein's job of \"Appraiser\" has put him about as far from the \"hero\" pedestal as possible. Used, abused, and eventually abandoned by his fellow adventurers, Ein decides it just isn't worth going on... Lucky for Ein, though, the end may just be the beginning... and a new lease on life. Turns out, his \"worthless\" job may just be the key to becoming a hero after all...\n\n(Source: Kodansha USA)",
         "ranime": [
             "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no \"Shingan\" de Musou suru"
-        ]
+        ],
+        "mal_id": "59144",
+        "kitsu_id": "49059",
+        "anilist_id": "178548"
     },
     {
         "aid": 277,
@@ -7966,7 +8794,10 @@
         "synopsis": "The story centers on the the titular Clevatess, the lord of Dark Beasts, who wields both uncanny intellect and destructive power. Frustrated by the 13 heroes tasked to destroy him, he has decided to be rid of humanity once and for all. However, he has been charged with one nuisance: he revived a hero he personally slayed and adopts an orphaned humanoid baby\u2014the last hope to save a dying world. The world stands upon the brink of Armageddon, with the obligation of raising one child holding it all back. Now bound together, what fate awaits this unlikely trio?\n\n(Source: Anime News Network, Crunchyroll, edited)",
         "ranime": [
             "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha"
-        ]
+        ],
+        "mal_id": "62513",
+        "kitsu_id": "49061",
+        "anilist_id": "178869"
     },
     {
         "aid": 278,
@@ -7994,7 +8825,10 @@
             "Tate no Yuusha no Nariagari Season 3",
             "Tate no Yuusha no Nariagari",
             "Tate no Yuusha no Nariagari"
-        ]
+        ],
+        "mal_id": "57907",
+        "kitsu_id": "44529",
+        "anilist_id": "133844"
     },
     {
         "aid": 279,
@@ -8024,7 +8858,10 @@
             "Blue Lock",
             "Blue Lock: Episode Nagi",
             "Blue Lock Additional Time"
-        ]
+        ],
+        "mal_id": "49596",
+        "kitsu_id": "47244",
+        "anilist_id": "163147"
     },
     {
         "aid": 280,
@@ -8050,7 +8887,10 @@
         "synopsis": "Dennis is one of the most popular members of the Silverwing Battalion, the world's strongest party. So popular, in fact, that the party leader expels him from the group out of spite.\n\nStripped of his home, Dennis decides to start life anew following his true calling\u2014as a chef! His life as an adventurer might be over, but his new life as a cook is just beginning. He teams up with Atelier, a young girl who has been similarly exiled from her home, and opens up a restaurant for adventurers.\n\nHe's finally able to live out his dream, but he'll need use of more than just his cooking skills to take care of his eclectic customers' problems!\n\n(Source: Kaiten Books)",
         "ranime": [
             "Yuri!!! on Ice"
-        ]
+        ],
+        "mal_id": "35382",
+        "kitsu_id": "49407",
+        "anilist_id": "185544"
     },
     {
         "aid": 281,
@@ -8077,7 +8917,10 @@
         "ranime": [
             "Dandadan",
             "Dandadan"
-        ]
+        ],
+        "mal_id": "60543",
+        "kitsu_id": "49425",
+        "anilist_id": "185660"
     },
     {
         "aid": 282,
@@ -8103,7 +8946,10 @@
         "synopsis": "Crawl back from the abyss of Hell to change this lousy world!\n\nRudo lives in the slums of a floating town, where the poor scrape by under the shadow of the rich who live a sumptuous life, simply casting their garbage off the side, into the abyss.\n\nThen one day, he\u2019s falsely accused of murder, and his wrongful conviction leads to an unimaginable punishment\u2014exile off the edge, with the rest of the trash.\n\nDown on the surface, the cast-off waste of humanity has bred vicious monsters. If Rudo wants to have any hope of discovering the truth and seeking vengeance against those who cast him into Hell, he will have to master a new power and join a group known as the Cleaners who battle the hulking trash beasts of the Pit!\n\n(Source: Crunchyroll, edited)",
         "ranime": [
             "Gachiakuta"
-        ]
+        ],
+        "mal_id": "59062",
+        "kitsu_id": "48946",
+        "anilist_id": "178025"
     },
     {
         "aid": 283,
@@ -8129,7 +8975,10 @@
         "synopsis": "\"I won't die 'cause I was banned from the afterlife.\"\n\nA shady self-proclaimed hermit named Momoyuki Mogura, AKA: Mogura, is banned from the afterlife due to an incident. Now he collects spirit possessed will-o'-wisps in his lantern, hoping to make a comeback.\n\nIt seems that those who encounter him begin to see peculiar things.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Dekin no Mogura"
-        ]
+        ],
+        "mal_id": "60315",
+        "kitsu_id": "49357",
+        "anilist_id": "184574"
     },
     {
         "aid": 284,
@@ -8153,7 +9002,10 @@
         "imdb_rating": 6.87,
         "imdb_votes": 2486,
         "synopsis": "On the brink of war in 1914, a fugitive prince and a girl in disguise change the course of history.\n\n(Source: Netflix Anime)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "59005",
+        "kitsu_id": "48942",
+        "anilist_id": "177887"
     },
     {
         "aid": 285,
@@ -8179,7 +9031,10 @@
         "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor\u2019s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential\u2026and unspeakable danger.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Guimi Zhi Zhu"
-        ]
+        ],
+        "mal_id": "62276",
+        "kitsu_id": "48233",
+        "anilist_id": "137667"
     },
     {
         "aid": 286,
@@ -8207,7 +9062,10 @@
             "Fairy Tail (2014)",
             "Fairy Tail: 100-nen Quest",
             "Fairy Tail"
-        ]
+        ],
+        "mal_id": "35972",
+        "kitsu_id": "13658",
+        "anilist_id": "99749"
     },
     {
         "aid": 287,
@@ -8234,7 +9092,10 @@
         "ranime": [
             "Kaijuu 8-gou",
             "Kaijuu 8-gou"
-        ]
+        ],
+        "mal_id": "59177",
+        "kitsu_id": "48994",
+        "anilist_id": "178754"
     },
     {
         "aid": 288,
@@ -8261,7 +9122,10 @@
         "ranime": [
             "Kanojo, Okarishimasu 3rd Season",
             "Kanojo, Okarishimasu"
-        ]
+        ],
+        "mal_id": "59277",
+        "kitsu_id": "49033",
+        "anilist_id": "179344"
     },
     {
         "aid": 289,
@@ -8287,7 +9151,10 @@
         "synopsis": "The story of Kyle, a hero who travels back in time after a grueling battle, hoping to prevent the tragic events of his past life. He returns to a point four years prior, armed with the knowledge of his past life and the impending demon invasion, aiming to change the future and save his world.",
         "ranime": [
             "Tsuyokute New Saga"
-        ]
+        ],
+        "mal_id": "62025",
+        "kitsu_id": "67",
+        "anilist_id": "155838"
     },
     {
         "aid": 290,
@@ -8316,7 +9183,10 @@
             "Kimetsu no Yaiba Novelize",
             "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen Novelize",
             "Kimetsu no Yaiba"
-        ]
+        ],
+        "mal_id": "59192",
+        "kitsu_id": "49001",
+        "anilist_id": "178788"
     },
     {
         "aid": 291,
@@ -8343,7 +9213,10 @@
         "ranime": [
             "Sono Bisque Doll wa Koi wo Suru",
             "Sono Bisque Doll wa Koi wo Suru"
-        ]
+        ],
+        "mal_id": "53065",
+        "kitsu_id": "46492",
+        "anilist_id": "154768"
     },
     {
         "aid": 292,
@@ -8371,7 +9244,10 @@
             "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
             "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
             "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita"
-        ]
+        ],
+        "mal_id": "50738",
+        "kitsu_id": "45717",
+        "anilist_id": "143337"
     },
     {
         "aid": 293,
@@ -8398,7 +9274,10 @@
         "ranime": [
             "Kakkou no Iinazuke",
             "Kakkou no Iinazuke"
-        ]
+        ],
+        "mal_id": "59402",
+        "kitsu_id": "49067",
+        "anilist_id": "179828"
     },
     {
         "aid": 294,
@@ -8422,7 +9301,10 @@
         "imdb_rating": 8,
         "imdb_votes": "N/A",
         "synopsis": "A lonely little boy named Sousuke lives with his mother by the sea, flashing messages across the water to his father's boat. One day, amid the detritus brought in with the tide, he stumbles upon a little goldfish. Delighted by this strange new friend, he takes her home and names her Ponyo. Sousuke comes to learn, however, that Ponyo is no ordinary fish. A visit from a strange man brings with it fantastical happenings that lead Sousuke and Ponyo on an enlightening adventure. \nIn Gake no Ue no Ponyo, magic and reality clash around Ponyo and Sousuke, testing their resolve. Despite the trials they face, Ponyo and Sousuke form a strong friendship. They meet many interesting characters, and learn just as many lessons from them.",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "2890",
+        "kitsu_id": "2624",
+        "anilist_id": "2890"
     },
     {
         "aid": 295,
@@ -8448,7 +9330,10 @@
         "synopsis": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature.\n\n(Source: Disney)",
         "ranime": [
             "Mei to Koneko Bus"
-        ]
+        ],
+        "mal_id": "523",
+        "kitsu_id": "482",
+        "anilist_id": "523"
     },
     {
         "aid": 296,
@@ -8472,7 +9357,10 @@
         "imdb_rating": 8.21,
         "imdb_votes": "N/A",
         "synopsis": "In the aftermath of a World War II bombing, two orphaned children struggle to survive in the Japanese countryside. To Seita and his four-year-old sister, the helplessness and indifference of their countrymen is even more painful than the enemy raids. Through desperation, hunger and grief, these children's lives are as heartbreakingly fragile as their spirit and love is inspiring.\n\n(Source: Sentai Filmworks)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "578",
+        "kitsu_id": "534",
+        "anilist_id": "578"
     },
     {
         "aid": 297,
@@ -8498,7 +9386,10 @@
         "synopsis": "Recently dumped, Akane is just about to quit the game she used to play with her boyfriend, when she meets Yamada in the same RPG. Yamada in real life turns out to be somewhat of a legend. The only problem is - he is ONLY interested in the game. As Akane's feelings grow, will Yamada's focus stay on the game?\n\n(Source: Mangamo)",
         "ranime": [
             "Yamada-kun to Lv999 no Koi wo Suru"
-        ]
+        ],
+        "mal_id": "53126",
+        "kitsu_id": "46529",
+        "anilist_id": "154965"
     },
     {
         "aid": 298,
@@ -8528,7 +9419,10 @@
             "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
             "Vigilante: Boku no Hero Academia Illegals",
             "Boku no Hero Academia: Hero Note"
-        ]
+        ],
+        "mal_id": "31964",
+        "kitsu_id": "47844",
+        "anilist_id": "168013"
     },
     {
         "aid": 299,
@@ -8556,7 +9450,10 @@
             "Kiteretsu Daihyakka",
             "Fujiko Fujio no Kiteretsu Daihyakka",
             "Kiteretsu Daihyakka & Doraemon: Korosuke no Hajimete no Otsukai"
-        ]
+        ],
+        "mal_id": "6509",
+        "kitsu_id": "4586",
+        "anilist_id": "6509"
     },
     {
         "aid": 300,
@@ -8584,7 +9481,10 @@
             "Hanma Baki: Son of Ogre",
             "Baki-dou",
             "Hanma Baki"
-        ]
+        ],
+        "mal_id": "51318",
+        "kitsu_id": "45984",
+        "anilist_id": "146646"
     },
     {
         "aid": 301,
@@ -8614,7 +9514,10 @@
             "Baki: New Grappler Baki",
             "Baki Tokubetsu-hen Saga",
             "Baki: Most Evil Death Row Convicts Special Anime"
-        ]
+        ],
+        "mal_id": "34443",
+        "kitsu_id": "13140",
+        "anilist_id": "97888"
     },
     {
         "aid": 302,
@@ -8641,7 +9544,10 @@
         "ranime": [
             "Sakasama no Patema: Another Side",
             "Sakasama no Patema: Beginning of the Day"
-        ]
+        ],
+        "mal_id": "12477",
+        "kitsu_id": "6742",
+        "anilist_id": "12477"
     },
     {
         "aid": 303,
@@ -8672,7 +9578,10 @@
             "Fairy Tail Zer\u00f8",
             "Fairy Tail OVA (2016)",
             "Fairy Tail Movie 2: Dragon Cry"
-        ]
+        ],
+        "mal_id": "22043",
+        "kitsu_id": "8203",
+        "anilist_id": "20626"
     },
     {
         "aid": 304,
@@ -8699,7 +9608,10 @@
         "ranime": [
             "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
             "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu"
-        ]
+        ],
+        "mal_id": "59095",
+        "kitsu_id": "48968",
+        "anilist_id": "178090"
     },
     {
         "aid": 305,
@@ -8801,7 +9713,10 @@
             "Meitantei Conan vs. Wooo",
             "Meitantei Conan: Hoshikage no Majutsushi",
             "Meitantei Conan: Shakunetsu no Ginga Tetsudou"
-        ]
+        ],
+        "mal_id": "235",
+        "kitsu_id": "210",
+        "anilist_id": "235"
     },
     {
         "aid": 306,
@@ -8830,7 +9745,10 @@
             "Nezha Nao Hai",
             "Jiang Ziya",
             "Shenhai"
-        ]
+        ],
+        "mal_id": "40111",
+        "kitsu_id": "42851",
+        "anilist_id": "186861"
     },
     {
         "aid": 307,
@@ -8859,7 +9777,10 @@
             "Nezha Nao Hai",
             "Jiang Ziya",
             "Shenhai"
-        ]
+        ],
+        "mal_id": "40111",
+        "kitsu_id": "42851",
+        "anilist_id": "110464"
     },
     {
         "aid": 308,
@@ -8887,7 +9808,10 @@
             "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
             "Koukaku Kidoutai Arise: Alternative Architecture",
             "Koukaku Kidoutai Nyuumon Arise"
-        ]
+        ],
+        "mal_id": "19195",
+        "kitsu_id": "8183",
+        "anilist_id": "19195"
     },
     {
         "aid": 309,
@@ -8919,7 +9843,10 @@
             "Koukaku Kidoutai Arise: Ghost in the Shell - Logicoma Specials",
             "Koukaku Kidoutai Nyuumon Arise",
             "Channel 5.5 2nd Season"
-        ]
+        ],
+        "mal_id": "17187",
+        "kitsu_id": "7602",
+        "anilist_id": "17187"
     },
     {
         "aid": 310,
@@ -8951,7 +9878,10 @@
             "Koukaku Kidoutai Arise: Ghost in the Shell - Logicoma Specials",
             "Koukaku Kidoutai Nyuumon Arise",
             "Channel 5.5 2nd Season"
-        ]
+        ],
+        "mal_id": "17187",
+        "kitsu_id": "7856",
+        "anilist_id": "19191"
     },
     {
         "aid": 311,
@@ -8980,7 +9910,10 @@
             "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
             "Koukaku Kidoutai Arise: Alternative Architecture",
             "Koukaku Kidoutai Nyuumon Arise"
-        ]
+        ],
+        "mal_id": "19193",
+        "kitsu_id": "8182",
+        "anilist_id": "19193"
     },
     {
         "aid": 312,
@@ -9007,7 +9940,10 @@
         "ranime": [
             "The Demonic King Who Chases His Wife",
             "Fox Spirit Matchmaker"
-        ]
+        ],
+        "mal_id": "52229",
+        "kitsu_id": "47374",
+        "anilist_id": "151606"
     },
     {
         "aid": 313,
@@ -9034,7 +9970,10 @@
         "ranime": [
             "Young Justice Season 1",
             "Young Justice Season 2"
-        ]
+        ],
+        "mal_id": "42840",
+        "kitsu_id": "507",
+        "anilist_id": "N/A"
     },
     {
         "aid": 314,
@@ -9062,7 +10001,10 @@
             "Koukaku Kidoutai: SAC_2045",
             "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
             "Koukaku Kidoutai: SAC_2045 - Saigo no Ningen"
-        ]
+        ],
+        "mal_id": "41750",
+        "kitsu_id": "43142",
+        "anilist_id": "117756"
     },
     {
         "aid": 315,
@@ -9089,7 +10031,10 @@
         "ranime": [
             "Young Justice Season 1",
             "Young Justice Season 3"
-        ]
+        ],
+        "mal_id": "42840",
+        "kitsu_id": "507",
+        "anilist_id": "N/A"
     },
     {
         "aid": 316,
@@ -9121,7 +10066,10 @@
             "Koukaku Kidoutai: Stand Alone Complex",
             "Koukaku Kidoutai: Shin Movie",
             "Koukaku Kidoutai: SAC_2045"
-        ]
+        ],
+        "mal_id": "43",
+        "kitsu_id": "43876",
+        "anilist_id": "N/A"
     },
     {
         "aid": 317,
@@ -9148,7 +10096,10 @@
         "ranime": [
             "Young Justice Season 2",
             "Young Justice Season 3"
-        ]
+        ],
+        "mal_id": "42840",
+        "kitsu_id": "507",
+        "anilist_id": "N/A"
     },
     {
         "aid": 318,
@@ -9174,7 +10125,10 @@
         "synopsis": "\"What lies beyond the curtains ... is a world I will probably never come in contact with.\"\n\nChidori High, a boys' school predominantly attended by students with low grades, is loathed by Kikyo Girls' High, whose pupils mostly come from wealthy and prestigious families. Although the two schools are right next to each other, the curtains in the windows are always closed, and the students have never seen inside the other school's classrooms. Chidori student Rintaro Tsumugi has always had an intimidating appearance, so as other people have avoided him, he too has distanced himself from others.\n\nOne day, while Rintaro is helping at his family's patisserie, he meets a girl named Kaoruko, who tells him she has never once thought of him as \"scary.\"\nDespite some confusion, Rintaro starts to feel comfortable spending time with Kaoruko, who treats him without prejudice \u2014 but he soon discovers that she is a student at Kikyo.\n\nA vibrant and youthful school story unfolds between two people who are so close, yet so far apart.\n\n(Source: Netflix)",
         "ranime": [
             "Kaoru Hana wa Rin to Saku"
-        ]
+        ],
+        "mal_id": "59845",
+        "kitsu_id": "49205",
+        "anilist_id": "181444"
     },
     {
         "aid": 319,
@@ -9205,7 +10159,10 @@
             "Occultic;Nine",
             "Ch\u00e4oS;Child",
             "Steins;Gate 0"
-        ]
+        ],
+        "mal_id": "13599",
+        "kitsu_id": "6999",
+        "anilist_id": "13599"
     },
     {
         "aid": 320,
@@ -9234,7 +10191,10 @@
             "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi\u2640",
             "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi\u2640 Mini Anime",
             "Eiyuuou, Bu wo Kiwameru Tame Tenseisu Mini Anime"
-        ]
+        ],
+        "mal_id": "50481",
+        "kitsu_id": "45548",
+        "anilist_id": "142193"
     },
     {
         "aid": 321,
@@ -9261,7 +10221,10 @@
         "ranime": [
             "Sakamoto Days",
             "Sakamoto Days Part 2"
-        ]
+        ],
+        "mal_id": "60285",
+        "kitsu_id": "49332",
+        "anilist_id": "184237"
     },
     {
         "aid": 322,
@@ -9288,7 +10251,10 @@
         "ranime": [
             "Aoki Densetsu Shoot! (Movie)",
             "Shoot!"
-        ]
+        ],
+        "mal_id": "50379",
+        "kitsu_id": "45514",
+        "anilist_id": "N/A"
     },
     {
         "aid": 323,
@@ -9317,7 +10283,10 @@
             "Koukaku Kidoutai",
             "Koukaku Kidoutai: SAC_2045",
             "Animegatari x Koukaku Kidoutai Collab Eizou"
-        ]
+        ],
+        "mal_id": "27411",
+        "kitsu_id": "9721",
+        "anilist_id": "21057"
     },
     {
         "aid": 324,
@@ -9343,7 +10312,10 @@
         "synopsis": "A story about girls playing board games after school!\n\nKyoto in Spring. Aya is a high school girl who's just moved to a new town. Miki is her shy classmate, and her first friend. One day after school Aya and Miki follow the committee president Midori to a speciality board games store. The Dice Club!! Without thinking they try out a German board game together.\n\nThese girls, who are searching for fun, soon fall into the exciting world of games!\n\n(Source: MyAnimeList)",
         "ranime": [
             "Houkago Saikoro Club"
-        ]
+        ],
+        "mal_id": "38276",
+        "kitsu_id": "42345",
+        "anilist_id": "104115"
     },
     {
         "aid": 325,
@@ -9370,7 +10342,10 @@
         "ranime": [
             "Chainsaw Man",
             "Chainsaw Man"
-        ]
+        ],
+        "mal_id": "57555",
+        "kitsu_id": "48323",
+        "anilist_id": "171627"
     },
     {
         "aid": 326,
@@ -9398,7 +10373,10 @@
             "Dragon Ball Super",
             "Dragon Ball Super: Super Hero",
             "Dragon Ball Super: Broly - Skytree Super"
-        ]
+        ],
+        "mal_id": "36946",
+        "kitsu_id": "41046",
+        "anilist_id": "101302"
     },
     {
         "aid": 327,
@@ -9424,7 +10402,10 @@
         "synopsis": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Takopii no Genzai"
-        ]
+        ],
+        "mal_id": "60489",
+        "kitsu_id": "49392",
+        "anilist_id": "185407"
     },
     {
         "aid": 328,
@@ -9453,7 +10434,10 @@
             "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
             "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
             "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.: Party Tokushuu! Clover"
-        ]
+        ],
+        "mal_id": "59730",
+        "kitsu_id": "49179",
+        "anilist_id": "180812"
     },
     {
         "aid": 329,
@@ -9480,7 +10464,10 @@
         "ranime": [
             "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
             "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka"
-        ]
+        ],
+        "mal_id": "59846",
+        "kitsu_id": "49206",
+        "anilist_id": "181447"
     },
     {
         "aid": 330,
@@ -9508,7 +10495,10 @@
             "Shokugeki no Souma: Ni no Sara",
             "Shokugeki no Souma",
             "Shokugeki no Souma OVA"
-        ]
+        ],
+        "mal_id": "28171",
+        "kitsu_id": "9967",
+        "anilist_id": "21691"
     },
     {
         "aid": 331,
@@ -9537,7 +10527,10 @@
             "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
             "Crayon Shin-chan",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "53810",
+        "kitsu_id": "12321",
+        "anilist_id": "156009"
     },
     {
         "aid": 332,
@@ -9565,7 +10558,10 @@
             "Nageki no Bourei wa Intai shitai",
             "Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu",
             "Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu"
-        ]
+        ],
+        "mal_id": "60619",
+        "kitsu_id": "49651",
+        "anilist_id": "185801"
     },
     {
         "aid": 333,
@@ -9593,7 +10589,10 @@
             "Ranma \u00bd (2024)",
             "Ranma \u00bd",
             "Ranma \u00bd"
-        ]
+        ],
+        "mal_id": "60564",
+        "kitsu_id": "49433",
+        "anilist_id": "185731"
     },
     {
         "aid": 334,
@@ -9622,7 +10621,10 @@
             "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
             "Crayon Shin-chan",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "53810",
+        "kitsu_id": "43051",
+        "anilist_id": "N/A"
     },
     {
         "aid": 335,
@@ -9649,7 +10651,10 @@
         "ranime": [
             "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
             "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga"
-        ]
+        ],
+        "mal_id": "61026",
+        "kitsu_id": "49567",
+        "anilist_id": "186794"
     },
     {
         "aid": 336,
@@ -9676,7 +10681,10 @@
         "ranime": [
             "ReLIFE: Kanketsu-hen",
             "ReLIFE"
-        ]
+        ],
+        "mal_id": "30015",
+        "kitsu_id": "10464",
+        "anilist_id": "21049"
     },
     {
         "aid": 337,
@@ -9702,7 +10710,10 @@
         "synopsis": "In the fallout of nuclear war, the last of humanity survives with the help of life-like androids known as Dolls. Built to serve, some fight in wars as Tactical Dolls or T-Dolls. Now, an elite team comprised of T-Dolls are sent to face a new rogue threat, Sangvis Ferri. Leading them into battle is their new human commander, M4A1.\n\n(Source: Funimation)",
         "ranime": [
             "Birdie Wing: Golf Girls' Story"
-        ]
+        ],
+        "mal_id": "52229",
+        "kitsu_id": "43929",
+        "anilist_id": "128828"
     },
     {
         "aid": 338,
@@ -9728,7 +10739,10 @@
         "synopsis": "Ashaf: a soft-spoken man with delicate features, a coffin strapped to his back, and an entourage of black crows. Guideau: a feral, violent girl with long fangs and the eyes of a beast. This ominous pair appear one day in a town in thrall to a witch \u2014 a ruler with magic coursing through her tattooed body, who has convinced the townsfolk she\u2019s their hero. But Ashaf and Guideau know better. They live by one creed: \u201cWherever a witch goes, only curses and disasters follow.\u201d They have scores to settle, and they won\u2019t hesitate to remove anyone in their way, be it angry mob or army garrison.\n\n(Source: Kodansha USA)",
         "ranime": [
             "Majo to Yajuu"
-        ]
+        ],
+        "mal_id": "52816",
+        "kitsu_id": "46369",
+        "anilist_id": "153818"
     },
     {
         "aid": 339,
@@ -9757,7 +10771,10 @@
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
             "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
-        ]
+        ],
+        "mal_id": "56700",
+        "kitsu_id": "47968",
+        "anilist_id": "169440"
     },
     {
         "aid": 340,
@@ -9785,7 +10802,10 @@
             "Silent Witch: Chinmoku no Majo no Kakushigoto",
             "Silent Witch: Chinmoku no Majo no Kakushigoto",
             "Silent Witch: Chinmoku no Majo no Kakushigoto - Sennyuu Kiroku"
-        ]
+        ],
+        "mal_id": "59459",
+        "kitsu_id": "49097",
+        "anilist_id": "179966"
     },
     {
         "aid": 341,
@@ -9859,7 +10879,10 @@
             "Crayon Shin-chan Gaiden: Omocha Wars",
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
-        ]
+        ],
+        "mal_id": "966",
+        "kitsu_id": "10012",
+        "anilist_id": "139037"
     },
     {
         "aid": 342,
@@ -9933,7 +10956,10 @@
             "Crayon Shin-chan Gaiden: Omocha Wars",
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
-        ]
+        ],
+        "mal_id": "966",
+        "kitsu_id": "12321",
+        "anilist_id": "156009"
     },
     {
         "aid": 343,
@@ -10007,7 +11033,10 @@
             "Crayon Shin-chan Gaiden: Omocha Wars",
             "Crayon Shin-chan Gaiden: Kazokuzure Ookami",
             "Crayon Shin-chan Gaiden: O-o-o no Shinnosuke"
-        ]
+        ],
+        "mal_id": "966",
+        "kitsu_id": "10012",
+        "anilist_id": "139037"
     },
     {
         "aid": 344,
@@ -10035,7 +11064,10 @@
             "One Punch Man 2nd Season",
             "One Punch Man 2nd Season: Ichigeki de Wakaru! Maji Furikaeri!",
             "One Punch-Man"
-        ]
+        ],
+        "mal_id": "52807",
+        "kitsu_id": "46360",
+        "anilist_id": "153800"
     },
     {
         "aid": 345,
@@ -10062,7 +11094,10 @@
         "ranime": [
             "Boku no Hero Academia 7th Season",
             "Boku no Hero Academia"
-        ]
+        ],
+        "mal_id": "60098",
+        "kitsu_id": "49279",
+        "anilist_id": "182896"
     },
     {
         "aid": 346,
@@ -10086,7 +11121,10 @@
         "imdb_rating": 8.67,
         "imdb_votes": 1016007,
         "synopsis": "Sophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a spell on Sophie. In a life-changing adventure, Sophie climbs aboard Howl's magnificent flying castle and enters a magical world on a quest to break the spell.\n\n(Source: Disney)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "431",
+        "kitsu_id": "395",
+        "anilist_id": "431"
     },
     {
         "aid": 347,
@@ -10115,7 +11153,10 @@
             "Evangelion Movie 3: Q",
             "Shinseiki Evangelion",
             "Beautiful World"
-        ]
+        ],
+        "mal_id": "3784",
+        "kitsu_id": "3250",
+        "anilist_id": "N/A"
     },
     {
         "aid": 348,
@@ -10144,7 +11185,10 @@
             "Shinseiki Evangelion",
             "Peaceful Times (F02) Petit Film",
             "Beautiful World"
-        ]
+        ],
+        "mal_id": "2759",
+        "kitsu_id": "2519",
+        "anilist_id": "N/A"
     },
     {
         "aid": 349,
@@ -10171,7 +11215,10 @@
         "ranime": [
             "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto Mini Anime",
             "Kono Sekai no Tanoshimikata: Secret Story Film"
-        ]
+        ],
+        "mal_id": "49692",
+        "kitsu_id": "45031",
+        "anilist_id": "138459"
     },
     {
         "aid": 350,
@@ -10200,7 +11247,10 @@
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
             "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
-        ]
+        ],
+        "mal_id": "51096",
+        "kitsu_id": "45925",
+        "anilist_id": "145545"
     },
     {
         "aid": 351,
@@ -10227,7 +11277,10 @@
         "ranime": [
             "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou",
             "Yasei no Last Boss ga Arawareta!"
-        ]
+        ],
+        "mal_id": "59644",
+        "kitsu_id": "50404",
+        "anilist_id": "180523"
     },
     {
         "aid": 352,
@@ -10254,7 +11307,10 @@
         "ranime": [
             "Spy x Family Season 2",
             "Spy x Family"
-        ]
+        ],
+        "mal_id": "59027",
+        "kitsu_id": "48939",
+        "anilist_id": "177937"
     },
     {
         "aid": 353,
@@ -10282,7 +11338,10 @@
             "Shokugeki no Souma",
             "Shokugeki no Souma: Ni no Sara OVA",
             "Shokugeki no Souma"
-        ]
+        ],
+        "mal_id": "32282",
+        "kitsu_id": "11612",
+        "anilist_id": "N/A"
     },
     {
         "aid": 354,
@@ -10306,7 +11365,10 @@
         "imdb_rating": "6.9/10",
         "imdb_votes": "31",
         "synopsis": "An aspiring game developer, Samara 'Sam' Young, is excited to launch her first video game, *Ruminate*, until a popular streamer, Marshall Law, posts a scathing review that causes fans to review-bomb her game. To make matters worse, she discovers that the same critic is her new next-door neighbor. The series follows their comedic and awkward journey as they navigate the complexities of online and offline relationships, gaming culture, and social anxiety.",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "61773",
+        "kitsu_id": "3833",
+        "anilist_id": "193968"
     },
     {
         "aid": 355,
@@ -10332,7 +11394,10 @@
         "synopsis": "Even after turning 40 years old, Tojima Tanzaburo still seriously wants to be a Kamen Rider. Just when it seems like his dream may never come true, he gets caught up in a series of infamous Shocker-inspired robberies... Shibata Yokusaru, the author of Air Master and 81 Diver, presents a story about adults who love Kamen Rider a little too much, and start playing pretend... for real!\n\n(Source: Crunchyroll)",
         "ranime": [
             "Toujima Tanzaburou wa Kamen Rider ni Naritai"
-        ]
+        ],
+        "mal_id": "61159",
+        "kitsu_id": "50149",
+        "anilist_id": "187464"
     },
     {
         "aid": 356,
@@ -10360,7 +11425,10 @@
             "Kikaijikake no Marie",
             "Kikaijikake no Marie Mini Anime Episode 0",
             "Kikaijikake no Marie Mini Anime"
-        ]
+        ],
+        "mal_id": "59484",
+        "kitsu_id": "49120",
+        "anilist_id": "179992"
     },
     {
         "aid": 357,
@@ -10384,7 +11452,10 @@
         "imdb_rating": 6.95,
         "imdb_votes": 182367,
         "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to hell\u2014especially when there's money to be made. The wildly popular video game is now a series, and this time, there's no sympathy for the devil.\n\n(Source: Crunchyroll)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "1726",
+        "kitsu_id": "1547",
+        "anilist_id": "N/A"
     },
     {
         "aid": 358,
@@ -10411,7 +11482,10 @@
         "ranime": [
             "Shokugeki no Souma",
             "Shokugeki no Souma: San no Sara"
-        ]
+        ],
+        "mal_id": "36962",
+        "kitsu_id": "13581",
+        "anilist_id": "N/A"
     },
     {
         "aid": 359,
@@ -10438,7 +11512,10 @@
         "ranime": [
             "Hazbin Hotel",
             "Helluva Boss"
-        ]
+        ],
+        "mal_id": "62590",
+        "kitsu_id": "50208",
+        "anilist_id": "N/A"
     },
     {
         "aid": 360,
@@ -10465,7 +11542,10 @@
         "ranime": [
             "Hikaru ga Shinda Natsu 2nd Season",
             "Hikaru ga Shinda Natsu"
-        ]
+        ],
+        "mal_id": "58913",
+        "kitsu_id": "48893",
+        "anilist_id": "177689"
     },
     {
         "aid": 361,
@@ -10492,7 +11572,10 @@
         "ranime": [
             "Mato Seihei no Slave 2",
             "Mato Seihei no Slave"
-        ]
+        ],
+        "mal_id": "50392",
+        "kitsu_id": "45512",
+        "anilist_id": "141821"
     },
     {
         "aid": 362,
@@ -10518,7 +11601,10 @@
         "synopsis": "Jubei Kibagami wanders feudal Japan as an itinerant swordsman-for-hire. After a past betrayal left him masterless, he has no more patience for warring political factions and their schemes. Unfortunately, both past and political intrigue collide when he meets and saves a female ninja named Kagero from a man with the ability to make his body as hard as stone.\nThe sole survivor of a ninja clan, Kagero continues her team's last mission: investigate a mysterious plague that wiped out an entire village. Jubei wants nothing to do with this, but the stone-like man's allies, a group of ninja with supernatural powers known as the Devils of Kimon, make that option difficult. To make matters worse, a government spy poisons Jubei, promising him an antidote if he can unravel the true intentions of the Devils of Kimon and their connection to the plague. The trail leads to shadow leaders, a plot to overthrow the government, and a man that Jubei thought he would never see again.",
         "ranime": [
             "Juubee Ninpuuchou: Ryuuhougyoku-hen"
-        ]
+        ],
+        "mal_id": "617",
+        "kitsu_id": "572",
+        "anilist_id": "617"
     },
     {
         "aid": 363,
@@ -10546,7 +11632,10 @@
             "Haikyuu!! Riku vs. Kuu",
             "Haikyuu!! To the Top Part 2",
             "Haikyuu!!"
-        ]
+        ],
+        "mal_id": "38883",
+        "kitsu_id": "42059",
+        "anilist_id": "106625"
     },
     {
         "aid": 364,
@@ -10570,7 +11659,10 @@
         "imdb_rating": 7.76,
         "imdb_votes": "N/A",
         "synopsis": "The year is 2032. With the advancement of medical technology humanity has grown into a more technologically driven creature, creating a breed of cyborg citizen. Along with the development of cybernetics, the world has seen rapid development in the field of artificial intelligence, making androids a commercially viable venture.\n\nA recent string of murders perpetrated by a prototype female android has drawn the attention of Section 9, a unit specializing in counter cyber-terrorism. With none of the victims' families pressing charges, suspicions arise regarding the nature of the androids and their production.\n\nMonths have passed since the end of the Puppet Master incident, and with the Major still missing investigative duties fall to her cyborg commando partner Batou and his newly recruited biological partner, Togusa. Can the two overcome their differences and discover the truth behind this string of murders?\n\n(Source: Bandai Entertainment)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "57150",
+        "kitsu_id": "430",
+        "anilist_id": "N/A"
     },
     {
         "aid": 365,
@@ -10598,7 +11690,10 @@
             "Dead Mount Death Play Part 2",
             "Dead Mount Death Play",
             "Nero"
-        ]
+        ],
+        "mal_id": "53613",
+        "kitsu_id": "46760",
+        "anilist_id": "157198"
     },
     {
         "aid": 366,
@@ -10627,7 +11722,10 @@
             "Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
             "Gekijouban Jujutsu Kaisen 0 Novelize",
             "Jujutsu Kaisen 2nd Season Recaps"
-        ]
+        ],
+        "mal_id": "48561",
+        "kitsu_id": "44212",
+        "anilist_id": "131573"
     },
     {
         "aid": 367,
@@ -10654,7 +11752,10 @@
         "ranime": [
             "17-21: Fujimoto Tatsuki Tanpenshuu",
             "22-26: Fujimoto Tatsuki Tanpenshuu"
-        ]
+        ],
+        "mal_id": "62405",
+        "kitsu_id": "50131",
+        "anilist_id": "198188"
     },
     {
         "aid": 368,
@@ -10680,7 +11781,10 @@
         "synopsis": "When high schooler Mari bumps into a fellow tardy student, she's surprised to find out he's a beastfolk who's to attend her school! After all, it's not rare for beastfolk to coexist alongside humans, but it's still uncommon, with the prejudice and all. Nervous to meet one at first, Mari soon learns there's more to him than his furry exterior. In fact, the more she gets to know him, the more she finds herself drawn to him, his steadfastness, his kindheartedness, and\u2026his body\u2026\n\n(Source: Yen Press)",
         "ranime": [
             "Kimi to Koete Koi ni Naru"
-        ]
+        ],
+        "mal_id": "60765",
+        "kitsu_id": "49496",
+        "anilist_id": "186161"
     },
     {
         "aid": 369,
@@ -10711,7 +11815,10 @@
             "Spy x Family Movie: Code: White Manner Movie",
             "Street Fighter 6 x Spy x Family Movie: Code: White",
             "Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki"
-        ]
+        ],
+        "mal_id": "53888",
+        "kitsu_id": "46874",
+        "anilist_id": "158928"
     },
     {
         "aid": 370,
@@ -10737,7 +11844,10 @@
         "synopsis": "Dragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson\u2019s motivations may be mysterious, his goal and Ragna\u2019s perfectly align, and together they\u2019ll fight to vanquish the dragons once and for all.\n\n(Source: Sentai Filmworks)\n\nNote: The first episode aired with a runtime of ~1 hour.",
         "ranime": [
             "Ragna Crimson"
-        ]
+        ],
+        "mal_id": "51297",
+        "kitsu_id": "46000",
+        "anilist_id": "146493"
     },
     {
         "aid": 371,
@@ -10766,7 +11876,10 @@
             "Vigilante: Boku no Hero Academia Illegals",
             "Boku no Hero Academia",
             "Kekka Alright"
-        ]
+        ],
+        "mal_id": "60593",
+        "kitsu_id": "49435",
+        "anilist_id": "185736"
     },
     {
         "aid": 372,
@@ -10792,7 +11905,10 @@
         "synopsis": "Nobita requests of Doraemon the Moshimo-box and wishes for the world to become a place where the use of magic is possible. Witchcraft replaces science and technology and everyone makes use of it on their daily lives, except for Nobita, who, like usual, isn't very good at conjuring spells. Frustrated, he plans on returning things to their past state, but his mother threw the Moshimo-box away. \nOne day, Doraemon and his friends meet Professor Mangetsu, who studies magic and magical beings such as goblins, and his daughter Miyoko, and are warned of the dangerous approximation of the \"star of the Underworld\" to the Earth's orbit. \nWith the future of the planet at stake, the group must travel to the Underworld and pierce the heart of the Underworld King with a silver dart, as detailed in the ancient texts of \"The Chronicles of the Underworld\". Their attempts are, however, thwarted and Miyoko captured. \nDoraemon and his friends then decided to use the Time Machine to return to the past and, using Dorami's Moshimo-box, they manage to restore the Earth. The events on the Underworld continue, however, to take place in a Parallel Universe, where Miyoko is still captive. As a result, the group is once again forced to travel to the Underworld and defeat its tyrannical ruler once and for all. \n(Source: AniDB)",
         "ranime": [
             "Doraemon (2005)"
-        ]
+        ],
+        "mal_id": "55874",
+        "kitsu_id": "2436",
+        "anilist_id": "166976"
     },
     {
         "aid": 373,
@@ -10820,7 +11936,10 @@
             "Tondemo Skill de Isekai Hourou Meshi",
             "Tondemo Skill de Isekai Hourou Meshi",
             "Tondemo Skill de Isekai Hourou Meshi"
-        ]
+        ],
+        "mal_id": "57025",
+        "kitsu_id": "48190",
+        "anilist_id": "170577"
     },
     {
         "aid": 374,
@@ -10848,7 +11967,10 @@
             "Shokugeki no Souma: San no Sara",
             "Shokugeki no Souma: Shin no Sara",
             "Shokugeki no Souma"
-        ]
+        ],
+        "mal_id": "36949",
+        "kitsu_id": "14092",
+        "anilist_id": "N/A"
     },
     {
         "aid": 375,
@@ -10875,7 +11997,10 @@
         "ranime": [
             "Natsu e no Tunnel, Sayonara no Deguchi: Gunjou",
             "Natsu e no Tunnel, Sayonara no Deguchi"
-        ]
+        ],
+        "mal_id": "50593",
+        "kitsu_id": "45598",
+        "anilist_id": "142769"
     },
     {
         "aid": 376,
@@ -10902,7 +12027,10 @@
         "ranime": [
             "Sozai Saishuka no Isekai Ryokouki",
             "Sozai Saishuka no Isekai Ryokouki"
-        ]
+        ],
+        "mal_id": "61174",
+        "kitsu_id": "49927",
+        "anilist_id": "187663"
     },
     {
         "aid": 377,
@@ -10937,7 +12065,10 @@
             "Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem",
             "Code Geass: Hangyaku no Lelouch II - Handou",
             "Code Geass: Hangyaku no Lelouch III - Oudou"
-        ]
+        ],
+        "mal_id": "2904",
+        "kitsu_id": "2634",
+        "anilist_id": "2904"
     },
     {
         "aid": 378,
@@ -10965,7 +12096,10 @@
             "Hoshi no Koe: The Voices of a Distant Star",
             "Hoshi no Koe",
             "Hoshi no Koe: Ai no Kotoba/Hoshi wo Koeru"
-        ]
+        ],
+        "mal_id": "256",
+        "kitsu_id": "231",
+        "anilist_id": "256"
     },
     {
         "aid": 379,
@@ -10992,7 +12126,10 @@
         "ranime": [
             "Kotonoha no Niwa",
             "Shousetsu Kotonoha no Niwa"
-        ]
+        ],
+        "mal_id": "16782",
+        "kitsu_id": "7515",
+        "anilist_id": "16782"
     },
     {
         "aid": 380,
@@ -11020,7 +12157,10 @@
             "Shousetsu Suzume no Tojimari",
             "Suzume no Tojimari",
             "Big Mac to, Susume"
-        ]
+        ],
+        "mal_id": "50594",
+        "kitsu_id": "45597",
+        "anilist_id": "142770"
     },
     {
         "aid": 381,
@@ -11046,7 +12186,10 @@
         "synopsis": "In the crime-ridden city of Gotham, Amanda Waller, the head of A.R.G.U.S., has assembled a group of notorious criminals for a mission: Harley Quinn, Deadshot, Peacemaker, Clayface, and King Shark. These Super-Villains are sent into an otherworldly realm that\u2019s connected to this world through a gate. It\u2019s a world of swords and magic where orcs rampage and dragons rule the skies\u2014an \u201cISEKAI\u201d!\n\nWith lethal explosives planted in their necks, there\u2019s no running or hiding, and failing the mission means a one-way ticket to the afterlife! Can Harley Quinn and her crew conquer this perilous ISEKAI realm?! Brace yourselves for the pulse-pounding saga of the elite task force known as the \u201cSuicide Squad\u201d as they embark on a jaw-dropping adventure!\n\n(Source: Warner Bros. Japan)",
         "ranime": [
             "Go-Getters"
-        ]
+        ],
+        "mal_id": "55848",
+        "kitsu_id": "47687",
+        "anilist_id": "166710"
     },
     {
         "aid": 382,
@@ -11077,7 +12220,10 @@
             "Fairy Tail Zer\u00f8",
             "Fairy Tail OVA (2016)",
             "Fairy Tail Movie 2: Dragon Cry"
-        ]
+        ],
+        "mal_id": "22043",
+        "kitsu_id": "8203",
+        "anilist_id": "20626"
     },
     {
         "aid": 383,
@@ -11104,7 +12250,10 @@
         "ranime": [
             "Mairimashita! Iruma-kun 2nd Season",
             "Mairimashita! Iruma-kun"
-        ]
+        ],
+        "mal_id": "39196",
+        "kitsu_id": "42310",
+        "anilist_id": "107693"
     },
     {
         "aid": 384,
@@ -11130,7 +12279,10 @@
         "synopsis": "Nobita requests of Doraemon the Moshimo-box and wishes for the world to become a place where the use of magic is possible. Witchcraft replaces science and technology and everyone makes use of it on their daily lives, except for Nobita, who, like usual, isn't very good at conjuring spells. Frustrated, he plans on returning things to their past state, but his mother threw the Moshimo-box away. \nOne day, Doraemon and his friends meet Professor Mangetsu, who studies magic and magical beings such as goblins, and his daughter Miyoko, and are warned of the dangerous approximation of the \"star of the Underworld\" to the Earth's orbit. \nWith the future of the planet at stake, the group must travel to the Underworld and pierce the heart of the Underworld King with a silver dart, as detailed in the ancient texts of \"The Chronicles of the Underworld\". Their attempts are, however, thwarted and Miyoko captured. \nDoraemon and his friends then decided to use the Time Machine to return to the past and, using Dorami's Moshimo-box, they manage to restore the Earth. The events on the Underworld continue, however, to take place in a Parallel Universe, where Miyoko is still captive. As a result, the group is once again forced to travel to the Underworld and defeat its tyrannical ruler once and for all. \n(Source: AniDB)",
         "ranime": [
             "Doraemon (2005)"
-        ]
+        ],
+        "mal_id": "55874",
+        "kitsu_id": "2436",
+        "anilist_id": "166976"
     },
     {
         "aid": 385,
@@ -11156,7 +12308,10 @@
         "synopsis": "Fifth grader Nishimura isn\u2019t too proud of her \u201cGrim Reaper\u201d moniker given by her bullying schoolmates, but the new kid loves it. The once lonely target of everyone\u2019s ridicule starts to get out of her shell with the help of her new cheerful yet airheaded friend, Takada. Together they\u2019ll embark on a sweet and touching journey of summer fun and friendship!\n\n(Source: Crunchyroll)",
         "ranime": [
             "Jijou wo Shiranai Tenkousei ga Guigui Kuru."
-        ]
+        ],
+        "mal_id": "53621",
+        "kitsu_id": "46761",
+        "anilist_id": "157295"
     },
     {
         "aid": 387,
@@ -11184,7 +12339,10 @@
             "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
             "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
             "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
-        ]
+        ],
+        "mal_id": "38790",
+        "kitsu_id": "42043",
+        "anilist_id": "106479"
     },
     {
         "aid": 389,
@@ -11218,7 +12376,10 @@
             "Hataraku Saibou: Necchuushou - Moshimo Pocari Sweat ga Attara",
             "Hataraku Saibou Black CM",
             "Kesshouban: Eigakan e Iku"
-        ]
+        ],
+        "mal_id": "37141",
+        "kitsu_id": "43167",
+        "anilist_id": "100977"
     },
     {
         "aid": 390,
@@ -11245,7 +12406,10 @@
         "ranime": [
             "Jujutsu Kaisen",
             "Jujutsu Kaisen 2nd Season"
-        ]
+        ],
+        "mal_id": "62392",
+        "kitsu_id": "50373",
+        "anilist_id": "204066"
     },
     {
         "aid": 391,
@@ -11274,7 +12438,10 @@
             "Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki",
             "Crayon Shin-chan",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "53810",
+        "kitsu_id": "43051",
+        "anilist_id": "N/A"
     },
     {
         "aid": 393,
@@ -11300,7 +12467,10 @@
         "synopsis": "Nobita and the gang travel 66 million years into the past to bring a pair of adorable dinosaur twins back to where they belong.\n\n(Source: Netflix)",
         "ranime": [
             "Doraemon (2005)"
-        ]
+        ],
+        "mal_id": "40044",
+        "kitsu_id": "49481",
+        "anilist_id": "113669"
     },
     {
         "aid": 394,
@@ -11328,7 +12498,10 @@
             "Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!",
             "Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku",
             "Crayon Shin-chan"
-        ]
+        ],
+        "mal_id": "8367",
+        "kitsu_id": "5318",
+        "anilist_id": "N/A"
     },
     {
         "aid": 395,
@@ -11354,7 +12527,10 @@
         "synopsis": "Nobita and the gang travel 66 million years into the past to bring a pair of adorable dinosaur twins back to where they belong.\n\n(Source: Netflix)",
         "ranime": [
             "Doraemon (2005)"
-        ]
+        ],
+        "mal_id": "40044",
+        "kitsu_id": "49481",
+        "anilist_id": "113669"
     },
     {
         "aid": 396,
@@ -11380,7 +12556,10 @@
         "synopsis": "The story centers on a woman called \"Eripiyo,\" who is an extreme idol fan. She is wildly enthusiastic about Maina, the shy and lowest-ranking member of the minor underground idol group Cham Jam that performs in Okayama Prefecture. She gets so wrapped up in her love for Maina during a particular performance, that she has a major nosebleed. Eri will continue to give her complete devotion to Maina until the day she can perform at Bud\u014dkan (a major performing venue in Tokyo).\n\n(Source: ANN)",
         "ranime": [
             "Oshi ga Budoukan Ittekuretara Shinu"
-        ]
+        ],
+        "mal_id": "37890",
+        "kitsu_id": "41309",
+        "anilist_id": "104391"
     },
     {
         "aid": 397,
@@ -11407,7 +12586,10 @@
         "ranime": [
             "Dark Gathering 2nd Season",
             "Dark Gathering"
-        ]
+        ],
+        "mal_id": "52505",
+        "kitsu_id": "46279",
+        "anilist_id": "152802"
     },
     {
         "aid": 398,
@@ -11434,7 +12616,10 @@
         "ranime": [
             "Shigatsu wa Kimi no Uso: Moments",
             "Shigatsu wa Kimi no Uso"
-        ]
+        ],
+        "mal_id": "23273",
+        "kitsu_id": "8403",
+        "anilist_id": "20665"
     },
     {
         "aid": 399,
@@ -11463,7 +12648,10 @@
             "Tokyo Ghoul",
             "Tokyo Ghoul: \"Jack\"",
             "Tokyo Ghoul: \"Pinto\""
-        ]
+        ],
+        "mal_id": "22319",
+        "kitsu_id": "8271",
+        "anilist_id": "20605"
     },
     {
         "aid": 400,
@@ -11490,7 +12678,10 @@
         "ranime": [
             "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
             "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
-        ]
+        ],
+        "mal_id": "56009",
+        "kitsu_id": "47759",
+        "anilist_id": "167152"
     },
     {
         "aid": 401,
@@ -11514,7 +12705,10 @@
         "imdb_rating": 6.6,
         "imdb_votes": 11409,
         "synopsis": "Japanese-American track-and-field star Mizuki has gotten herself to transfer to a high school in Japan...but not just any school! To be close to her idol, high jumper Izumi Sano, she's going to an all-guys' high school...and disguising herself as a boy! But as fate would have it, they're more than classmates...they're roommates! Now, Mizuki must keep her secret in the classroom, the locker room, and her own bedroom. And her classmates--and the school nurse--must cope with a new transfer student who may make them question their own orientation...\n\n(Source: Viz Media)",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "55458",
+        "kitsu_id": "48870",
+        "anilist_id": "177580"
     },
     {
         "aid": 402,
@@ -11538,7 +12732,10 @@
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
         "synopsis": "No synopsis available.",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "N/A",
+        "kitsu_id": "N/A",
+        "anilist_id": "N/A"
     },
     {
         "aid": 403,
@@ -11568,7 +12765,10 @@
             "Fate/stay night",
             "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
             "Fate/strange Fake PV"
-        ]
+        ],
+        "mal_id": "55830",
+        "kitsu_id": "47682",
+        "anilist_id": "166617"
     },
     {
         "aid": 404,
@@ -11592,7 +12792,10 @@
         "imdb_rating": "N/A",
         "imdb_votes": "N/A",
         "synopsis": "No synopsis available.",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "N/A",
+        "kitsu_id": "N/A",
+        "anilist_id": "N/A"
     },
     {
         "aid": 405,
@@ -11620,7 +12823,10 @@
             "Dark Moon: The Blood Altar",
             "Dark Moon: The Blood Altar",
             "One in a Billion"
-        ]
+        ],
+        "mal_id": "59853",
+        "kitsu_id": "50325",
+        "anilist_id": "181443"
     },
     {
         "aid": 406,
@@ -11658,7 +12864,10 @@
             "Burn the Witch",
             "Bleach: Gotei 13 Omake",
             "Bleach 20th PV"
-        ]
+        ],
+        "mal_id": "269",
+        "kitsu_id": "244",
+        "anilist_id": "269"
     },
     {
         "aid": 407,
@@ -11684,7 +12893,10 @@
         "synopsis": "The fifth season of Xian Wang De Richang Shenghuo.",
         "ranime": [
             "Xian Wang de Richang Shenghuo 4"
-        ]
+        ],
+        "mal_id": "60560",
+        "kitsu_id": "50106",
+        "anilist_id": "185857"
     },
     {
         "aid": 408,
@@ -11710,7 +12922,10 @@
         "synopsis": "Suzuki\u2019s a high school girl in love, but the guy she\u2019s fallen for is nothing like her! While she\u2019s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn\u2019t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don\u2019t attract?\n\n(Source: Crunchyroll)",
         "ranime": [
             "Seihantai na Kimi to Boku"
-        ]
+        ],
+        "mal_id": "60371",
+        "kitsu_id": "49372",
+        "anilist_id": "184951"
     },
     {
         "aid": 409,
@@ -11739,7 +12954,10 @@
             "MF Ghost",
             "MF Ghost Battle Digest",
             "Initial D First Stage"
-        ]
+        ],
+        "mal_id": "50695",
+        "kitsu_id": "45713",
+        "anilist_id": "143327"
     },
     {
         "aid": 410,
@@ -11770,7 +12988,10 @@
             "Jujutsu Kaisen 2nd Season Recaps",
             "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
             "Jujutsu Kaisen Movie: Shibuya Jihen Tokubetsu Henshuu-ban x Shimetsu Kaiyuu Senkou Jouei"
-        ]
+        ],
+        "mal_id": "51009",
+        "kitsu_id": "48363",
+        "anilist_id": "172463"
     },
     {
         "aid": 411,
@@ -11798,7 +13019,10 @@
             "Yami Shibai 2",
             "Yami Shibai",
             "Ninja Collection"
-        ]
+        ],
+        "mal_id": "19383",
+        "kitsu_id": "45601",
+        "anilist_id": "19383"
     },
     {
         "aid": 412,
@@ -11824,7 +13048,10 @@
         "synopsis": "When Youki was reincarnated into a magical world, he became neither a hero nor a demon lord, but instead became a middle-level subordinate demon guarding the castle. When the Hero's party attacked the demon lord's castle, Youki was able to defeat them easily. But he fell in love at first sight with the beautiful cleric Cecelia!",
         "ranime": [
             "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita."
-        ]
+        ],
+        "mal_id": "61983",
+        "kitsu_id": "50437",
+        "anilist_id": "195515"
     },
     {
         "aid": 413,
@@ -11851,7 +13078,10 @@
         "ranime": [
             "Ao Haru Ride",
             "Ao Haru Ride OVA"
-        ]
+        ],
+        "mal_id": "21995",
+        "kitsu_id": "8246",
+        "anilist_id": "20596"
     },
     {
         "aid": 414,
@@ -11878,7 +13108,10 @@
         "ranime": [
             "Trigun Stampede",
             "Trigun"
-        ]
+        ],
+        "mal_id": "54863",
+        "kitsu_id": "47243",
+        "anilist_id": "163144"
     },
     {
         "aid": 415,
@@ -11905,7 +13138,10 @@
         "ranime": [
             "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai the Comic",
             "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai"
-        ]
+        ],
+        "mal_id": "61587",
+        "kitsu_id": "50334",
+        "anilist_id": "191718"
     },
     {
         "aid": 416,
@@ -11932,7 +13168,10 @@
         "ranime": [
             "Jingai Kyoushitsu no Ningengirai Kyoushi: Hitoma-sensei, Watashitachi ni Ningen wo Oshiete Kuremasu ka......?",
             "Jingai Kyoushitsu no Ningengirai Kyoushi"
-        ]
+        ],
+        "mal_id": "62432",
+        "kitsu_id": "50393",
+        "anilist_id": "198374"
     },
     {
         "aid": 417,
@@ -11959,7 +13198,10 @@
         "ranime": [
             "Majutsushi Kunon wa Mieteiru",
             "Majutsushi Kunon wa Mieteiru"
-        ]
+        ],
+        "mal_id": "60810",
+        "kitsu_id": "50424",
+        "anilist_id": "186333"
     },
     {
         "aid": 418,
@@ -11987,7 +13229,10 @@
             "Yuri!!! on Ice Bangai-hen: Welcome to the Madness",
             "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness",
             "Yuri!!! on Ice The Movie: Ice Adolescence PV"
-        ]
+        ],
+        "mal_id": "32995",
+        "kitsu_id": "11999",
+        "anilist_id": "21709"
     },
     {
         "aid": 419,
@@ -12015,7 +13260,10 @@
             "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
             "100-man no Inochi no Ue ni Ore wa Tatteiru",
             "100-man no Inochi no Ue ni Ore wa Tatteiru Recap"
-        ]
+        ],
+        "mal_id": "41380",
+        "kitsu_id": "43367",
+        "anilist_id": "116242"
     },
     {
         "aid": 420,
@@ -12045,7 +13293,10 @@
             "Shuumatsu no Walk\u00fcre Mini Anime",
             "Shuumatsu no Walk\u00fcre Mini Countdown Anime",
             "Shuumatsu no Walk\u00fcre Mini Anime (Cartoon Network Nite)"
-        ]
+        ],
+        "mal_id": "44942",
+        "kitsu_id": "44207",
+        "anilist_id": "127399"
     },
     {
         "aid": 421,
@@ -12072,7 +13323,10 @@
         "ranime": [
             "100-man no Inochi no Ue ni Ore wa Tatteiru",
             "100-man no Inochi no Ue ni Ore wa Tatteiru"
-        ]
+        ],
+        "mal_id": "44881",
+        "kitsu_id": "43883",
+        "anilist_id": "127366"
     },
     {
         "aid": 422,
@@ -12099,7 +13353,10 @@
         "ranime": [
             "Kimi no Suizou wo Tabetai",
             "Kimi no Suizou wo Tabetai"
-        ]
+        ],
+        "mal_id": "36098",
+        "kitsu_id": "13723",
+        "anilist_id": "99750"
     },
     {
         "aid": 423,
@@ -12123,7 +13380,10 @@
         "imdb_rating": 8.08,
         "imdb_votes": 665213,
         "synopsis": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless\u2014until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.\n[Written by MAL Rewrite]",
-        "ranime": "N/A"
+        "ranime": "N/A",
+        "mal_id": "23283",
+        "kitsu_id": "8342",
+        "anilist_id": "20661"
     },
     {
         "aid": 424,
@@ -12150,7 +13410,10 @@
         "ranime": [
             "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
             "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo"
-        ]
+        ],
+        "mal_id": "54714",
+        "kitsu_id": "47179",
+        "anilist_id": "162694"
     },
     {
         "aid": 425,
@@ -12177,7 +13440,10 @@
         "ranime": [
             "Sousou no Frieren",
             "Sousou no Frieren"
-        ]
+        ],
+        "mal_id": "59978",
+        "kitsu_id": "49240",
+        "anilist_id": "182255"
     },
     {
         "aid": 426,
@@ -12205,6 +13471,9 @@
             "Tokyo Ghoul",
             "Tokyo Ghoul:re",
             "Tokyo Ghoul"
-        ]
+        ],
+        "mal_id": "27899",
+        "kitsu_id": "9135",
+        "anilist_id": "N/A"
     }
 ]
