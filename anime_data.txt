@@ -13475,5 +13475,32 @@
         "mal_id": "27899",
         "kitsu_id": "9135",
         "anilist_id": "N/A"
+    },
+    {
+        "aid": 427,
+        "name": "Jack-Of-All-Trades, Party Of None",
+        "jname": "\u901a\u804c\u8005",
+        "poster": "https://iili.io/qCFMlOg.webp, https://iili.io/qCFMc5F.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "361324, 22618",
+        "let": "J",
+        "trailer": "https://www.youtube.com/embed/dLDimMasKBM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Adventure, Horror",
+        "type": "ONA",
+        "status": "Current",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "Tencent Animation & Comics",
+        "total_episodes": "N/A",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Shuangsheng Lingtan",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Betrayed by his childhood friend and cast out of the Hero Party, Orhun Dura\u2014once their loyal Enchanter\u2014is branded by his former comrades as \u201ca jack-of-all-trades but a master of none.\u201d Alone, he sets out to forge a new path as a solo adventurer. His journey sparks explosive battles, deadly rivals, and unexpected allies\u2014and he\u2019ll rise to shatter every expectation. The ultimate solo comeback begins!\n\n(Source: Crunchyroll)",
+        "ranime": "N/A",
+        "mal_id": 33702,
+        "kitsu_id": "50423",
+        "anilist_id": 187264
     }
 ]
