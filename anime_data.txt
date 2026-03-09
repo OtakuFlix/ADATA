@@ -13354,5 +13354,35 @@
         "mal_id": 53447,
         "kitsu_id": "46672",
         "anilist_id": 156092
+    },
+    {
+        "aid": 429,
+        "name": "Lupin The 3Rd Vs Cat'S Eye",
+        "jname": "\u30eb\u30d1\u30f3\u4e09\u4e16 VS \u30ad\u30e3\u30c3\u30c4\u30fb\u30a2\u30a4",
+        "poster": "https://iili.io/quEoBLX.webp, https://iili.io/quEnZmB.webp",
+        "banner": "https://iili.io/quEolEu.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "362059, 22851",
+        "let": "L",
+        "trailer": "https://www.youtube.com/embed/zZAsIu9oBIo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Adventure, Comedy, Mystery",
+        "type": "ONA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "TMS Entertainment",
+        "producers": "N/A",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Hitomi, Rui, and Ai are sisters and cat burglars. They steal a painting from a museum around the same time Lupin the 3rd appears to steal another painting himself. Both paintings are part of Michael Heinz\u2019s series titled the Girl and the Flowers. To the girls, the paintings are clues for their missing father's whereabouts. When they learn Lupin is after the same target, a fire lights inside them.\n\n(Source: Amazon Prime Video)\n\nNote: A collab animation to commemorate the 50th anniversary of the Lupin III anime and the 40th anniversary of Cat's Eye.",
+        "ranime": [
+            "Cat's Eye",
+            "Lupin III"
+        ],
+        "mal_id": 53109,
+        "kitsu_id": "46523",
+        "anilist_id": 154924
     }
 ]
