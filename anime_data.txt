@@ -13566,7 +13566,7 @@
         ],
         "mal_id": 27899,
         "kitsu_id": "9135",
-        "anilist_id": "N/A"
+        "anilist_id": "20850"
     },
     {
         "aid": 438,
