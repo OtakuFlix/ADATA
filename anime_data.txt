@@ -13751,5 +13751,37 @@
         "mal_id": 35790,
         "kitsu_id": "13593",
         "anilist_id": 99263
+    },
+    {
+        "aid": 444,
+        "name": "The Rising Of The Shield Hero Season 2",
+        "jname": "\u76fe\u306e\u52c7\u8005\u306e\u6210\u308a\u4e0a\u304c\u308a Season2",
+        "poster": "https://iili.io/qiVxSEX.webp, https://iili.io/qiVxBe4.webp",
+        "banner": "https://iili.io/qiVz3ZB.webp, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "363782, 23382",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/gMZDGyihTyc?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Adventure, Drama, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Kinema Citrus, DR Movie",
+        "producers": "Frontier Works, AT-X, Nippon Columbia, Glovision, Good Smile Company, Sammy, Crunchyroll, Kadokawa Media House, NTT Plala, Kadokawa",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Ragna Crimson",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "With another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise\u2014a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised\u2014but out of the four men, only the cursed Shield Hero agrees to help.\n\n[Written by MAL Rewrite]",
+        "ranime": [
+            "Tate no Yuusha no Nariagari",
+            "Tate no Yuusha no Nariagari Season 3",
+            "Tate no Yuusha no Nariagari",
+            "Tate no Yuusha no Nariagari"
+        ],
+        "mal_id": 40356,
+        "kitsu_id": "42530",
+        "anilist_id": 111321
     }
 ]
