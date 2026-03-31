@@ -13783,5 +13783,63 @@
         "mal_id": 40356,
         "kitsu_id": "42530",
         "anilist_id": 111321
+    },
+    {
+        "aid": 445,
+        "name": "Release That Witch",
+        "jname": "\u653e\u5f00\u90a3\u4e2a\u5973\u5deb",
+        "poster": "https://iili.io/B2XsDdb.webp, https://iili.io/B2Xsge4.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "365368, 23586",
+        "let": "R",
+        "trailer": "N/A, N/A",
+        "genre": "Fantasy",
+        "type": "ONA",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Thundray",
+        "producers": "Tencent Animation & Comics, Yuewen Animation & Comics",
+        "total_episodes": 8,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen, Genjitsu Shugi Yuusha no Oukoku Saikenki, Dr. Stone, Tensei shitara Slime Datta Ken, Log Horizon, Juuni Kokuki",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Roland, a modern man reborn as a prince in the dangerous Border Town, rescues the witches Anna and Nana Pine from the Church. Harnessing their extraordinary powers, he fuses magic and technology to craft weapons, armies, and steam engines to defend his people. As the Demon Moon rises and conspiracies close in on his family, Roland must lead a revolution to protect his allies and reshape the world.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Fangkai Nage Nuwu"
+        ],
+        "mal_id": 62927,
+        "kitsu_id": "50563",
+        "anilist_id": 137662
+    },
+    {
+        "aid": 446,
+        "name": "Easygoing Territory Defense By The Optimistic Lord: Production Magic Turns A Nameless Village Into The Strongest Fortified City",
+        "jname": "\u304a\u6c17\u697d\u9818\u4e3b\u306e\u697d\u3057\u3044\u9818\u5730\u9632\u885b\uff5e\u751f\u7523\u7cfb\u9b54\u8853\u3067\u540d\u3082\u306a\u304d\u6751\u3092\u6700\u5f37\u306e\u57ce\u585e\u90fd\u5e02\u306b\uff5e",
+        "poster": "https://iili.io/B36VG8Q.webp, https://iili.io/B36VJ3v.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "365412, 23595",
+        "let": "E",
+        "trailer": "N/A, N/A",
+        "genre": "Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "NAZ",
+        "producers": "KlockWorx, flying DOG, Hakuhodo DY Music & Pictures, BS11, Overlap, Bushiroad Move, INSPION Edge, Clare Voice",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita., Genjitsu Shugi Yuusha no Oukoku Saikenki",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Van, fourth son of a marquis, is just a toddler when he realizes he\u2019s been reincarnated. Thanks to his literal lifetime of knowledge, he\u2019s raised as a child prodigy\u2014until his production magic manifests, and it\u2019s the last thing his snooty mage family wants to see! His disappointed father banishes him to a podunk town on the verge of collapse, yet Van can only see the place\u2019s potential. Can our hero\u2019s bastion of battlements build a better life than battle magic ever could?!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni"
+        ],
+        "mal_id": 61549,
+        "kitsu_id": "50432",
+        "anilist_id": "N/A"
     }
 ]
