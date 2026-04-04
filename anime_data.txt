@@ -13846,7 +13846,7 @@
         "aid": 447,
         "name": "The Ramparts Of Ice",
         "jname": "\u6c37\u306e\u57ce\u58c1",
-        "poster": "https://iili.io/BxMtBLJ.webp, https://myanimelist.net/images/anime/1565/154933l.jpg",
+        "poster": "https://iili.io/BxMtBLJ.webp, https://iili.io/BxMtxgp.webp",
         "banner": "N/A, N/A",
         "cname": "Filemoon, RpmShare",
         "cid": "366974, 23834",
