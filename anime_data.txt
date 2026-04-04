@@ -13929,5 +13929,35 @@
         "mal_id": 37105,
         "kitsu_id": "14190",
         "anilist_id": 100922
+    },
+    {
+        "aid": 450,
+        "name": "Chained Soldier Season 2",
+        "jname": "\u9b54\u90fd\u7cbe\u5175\u306e\u30b9\u30ec\u30a4\u30d62",
+        "poster": "https://iili.io/BxV06Dx.webp, https://iili.io/BxV0SSe.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "366980, 23837",
+        "let": "C",
+        "trailer": "https://www.youtube.com/embed/IDgkCjcNxtU?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Action, Fantasy, Ecchi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Passione, Hayabusa Film",
+        "producers": "Pony Canyon, AT-X, DAX Production, MAGNET, Yostar",
+        "total_episodes": 12,
+        "pg_rating": "R+ - Mild Nudity",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The second season of Mato Seihei no Slave.",
+        "ranime": [
+            "Mato Seihei no Slave",
+            "Mato Seihei no Slave"
+        ],
+        "mal_id": 58505,
+        "kitsu_id": "48639",
+        "anilist_id": 176276
     }
 ]
