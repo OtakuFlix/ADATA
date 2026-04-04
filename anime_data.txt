@@ -13841,5 +13841,34 @@
         "mal_id": 61549,
         "kitsu_id": "50432",
         "anilist_id": "N/A"
+    },
+    {
+        "aid": 447,
+        "name": "The Ramparts Of Ice",
+        "jname": "\u6c37\u306e\u57ce\u58c1",
+        "poster": "https://iili.io/BxMtBLJ.webp, https://myanimelist.net/images/anime/1565/154933l.jpg",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon, RpmShare",
+        "cid": "366974, 23834",
+        "let": "T",
+        "trailer": "https://www.youtube.com/embed/a7ah5by0Ffw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Comedy, Romance",
+        "type": "TV",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Studio KAI",
+        "producers": "TBS, Rakuonsha, Universal Music Japan, Nichion, ADK Emotions",
+        "total_episodes": "N/A",
+        "pg_rating": "N/A",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Socially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n\nThe loner Koyuki, the popular Miki, the boundary-less Minato, and the kind basketball player Youta. This is the story about four complicated and confused young people and their mixed-up lives!\n\n(Source: Margaret, translated)",
+        "ranime": [
+            "Koori no Jouheki"
+        ],
+        "mal_id": 60852,
+        "kitsu_id": "50465",
+        "anilist_id": 186497
     }
 ]
