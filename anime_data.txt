@@ -10115,7 +10115,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": "false",
-        "studio": "CloverWorks",
+        "studio": "Shikigami-Studios, CloverWorks",
         "producers": "Aniplex, Kodansha, Movic, Magic Capsule, Tokyo MX, BS11, Marui Group",
         "total_episodes": 13,
         "pg_rating": "PG-13 - Teens 13 or older",
