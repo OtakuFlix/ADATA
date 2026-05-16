@@ -14402,5 +14402,34 @@
         "mal_id": 62391,
         "kitsu_id": "50128",
         "anilist_id": 198113
+    },
+    {
+        "aid": 511,
+        "name": "Please Put Them On, Takamine-San",
+        "jname": "\u5c65\u3044\u3066\u304f\u3060\u3055\u3044\u3001\u9df9\u5cf0\u3055\u3093",
+        "poster": "https://iili.io/Bp5szKX.webp, https://iili.io/Bp5snVI.webp",
+        "banner": "https://iili.io/Bp5sRRf.webp, N/A",
+        "cname": "Filemoon",
+        "cid": "376650",
+        "let": "P",
+        "trailer": "https://www.youtube.com/embed/XQABbjkXMB4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Comedy, Romance, Ecchi",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "LIDENFILMS",
+        "producers": "Square Enix, Lantis, AT-X, Tohokushinsha Film Corporation, Tokyo MX, Docomo Anime Store, Kadokawa, Pia, Bandai Namco Music Live, DAXEL",
+        "total_episodes": 12,
+        "pg_rating": "R+ - Mild Nudity",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Student council president Takane Takamine is a popular star student. On the other hand, Koushi Shirota doesn\u2019t have many friends. That all changes when Koushi accidentally discovers Takane\u2019s ability to go back in time and alter past actions just by changing her lingerie. After some pestering, Koushi agrees to help Takane and be her closet, by having spare lingerie on hand.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Haite Kudasai, Takamine-san"
+        ],
+        "mal_id": 59457,
+        "kitsu_id": "49088",
+        "anilist_id": 179965
     }
 ]
