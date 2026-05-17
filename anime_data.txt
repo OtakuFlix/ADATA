@@ -14431,5 +14431,36 @@
         "mal_id": 59457,
         "kitsu_id": "49088",
         "anilist_id": 179965
+    },
+    {
+        "aid": 512,
+        "name": "Call Of The Night",
+        "jname": "\u3088\u3075\u304b\u3057\u306e\u3046\u305f",
+        "poster": "https://iili.io/Bp4MSUu.webp, https://iili.io/Bp4MOVS.webp",
+        "banner": "https://iili.io/Bp4MrRj.webp, N/A",
+        "cname": "Filemoon",
+        "cid": "376731",
+        "let": "C",
+        "trailer": "https://www.youtube.com/embed/ukO-ZdWS3j8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Romance, Supernatural",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "LIDENFILMS",
+        "producers": "Aniplex, Dentsu, Shogakukan-Shueisha Productions, Animax, Fuji TV, Ultra Super Pictures, Shogakukan, Fuji Creative, Tohan Corporation",
+        "total_episodes": 13,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Bakemonogatari, Kimi wa Houkago Insomnia, Cyberpunk: Edgerunners, Vanitas no Karte, Kizumonogatari I: Tekketsu-hen, Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu, Dagashi Kashi, Ijiranaide, Nagatoro-san, FLCL, Nazo no Kanojo X, Yoru no Kuni, Devils Line, Mayonaka Punch, Yahari Ore no Seishun Love Comedy wa Machigatteiru., Dandadan, Make Heroine ga Oosugiru!, Sankarea, Yoru no Kurage wa Oyogenai, Chainsaw Man, Jibaku Shounen Hanako-kun, Horimiya, Subarashiki Kono Sekai The Animation, Tsukuyomi: Moon Phase, Majo no Tabitabi, Tokyo Ghoul, Kai Byoui Ramune",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Wracked by insomnia and wanderlust, Kou Yamori is driven onto the moonlit streets every night in an aimless search for something he can\u2019t seem to name. His nightly ritual is marked by purposeless introspection \u2014 until he meets Nazuna, who might just be a vampire! Kou\u2019s new companion could offer him dark gifts and a vampire\u2019s immortality. But there are conditions that must be met before Kou can sink his teeth into vampirism, and he\u2019ll have to discover just how far he\u2019s willing to go to satisfy his desires before he can heed the Call of the Night!\n\n(Source: Sentai Filmworks)",
+        "ranime": [
+            "Yofukashi no Uta Season 2",
+            "Yofukashi no Uta",
+            "Yofukashi no Uta Mini"
+        ],
+        "mal_id": 50346,
+        "kitsu_id": "45483",
+        "anilist_id": 141391
     }
 ]
