@@ -14462,5 +14462,34 @@
         "mal_id": 50346,
         "kitsu_id": "45483",
         "anilist_id": 141391
+    },
+    {
+        "aid": 513,
+        "name": "Angel Densetsu",
+        "jname": "\u30a8\u30f3\u30b8\u30a7\u30eb\u4f1d\u8aac",
+        "poster": "https://iili.io/C9M3Csn.webp, https://iili.io/C9M3KbI.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon",
+        "cid": "376873",
+        "let": "A",
+        "trailer": "N/A, N/A",
+        "genre": "Action, Comedy",
+        "type": "OVA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Toei Animation",
+        "producers": "Toei Video",
+        "total_episodes": 2,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Detroit Metal City, Kimi ni Todoke, Gorillaman, Toradora!, Sakigake!! Cromartie Koukou, Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!, Handa-kun, Shibai Taroka, Beelzebub, Koukou Butouden Crows, Onara Gorou, Tokyo Revengers, Gokusen, Hajime no Ippo, Gokushufudou, Sakamoto desu ga?, Choujin Locke: Lord Leon, Kyou kara Ore wa!!, Ore Monogatari!!, Boku wa Tomodachi ga Sukunai, Arslan Senki, Seikimatsu Leader Gaiden Takeshi!, Bleach, One Punch Man, Golden Boy",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "Angel Densetsu is a story about Seiichirou Kitano, a kind and naive boy with the heart of an angel, but the sinister looks of a devil. This causes many misunderstandings, leading people to assume that he is a villain or heroin addict, and results in a career as the head thug, or \"school guardian\" at his new school.\n(Source: ANN)",
+        "ranime": [
+            "Angel Densetsu"
+        ],
+        "mal_id": 5251,
+        "kitsu_id": "4013",
+        "anilist_id": 5251
     }
 ]
