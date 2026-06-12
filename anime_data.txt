@@ -14789,5 +14789,36 @@
         "mal_id": "N/A",
         "kitsu_id": "N/A",
         "anilist_id": "N/A"
+    },
+    {
+        "aid": 526,
+        "name": "Oshi No Ko",
+        "jname": "\u3010\u63a8\u3057\u306e\u5b50\u3011",
+        "poster": "https://iili.io/CC7T1yv.webp, https://iili.io/CC7T08J.webp",
+        "banner": "https://iili.io/CC7TMjp.webp, N/A",
+        "cname": "Filemoon",
+        "cid": "380064",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/gKWEUJ4r5do?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "genre": "Award Winning, Drama",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Doga Kobo",
+        "producers": "Delfi Sound, Shueisha, CyberAgent, Kadokawa",
+        "total_episodes": 11,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Perfect Blue, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Death Note, Skip Beat!, Boku dake ga Inai Machi, Mushoku Tensei: Isekai Ittara Honki Dasu, IDOLiSH7, Code Geass: Hangyaku no Lelouch, Monster, Oshi ga Budoukan Ittekuretara Shinu, Paripi Koumei, Kageki Shoujo!!, Bocchi the Rock!, Migi to Dali, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Yoru no Kurage wa Oyogenai, Kami Kuzu\u2606Idol, Tantei wa Mou, Shindeiru., Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e, Sayonara no Asa ni Yakusoku no Hana wo Kazarou, Mahou Shoujo Madoka\u2605Magica, Bishounen Tanteidan, Bakuman., Zombieland Saga, Love Live! School Idol Project, Odd Taxi, Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto, IDOLiSH7 Third Beat! Part 2, Romantica Clock, Yahari Ore no Seishun Love Comedy wa Machigatteiru., Princess Tutu, Skip to Loafer, Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen, Watashi no Yuri wa Oshigoto desu!, Nana, Nisekoi, Seiyuu Radio no Uraomote, Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru, Needy Girl Overdose, Boogiepop wa Warawanai (2019), Koe no Katachi, Gakkougurashi!, Sentai Daishikkaku, Meitantei Conan, Grisaia no Kajitsu, Beastars, Starship Operators, Takopii no Genzai, Vivy: Fluorite Eye's Song, Bokutachi no Remake, Shine Post, Kimi no Na wa., Chitose-kun wa Ramune Bin no Naka, Happy Sugar Life, Gi(a)rlish Number, Back Street Girls: Gokudolls, Kuzu no Honkai, Tokyo Ghoul, BanG Dream! It's MyGO!!!!!, Tokyo Revengers, BanG Dream! Ave Mujica, Kidou Senshi Gundam: Suisei no Majo, Shirobako, Demi-chan wa Kataritai, Idoly Pride",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "When a pregnant young starlet appears in Gorou Amemiya\u2019s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino\u2019s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai\u2019s deluded stalker \u2014 and subsequently reborn as Ai\u2019s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes?\n\n(Source: HIDIVE)\n\nNote: Episode 1\u3010\u63a8\u3057\u306e\u5b50\u3011Mother and Children was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast begins on April 12, 2023. The first episode has an extended runtime of ~90 minutes.",
+        "ranime": [
+            "[Oshi no Ko] 2nd Season",
+            "[Oshi no Ko]",
+            "Idol"
+        ],
+        "mal_id": 52034,
+        "kitsu_id": "46170",
+        "anilist_id": 150672
     }
 ]
