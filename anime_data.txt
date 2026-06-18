@@ -12977,36 +12977,6 @@
         "anilist_id": "99750"
     },
     {
-        "aid": 424,
-        "name": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-        "jname": "\u541b\u306e\u3053\u3068\u304c\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a100\u4eba\u306e\u5f7c\u5973",
-        "poster": "https://iili.io/qFRQAsp.webp, https://iili.io/qFRQuXR.webp",
-        "banner": "https://iili.io/qFRQ5qN.webp",
-        "cname": "Filemoon, RpmShare",
-        "cid": "359194, 21820",
-        "let": "T",
-        "trailer": "https://www.youtube.com/embed/ls2VNcSifi4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
-        "genre": "Comedy, Romance",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "VOV Studios",
-        "producers": "Aniflix, Lantis, Movic, Bushiroad, Tokyo MX, Shueisha, NetEase, Bushiroad Move, Bandai Namco Filmworks, Bandai Namco Music Live",
-        "total_episodes": 12,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Kanojo mo Kanojo, Kami nomi zo Shiru Sekai, Isekai wa Smartphone to Tomo ni., Kanojo mo Kanojo Season 2, Gintama, Futoku no Guild, Aishen Qiaokeli-ing..., Aho Girl, Shikanoko Nokonoko Koshitantan, Giji Harem, Kono Subarashii Sekai ni Shukufuku wo!, Seitokai no Ichizon, Date A Live, Kaminaki Sekai no Kamisama Katsudou, Seitokai no Ichizon Lv.2: Watasu Seitokai, Seitokai no Ichizon Lv.2, Tonikaku Kawaii, Keijo!!!!!!!!, Beelzebub-jou no Okinimesu mama., Nisekoi, Baka to Test to Shoukanjuu Ni!, Carnival Phantasm, Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru, Mikadono Sanshimai wa Angai, Choroi., Bokutachi wa Benkyou ga Dekinai, 5-toubun no Hanayome, Ouran Koukou Host Club, Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (\u203bMuri ja Nakatta!?), Chitose-kun wa Ramune Bin no Naka, Amagami SS",
-        "imdb_rating": 7.68,
-        "imdb_votes": 165641,
-        "synopsis": "Rentaro Aijo was rejected 100 times in middle school. He visits a shrine and prays for better luck in high school. The God of Love appears and promises that he\u2019ll soon meet 100 people he\u2019s destined to date. But there\u2019s a catch\u2014once destiny introduces someone to him, the two must happily love each other. If they don\u2019t, they\u2019ll die. What will befall Rentaro and his 100 girlfriends in high school?\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
-            "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo"
-        ],
-        "mal_id": "54714",
-        "kitsu_id": "47179",
-        "anilist_id": "162694"
-    },
-    {
         "aid": 425,
         "name": "Frieren Beyond Journey End Season 2",
         "jname": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3 \u7b2c2\u671f",
