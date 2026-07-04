@@ -14727,5 +14727,34 @@
         "mal_id": 57181,
         "kitsu_id": "48239",
         "anilist_id": 170942
+    },
+    {
+        "aid": 542,
+        "name": "Golden Boy: Sasurai No Obenkyou Yarou",
+        "jname": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30dc\u30fc\u30a4",
+        "poster": "https://iili.io/CaYeL4s.webp, https://iili.io/CaYeUpp.webp",
+        "banner": "N/A, N/A",
+        "cname": "Filemoon",
+        "cid": "383148",
+        "let": "G",
+        "trailer": "N/A, N/A",
+        "genre": "Adventure, Comedy, Ecchi",
+        "type": "OVA",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "APPP",
+        "producers": "KSS, Shueisha",
+        "total_episodes": 2,
+        "pg_rating": "R+ - Mild Nudity",
+        "sanime": "Great Teacher Onizuka, Junk Boy, Prison School, Grand Blue, Colorful, Kino no Tabi: The Beautiful World, Gintama, Green Green, Sakigake!! Cromartie Koukou, City Hunter, Hajime no Ippo, Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai, Eiken: Eikenbu yori Ai wo Komete, Trigun, Oruchuban Ebichu, Kyou kara Ore wa!!, Battle Programmer Shirase, Sakamoto desu ga?, Sousou no Frieren, Grisaia no Kajitsu, Salaryman Kintarou, Angel Densetsu, Cross Game, Kakyuusei (TV), To Heart, Tonagura!, ReLIFE, Ou Dorobou Jing, Karuizawa Syndrome, Handa-kun, Bouken Shite mo Ii Koro, High School Jingi, FLCL, Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru, Ichigo 100%, Shirobako, Iketeru Futari, Bobby ni Kubittake, Sunabouzu, Kiss x Sis, DNA\u00b2, Tokyo Daigaku Monogatari, Honoo no Labyrinth, Musekinin Kanchou Tylor, DearS, Animation Seisaku Shinkou Kuromi-chan, Master Keaton, Softenni, Dragon Knight, Detroit Metal City, Baby Steps, Denpa Kyoushi, Lingeries, Aku no Hana, Madonna, Isekai no Seikishi Monogatari, Beelzebub, Sora no Otoshimono",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "The story continues after the intraschool music competition of the first game and anime series. The budding music student Kahoko meets the brusque boy Et\u014d, the new youthful school board director Akihiko Kira, and the mysterious transfer student Aoi Kaji. \n(Source: ANN)",
+        "ranime": [
+            "Golden Boy"
+        ],
+        "mal_id": 268,
+        "kitsu_id": "4256",
+        "anilist_id": 268
     }
 ]
