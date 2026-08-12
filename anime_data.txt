@@ -14999,5 +14999,32 @@
         "mal_id": "N/A",
         "kitsu_id": "818",
         "anilist_id": 918
+    },
+    {
+        "aid": 552,
+        "name": "Hajime No Ippo Champion Road",
+        "jname": "Dattebayo!!!",
+        "poster": "https://media.kitsu.app/anime/poster_images/239/original.jpg",
+        "banner": "https://media.kitsu.app/anime/cover_images/239/original.jpg",
+        "cname": "Filemoon",
+        "cid": "391683",
+        "let": "H",
+        "trailer": "N/A",
+        "genre": "N/A",
+        "type": "N/A",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "N/A",
+        "producers": "N/A",
+        "total_episodes": 1,
+        "pg_rating": "N/A",
+        "sanime": "N/A",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "As the new Champion, Ippo must protect his title against some of the best boxers available.\nMakunouchi Ippo is the new Featherweight champion of Japan and is now ready for his first title defense. His opponent, the former Jr. Featherweight champion and a medical student, Sanada Kazuki. In addition to this feud, Sanada is being coached by Kamogawa's former rival, Hama Dankichi. What makes things worse is that Sanada works at the same hospital where Kumi is a nurse at and everybody at the hospital wants Sanada to win. Not only does Ippo have to defend his title, he has to reclaim his love. \n(Source: ANN)",
+        "ranime": "N/A",
+        "mal_id": "N/A",
+        "kitsu_id": "239",
+        "anilist_id": 264
     }
 ]
