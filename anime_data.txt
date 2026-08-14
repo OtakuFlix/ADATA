@@ -15002,8 +15002,8 @@
     },
     {
         "aid": 552,
-        "name": "Hajime No Ippo Champion Road",
-        "jname": "Dattebayo!!!",
+        "name": "Hajime no Ippo: The Fighting! - Champion Road",
+        "jname": "Hajime no Ippo: The Fighting! - Champion Road",
         "poster": "https://media.kitsu.app/anime/poster_images/239/original.jpg",
         "banner": "https://media.kitsu.app/anime/cover_images/239/original.jpg",
         "cname": "Filemoon",
