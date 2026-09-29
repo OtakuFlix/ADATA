@@ -9981,35 +9981,6 @@
         "anilist_id": "N/A"
     },
     {
-        "aid": 318,
-        "name": "The Fragrant Flower Blooms With Dignity",
-        "jname": "\u85ab\u308b\u82b1\u306f\u51db\u3068\u54b2\u304f",
-        "poster": "https://iili.io/KRNAgZN.webp, https://iili.io/KRNAvyv.webp, https://iili.io/KRNAa4e.webp",
-        "banner": "https://iili.io/KlUORKQ.webp, https://iili.io/KRNAw6F.webp",
-        "cname": "Filemoon, RpmShare, Aniflix",
-        "cid": "321615, 13803, 160",
-        "let": "T",
-        "trailer": "https://www.youtube.com/embed/1FcVJxxPWh4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1FcVJxxPWh4?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Drama, Romance",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "Shikigami-Studios, CloverWorks",
-        "producers": "Aniflix, Aniplex, Kodansha, Movic, Magic Capsule, Tokyo MX, BS11, Marui Group",
-        "total_episodes": 13,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, Horimiya, Yubisaki to Renren, Skip to Loafer, Kono Oto Tomare!, Yamada-kun to 7-nin no Majo, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kishuku Gakkou no Juliet, Ore Monogatari!!, Toradora!, Tamaranai no wa Koi nano ka, Fruits Basket 1st Season",
-        "imdb_rating": 8.35,
-        "imdb_votes": "N/A",
-        "synopsis": "\"What lies beyond the curtains ... is a world I will probably never come in contact with.\"\n\nChidori High, a boys' school predominantly attended by students with low grades, is loathed by Kikyo Girls' High, whose pupils mostly come from wealthy and prestigious families. Although the two schools are right next to each other, the curtains in the windows are always closed, and the students have never seen inside the other school's classrooms. Chidori student Rintaro Tsumugi has always had an intimidating appearance, so as other people have avoided him, he too has distanced himself from others.\n\nOne day, while Rintaro is helping at his family's patisserie, he meets a girl named Kaoruko, who tells him she has never once thought of him as \"scary.\"\nDespite some confusion, Rintaro starts to feel comfortable spending time with Kaoruko, who treats him without prejudice \u2014 but he soon discovers that she is a student at Kikyo.\n\nA vibrant and youthful school story unfolds between two people who are so close, yet so far apart.\n\n(Source: Netflix)",
-        "ranime": [
-            "Kaoru Hana wa Rin to Saku"
-        ],
-        "mal_id": "59845",
-        "kitsu_id": "49205",
-        "anilist_id": "181444"
-    },
-    {
         "aid": 319,
         "name": "Robotics Notes",
         "jname": "\u30ed\u30dc\u30c6\u30a3\u30af\u30b9\u30fb\u30ce\u30fc\u30c4",
